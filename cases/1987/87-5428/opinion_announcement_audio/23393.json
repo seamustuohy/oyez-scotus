@@ -1,0 +1,112 @@
+{
+    "id": 23393,
+    "title": "Opinion Announcement - June 24, 1988",
+    "transcript": {
+        "title": "Houston v. Lack",
+        "duration": 28.588,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.588,
+                "byte_start": 28672,
+                "byte_stop": 142984,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.588,
+                        "byte_start": 28672,
+                        "byte_stop": 142984,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.084,
+                                "byte_start": 28672,
+                                "byte_stop": 57093,
+                                "text": "I have the opinion of the Court to announce in No. 87-5428, Houston against Lack."
+                            },
+                            {
+                                "start": 7.084,
+                                "stop": 17.732,
+                                "byte_start": 57093,
+                                "byte_stop": 99621,
+                                "text": "This case comes to us on appeal from writ of certiorari from the Court of Appeals for the Sixth Circuit and in an opinion authored by Justice Brennan and filed with the clerk today."
+                            },
+                            {
+                                "start": 17.732,
+                                "stop": 20.554,
+                                "byte_start": 99621,
+                                "byte_stop": 110905,
+                                "text": "The judgment of the Court of Appeals is reversed."
+                            },
+                            {
+                                "start": 20.554,
+                                "stop": 28.588,
+                                "byte_start": 110905,
+                                "byte_stop": 142984,
+                                "text": "Justice Scalia has filed a dissenting opinion in which Justices O\u0027Connor, Kennedy, and I have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55908,
+            "mime": "audio\/mpeg",
+            "size": 143297,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-5428\/19880624o_87-5428.delivery.mp3"
+        },
+        {
+            "id": 77618,
+            "mime": "audio\/ogg",
+            "size": 292727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-5428\/19880624o_87-5428.ogg"
+        },
+        {
+            "id": 77619,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-5428\/19880624o_87-5428.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

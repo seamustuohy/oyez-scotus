@@ -1,0 +1,102 @@
+{
+    "id": 17328,
+    "title": "Opinion Announcement - July 06, 1976",
+    "transcript": {
+        "title": "South Dakota v. Opperman",
+        "duration": 42.323,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 42.323,
+                "byte_start": 73665,
+                "byte_stop": 242938,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 42.323,
+                        "byte_start": 73665,
+                        "byte_stop": 242938,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 23.805,
+                                "byte_start": 73665,
+                                "byte_stop": 168960,
+                                "text": "I have the judgments and opinion to announce in number 75-76, South Dakota against Opperman and for reasons stated in an opinion filed with the clerk this morning, the judgment of the Supreme Court on South Dakota is reversed and the case is remanded for further proceedings not in consistent with the opinion of this Court."
+                            },
+                            {
+                                "start": 23.805,
+                                "stop": 31.471,
+                                "byte_start": 168960,
+                                "byte_stop": 199575,
+                                "text": "Mr. Justice Paul concurring in the opinion, filed a concurring, separate concurring opinion."
+                            },
+                            {
+                                "start": 31.471,
+                                "stop": 34.019,
+                                "byte_start": 199575,
+                                "byte_stop": 209815,
+                                "text": "Mr. Justice White filed a dissenting statement."
+                            },
+                            {
+                                "start": 34.019,
+                                "stop": 42.323,
+                                "byte_start": 209815,
+                                "byte_stop": 242938,
+                                "text": "Mr. Justice Marshall joined by Mr. Justice Brennan and Mr. Justice Stewart, filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43778,
+            "mime": "audio\/mpeg",
+            "size": 243147,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-76\/19760706o_75-76.delivery.mp3"
+        },
+        {
+            "id": 65654,
+            "mime": "audio\/ogg",
+            "size": 451738,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-76\/19760706o_75-76.ogg"
+        },
+        {
+            "id": 65655,
+            "mime": "application\/x-mpegURL",
+            "size": 741,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-76\/19760706o_75-76.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

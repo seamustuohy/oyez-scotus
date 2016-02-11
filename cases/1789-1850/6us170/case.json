@@ -1,0 +1,370 @@
+{
+    "ID": 62332,
+    "name": "Little v. Barreme",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/6us170",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "George Little",
+    "second_party": "Barreme",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -5302951200,
+                -5302692000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52827"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -5233572000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52828"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EThe USS \u003Cem\u003EBoston\u003C\/em\u003E captured the Danish ship the \u003Cem\u003EFlying-Fish\u003C\/em\u003E, which was then held in the Port of Boston. The \u003Cem\u003EFlying-Fish\u003C\/em\u003E, which had left the French-controlled Haitian port of Jeremie, was suspected of being an American ship in violation of the United States\u0027 embargo on France. In the embargoes, the President was given the power to instruct the Navy to stop any American ships suspected to be en route to a French port. President John Adams, meanwhile, had issued a letter to the Secretary of the Navy to stop all American ships and ships suspected of being American travelling both to and from French-controlled ports. The federal district court judge freed the \u003Cem\u003EFlying-Fish\u003C\/em\u003E, but did not award damages for its illegal capture. The United States Circuit Court of Appeals reversed and held that George Little, the captain of the \u003Cem\u003EBoston\u003C\/em\u003E should pay damages.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDid the President have the authority to issue the order to capture ships travelling from French ports?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003ENo. In a unanimous decision, the Court affirmed the Court of Appeals. In the opinion, written by Chief Justice John Marshall, the Court held the President did not have \u0022any special authority\u0022 to order the seizure of non-American ships and ships departing French ports. Even if the \u003Cem\u003EFlying-Fish\u003C\/em\u003E had been an American ship, it still would not have been subject to seizure. Since Little had illegally seized the ship, he was also liable for damages.\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "6",
+        "page": "170",
+        "year": "1804",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27134"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15256,
+            "name": "Marshall Court (1801-1804)",
+            "href": "https:\/\/api.oyez.org\/courts\/marshall1",
+            "members": [
+                {
+                    "ID": 15085,
+                    "name": "John Marshall",
+                    "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                    "last_name": "Marshall",
+                    "roles": [
+                        {
+                            "id": 2729,
+                            "type": "scotus_justice",
+                            "date_start": -5330167200,
+                            "date_end": -4244119200,
+                            "appointing_president": "John Adams",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32729,
+                        "mime": "image\/png",
+                        "size": 53035,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                    },
+                    "length_of_service": 12570,
+                    "identifier": "john_marshall"
+                },
+                {
+                    "ID": 15077,
+                    "name": "William Cushing",
+                    "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                    "last_name": "Cushing",
+                    "roles": [
+                        {
+                            "id": 2721,
+                            "type": "scotus_justice",
+                            "date_start": -5677408800,
+                            "date_end": -5027076000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32776,
+                        "mime": "image\/png",
+                        "size": 52796,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                    },
+                    "length_of_service": 7527,
+                    "identifier": "william_cushing"
+                },
+                {
+                    "ID": 15070,
+                    "name": "William Paterson",
+                    "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                    "last_name": "Paterson",
+                    "roles": [
+                        {
+                            "id": 2714,
+                            "type": "scotus_justice",
+                            "date_start": -5579517600,
+                            "date_end": -5153652000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32782,
+                        "mime": "image\/png",
+                        "size": 48669,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                    },
+                    "length_of_service": 4929,
+                    "identifier": "william_paterson"
+                },
+                {
+                    "ID": 15105,
+                    "name": "Samuel Chase",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                    "last_name": "Chase",
+                    "roles": [
+                        {
+                            "id": 2749,
+                            "type": "scotus_justice",
+                            "date_start": -5487933600,
+                            "date_end": -5002970400,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32759,
+                        "mime": "image\/png",
+                        "size": 52231,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                    },
+                    "length_of_service": 5613,
+                    "identifier": "samuel_chase"
+                },
+                {
+                    "ID": 15093,
+                    "name": "Bushrod Washington",
+                    "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                    "last_name": "Washington",
+                    "roles": [
+                        {
+                            "id": 2737,
+                            "type": "scotus_justice",
+                            "date_start": -5400756000,
+                            "date_end": -4421066400,
+                            "appointing_president": "John Adams",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32698,
+                        "mime": "image\/png",
+                        "size": 42759,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                    },
+                    "length_of_service": 11339,
+                    "identifier": "bushrod_washington"
+                },
+                {
+                    "ID": 15123,
+                    "name": "Alfred Moore",
+                    "href": "https:\/\/api.oyez.org\/people\/alfred_moore",
+                    "last_name": "Moore",
+                    "roles": [
+                        {
+                            "id": 2768,
+                            "type": "scotus_justice",
+                            "date_start": -5355136800,
+                            "date_end": -5236336800,
+                            "appointing_president": "John Adams",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2768"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32694,
+                        "mime": "image\/png",
+                        "size": 55117,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/alfred_moore.png"
+                    },
+                    "length_of_service": 1375,
+                    "identifier": "alfred_moore"
+                }
+            ],
+            "court_start": -5330167200,
+            "images": [
+                {
+                    "id": 78517,
+                    "mime": "image\/jpeg",
+                    "size": 4355969,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/North-Wing_Capital_drawing_0.jpg"
+                }
+            ],
+            "identifier": "marshall1"
+        }
+    ],
+    "decided_by": {
+        "ID": 15246,
+        "name": "Marshall Court (1804)",
+        "href": "https:\/\/api.oyez.org\/courts\/marshall2",
+        "members": [
+            {
+                "ID": 15085,
+                "name": "John Marshall",
+                "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                "last_name": "Marshall",
+                "roles": [
+                    {
+                        "id": 2729,
+                        "type": "scotus_justice",
+                        "date_start": -5330167200,
+                        "date_end": -4244119200,
+                        "appointing_president": "John Adams",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32729,
+                    "mime": "image\/png",
+                    "size": 53035,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                },
+                "length_of_service": 12570,
+                "identifier": "john_marshall"
+            },
+            {
+                "ID": 15077,
+                "name": "William Cushing",
+                "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                "last_name": "Cushing",
+                "roles": [
+                    {
+                        "id": 2721,
+                        "type": "scotus_justice",
+                        "date_start": -5677408800,
+                        "date_end": -5027076000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32776,
+                    "mime": "image\/png",
+                    "size": 52796,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                },
+                "length_of_service": 7527,
+                "identifier": "william_cushing"
+            },
+            {
+                "ID": 15070,
+                "name": "William Paterson",
+                "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                "last_name": "Paterson",
+                "roles": [
+                    {
+                        "id": 2714,
+                        "type": "scotus_justice",
+                        "date_start": -5579517600,
+                        "date_end": -5153652000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32782,
+                    "mime": "image\/png",
+                    "size": 48669,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                },
+                "length_of_service": 4929,
+                "identifier": "william_paterson"
+            },
+            {
+                "ID": 15105,
+                "name": "Samuel Chase",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                "last_name": "Chase",
+                "roles": [
+                    {
+                        "id": 2749,
+                        "type": "scotus_justice",
+                        "date_start": -5487933600,
+                        "date_end": -5002970400,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32759,
+                    "mime": "image\/png",
+                    "size": 52231,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                },
+                "length_of_service": 5613,
+                "identifier": "samuel_chase"
+            },
+            {
+                "ID": 15093,
+                "name": "Bushrod Washington",
+                "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                "last_name": "Washington",
+                "roles": [
+                    {
+                        "id": 2737,
+                        "type": "scotus_justice",
+                        "date_start": -5400756000,
+                        "date_end": -4421066400,
+                        "appointing_president": "John Adams",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32698,
+                    "mime": "image\/png",
+                    "size": 42759,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                },
+                "length_of_service": 11339,
+                "identifier": "bushrod_washington"
+            }
+        ],
+        "court_start": -5236250400,
+        "images": [
+            {
+                "id": 78518,
+                "mime": "image\/jpeg",
+                "size": 4355969,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/North-Wing_Capital_drawing_1.jpg"
+            }
+        ],
+        "identifier": "marshall2"
+    },
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

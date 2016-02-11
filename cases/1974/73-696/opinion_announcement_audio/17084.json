@@ -1,0 +1,95 @@
+{
+    "id": 17084,
+    "title": "Opinion Announcement - February 18, 1975",
+    "transcript": {
+        "title": "Emporium Capwell Company v. Western Addition Community Organization",
+        "duration": 23.233,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 23.233,
+                "byte_start": 28672,
+                "byte_stop": 121563,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 23.233,
+                        "byte_start": 28672,
+                        "byte_stop": 121563,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.063,
+                                "byte_start": 28672,
+                                "byte_stop": 72976,
+                                "text": "In 73-696 and the relate case, 73-830, Emporium Capwell Company against Western Addition Community Organization."
+                            },
+                            {
+                                "start": 11.063,
+                                "stop": 19.091,
+                                "byte_start": 72976,
+                                "byte_stop": 105054,
+                                "text": "For reasons stated in an opinion written by Mr. Justice Marshall, the judgment of the Court of Appeals is reversed."
+                            },
+                            {
+                                "start": 19.091,
+                                "stop": 23.233,
+                                "byte_start": 105054,
+                                "byte_stop": 121563,
+                                "text": "Mr. Justice Douglas filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43290,
+            "mime": "audio\/mpeg",
+            "size": 121877,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-696\/19750218o_73-696.delivery.mp3"
+        },
+        {
+            "id": 65184,
+            "mime": "audio\/ogg",
+            "size": 231493,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-696\/19750218o_73-696.ogg"
+        },
+        {
+            "id": 65185,
+            "mime": "application\/x-mpegURL",
+            "size": 455,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-696\/19750218o_73-696.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

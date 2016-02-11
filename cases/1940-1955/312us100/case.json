@@ -1,0 +1,1170 @@
+{
+    "ID": 62483,
+    "name": "United States v. Darby",
+    "href": "https:\/\/api.oyez.org\/cases\/1940-1955\/312us100",
+    "docket_number": "82",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Appeal",
+    "first_party": "United States",
+    "second_party": "F. W. Darby Lumber Company and Fred W. Darby",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -916250400,
+                -916164000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53124"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -912276000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53125"
+        }
+    ],
+    "lower_court": {
+        "ID": 146,
+        "name": "Federal district court",
+        "href": "https:\/\/api.oyez.org\/courts\/federal_district_court"
+    },
+    "facts_of_the_case": "\u003Cp\u003EIn 1938, Congress passed the Fair Labor Standards Act to regulate many aspects of employment including minimum wages, maximum weekly hours, and child labor. Corporations which engaged in interstate commerce or produced goods which were sold in other states were punished for violating the statute.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EWas the act a legitimate exercise of Congress\u0027s power to regulate interstate commerce?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EThe unanimous Court affirmed the right of Congress to exercise \u0022to its utmost extent\u0022 the powers reserved for it in the Commerce Clause. Relying heavily on the Court\u0027s decision in Gibbons v. Ogden (1824), Justice Stone argued that the \u0022motive and purpose of a regulation of interstate commerce are matters for the legislative judgment . . . over which the courts are given no control.\u0022 Congress acted with proper authority in outlawing substandard labor conditions since they have a significant impact on interstate commerce.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 23660,
+                "name": "Francis B. Biddle",
+                "href": "https:\/\/api.oyez.org\/people\/francis_biddle",
+                "last_name": "Biddle",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "francis_biddle"
+            },
+            "advocate_description": "Solicitor General, Department of Justice, for the appellant",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21329"
+        },
+        {
+            "advocate": {
+                "ID": 16422,
+                "name": "Archibald B. Lovett",
+                "href": "https:\/\/api.oyez.org\/people\/archibald_b_lovett",
+                "last_name": "Lovett",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "archibald_b_lovett"
+            },
+            "advocate_description": "for the appellees",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21330"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "312",
+        "page": "100",
+        "year": "1941",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27285"
+    },
+    "decisions": [
+        {
+            "description": "Upheld the constitutionality of the Fair Labor Standards Act of 1938 under the Commerce Clause; Congress has the power to regulate manufacturing ",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15134,
+                        "name": "Harlan Fiske Stone",
+                        "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                        "last_name": "Stone",
+                        "roles": [
+                            {
+                                "id": 2779,
+                                "type": "scotus_justice",
+                                "date_start": -1414864800,
+                                "date_end": -899406000,
+                                "appointing_president": "Calvin Coolidge",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                            },
+                            {
+                                "id": 2780,
+                                "type": "scotus_justice",
+                                "date_start": -899319600,
+                                "date_end": -747770400,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32788,
+                            "mime": "image\/png",
+                            "size": 33656,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                        },
+                        "length_of_service": 7720,
+                        "identifier": "harlan_fiske_stone"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": -0.326,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205910"
+                },
+                {
+                    "member": {
+                        "ID": 15038,
+                        "name": "Charles E. Hughes",
+                        "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                        "last_name": "Hughes",
+                        "roles": [
+                            {
+                                "id": 2681,
+                                "type": "scotus_justice",
+                                "date_start": -1869069600,
+                                "date_end": -1690221600,
+                                "appointing_president": "William Howard Taft",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                            },
+                            {
+                                "id": 2682,
+                                "type": "scotus_justice",
+                                "date_start": -1257616800,
+                                "date_end": -899578800,
+                                "appointing_president": "Herbert Hoover",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32790,
+                            "mime": "image\/png",
+                            "size": 56986,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                        },
+                        "length_of_service": 6214,
+                        "identifier": "charles_e_hughes"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": 0.84,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205911"
+                },
+                {
+                    "member": {
+                        "ID": 15041,
+                        "name": "Owen J. Roberts",
+                        "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2685,
+                                "type": "scotus_justice",
+                                "date_start": -1249153200,
+                                "date_end": -770670000,
+                                "appointing_president": "Herbert Hoover",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32748,
+                            "mime": "image\/png",
+                            "size": 53589,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                        },
+                        "length_of_service": 5538,
+                        "identifier": "owen_j_roberts"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 1.722,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205913"
+                },
+                {
+                    "member": {
+                        "ID": 15089,
+                        "name": "Hugo L. Black",
+                        "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                        "last_name": "Black",
+                        "roles": [
+                            {
+                                "id": 2733,
+                                "type": "scotus_justice",
+                                "date_start": -1021489200,
+                                "date_end": 53931600,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32719,
+                            "mime": "image\/png",
+                            "size": 51667,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                        },
+                        "length_of_service": 12447,
+                        "identifier": "hugo_l_black"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": -3.306,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205914"
+                },
+                {
+                    "member": {
+                        "ID": 15063,
+                        "name": "Stanley Reed",
+                        "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                        "last_name": "Reed",
+                        "roles": [
+                            {
+                                "id": 2707,
+                                "type": "scotus_justice",
+                                "date_start": -1007229600,
+                                "date_end": -405453600,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2707"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32766,
+                            "mime": "image\/png",
+                            "size": 34041,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                        },
+                        "length_of_service": 6965,
+                        "identifier": "stanley_reed"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": -0.635,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205915"
+                },
+                {
+                    "member": {
+                        "ID": 15050,
+                        "name": "Felix Frankfurter",
+                        "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                        "last_name": "Frankfurter",
+                        "roles": [
+                            {
+                                "id": 2694,
+                                "type": "scotus_justice",
+                                "date_start": -975780000,
+                                "date_end": -231793200,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32706,
+                            "mime": "image\/png",
+                            "size": 45083,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                        },
+                        "length_of_service": 8611,
+                        "identifier": "felix_frankfurter"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": -0.716,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205916"
+                },
+                {
+                    "member": {
+                        "ID": 15107,
+                        "name": "William O. Douglas",
+                        "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                        "last_name": "Douglas",
+                        "roles": [
+                            {
+                                "id": 2751,
+                                "type": "scotus_justice",
+                                "date_start": -969127200,
+                                "date_end": 185004000,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32781,
+                            "mime": "image\/png",
+                            "size": 56651,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                        },
+                        "length_of_service": 13358,
+                        "identifier": "william_o_douglas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": -3.033,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205917"
+                },
+                {
+                    "member": {
+                        "ID": 15121,
+                        "name": "Frank Murphy",
+                        "href": "https:\/\/api.oyez.org\/people\/frank_murphy",
+                        "last_name": "Murphy",
+                        "roles": [
+                            {
+                                "id": 2766,
+                                "type": "scotus_justice",
+                                "date_start": -943725600,
+                                "date_end": -645476400,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2766"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32707,
+                            "mime": "image\/png",
+                            "size": 51539,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/frank_murphy.png"
+                        },
+                        "length_of_service": 3452,
+                        "identifier": "frank_murphy"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15134,
+                            "name": "Harlan Fiske Stone",
+                            "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                            "last_name": "Stone",
+                            "roles": [
+                                {
+                                    "id": 2779,
+                                    "type": "scotus_justice",
+                                    "date_start": -1414864800,
+                                    "date_end": -899406000,
+                                    "appointing_president": "Calvin Coolidge",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                                },
+                                {
+                                    "id": 2780,
+                                    "type": "scotus_justice",
+                                    "date_start": -899319600,
+                                    "date_end": -747770400,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32788,
+                                "mime": "image\/png",
+                                "size": 33656,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                            },
+                            "length_of_service": 7720,
+                            "identifier": "harlan_fiske_stone"
+                        }
+                    ],
+                    "seniority": 8,
+                    "ideology": -1.548,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205918"
+                }
+            ],
+            "majority_vote": 8,
+            "minority_vote": 0,
+            "winning_party": "United States",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16431"
+        }
+    ],
+    "first_party_label": "Appellant",
+    "second_party_label": "Appellee",
+    "heard_by": [
+        {
+            "ID": 15353,
+            "name": "Hughes Court (1940-1941)",
+            "href": "https:\/\/api.oyez.org\/courts\/hughes15",
+            "members": [
+                {
+                    "ID": 15038,
+                    "name": "Charles E. Hughes",
+                    "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                    "last_name": "Hughes",
+                    "roles": [
+                        {
+                            "id": 2681,
+                            "type": "scotus_justice",
+                            "date_start": -1869069600,
+                            "date_end": -1690221600,
+                            "appointing_president": "William Howard Taft",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                        },
+                        {
+                            "id": 2682,
+                            "type": "scotus_justice",
+                            "date_start": -1257616800,
+                            "date_end": -899578800,
+                            "appointing_president": "Herbert Hoover",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32790,
+                        "mime": "image\/png",
+                        "size": 56986,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                    },
+                    "length_of_service": 6214,
+                    "identifier": "charles_e_hughes"
+                },
+                {
+                    "ID": 15066,
+                    "name": "James C. McReynolds",
+                    "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                    "last_name": "McReynolds",
+                    "roles": [
+                        {
+                            "id": 2710,
+                            "type": "scotus_justice",
+                            "date_start": -1742666400,
+                            "date_end": -912535200,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32720,
+                        "mime": "image\/png",
+                        "size": 55380,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                    },
+                    "length_of_service": 9608,
+                    "identifier": "james_c_mcreynolds"
+                },
+                {
+                    "ID": 15134,
+                    "name": "Harlan Fiske Stone",
+                    "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                    "last_name": "Stone",
+                    "roles": [
+                        {
+                            "id": 2779,
+                            "type": "scotus_justice",
+                            "date_start": -1414864800,
+                            "date_end": -899406000,
+                            "appointing_president": "Calvin Coolidge",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                        },
+                        {
+                            "id": 2780,
+                            "type": "scotus_justice",
+                            "date_start": -899319600,
+                            "date_end": -747770400,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32788,
+                        "mime": "image\/png",
+                        "size": 33656,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                    },
+                    "length_of_service": 7720,
+                    "identifier": "harlan_fiske_stone"
+                },
+                {
+                    "ID": 15041,
+                    "name": "Owen J. Roberts",
+                    "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                    "last_name": "Roberts",
+                    "roles": [
+                        {
+                            "id": 2685,
+                            "type": "scotus_justice",
+                            "date_start": -1249153200,
+                            "date_end": -770670000,
+                            "appointing_president": "Herbert Hoover",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32748,
+                        "mime": "image\/png",
+                        "size": 53589,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                    },
+                    "length_of_service": 5538,
+                    "identifier": "owen_j_roberts"
+                },
+                {
+                    "ID": 15089,
+                    "name": "Hugo L. Black",
+                    "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                    "last_name": "Black",
+                    "roles": [
+                        {
+                            "id": 2733,
+                            "type": "scotus_justice",
+                            "date_start": -1021489200,
+                            "date_end": 53931600,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32719,
+                        "mime": "image\/png",
+                        "size": 51667,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                    },
+                    "length_of_service": 12447,
+                    "identifier": "hugo_l_black"
+                },
+                {
+                    "ID": 15063,
+                    "name": "Stanley Reed",
+                    "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                    "last_name": "Reed",
+                    "roles": [
+                        {
+                            "id": 2707,
+                            "type": "scotus_justice",
+                            "date_start": -1007229600,
+                            "date_end": -405453600,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2707"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32766,
+                        "mime": "image\/png",
+                        "size": 34041,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                    },
+                    "length_of_service": 6965,
+                    "identifier": "stanley_reed"
+                },
+                {
+                    "ID": 15050,
+                    "name": "Felix Frankfurter",
+                    "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                    "last_name": "Frankfurter",
+                    "roles": [
+                        {
+                            "id": 2694,
+                            "type": "scotus_justice",
+                            "date_start": -975780000,
+                            "date_end": -231793200,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32706,
+                        "mime": "image\/png",
+                        "size": 45083,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                    },
+                    "length_of_service": 8611,
+                    "identifier": "felix_frankfurter"
+                },
+                {
+                    "ID": 15107,
+                    "name": "William O. Douglas",
+                    "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                    "last_name": "Douglas",
+                    "roles": [
+                        {
+                            "id": 2751,
+                            "type": "scotus_justice",
+                            "date_start": -969127200,
+                            "date_end": 185004000,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32781,
+                        "mime": "image\/png",
+                        "size": 56651,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                    },
+                    "length_of_service": 13358,
+                    "identifier": "william_o_douglas"
+                },
+                {
+                    "ID": 15121,
+                    "name": "Frank Murphy",
+                    "href": "https:\/\/api.oyez.org\/people\/frank_murphy",
+                    "last_name": "Murphy",
+                    "roles": [
+                        {
+                            "id": 2766,
+                            "type": "scotus_justice",
+                            "date_start": -943725600,
+                            "date_end": -645476400,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2766"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32707,
+                        "mime": "image\/png",
+                        "size": 51539,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/frank_murphy.png"
+                    },
+                    "length_of_service": 3452,
+                    "identifier": "frank_murphy"
+                }
+            ],
+            "court_start": -943725600,
+            "images": [
+                {
+                    "id": 78528,
+                    "mime": "image\/jpeg",
+                    "size": 731019,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugh8_photograph.jpg"
+                }
+            ],
+            "identifier": "hughes15"
+        }
+    ],
+    "decided_by": {
+        "ID": 15349,
+        "name": "Hughes Court (1941)",
+        "href": "https:\/\/api.oyez.org\/courts\/hughes16",
+        "members": [
+            {
+                "ID": 15038,
+                "name": "Charles E. Hughes",
+                "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                "last_name": "Hughes",
+                "roles": [
+                    {
+                        "id": 2681,
+                        "type": "scotus_justice",
+                        "date_start": -1869069600,
+                        "date_end": -1690221600,
+                        "appointing_president": "William Howard Taft",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                    },
+                    {
+                        "id": 2682,
+                        "type": "scotus_justice",
+                        "date_start": -1257616800,
+                        "date_end": -899578800,
+                        "appointing_president": "Herbert Hoover",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32790,
+                    "mime": "image\/png",
+                    "size": 56986,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                },
+                "length_of_service": 6214,
+                "identifier": "charles_e_hughes"
+            },
+            {
+                "ID": 15134,
+                "name": "Harlan Fiske Stone",
+                "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                "last_name": "Stone",
+                "roles": [
+                    {
+                        "id": 2779,
+                        "type": "scotus_justice",
+                        "date_start": -1414864800,
+                        "date_end": -899406000,
+                        "appointing_president": "Calvin Coolidge",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                    },
+                    {
+                        "id": 2780,
+                        "type": "scotus_justice",
+                        "date_start": -899319600,
+                        "date_end": -747770400,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32788,
+                    "mime": "image\/png",
+                    "size": 33656,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                },
+                "length_of_service": 7720,
+                "identifier": "harlan_fiske_stone"
+            },
+            {
+                "ID": 15041,
+                "name": "Owen J. Roberts",
+                "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                "last_name": "Roberts",
+                "roles": [
+                    {
+                        "id": 2685,
+                        "type": "scotus_justice",
+                        "date_start": -1249153200,
+                        "date_end": -770670000,
+                        "appointing_president": "Herbert Hoover",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32748,
+                    "mime": "image\/png",
+                    "size": 53589,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                },
+                "length_of_service": 5538,
+                "identifier": "owen_j_roberts"
+            },
+            {
+                "ID": 15089,
+                "name": "Hugo L. Black",
+                "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                "last_name": "Black",
+                "roles": [
+                    {
+                        "id": 2733,
+                        "type": "scotus_justice",
+                        "date_start": -1021489200,
+                        "date_end": 53931600,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32719,
+                    "mime": "image\/png",
+                    "size": 51667,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                },
+                "length_of_service": 12447,
+                "identifier": "hugo_l_black"
+            },
+            {
+                "ID": 15063,
+                "name": "Stanley Reed",
+                "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                "last_name": "Reed",
+                "roles": [
+                    {
+                        "id": 2707,
+                        "type": "scotus_justice",
+                        "date_start": -1007229600,
+                        "date_end": -405453600,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2707"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32766,
+                    "mime": "image\/png",
+                    "size": 34041,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                },
+                "length_of_service": 6965,
+                "identifier": "stanley_reed"
+            },
+            {
+                "ID": 15050,
+                "name": "Felix Frankfurter",
+                "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                "last_name": "Frankfurter",
+                "roles": [
+                    {
+                        "id": 2694,
+                        "type": "scotus_justice",
+                        "date_start": -975780000,
+                        "date_end": -231793200,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32706,
+                    "mime": "image\/png",
+                    "size": 45083,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                },
+                "length_of_service": 8611,
+                "identifier": "felix_frankfurter"
+            },
+            {
+                "ID": 15107,
+                "name": "William O. Douglas",
+                "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                "last_name": "Douglas",
+                "roles": [
+                    {
+                        "id": 2751,
+                        "type": "scotus_justice",
+                        "date_start": -969127200,
+                        "date_end": 185004000,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32781,
+                    "mime": "image\/png",
+                    "size": 56651,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                },
+                "length_of_service": 13358,
+                "identifier": "william_o_douglas"
+            },
+            {
+                "ID": 15121,
+                "name": "Frank Murphy",
+                "href": "https:\/\/api.oyez.org\/people\/frank_murphy",
+                "last_name": "Murphy",
+                "roles": [
+                    {
+                        "id": 2766,
+                        "type": "scotus_justice",
+                        "date_start": -943725600,
+                        "date_end": -645476400,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2766"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32707,
+                    "mime": "image\/png",
+                    "size": 51539,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/frank_murphy.png"
+                },
+                "length_of_service": 3452,
+                "identifier": "frank_murphy"
+            }
+        ],
+        "court_start": -912535200,
+        "images": [
+            {
+                "id": 56669,
+                "mime": "image\/jpeg",
+                "size": 1623788,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/2012-19-10-1-cd_0.jpg"
+            }
+        ],
+        "identifier": "hughes16"
+    },
+    "term": "1940-1955",
+    "location": {
+        "latitude": 38.890126,
+        "longitude": -77.005949,
+        "name": "U.S. Capitol",
+        "street": "East Capitol St NE \u0026 First St SE",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": null,
+        "province_name": "District Of Columbia"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court held that the Fair Labor Standards Act complied with the Commerce Clause, giving Congress the ability to regulate interstate commerce.",
+    "written_opinion": null,
+    "related_cases": null
+}

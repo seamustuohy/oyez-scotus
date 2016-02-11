@@ -1,0 +1,150 @@
+{
+    "id": 19695,
+    "title": "Opinion Announcement - February 23, 1982",
+    "transcript": {
+        "title": "Jewett v. Commissioner",
+        "duration": 113.426,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 113.426,
+                "byte_start": 77443,
+                "byte_stop": 531138,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 112.082,
+                        "byte_start": 77443,
+                        "byte_stop": 525809,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.526,
+                                "byte_start": 77443,
+                                "byte_stop": 119552,
+                                "text": "The second case is a tax case, Jewett against Internal Revenue that comes to us by way of certiorari from the Ninth Circuit and in final analysis."
+                            },
+                            {
+                                "start": 10.526,
+                                "stop": 21.031,
+                                "byte_start": 119552,
+                                "byte_stop": 161662,
+                                "text": "The question in this case is whether the Internal Revenue service has correctly interpreted a gift tax regulation that has been on the book since 1958."
+                            },
+                            {
+                                "start": 21.031,
+                                "stop": 65.165,
+                                "byte_start": 161662,
+                                "byte_stop": 338145,
+                                "text": "The Regulation deals with the subject of indirect gifts and in this particular case, a trust beneficiary who is given a contingent remainder in a very large trust to state some 33 years after the death of the testator, the person who created the trust decided to refuse to accept the benefits under the trust and as a consequence to that refusal, the person next in interest under the trust instrument would acquire ownership of the property and the question is whether this is an indirect gift, subject to tax within the meaning of the Internal Revenue Code in the implementing regulations."
+                            },
+                            {
+                                "start": 65.165,
+                                "stop": 83.228,
+                                "byte_start": 338145,
+                                "byte_stop": 410452,
+                                "text": "The question actually turns on when one must -- when the time from which the disclaimer must be must be made runs as the dated death when the trust was created or is it the time when the interest would become possessory in the ends of the taxpayer."
+                            },
+                            {
+                                "start": 83.228,
+                                "stop": 112.082,
+                                "byte_start": 410452,
+                                "byte_stop": 525809,
+                                "text": "And we called for reasons stated and opinion field with the clerk but the relevant date is the time when the trust instrument was created and that therefore, the disclaimer here did not -- was not made within a reasonable time within the reasonable time within the meaning of regulation and was therefore subject to test and on that, with respect to that holding, Justice Blackmun has filed a dissenting opinion in which he is joined by Justice Rehnquist and Justice O\u0027Connor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 112.082,
+                        "stop": 113.426,
+                        "byte_start": 525809,
+                        "byte_stop": 531138,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 112.082,
+                                "stop": 113.426,
+                                "byte_start": 525809,
+                                "byte_stop": 531138,
+                                "text": "Thank you Justice Stevens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48514,
+            "mime": "audio\/mpeg",
+            "size": 531347,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/80-1614\/19820223o_80-1614.delivery.mp3"
+        },
+        {
+            "id": 70330,
+            "mime": "audio\/ogg",
+            "size": 1181728,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/80-1614\/19820223o_80-1614.ogg"
+        },
+        {
+            "id": 70331,
+            "mime": "application\/x-mpegURL",
+            "size": 1783,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/80-1614\/19820223o_80-1614.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

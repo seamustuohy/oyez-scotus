@@ -1,0 +1,102 @@
+{
+    "id": 23064,
+    "title": "Opinion Announcement - June 22, 2006",
+    "transcript": {
+        "title": "Laboratory Corp. of America Holdings v. Metabolite Laboratories, Inc.",
+        "duration": 26.671,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 26.671,
+                "byte_start": 88575,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 26.671,
+                        "byte_start": 88575,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.326,
+                                "byte_start": 88575,
+                                "byte_stop": 141969,
+                                "text": "I also have the disposition to announce in No. 04-607, Laboratory Corporation of America versus Metabolite Laboratories, Inc."
+                            },
+                            {
+                                "start": 13.326,
+                                "stop": 17.638,
+                                "byte_start": 141969,
+                                "byte_stop": 159210,
+                                "text": "The petition is dismissed as improvidently granted."
+                            },
+                            {
+                                "start": 17.638,
+                                "stop": 21.306,
+                                "byte_start": 159210,
+                                "byte_stop": 173839,
+                                "text": "The Chief Justice did not participate in the case."
+                            },
+                            {
+                                "start": 21.306,
+                                "stop": 26.671,
+                                "byte_start": 173839,
+                                "byte_stop": 0,
+                                "text": "Justice Breyer has filed a dissenting opinion, in which Justice Souter and I have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55250,
+            "mime": "audio\/mpeg",
+            "size": 195259,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2005\/04-607\/20060622o_04-607.delivery.mp3"
+        },
+        {
+            "id": 76990,
+            "mime": "audio\/ogg",
+            "size": 269170,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2005\/04-607\/20060622o_04-607.ogg"
+        },
+        {
+            "id": 76991,
+            "mime": "application\/x-mpegURL",
+            "size": 498,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2005\/04-607\/20060622o_04-607.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

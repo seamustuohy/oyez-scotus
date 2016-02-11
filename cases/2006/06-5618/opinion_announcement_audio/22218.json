@@ -1,0 +1,81 @@
+{
+    "id": 22218,
+    "title": "Opinion Announcement - June 04, 2007",
+    "transcript": {
+        "title": "Claiborne v. United States",
+        "duration": 16.013,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.013,
+                "byte_start": 89965,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.013,
+                        "byte_start": 89965,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 16.013,
+                                "byte_start": 89965,
+                                "byte_stop": 0,
+                                "text": "In case No. 06-5618, Claiborne v. United States, the Court today has issued a Per Curiam statement vacating the judgment of the Court of Appeals for the Eighth Circuit has moved in light of petitioner\u2019s death."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53558,
+            "mime": "audio\/mpeg",
+            "size": 153808,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2006\/06-5618\/20070604o_06-5618.delivery.mp3"
+        },
+        {
+            "id": 75302,
+            "mime": "audio\/ogg",
+            "size": 160520,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2006\/06-5618\/20070604o_06-5618.ogg"
+        },
+        {
+            "id": 75303,
+            "mime": "application\/x-mpegURL",
+            "size": 375,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2006\/06-5618\/20070604o_06-5618.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

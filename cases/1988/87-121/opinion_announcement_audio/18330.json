@@ -1,0 +1,88 @@
+{
+    "id": 18330,
+    "title": "Opinion Announcement - February 28, 1989",
+    "transcript": {
+        "title": "Dugger v. Adams",
+        "duration": 24.542,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.542,
+                "byte_start": 86536,
+                "byte_stop": 184652,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.542,
+                        "byte_start": 86536,
+                        "byte_stop": 184652,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 17.502,
+                                "byte_start": 86536,
+                                "byte_stop": 156649,
+                                "text": "The other case is here from the Eleventh Circuit Court of Appeals Dugger against Adams, 87-121 and there is an opinion on file with the clerk which reverses the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 17.502,
+                                "stop": 24.542,
+                                "byte_start": 156649,
+                                "byte_stop": 184652,
+                                "text": "Justice Blackmun has filed a dissenting opinion in which Justices Brennan, Marshall, and Stevens have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45782,
+            "mime": "audio\/mpeg",
+            "size": 184861,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-121\/19890228o_87-121.delivery.mp3"
+        },
+        {
+            "id": 67626,
+            "mime": "audio\/ogg",
+            "size": 257040,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-121\/19890228o_87-121.ogg"
+        },
+        {
+            "id": 67627,
+            "mime": "application\/x-mpegURL",
+            "size": 498,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-121\/19890228o_87-121.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

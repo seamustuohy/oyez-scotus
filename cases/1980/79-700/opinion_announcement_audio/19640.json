@@ -1,0 +1,88 @@
+{
+    "id": 19640,
+    "title": "Opinion Announcement - January 26, 1981",
+    "transcript": {
+        "title": "Walter Fleisher Co. v. County of Los Angeles",
+        "duration": 27.471,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.471,
+                "byte_start": 92094,
+                "byte_stop": 201913,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 27.471,
+                        "byte_start": 92094,
+                        "byte_stop": 201913,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.414,
+                                "byte_start": 92094,
+                                "byte_stop": 145802,
+                                "text": "I have the disposition to announce in 79-700, the Walter Fleisher Company against the County of Los Angeles in a per curiam opinion filed with the clerk this morning."
+                            },
+                            {
+                                "start": 13.414,
+                                "stop": 27.471,
+                                "byte_start": 145802,
+                                "byte_stop": 201913,
+                                "text": "The judgment of the Court of Appeals of California, Second Appellate District is affirmed by an equally divided court, Mr. Justice Stewart taking no part in the decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48404,
+            "mime": "audio\/mpeg",
+            "size": 202122,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/79-700\/19810126o_79-700.delivery.mp3"
+        },
+        {
+            "id": 70224,
+            "mime": "audio\/ogg",
+            "size": 286715,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/79-700\/19810126o_79-700.ogg"
+        },
+        {
+            "id": 70225,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/79-700\/19810126o_79-700.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

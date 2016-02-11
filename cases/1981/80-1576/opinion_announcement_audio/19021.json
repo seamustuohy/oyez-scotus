@@ -1,0 +1,88 @@
+{
+    "id": 19021,
+    "title": "Opinion Announcement - January 13, 1982",
+    "transcript": {
+        "title": "Princeton University v. Schmid",
+        "duration": 29.601,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.601,
+                "byte_start": 77451,
+                "byte_stop": 195838,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 29.601,
+                        "byte_start": 77451,
+                        "byte_stop": 195838,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 23.862,
+                                "byte_start": 77451,
+                                "byte_stop": 172955,
+                                "text": "In 80-1576, Princeton University and New Jersey against Schmid in a concurring opinion -- in a per curiam opinion filed with the clerk this morning, the appeal from the Supreme Court of the State of New Jersey is dismissed."
+                            },
+                            {
+                                "start": 23.862,
+                                "stop": 29.601,
+                                "byte_start": 172955,
+                                "byte_stop": 195838,
+                                "text": "Justice Brennan took no part in the consideration of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47166,
+            "mime": "audio\/mpeg",
+            "size": 196047,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/80-1576\/19820113o_80-1576.delivery.mp3"
+        },
+        {
+            "id": 68992,
+            "mime": "audio\/ogg",
+            "size": 296928,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/80-1576\/19820113o_80-1576.ogg"
+        },
+        {
+            "id": 68993,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/80-1576\/19820113o_80-1576.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,154 @@
+{
+    "id": 21211,
+    "title": "Opinion Announcement - June 14, 1995",
+    "transcript": {
+        "title": "Chandris, Inc. v. Latsis",
+        "duration": 91.271,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 91.271,
+                "byte_start": 86853,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 91.271,
+                        "byte_start": 86853,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 3.789,
+                                "byte_start": 86853,
+                                "byte_stop": 102109,
+                                "text": "I have the opinions of the court to announce in two cases."
+                            },
+                            {
+                                "start": 3.789,
+                                "stop": 9.213,
+                                "byte_start": 102109,
+                                "byte_stop": 123738,
+                                "text": "The first is number 94-325 Chandris, Inc. versus Latsis."
+                            },
+                            {
+                                "start": 9.213,
+                                "stop": 18.654,
+                                "byte_start": 123738,
+                                "byte_stop": 161563,
+                                "text": "We granted certiorari in this case to resolve the longstanding conflict among the Federal Courts concerning the definition of seaman under the Jones Act."
+                            },
+                            {
+                                "start": 18.654,
+                                "stop": 27.48,
+                                "byte_start": 161563,
+                                "byte_stop": 196776,
+                                "text": "The Jones Act was enacted in 1920 and it gives heightened legal protection to seaman because of their exposure to the perils of the sea."
+                            },
+                            {
+                                "start": 27.48,
+                                "stop": 34.804,
+                                "byte_start": 196776,
+                                "byte_stop": 226138,
+                                "text": "But it doesn\u0027t say what a seaman is? and therefore it leaves to courts the task of deciding what it is."
+                            },
+                            {
+                                "start": 34.804,
+                                "stop": 48.488,
+                                "byte_start": 226138,
+                                "byte_stop": 280891,
+                                "text": "In an opinion authored by Justice O?Connor and filed with the clerk today, we survey our past cases, the history of the federal statutory scheme and the experience of the various Courts of Appeals in dealing with these issues."
+                            },
+                            {
+                                "start": 48.488,
+                                "stop": 57.453,
+                                "byte_start": 280891,
+                                "byte_stop": 316731,
+                                "text": "We ultimately conclude that the employment related connection to a vessel and navigation necessary for seaman status is made up of two elements."
+                            },
+                            {
+                                "start": 57.453,
+                                "stop": 71.977,
+                                "byte_start": 316731,
+                                "byte_stop": 374827,
+                                "text": "First, the workers duties have to contribute to the function of vessel or to the accomplishments of its mission and second the worker\u0027s has to have a connection to a vessel that is substantial in terms of both duration and nature."
+                            },
+                            {
+                                "start": 71.977,
+                                "stop": 84.426,
+                                "byte_start": 374827,
+                                "byte_stop": 424564,
+                                "text": "In reaching this conclusion we reject the respondent\u0027s suggestion that we adapt a voyage test under which anyone working on boarder ship for the duration of a voyage would qualify as the seaman."
+                            },
+                            {
+                                "start": 84.426,
+                                "stop": 91.271,
+                                "byte_start": 424564,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed an opinion concurring in the judgment in which Justice Thomas and Justice Breyer joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51546,
+            "mime": "audio\/mpeg",
+            "size": 451940,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1994\/94-325\/19950614o_94-325.delivery.mp3"
+        },
+        {
+            "id": 73322,
+            "mime": "audio\/ogg",
+            "size": 883016,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1994\/94-325\/19950614o_94-325.ogg"
+        },
+        {
+            "id": 73323,
+            "mime": "application\/x-mpegURL",
+            "size": 1444,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1994\/94-325\/19950614o_94-325.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

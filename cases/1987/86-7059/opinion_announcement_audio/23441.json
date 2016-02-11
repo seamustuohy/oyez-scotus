@@ -1,0 +1,139 @@
+{
+    "id": 23441,
+    "title": "Opinion Announcement - June 24, 1988",
+    "transcript": {
+        "title": "Patterson v. Illinois",
+        "duration": 24.32,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.32,
+                "byte_start": 28672,
+                "byte_stop": 125952,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.69,
+                        "byte_start": 28672,
+                        "byte_stop": 63467,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.69,
+                                "byte_start": 28672,
+                                "byte_stop": 63467,
+                                "text": "The opinion of the Court in No. 86-7059, Patterson against Illinois will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.69,
+                        "stop": 24.32,
+                        "byte_start": 63467,
+                        "byte_stop": 125952,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.69,
+                                "stop": 15.637,
+                                "byte_start": 63467,
+                                "byte_stop": 91261,
+                                "text": "In this case, we affirm the judgment of the Supreme Court of Illinois."
+                            },
+                            {
+                                "start": 15.637,
+                                "stop": 24.32,
+                                "byte_start": 91261,
+                                "byte_stop": 125952,
+                                "text": "Illinois -- Justice Blackmun has filed a dissenting opinion and has Justice Stevens who is joined by Justices Brennan and Marshall."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56004,
+            "mime": "audio\/mpeg",
+            "size": 126265,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-7059\/19880624o_86-7059.delivery.mp3"
+        },
+        {
+            "id": 77712,
+            "mime": "audio\/ogg",
+            "size": 248790,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-7059\/19880624o_86-7059.ogg"
+        },
+        {
+            "id": 77713,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-7059\/19880624o_86-7059.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

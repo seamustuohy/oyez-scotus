@@ -1,0 +1,2542 @@
+{
+    "id": 17003,
+    "title": "Oral Argument - March 01, 1977",
+    "media_file": [
+        {
+            "id": 43128,
+            "mime": "audio\/mpeg",
+            "size": 6581744,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-1513\/19770301a_75-1513.delivery.mp3"
+        },
+        {
+            "id": 65024,
+            "mime": "audio\/ogg",
+            "size": 16402175,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-1513\/19770301a_75-1513.ogg"
+        },
+        {
+            "id": 65025,
+            "mime": "application\/x-mpegURL",
+            "size": 23915,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-1513\/19770301a_75-1513.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Dixon v. Love",
+        "duration": 1627.924,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 1627.924,
+                "byte_start": 100555,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 50.789,
+                        "byte_start": 100555,
+                        "byte_stop": 303788,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 45.487,
+                                "byte_start": 100555,
+                                "byte_stop": 282576,
+                                "text": "We will hear arguments next in 75-1513, Dixon v. Love."
+                            },
+                            {
+                                "start": 45.487,
+                                "stop": 50.789,
+                                "byte_start": 282576,
+                                "byte_stop": 303788,
+                                "text": "Ms. Rosen, you may precede when you are ready."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 50.789,
+                        "stop": 280.48,
+                        "byte_start": 303788,
+                        "byte_stop": 1222566,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 50.789,
+                                "stop": 54.141,
+                                "byte_start": 303788,
+                                "byte_stop": 317162,
+                                "text": "Mr. Chief Justice, and May it please the court."
+                            },
+                            {
+                                "start": 54.141,
+                                "stop": 62.425,
+                                "byte_start": 317162,
+                                "byte_stop": 350286,
+                                "text": "This suit involves the constitutionality of Section 6-206(a)(3) of the Illinois Motor Vehicle Code."
+                            },
+                            {
+                                "start": 62.425,
+                                "stop": 91.688,
+                                "byte_start": 350286,
+                                "byte_stop": 467314,
+                                "text": "This section authorizes the Illinois Secretary of State to suspend or revoke the driver\u2019s license, the operator\u2019s license of any motorist without a preliminary hearing where the licensee\u2019s driving record indicates that he has been repeatedly convicted of violations against traffic regulations indicating a disrespect for the traffic laws and the safety of others, or a lack of ability to exercise ordinary and reasonable care."
+                            },
+                            {
+                                "start": 91.688,
+                                "stop": 103.571,
+                                "byte_start": 467314,
+                                "byte_stop": 514857,
+                                "text": "Briefly stated the facts, giving rise to the instant suit where the plaintiff\u2019s license to operate a motor vehicle was suspended for two months in November of 1969."
+                            },
+                            {
+                                "start": 103.571,
+                                "stop": 121.947,
+                                "byte_start": 514857,
+                                "byte_stop": 588418,
+                                "text": "The suspension was pursuant to Section 6-206(a)(2) of the code, which authorizes the Secretary of State to suspend a motorist license when he has been convicted of three traffic violations, three moving violations within any 12 month period."
+                            },
+                            {
+                                "start": 121.947,
+                                "stop": 133.997,
+                                "byte_start": 588418,
+                                "byte_stop": 636588,
+                                "text": "Again in March of 1970, the plaintiff\u2019s operator\u2019s license was suspended for a period of two months, because he was convicted of driving while his license was suspended under the previous suspension."
+                            },
+                            {
+                                "start": 133.997,
+                                "stop": 148.766,
+                                "byte_start": 636588,
+                                "byte_stop": 695624,
+                                "text": "Subsequent to these two suspensions, plaintiff was issued three traffic citations which are relevant to this suit, and he was convicted of two citations, one in September and one in November."
+                            },
+                            {
+                                "start": 148.766,
+                                "stop": 157.609,
+                                "byte_start": 695624,
+                                "byte_stop": 731046,
+                                "text": "On March 27th the plaintiff received notification from the Secretary of State\u2019s office that a further conviction would result in the loss of his driving privileges."
+                            },
+                            {
+                                "start": 157.609,
+                                "stop": 161.906,
+                                "byte_start": 731046,
+                                "byte_stop": 748183,
+                                "text": "This conviction occurred on March 31st."
+                            },
+                            {
+                                "start": 161.906,
+                                "stop": 170.21,
+                                "byte_start": 748183,
+                                "byte_stop": 781411,
+                                "text": "On May 28th notice was mailed from the office of the Secretary of State, which plaintiff received on June 3rd."
+                            },
+                            {
+                                "start": 170.21,
+                                "stop": 182.929,
+                                "byte_start": 781411,
+                                "byte_stop": 832297,
+                                "text": "This notice informed the plaintiff that his operator\u2019s license was revoked, the revocation to become effective on June 6th."
+                            },
+                            {
+                                "start": 182.929,
+                                "stop": 196.944,
+                                "byte_start": 832297,
+                                "byte_stop": 888408,
+                                "text": "On June 5th, the plaintiff filed a complaint in the District Court challenging the constitutionality of Section 6-206(a)(3) in seeking to enjoin the Secretary of State from revoking his license pursuant to the section."
+                            },
+                            {
+                                "start": 196.944,
+                                "stop": 209.557,
+                                "byte_start": 888408,
+                                "byte_stop": 938877,
+                                "text": "Plaintiff asserted that Section 6-206(a)(3) violated the Due Process Clause because it did not afford individuals the right to a separate hearing prior to the issuance of the order of revocation."
+                            },
+                            {
+                                "start": 209.557,
+                                "stop": 222.991,
+                                "byte_start": 938877,
+                                "byte_stop": 992584,
+                                "text": "A Temporary Restraining Order was issued by the District Court, which was conditioned upon the fact, the plaintiff should apply for Hardship License which he did in June and which license was issued to him in July."
+                            },
+                            {
+                                "start": 222.991,
+                                "stop": 237.651,
+                                "byte_start": 992584,
+                                "byte_stop": 1051203,
+                                "text": "Plaintiff\u2019s request for a hearing by a three-judge panel was granted on the issue of the constitutionality of this section, and the Three-Judge Court entered its memorandum opinion in order on January 20th on Cross-Motions For Summary Judgment."
+                            },
+                            {
+                                "start": 237.651,
+                                "stop": 253.384,
+                                "byte_start": 1051203,
+                                "byte_stop": 1114106,
+                                "text": "The District Court specifically held the plaintiff\u2019s right to Procedural Due Process was denied by the practice of the Illinois, Secretary of State under this section, because a separate hearing on the issue of revocation was not provided prior to the issuance of the order."
+                            },
+                            {
+                                "start": 253.384,
+                                "stop": 274.633,
+                                "byte_start": 1114106,
+                                "byte_stop": 1199161,
+                                "text": "The District Court recognized that in practice, except the only issue which was taken into consideration by the Secretary of State\u2019s office prior to revocation was the accumulation of points and these points were accumulated by a particular driver through his being convicted of specific traffic offences."
+                            },
+                            {
+                                "start": 274.633,
+                                "stop": 280.48,
+                                "byte_start": 1199161,
+                                "byte_stop": 1222566,
+                                "text": "Each offence being designated a specified number of points."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 280.48,
+                        "stop": 286.374,
+                        "byte_start": 1222566,
+                        "byte_stop": 1246077,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 280.48,
+                                "stop": 286.374,
+                                "byte_start": 1222566,
+                                "byte_stop": 1246077,
+                                "text": "Did he receive some kind of a hearing on each one of those violations or did he have the opportunity?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 286.374,
+                        "stop": 291.794,
+                        "byte_start": 1246077,
+                        "byte_stop": 1267811,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 286.374,
+                                "stop": 291.794,
+                                "byte_start": 1246077,
+                                "byte_stop": 1267811,
+                                "text": "Yes Your Honor, he was afforded the opportunity for full judicial hearing on each one of the underlying convictions."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 291.794,
+                        "stop": 293.314,
+                        "byte_start": 1267811,
+                        "byte_stop": 1273871,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 291.794,
+                                "stop": 293.314,
+                                "byte_start": 1267811,
+                                "byte_stop": 1273871,
+                                "text": "How many were there again?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 293.314,
+                        "stop": 303.598,
+                        "byte_start": 1273871,
+                        "byte_stop": 1315040,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 293.314,
+                                "stop": 298.834,
+                                "byte_start": 1273871,
+                                "byte_stop": 1295918,
+                                "text": "Three, the last suspension would have been for three traffic violations."
+                            },
+                            {
+                                "start": 298.834,
+                                "stop": 303.598,
+                                "byte_start": 1295918,
+                                "byte_stop": 1315040,
+                                "text": "So, he was convicted on three moving violations."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 303.598,
+                        "stop": 306.137,
+                        "byte_start": 1315040,
+                        "byte_stop": 1325175,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 303.598,
+                                "stop": 306.137,
+                                "byte_start": 1315040,
+                                "byte_stop": 1325175,
+                                "text": "Was this ever certified as a Class Action?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 306.137,
+                        "stop": 367.513,
+                        "byte_start": 1325175,
+                        "byte_stop": 1570622,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 306.137,
+                                "stop": 313.369,
+                                "byte_start": 1325175,
+                                "byte_stop": 1354119,
+                                "text": "No, the plaintiff\u2019s class was never certified."
+                            },
+                            {
+                                "start": 313.369,
+                                "stop": 339.219,
+                                "byte_start": 1354119,
+                                "byte_stop": 1457459,
+                                "text": "While the District Court recognized that the points were the only factors which the Secretary took into consideration, the District Court determined that because this particular statutory section stated that the motorist must lack due respect for the traffic laws and the safety of other motorist upon the highway, that a separate hearing to determine these issues would be required."
+                            },
+                            {
+                                "start": 339.219,
+                                "stop": 347.046,
+                                "byte_start": 1457459,
+                                "byte_stop": 1488806,
+                                "text": "Procedural Due Process would require such a separate hearing prior to the revocation or suspension of a motorist license."
+                            },
+                            {
+                                "start": 347.046,
+                                "stop": 349.738,
+                                "byte_start": 1488806,
+                                "byte_stop": 1499569,
+                                "text": "We assert that this was erroneous."
+                            },
+                            {
+                                "start": 349.738,
+                                "stop": 367.513,
+                                "byte_start": 1499569,
+                                "byte_stop": 1570622,
+                                "text": "The fact underlying each of the convictions which any motorist would receive in Traffic Court have been judicially determined in a hearing which provides every individual motorist with all of the safeguards which are required by the concept of Due Process."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 367.513,
+                        "stop": 373.976,
+                        "byte_start": 1570622,
+                        "byte_stop": 1596535,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 367.513,
+                                "stop": 373.976,
+                                "byte_start": 1570622,
+                                "byte_stop": 1596535,
+                                "text": "Why was his license taken by the Secretary of State, was any reason given?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 373.976,
+                        "stop": 381.594,
+                        "byte_start": 1596535,
+                        "byte_stop": 1626942,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 373.976,
+                                "stop": 381.594,
+                                "byte_start": 1596535,
+                                "byte_stop": 1626942,
+                                "text": "Yes Your Honor, the plaintiff, in the instant case had been convicted of three traffic violations within..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 381.594,
+                        "stop": 384.678,
+                        "byte_start": 1626942,
+                        "byte_stop": 1639272,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 381.594,
+                                "stop": 384.678,
+                                "byte_start": 1626942,
+                                "byte_stop": 1639272,
+                                "text": "Is that the reason, or do you know?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 384.678,
+                        "stop": 385.687,
+                        "byte_start": 1639272,
+                        "byte_stop": 1643347,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 384.678,
+                                "stop": 385.687,
+                                "byte_start": 1639272,
+                                "byte_stop": 1643347,
+                                "text": "Yes Your Honor, I do know."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 385.687,
+                        "stop": 403.193,
+                        "byte_start": 1643347,
+                        "byte_stop": 1713355,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 385.687,
+                                "stop": 390.128,
+                                "byte_start": 1643347,
+                                "byte_stop": 1661110,
+                                "text": "The statute says, \u201cHe can\u201d it does not say, \u201cHe must\u201d."
+                            },
+                            {
+                                "start": 390.128,
+                                "stop": 394.714,
+                                "byte_start": 1661110,
+                                "byte_stop": 1679500,
+                                "text": "It said, \u201cHe is authorized to\u201d he is not \u201cRequired to\u201d."
+                            },
+                            {
+                                "start": 394.714,
+                                "stop": 401.357,
+                                "byte_start": 1679500,
+                                "byte_stop": 1706041,
+                                "text": "Did you take into consideration the fact that this man was a truck driver and needed his license to live?"
+                            },
+                            {
+                                "start": 401.357,
+                                "stop": 403.193,
+                                "byte_start": 1706041,
+                                "byte_stop": 1713355,
+                                "text": "He did not or did he?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 403.193,
+                        "stop": 407.81,
+                        "byte_start": 1713355,
+                        "byte_stop": 1731850,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 403.193,
+                                "stop": 407.81,
+                                "byte_start": 1713355,
+                                "byte_stop": 1731850,
+                                "text": "Your Honor, let me attempt to answer your first question and then I will.."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 407.81,
+                        "stop": 409.326,
+                        "byte_start": 1731850,
+                        "byte_stop": 1737910,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 407.81,
+                                "stop": 409.326,
+                                "byte_start": 1731850,
+                                "byte_stop": 1737910,
+                                "text": "In your own way."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 409.326,
+                        "stop": 470.862,
+                        "byte_start": 1737910,
+                        "byte_stop": 1984088,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 409.326,
+                                "stop": 410.769,
+                                "byte_start": 1737910,
+                                "byte_stop": 1743657,
+                                "text": "Thank you."
+                            },
+                            {
+                                "start": 410.769,
+                                "stop": 423.387,
+                                "byte_start": 1743657,
+                                "byte_stop": 1794126,
+                                "text": "First of all, Your Honor was asking for what precise reason the man\u2019s license was revoked under this particular circumstance and I would like to address that question first, if I may."
+                            },
+                            {
+                                "start": 423.387,
+                                "stop": 464.193,
+                                "byte_start": 1794126,
+                                "byte_stop": 1957339,
+                                "text": "The revocation which took place under Section 6206(a)(3) was entered because the languages in the statuette has -- the motorist has been repeatedly convicted of violations, and if one takes a look at the rules promulgated by the Secretary of State\u2019s office, the rules are reprinted in the Appendix of our brief, one will see that rule 6206(a)(3) specifically states that; a motorist to his accumulated sufficient points to warrant a second suspension within five years may either be suspended or revoked by the Secretary of State, based upon the number of points in his record."
+                            },
+                            {
+                                "start": 464.193,
+                                "stop": 470.862,
+                                "byte_start": 1957339,
+                                "byte_stop": 1984088,
+                                "text": "A person who has been suspended thrice within a ten year period shall be revoked."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 470.862,
+                        "stop": 474.312,
+                        "byte_start": 1984088,
+                        "byte_stop": 1997881,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 470.862,
+                                "stop": 474.312,
+                                "byte_start": 1984088,
+                                "byte_stop": 1997881,
+                                "text": "The Secretary of State could either do it or not do it."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 474.312,
+                        "stop": 495.49,
+                        "byte_start": 1997881,
+                        "byte_stop": 2082517,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 474.312,
+                                "stop": 495.49,
+                                "byte_start": 1997881,
+                                "byte_stop": 2082517,
+                                "text": "Well Your Honor that is the second point that was raised that the power or the authority which is exercised by the Secretary of State under these sections, the 6206 Section is discretionary, and we submit that that it is true that the Secretary has however made a determination in his discretion, and initial determination..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 495.49,
+                        "stop": 499.534,
+                        "byte_start": 2082517,
+                        "byte_stop": 2098713,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 495.49,
+                                "stop": 499.534,
+                                "byte_start": 2082517,
+                                "byte_stop": 2098713,
+                                "text": "Any hearing of any kind?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 499.534,
+                        "stop": 500.64,
+                        "byte_start": 2098713,
+                        "byte_stop": 2103206,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 499.534,
+                                "stop": 500.64,
+                                "byte_start": 2098713,
+                                "byte_stop": 2103206,
+                                "text": "Well, Your Honor.."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 500.64,
+                        "stop": 515.182,
+                        "byte_start": 2103206,
+                        "byte_stop": 2161303,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 500.64,
+                                "stop": 504.009,
+                                "byte_start": 2103206,
+                                "byte_stop": 2116686,
+                                "text": "I am talking about the Secretary Of State."
+                            },
+                            {
+                                "start": 504.009,
+                                "stop": 515.182,
+                                "byte_start": 2116686,
+                                "byte_stop": 2161303,
+                                "text": "Without any hearing by the Secretary of State or any assistant of his or anybody connected with the secretary of State, this man\u2019s license was revoked."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 515.182,
+                        "stop": 547.044,
+                        "byte_start": 2161303,
+                        "byte_stop": 2288780,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 515.182,
+                                "stop": 516.311,
+                                "byte_start": 2161303,
+                                "byte_stop": 2165900,
+                                "text": "That is correct."
+                            },
+                            {
+                                "start": 516.311,
+                                "stop": 520.731,
+                                "byte_start": 2165900,
+                                "byte_stop": 2183559,
+                                "text": "However we submit that there is no need for a separate independent hearing here."
+                            },
+                            {
+                                "start": 520.731,
+                                "stop": 535.473,
+                                "byte_start": 2183559,
+                                "byte_stop": 2242491,
+                                "text": "The reason that there is no need for a separate independent hearing has to relate back to the fact that the secretary has initially in his discretion promulgated a point system, and this point system is comprehensive and it takes into consideration variable factors."
+                            },
+                            {
+                                "start": 535.473,
+                                "stop": 542.27,
+                                "byte_start": 2242491,
+                                "byte_stop": 2269659,
+                                "text": "It does not simply state that if you are speeding on the highway for example, you will receive 50 points."
+                            },
+                            {
+                                "start": 542.27,
+                                "stop": 547.044,
+                                "byte_start": 2269659,
+                                "byte_stop": 2288780,
+                                "text": "Speeding was one of the examples which the plaintiff points up in his brief, and he says there are many factors..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 547.044,
+                        "stop": 558.502,
+                        "byte_start": 2288780,
+                        "byte_stop": 2334651,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 547.044,
+                                "stop": 555.865,
+                                "byte_start": 2288780,
+                                "byte_stop": 2324098,
+                                "text": "Ms. Rosen, he does not say that if you do this, your license will be revoked, he does not say that."
+                            },
+                            {
+                                "start": 555.865,
+                                "stop": 558.502,
+                                "byte_start": 2324098,
+                                "byte_stop": 2334651,
+                                "text": "He says, \u201cIf you do this, I might do it\u201d."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 558.502,
+                        "stop": 626.454,
+                        "byte_start": 2334651,
+                        "byte_stop": 2606429,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 558.502,
+                                "stop": 572.225,
+                                "byte_start": 2334651,
+                                "byte_stop": 2389508,
+                                "text": "But he does say that Your Honor in the point system itself, that is true, he does not specifically -- the statue does not say that the suspensions or revocations under the section are mandatory but the suspensions or revocations are governed solely by the points."
+                            },
+                            {
+                                "start": 572.225,
+                                "stop": 583.314,
+                                "byte_start": 2389508,
+                                "byte_stop": 2433812,
+                                "text": "If you receive 110 points you will be revoked, that is the way the point system operates and I would refer the court to rule 6204."
+                            },
+                            {
+                                "start": 583.314,
+                                "stop": 587.204,
+                                "byte_start": 2433812,
+                                "byte_stop": 2449381,
+                                "text": "It is the rule which specifically, which is reprinted in our reply brief."
+                            },
+                            {
+                                "start": 587.204,
+                                "stop": 599.374,
+                                "byte_start": 2449381,
+                                "byte_stop": 2498073,
+                                "text": "It is the rule which specifically discusses what the point system is intended to do, and this rule specifically states, it is reprinted on Page 8 of our reply brief."
+                            },
+                            {
+                                "start": 599.374,
+                                "stop": 611.905,
+                                "byte_start": 2498073,
+                                "byte_stop": 2548228,
+                                "text": "That the secretary of State shall promulgate a point system as a standard in determining whether to suspend or revoke driving privileges and to determine the period of suspension or revocation."
+                            },
+                            {
+                                "start": 611.905,
+                                "stop": 620.382,
+                                "byte_start": 2548228,
+                                "byte_stop": 2582188,
+                                "text": "He does not say that, \u201cI will suspend this motorist with 75 points, and this one with 75 points, I will let go\u201d."
+                            },
+                            {
+                                "start": 620.382,
+                                "stop": 626.454,
+                                "byte_start": 2582188,
+                                "byte_stop": 2606429,
+                                "text": "He suspends or revokes based upon the number of points and the motorist driving record, and that is the only factor which he takes into consideration."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 626.454,
+                        "stop": 635.147,
+                        "byte_start": 2606429,
+                        "byte_stop": 2641224,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 626.454,
+                                "stop": 635.147,
+                                "byte_start": 2606429,
+                                "byte_stop": 2641224,
+                                "text": "Is there anyway for the licensed driver to plead for mercy?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 635.147,
+                        "stop": 636.546,
+                        "byte_start": 2641224,
+                        "byte_stop": 2646762,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 635.147,
+                                "stop": 636.546,
+                                "byte_start": 2641224,
+                                "byte_stop": 2646762,
+                                "text": "Yes Your Honor there is."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 636.546,
+                        "stop": 638.592,
+                        "byte_start": 2646762,
+                        "byte_stop": 2655017,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 636.546,
+                                "stop": 638.592,
+                                "byte_start": 2646762,
+                                "byte_stop": 2655017,
+                                "text": "Where?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 638.592,
+                        "stop": 641.726,
+                        "byte_start": 2655017,
+                        "byte_stop": 2667556,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 638.592,
+                                "stop": 641.111,
+                                "byte_start": 2655017,
+                                "byte_stop": 2665048,
+                                "text": "Not until after he is suspended or revoked."
+                            },
+                            {
+                                "start": 641.111,
+                                "stop": 641.726,
+                                "byte_start": 2665048,
+                                "byte_stop": 2667556,
+                                "text": "The reason for this..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 641.726,
+                        "stop": 656.254,
+                        "byte_start": 2667556,
+                        "byte_stop": 2725652,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 641.726,
+                                "stop": 645.692,
+                                "byte_start": 2667556,
+                                "byte_stop": 2683334,
+                                "text": "That is what I am talking about, before he is revoked."
+                            },
+                            {
+                                "start": 645.692,
+                                "stop": 656.254,
+                                "byte_start": 2683334,
+                                "byte_stop": 2725652,
+                                "text": "This truck driver is pulled out of business, and he is not given any chance to go and say, \u201cLook, I am poor truck driver, etcetera\u201d."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 656.254,
+                        "stop": 668.02,
+                        "byte_start": 2725652,
+                        "byte_stop": 2772673,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 656.254,
+                                "stop": 668.02,
+                                "byte_start": 2725652,
+                                "byte_stop": 2772673,
+                                "text": "Well he can apply for Hardship License Your Honor, and also there are special rules or special protections for individuals who operate a commercial vehicle or who drive for an occupation."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 668.02,
+                        "stop": 670.05,
+                        "byte_start": 2772673,
+                        "byte_stop": 2780823,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 668.02,
+                                "stop": 670.05,
+                                "byte_start": 2772673,
+                                "byte_stop": 2780823,
+                                "text": "But did you tell this man that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 670.05,
+                        "stop": 683.729,
+                        "byte_start": 2780823,
+                        "byte_stop": 2835575,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 670.05,
+                                "stop": 677.159,
+                                "byte_start": 2780823,
+                                "byte_stop": 2809244,
+                                "text": "He was informed when he received the notice of revocation that he had a right to request to hearing under Section 2118, that is standard."
+                            },
+                            {
+                                "start": 677.159,
+                                "stop": 683.729,
+                                "byte_start": 2809244,
+                                "byte_stop": 2835575,
+                                "text": "If you request such a hearing and he has a license to operate a commercial vehicle, he will automatically be issued..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 683.729,
+                        "stop": 685.114,
+                        "byte_start": 2835575,
+                        "byte_stop": 2841113,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 683.729,
+                                "stop": 685.114,
+                                "byte_start": 2835575,
+                                "byte_stop": 2841113,
+                                "text": "Was he told that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 685.114,
+                        "stop": 690.474,
+                        "byte_start": 2841113,
+                        "byte_stop": 2862534,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 685.114,
+                                "stop": 690.474,
+                                "byte_start": 2841113,
+                                "byte_stop": 2862534,
+                                "text": "He was told that he had the right to request the hearing, he chose not to do that."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 690.474,
+                        "stop": 698.544,
+                        "byte_start": 2862534,
+                        "byte_stop": 2894821,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 690.474,
+                                "stop": 698.544,
+                                "byte_start": 2862534,
+                                "byte_stop": 2894821,
+                                "text": "Ms. Rosen, how many points had this man accumulated?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 698.544,
+                        "stop": 699.507,
+                        "byte_start": 2894821,
+                        "byte_stop": 2898687,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 698.544,
+                                "stop": 699.507,
+                                "byte_start": 2894821,
+                                "byte_stop": 2898687,
+                                "text": "I do not really.."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 699.507,
+                        "stop": 700.419,
+                        "byte_start": 2898687,
+                        "byte_stop": 2902240,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 699.507,
+                                "stop": 700.419,
+                                "byte_start": 2898687,
+                                "byte_stop": 2902240,
+                                "text": "The record does not tell us?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 700.419,
+                        "stop": 701.429,
+                        "byte_start": 2902240,
+                        "byte_stop": 2906315,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 700.419,
+                                "stop": 701.429,
+                                "byte_start": 2902240,
+                                "byte_stop": 2906315,
+                                "text": "It does not really specify.."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 701.429,
+                        "stop": 725.923,
+                        "byte_start": 2906315,
+                        "byte_stop": 3004326,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 701.429,
+                                "stop": 707.593,
+                                "byte_start": 2906315,
+                                "byte_stop": 2930975,
+                                "text": "Does the record tell us how many points were assigned for each type of violation?"
+                            },
+                            {
+                                "start": 707.593,
+                                "stop": 712.074,
+                                "byte_start": 2930975,
+                                "byte_stop": 2948947,
+                                "text": "How does one get, how many points, does it tell us that?"
+                            },
+                            {
+                                "start": 712.074,
+                                "stop": 718.112,
+                                "byte_start": 2948947,
+                                "byte_stop": 2973084,
+                                "text": "There is a reference on page C2 that if you have 20 to 44 points, suspension up to two months."
+                            },
+                            {
+                                "start": 718.112,
+                                "stop": 725.923,
+                                "byte_start": 2973084,
+                                "byte_stop": 3004326,
+                                "text": "But how do you know whether you have got 10 points or 50 points, if you are just an ordinary driver who has been convicted of a couple of offences, do you know what your points are?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 725.923,
+                        "stop": 729.755,
+                        "byte_start": 3004326,
+                        "byte_stop": 3019582,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 725.923,
+                                "stop": 729.755,
+                                "byte_start": 3004326,
+                                "byte_stop": 3019582,
+                                "text": "I do not think you know the specific amount of points, I believe you have to call..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 729.755,
+                        "stop": 735.149,
+                        "byte_start": 3019582,
+                        "byte_stop": 3041211,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 729.755,
+                                "stop": 735.149,
+                                "byte_start": 3019582,
+                                "byte_stop": 3041211,
+                                "text": "So the assignment of points is not governed by statute or regulations at all, is it?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 735.149,
+                        "stop": 756.218,
+                        "byte_start": 3041211,
+                        "byte_stop": 3125430,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 735.149,
+                                "stop": 756.218,
+                                "byte_start": 3041211,
+                                "byte_stop": 3125430,
+                                "text": "Well it is governed by the regulation promulgated by the Secretary Of State\u2019s office, and I think that what the common or what the ordinary driver or motorist is aware of or the only thing which he would actually, is common knowledge, is that if you receive three moving violations within a 12-month period, you receive.."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 756.218,
+                        "stop": 770.563,
+                        "byte_start": 3125430,
+                        "byte_stop": 3182899,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 756.218,
+                                "stop": 765.061,
+                                "byte_start": 3125430,
+                                "byte_stop": 3160852,
+                                "text": "The regulation says, \u201cIf that happens you may be suspended as follows; 20-44 points: suspension 2 months, 45-74, 3 months and so forth."
+                            },
+                            {
+                                "start": 765.061,
+                                "stop": 768.203,
+                                "byte_start": 3160852,
+                                "byte_stop": 3173391,
+                                "text": "But how do you know which penalty would be applied?"
+                            },
+                            {
+                                "start": 768.203,
+                                "stop": 770.563,
+                                "byte_start": 3173391,
+                                "byte_stop": 3182899,
+                                "text": "How do you know if, maybe, only you have 19 points?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 770.563,
+                        "stop": 776.667,
+                        "byte_start": 3182899,
+                        "byte_stop": 3207246,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 770.563,
+                                "stop": 776.667,
+                                "byte_start": 3182899,
+                                "byte_stop": 3207246,
+                                "text": "It is governed by the particular number of points which you have accumulated within that."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 776.667,
+                        "stop": 787.062,
+                        "byte_start": 3207246,
+                        "byte_stop": 3248833,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 776.667,
+                                "stop": 779.361,
+                                "byte_start": 3207246,
+                                "byte_stop": 3218008,
+                                "text": "But how many points do you know how many points you began with?"
+                            },
+                            {
+                                "start": 779.361,
+                                "stop": 787.062,
+                                "byte_start": 3218008,
+                                "byte_stop": 3248833,
+                                "text": "How do you know that the Secretary of State is giving you the same number of points that somebody else is getting for doing the same thing?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 787.062,
+                        "stop": 789.46,
+                        "byte_start": 3248833,
+                        "byte_stop": 3258446,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 787.062,
+                                "stop": 789.158,
+                                "byte_start": 3248833,
+                                "byte_stop": 3257192,
+                                "text": "You would have to go and check the records."
+                            },
+                            {
+                                "start": 789.158,
+                                "stop": 789.46,
+                                "byte_start": 3257192,
+                                "byte_stop": 3258446,
+                                "text": "There is no..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 789.46,
+                        "stop": 792.538,
+                        "byte_start": 3258446,
+                        "byte_stop": 3270775,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 789.46,
+                                "stop": 792.538,
+                                "byte_start": 3258446,
+                                "byte_stop": 3270775,
+                                "text": "You have to go, what check, whether go down to Springfield and check the records and --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 792.538,
+                        "stop": 794.214,
+                        "byte_start": 3270775,
+                        "byte_stop": 3277463,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 792.538,
+                                "stop": 794.214,
+                                "byte_start": 3270775,
+                                "byte_stop": 3277463,
+                                "text": "Either call or..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 794.214,
+                        "stop": 819.378,
+                        "byte_start": 3277463,
+                        "byte_stop": 3378086,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 794.214,
+                                "stop": 803.972,
+                                "byte_start": 3277463,
+                                "byte_stop": 3316542,
+                                "text": "Then say, \u201cHow many points do I have, and am I getting the same points as my cousin who was convicted two weeks ago for (Inaudible), how many points did he get, you have to check that way?\u201d"
+                            },
+                            {
+                                "start": 803.972,
+                                "stop": 808.402,
+                                "byte_start": 3316542,
+                                "byte_stop": 3334201,
+                                "text": "How do you find out?"
+                            },
+                            {
+                                "start": 808.402,
+                                "stop": 819.378,
+                                "byte_start": 3334201,
+                                "byte_stop": 3378086,
+                                "text": "I think the tack on the statute is that the Secretary\u2019s discretion is totally without any control and I am just trying to find out what that control is?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 819.378,
+                        "stop": 842.504,
+                        "byte_start": 3378086,
+                        "byte_stop": 3470664,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 819.378,
+                                "stop": 835.285,
+                                "byte_start": 3378086,
+                                "byte_stop": 3441721,
+                                "text": "Well Your Honor, at least as I understand it, what the secretary has attempted to do in his discretion is the same thing, he would do if he brought in every single motorist who was convicted of three moving violations within a period of twelve months."
+                            },
+                            {
+                                "start": 835.285,
+                                "stop": 842.504,
+                                "byte_start": 3441721,
+                                "byte_stop": 3470664,
+                                "text": "If he would look at the nature of the violation, he would look at where it occurred, he would look at whether the weather conditions where clear or adverse."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 842.504,
+                        "stop": 851.069,
+                        "byte_start": 3470664,
+                        "byte_stop": 3504833,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 842.504,
+                                "stop": 843.982,
+                                "byte_start": 3470664,
+                                "byte_stop": 3476516,
+                                "text": "He do this in his office, would he?"
+                            },
+                            {
+                                "start": 843.982,
+                                "stop": 846.995,
+                                "byte_start": 3476516,
+                                "byte_stop": 3488637,
+                                "text": "With the police in front of him, and that is what he have before him?"
+                            },
+                            {
+                                "start": 846.995,
+                                "stop": 851.069,
+                                "byte_start": 3488637,
+                                "byte_stop": 3504833,
+                                "text": "Would he get the transcript of the trial or, how does he do this looking at the weather conditions.."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 851.069,
+                        "stop": 884.404,
+                        "byte_start": 3504833,
+                        "byte_stop": 3638266,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 851.069,
+                                "stop": 859.629,
+                                "byte_start": 3504833,
+                                "byte_stop": 3539105,
+                                "text": "He does not do it now, and the reason he does not do it, is he has already done it in a very general way and promulgated the point system, and this system is uniformly applied."
+                            },
+                            {
+                                "start": 859.629,
+                                "stop": 870.819,
+                                "byte_start": 3539105,
+                                "byte_stop": 3583931,
+                                "text": "What he would have to do if he did not have the point system is call the motorist in and say, \u201cWhat was the weather like on the day, this occurrence took place, were you in a school zone or were you on a highway?"
+                            },
+                            {
+                                "start": 870.819,
+                                "stop": 884.404,
+                                "byte_start": 3583931,
+                                "byte_stop": 3638266,
+                                "text": "He would have to go through all this -- all of this is already done, he has done it and he has published a list of regulations and in that list of regulations he says, \u201cIf you are speeding 1 to 10 miles per hour over the limit in clear conditions, I am going to give you 6 points for that."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 884.404,
+                        "stop": 886.604,
+                        "byte_start": 3638266,
+                        "byte_stop": 3647043,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 884.404,
+                                "stop": 886.604,
+                                "byte_start": 3638266,
+                                "byte_stop": 3647043,
+                                "text": "Those regulations are not in the record or are they?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 886.604,
+                        "stop": 927.293,
+                        "byte_start": 3647043,
+                        "byte_stop": 3809734,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 886.604,
+                                "stop": 888.459,
+                                "byte_start": 3647043,
+                                "byte_stop": 3654462,
+                                "text": "No, they are not in this particular record."
+                            },
+                            {
+                                "start": 888.459,
+                                "stop": 901.479,
+                                "byte_start": 3654462,
+                                "byte_stop": 3706498,
+                                "text": "But, unless someone is asserting that one of those regulations is such a blatant abuse of the Secretary\u2019s discretion, I do not really see how that point is relevant."
+                            },
+                            {
+                                "start": 901.479,
+                                "stop": 913.48,
+                                "byte_start": 3706498,
+                                "byte_stop": 3754563,
+                                "text": "He is doing the same thing on a general basis and applying it to everyone that he would do on an individual basis, if each motorist came in to him with their particular problems and he is applying it uniformly."
+                            },
+                            {
+                                "start": 913.48,
+                                "stop": 920.286,
+                                "byte_start": 3754563,
+                                "byte_stop": 3781731,
+                                "text": "It was initially an exercise of discretion when he promulgated the standards."
+                            },
+                            {
+                                "start": 920.286,
+                                "stop": 927.293,
+                                "byte_start": 3781731,
+                                "byte_stop": 3809734,
+                                "text": "But unless someone asserts that the standard is promulgated, are patently, unreasonable and abuse of his discretion, I think that..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 927.293,
+                        "stop": 946.15,
+                        "byte_start": 3809734,
+                        "byte_stop": 3885175,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 927.293,
+                                "stop": 938.046,
+                                "byte_start": 3809734,
+                                "byte_stop": 3852784,
+                                "text": "Well, that is precisely what the plaintiff\u2019s complaint asserted with Judge McGarr thought, and apparently the State did not see it fit to put something in the record to demonstrate otherwise."
+                            },
+                            {
+                                "start": 938.046,
+                                "stop": 946.15,
+                                "byte_start": 3852784,
+                                "byte_stop": 3885175,
+                                "text": "Judge McGarr is quite familiar with your law as you know."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 946.15,
+                        "stop": 965.314,
+                        "byte_start": 3885175,
+                        "byte_stop": 3961871,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 946.15,
+                                "stop": 965.314,
+                                "byte_start": 3885175,
+                                "byte_stop": 3961871,
+                                "text": "At least if the reasonableness of the regulations to my knowledge was not an issue in this appeal as I understood it, the primary issue which we were to be addressing is whether the Secretary\u2019s discretionary authority --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 965.314,
+                        "stop": 984.552,
+                        "byte_start": 3961871,
+                        "byte_stop": 4038775,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 965.314,
+                                "stop": 974.185,
+                                "byte_start": 3961871,
+                                "byte_stop": 3997397,
+                                "text": "As I understand it, the complaint says, \u201cThe statute allows to Secretary of State total discretion\u201d and you are responding, well yes, but he is fined specific regulations."
+                            },
+                            {
+                                "start": 974.185,
+                                "stop": 984.552,
+                                "byte_start": 3997397,
+                                "byte_stop": 4038775,
+                                "text": "But my suggestion is if that is your defense, should that defense had been made in the District Court where the nature of this regulations and their specificity could have been studied by the court."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 984.552,
+                        "stop": 1096.34,
+                        "byte_start": 4038775,
+                        "byte_stop": 4485992,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 984.552,
+                                "stop": 1010.934,
+                                "byte_start": 4038775,
+                                "byte_stop": 4144310,
+                                "text": "Well, the court did not really reach that question because they decided this as a preliminary matter that there was an absolute requirement under the doctrine of procedural Due Process, was an absolute requirement for a hearing and at that hearing, the District Court did not, the Three-Judge Court did not at anytime to my knowledge, rule or even discusses the reasonableness of -- the point system is promulgated by the secretary."
+                            },
+                            {
+                                "start": 1010.934,
+                                "stop": 1024.161,
+                                "byte_start": 4144310,
+                                "byte_stop": 4197286,
+                                "text": "What they said was that in addition to the point system, there had to be an independent hearing on the issue of disrespect for the traffic laws or in the alternative, reasonable or due care."
+                            },
+                            {
+                                "start": 1024.161,
+                                "stop": 1036.373,
+                                "byte_start": 4197286,
+                                "byte_stop": 4246083,
+                                "text": "And what we are asserting is if you accept the point system as promulgated as an exercise of discretion, which was within the Secretary\u2019s authority and that question was not disputed by the District Court."
+                            },
+                            {
+                                "start": 1036.373,
+                                "stop": 1052.424,
+                                "byte_start": 4246083,
+                                "byte_stop": 4310344,
+                                "text": "What the District Court specifically said was we accept that this is the way -- and that is on Page (a)(6), I believe in the opinion of the Three-Judge Court."
+                            },
+                            {
+                                "start": 1052.424,
+                                "stop": 1062.647,
+                                "byte_start": 4310344,
+                                "byte_stop": 4351200,
+                                "text": "In the second sentence appearing on that page, the court states, \u201cApparently in practice the accumulation of points is the only fact which is considered in determining whether to suspend or revoke."
+                            },
+                            {
+                                "start": 1062.647,
+                                "stop": 1072.484,
+                                "byte_start": 4351200,
+                                "byte_stop": 4390593,
+                                "text": "But neither the statute nor the regulations sanctions the disregard of the conditions of lack of ability to use due care or disrespect for traffic laws in the safety of others."
+                            },
+                            {
+                                "start": 1072.484,
+                                "stop": 1080.893,
+                                "byte_start": 4390593,
+                                "byte_stop": 4424134,
+                                "text": "So long at least as Illinois Law makes a determination of the existence of such lack of ability or disregard a condition to revocation or suspension."
+                            },
+                            {
+                                "start": 1080.893,
+                                "stop": 1086.12,
+                                "byte_start": 4424134,
+                                "byte_stop": 4445136,
+                                "text": "A licensee must be given a hearing on those issues before his license can be suspended or revoked."
+                            },
+                            {
+                                "start": 1086.12,
+                                "stop": 1096.34,
+                                "byte_start": 4445136,
+                                "byte_stop": 4485992,
+                                "text": "Court does not speak in terms of the fact that the Secretary was not authorized to promulgate the point system or that the system has promulgated is in any way an abuse of his discretion."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1096.34,
+                        "stop": 1102.245,
+                        "byte_start": 4485992,
+                        "byte_stop": 4509606,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1096.34,
+                                "stop": 1102.245,
+                                "byte_start": 4485992,
+                                "byte_stop": 4509606,
+                                "text": "No, but the court says that the suspension is not automatic based on the number of points accumulated."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1102.245,
+                        "stop": 1123.748,
+                        "byte_start": 4509606,
+                        "byte_stop": 4595602,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1102.245,
+                                "stop": 1123.748,
+                                "byte_start": 4509606,
+                                "byte_stop": 4595602,
+                                "text": "That is right and the reason which they give for that, not to be true is the fact that the statute speaks in terms of disrespect for the traffic laws and safety of others and I submit that the regulation which I submitted to the court earlier, 6204 says that the standard to be used by the Secretary determining those questions is the point system."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1123.748,
+                        "stop": 1128.076,
+                        "byte_start": 4595602,
+                        "byte_stop": 4612947,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1123.748,
+                                "stop": 1128.076,
+                                "byte_start": 4595602,
+                                "byte_stop": 4612947,
+                                "text": "You spoke of the hearing that he could have requested when he got the notice."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1128.076,
+                        "stop": 1128.704,
+                        "byte_start": 4612947,
+                        "byte_stop": 4615455,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1128.076,
+                                "stop": 1128.704,
+                                "byte_start": 4612947,
+                                "byte_stop": 4615455,
+                                "text": "Yes, Your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1128.704,
+                        "stop": 1132.575,
+                        "byte_start": 4615455,
+                        "byte_stop": 4630919,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1128.704,
+                                "stop": 1132.575,
+                                "byte_start": 4615455,
+                                "byte_stop": 4630919,
+                                "text": "Tell us a little about that hearing would have been."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1132.575,
+                        "stop": 1194.154,
+                        "byte_start": 4630919,
+                        "byte_stop": 4877202,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1132.575,
+                                "stop": 1151.069,
+                                "byte_start": 4630919,
+                                "byte_stop": 4704898,
+                                "text": "Well under Section 2118, the individual motorist is informed at the time he is revoked or suspended, that he has the right to a hearing which he can request and the Secretary, in which the Secretary must set a date with for the hearing within 20 days, the hearing to be held as soon as practical."
+                            },
+                            {
+                                "start": 1151.069,
+                                "stop": 1158.206,
+                                "byte_start": 4704898,
+                                "byte_stop": 4733424,
+                                "text": "And this is a full adjudicatory determination at which a court reporter is present, evidence is taken down."
+                            },
+                            {
+                                "start": 1158.206,
+                                "stop": 1182.519,
+                                "byte_start": 4733424,
+                                "byte_stop": 4830704,
+                                "text": "And basically what the motorist has an opportunity to do in this instance is that even though, there has been an initial determination with which the Secretary cannot argue, that is this motorist has been careless enough to create a high probability of risk to other motorist on the highway, he has been convicted on repeated traffic violations."
+                            },
+                            {
+                                "start": 1182.519,
+                                "stop": 1194.154,
+                                "byte_start": 4830704,
+                                "byte_stop": 4877202,
+                                "text": "At this hearing the motorist has an opportunity to bring in any additional mitigating factors which were not presented at the trial on the initial offence."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1194.154,
+                        "stop": 1197.115,
+                        "byte_start": 4877202,
+                        "byte_stop": 4889113,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1194.154,
+                                "stop": 1197.115,
+                                "byte_start": 4877202,
+                                "byte_stop": 4889113,
+                                "text": "Why didn\u2019t he get that hearing in this situation?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1197.115,
+                        "stop": 1201.517,
+                        "byte_start": 4889113,
+                        "byte_stop": 4906668,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1197.115,
+                                "stop": 1201.517,
+                                "byte_start": 4889113,
+                                "byte_stop": 4906668,
+                                "text": "He did not request it Your Honor, he immediately went to District Court and filed..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1201.517,
+                        "stop": 1208.861,
+                        "byte_start": 4906668,
+                        "byte_stop": 4936029,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1201.517,
+                                "stop": 1208.861,
+                                "byte_start": 4906668,
+                                "byte_stop": 4936029,
+                                "text": "But this is a post-suspension hearing, and the issue in the case is whether you filed for a hearing before the suspension takes effect."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1208.861,
+                        "stop": 1215.859,
+                        "byte_start": 4936029,
+                        "byte_stop": 4964033,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1208.861,
+                                "stop": 1215.859,
+                                "byte_start": 4936029,
+                                "byte_stop": 4964033,
+                                "text": "That is correct."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1215.859,
+                        "stop": 1228.203,
+                        "byte_start": 4964033,
+                        "byte_stop": 5013456,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1215.859,
+                                "stop": 1228.203,
+                                "byte_start": 4964033,
+                                "byte_stop": 5013456,
+                                "text": "In turn, the question would be whether Due Process, whether it is sufficient to meet the standards of Due Process to give prima facie effect to three moving violations for the purpose of suspension, is that correct statement?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1228.203,
+                        "stop": 1391.768,
+                        "byte_start": 5013456,
+                        "byte_stop": 5667667,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1228.203,
+                                "stop": 1248.69,
+                                "byte_start": 5013456,
+                                "byte_stop": 5095376,
+                                "text": "That is correct Your Honor, and we submit that since the individual motorist under such circumstances has had opportunities for full hearings on each of the underlying convictions that the principles of Due Process are not violated by allowing those convictions to stand as prima facie evidence that this person is a reckless motorist."
+                            },
+                            {
+                                "start": 1248.69,
+                                "stop": 1272.163,
+                                "byte_start": 5095376,
+                                "byte_stop": 5189208,
+                                "text": "I would like to point out that one of the leading cases in the area of whether a hearing is required prior to suspension or revocation was this courts decision in Bell v. Burson and this was cited by both parties and I would like to point out, that I believe that our situation comes within the requirements of that Bell v. Burson."
+                            },
+                            {
+                                "start": 1272.163,
+                                "stop": 1283.833,
+                                "byte_start": 5189208,
+                                "byte_stop": 5235915,
+                                "text": "In Bell v. Burson, this court struck down Georgia\u2019s financial responsibility law and they did it because the State did not provide any type of pre-revocation or suspension hearing."
+                            },
+                            {
+                                "start": 1283.833,
+                                "stop": 1292.933,
+                                "byte_start": 5235915,
+                                "byte_stop": 5272382,
+                                "text": "But in doing so, the court did not say that Georgia had to completely prove the issue of fault, which was really the question."
+                            },
+                            {
+                                "start": 1292.933,
+                                "stop": 1327.446,
+                                "byte_start": 5272382,
+                                "byte_stop": 5410413,
+                                "text": "All the court required was that the State holds a hearing to determine a reasonable probability of fault and that if such a reasonable probability existed they would be justified in suspending or revoking a driver\u2019s license, and we submit that certainly an individual who has been repeatedly convicted of offences against the regulation and movement of traffic is\/has already demonstrated a reasonable possibility or even probability of risk to other motorist on the highway."
+                            },
+                            {
+                                "start": 1327.446,
+                                "stop": 1338.298,
+                                "byte_start": 5410413,
+                                "byte_stop": 5453776,
+                                "text": "Once this has been accomplished, of course, at a later time, the State has a strong interest in removing such individuals promptly from the highways."
+                            },
+                            {
+                                "start": 1338.298,
+                                "stop": 1349.091,
+                                "byte_start": 5453776,
+                                "byte_stop": 5496931,
+                                "text": "So that they will not be involved in other traffic incidents which might result in death or personal injury or property damage to other more careful motorist on the highways."
+                            },
+                            {
+                                "start": 1349.091,
+                                "stop": 1357.874,
+                                "byte_start": 5496931,
+                                "byte_stop": 5532144,
+                                "text": "Of course Due Process would require a post-suspension hearing and that requirement is unquestionably satisfy hear by Section 2118."
+                            },
+                            {
+                                "start": 1357.874,
+                                "stop": 1379.976,
+                                "byte_start": 5532144,
+                                "byte_stop": 5620542,
+                                "text": "We submit that a further pre-suspension or pre-revocation hearing is not required, because the individual have already had full adjudicatory hearings on traffic violations which are sufficient to demonstrate a high probability of risk."
+                            },
+                            {
+                                "start": 1379.976,
+                                "stop": 1391.768,
+                                "byte_start": 5620542,
+                                "byte_stop": 5667667,
+                                "text": "This probability of risk justifies the State in acting summarily to remove temporarily at least these people\u2019s licenses until full hearing can be had."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1391.768,
+                        "stop": 1404.263,
+                        "byte_start": 5667667,
+                        "byte_stop": 5717613,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1391.768,
+                                "stop": 1404.263,
+                                "byte_start": 5667667,
+                                "byte_stop": 5717613,
+                                "text": "Are you suggesting that this is analogous to probable cause that justifies an arrest that takes place without a hearing before the arrest is consummated?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1404.263,
+                        "stop": 1405.217,
+                        "byte_start": 5717613,
+                        "byte_stop": 5721479,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1404.263,
+                                "stop": 1405.217,
+                                "byte_start": 5717613,
+                                "byte_stop": 5721479,
+                                "text": "I am not sure, I understand..."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1405.217,
+                        "stop": 1408.156,
+                        "byte_start": 5721479,
+                        "byte_stop": 5733182,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1405.217,
+                                "stop": 1408.156,
+                                "byte_start": 5721479,
+                                "byte_stop": 5733182,
+                                "text": "You do not have a hearing before you arrest a person do you?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1408.156,
+                        "stop": 1411.337,
+                        "byte_start": 5733182,
+                        "byte_stop": 5745930,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1408.156,
+                                "stop": 1411.337,
+                                "byte_start": 5733182,
+                                "byte_stop": 5745930,
+                                "text": "No, that is correct."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1411.337,
+                        "stop": 1425.123,
+                        "byte_start": 5745930,
+                        "byte_stop": 5801100,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1411.337,
+                                "stop": 1425.123,
+                                "byte_start": 5745930,
+                                "byte_stop": 5801100,
+                                "text": "Are you suggesting that these three violations on which there have been full hearings, taken together constitute probable cause to support the suspension without any hearing at the time of the suspension?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1425.123,
+                        "stop": 1467.995,
+                        "byte_start": 5801100,
+                        "byte_stop": 5972568,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1425.123,
+                                "stop": 1441.429,
+                                "byte_start": 5801100,
+                                "byte_stop": 5866302,
+                                "text": "Yes Your Honor, I think that situation is very analogous, because I think when the police feel that there is probable cause to arrest someone, they are allowed to this because to allow this individual to remain on the streets, creates a risk to the rest of the society."
+                            },
+                            {
+                                "start": 1441.429,
+                                "stop": 1457.513,
+                                "byte_start": 5866302,
+                                "byte_stop": 5930668,
+                                "text": "And similarly in this case, I feel that once an individual has repeatedly demonstrated careless driving habits which have caused him to violate traffic ordinances or regulations which are obliviously enacted for the safety of motorist on the highways."
+                            },
+                            {
+                                "start": 1457.513,
+                                "stop": 1467.995,
+                                "byte_start": 5930668,
+                                "byte_stop": 5972568,
+                                "text": "The State has justified it that time in taking summary action to remove such a person from the highways before he does serious damage, either to himself or to other individuals on the highways."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1467.995,
+                        "stop": 1482.985,
+                        "byte_start": 5972568,
+                        "byte_stop": 6032545,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1467.995,
+                                "stop": 1469.908,
+                                "byte_start": 5972568,
+                                "byte_stop": 5980196,
+                                "text": "What can he do to get this?"
+                            },
+                            {
+                                "start": 1469.908,
+                                "stop": 1476.487,
+                                "byte_start": 5980196,
+                                "byte_stop": 6006527,
+                                "text": "You are referred to some sort of a temporary license, hardship license I think was the term."
+                            },
+                            {
+                                "start": 1476.487,
+                                "stop": 1482.985,
+                                "byte_start": 6006527,
+                                "byte_stop": 6032545,
+                                "text": "What would he have to do to get that while he was waiting for a hearing if he were to have one?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1482.985,
+                        "stop": 1488.347,
+                        "byte_start": 6032545,
+                        "byte_stop": 6053966,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1482.985,
+                                "stop": 1488.347,
+                                "byte_start": 6032545,
+                                "byte_stop": 6053966,
+                                "text": "Your honor, he would have to do precisely what the plaintiff in this case did."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1488.347,
+                        "stop": 1489.853,
+                        "byte_start": 6053966,
+                        "byte_stop": 6060026,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1488.347,
+                                "stop": 1489.853,
+                                "byte_start": 6053966,
+                                "byte_stop": 6060026,
+                                "text": "Tell us again what that was."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1489.853,
+                        "stop": 1502.046,
+                        "byte_start": 6060026,
+                        "byte_stop": 6108823,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1489.853,
+                                "stop": 1502.046,
+                                "byte_start": 6060026,
+                                "byte_stop": 6108823,
+                                "text": "He would have to apply to the Secretary of State\u2019s office, and all you have to demonstrate in order to get a Hardship License is that, it is causing you, you need your car to get to and from work would be sufficient grounds for the Secretary."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1502.046,
+                        "stop": 1505.148,
+                        "byte_start": 6108823,
+                        "byte_stop": 6121153,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1502.046,
+                                "stop": 1505.148,
+                                "byte_start": 6108823,
+                                "byte_stop": 6121153,
+                                "text": "Or if you were a Taxi Cab driver that you made your living that way."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1505.148,
+                        "stop": 1515.12,
+                        "byte_start": 6121153,
+                        "byte_stop": 6161068,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1505.148,
+                                "stop": 1515.12,
+                                "byte_start": 6121153,
+                                "byte_stop": 6161068,
+                                "text": "Right, that would be another instance in which you would be able to drive pending the outcome of the administrative hearing, under those circumstances."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1515.12,
+                        "stop": 1520.84,
+                        "byte_start": 6161068,
+                        "byte_stop": 6183951,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1515.12,
+                                "stop": 1520.84,
+                                "byte_start": 6161068,
+                                "byte_stop": 6183951,
+                                "text": "How long does it take to get that kind of matter presented?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1520.84,
+                        "stop": 1557.12,
+                        "byte_start": 6183951,
+                        "byte_stop": 6329087,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1520.84,
+                                "stop": 1523.227,
+                                "byte_start": 6183951,
+                                "byte_stop": 6193564,
+                                "text": "Well Your Honor, I can answer you specifically."
+                            },
+                            {
+                                "start": 1523.227,
+                                "stop": 1530.486,
+                                "byte_start": 6193564,
+                                "byte_stop": 6222508,
+                                "text": "In this case, I believe the plaintiff applied on June 10th for the Hardship License and it was granted on July 25th."
+                            },
+                            {
+                                "start": 1530.486,
+                                "stop": 1545.063,
+                                "byte_start": 6222508,
+                                "byte_stop": 6280813,
+                                "text": "There is a hearing involved but the hearing is not in any way analogous to the hearing that is held under Section 2118 with extended length of time due to the fact that testimony and evidences taken at the brief hearing."
+                            },
+                            {
+                                "start": 1545.063,
+                                "stop": 1550.701,
+                                "byte_start": 6280813,
+                                "byte_stop": 6303383,
+                                "text": "So, I would say anywhere from three to four weeks would probably be adequate time."
+                            },
+                            {
+                                "start": 1550.701,
+                                "stop": 1557.12,
+                                "byte_start": 6303383,
+                                "byte_stop": 6329087,
+                                "text": "I would also like to point out that if an individual drives for a living -- oh I see my time is expired."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1557.12,
+                        "stop": 1562.327,
+                        "byte_start": 6329087,
+                        "byte_stop": 6349881,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1557.12,
+                                "stop": 1562.327,
+                                "byte_start": 6329087,
+                                "byte_stop": 6349881,
+                                "text": "No, that is your warning notice."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1562.327,
+                        "stop": 1619.913,
+                        "byte_start": 6349881,
+                        "byte_stop": 6580281,
+                        "speaker": {
+                            "ID": 38259,
+                            "name": "Patricia Rosen",
+                            "href": "https:\/\/api.oyez.org\/people\/patricia_rosen",
+                            "last_name": "Rosen",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "patricia_rosen"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1562.327,
+                                "stop": 1573.702,
+                                "byte_start": 6349881,
+                                "byte_stop": 6395438,
+                                "text": "Okay, If an individual drives for a living he is automatically, if he requests the hearing, he is given a license to drive depending the outcome of their hearing."
+                            },
+                            {
+                                "start": 1573.702,
+                                "stop": 1580.521,
+                                "byte_start": 6395438,
+                                "byte_stop": 6422710,
+                                "text": "So, there are special protections for individuals who make their living through the use of driving."
+                            },
+                            {
+                                "start": 1580.521,
+                                "stop": 1590.24,
+                                "byte_start": 6422710,
+                                "byte_stop": 6461580,
+                                "text": "However, those particular protections were not involved in this case, because the plaintiff here did not request a hearing."
+                            },
+                            {
+                                "start": 1590.24,
+                                "stop": 1618.571,
+                                "byte_start": 6461580,
+                                "byte_stop": 6574847,
+                                "text": "A mention, I would like to assert that we believe that the hearing which is given on each of the underlying traffic convictions is more than sufficient to satisfy the process requirements of a hearing prior to suspension or revocation, and that a further independent hearing by the Secretary of State\u2019s office should not be required, and we will ask the decision of the District Court be reversed."
+                            },
+                            {
+                                "start": 1618.571,
+                                "stop": 1619.913,
+                                "byte_start": 6574847,
+                                "byte_stop": 6580281,
+                                "text": "Thank you."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1619.913,
+                        "stop": 1627.924,
+                        "byte_start": 6580281,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1619.913,
+                                "stop": 1627.924,
+                                "byte_start": 6580281,
+                                "byte_stop": 0,
+                                "text": "Counsel, I think we will not ask you to fragment your argument by beginning, it would be nice if you will be prepared to begin the first thing in the morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

@@ -1,0 +1,138 @@
+{
+    "id": 22329,
+    "title": "Oral Argument - February 20, 2001",
+    "media_file": [
+        {
+            "id": 53780,
+            "mime": "audio\/mpeg",
+            "size": 11267797,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2000\/99-1884\/20010220a_99-1884.delivery.mp3"
+        },
+        {
+            "id": 75520,
+            "mime": "audio\/ogg",
+            "size": 27981822,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2000\/99-1884\/20010220a_99-1884.ogg"
+        },
+        {
+            "id": 75521,
+            "mime": "application\/x-mpegURL",
+            "size": 40943,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2000\/99-1884\/20010220a_99-1884.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Lackawanna County District Attorney  v. Coss",
+        "duration": 2780.32,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 2780.32,
+                "byte_start": 136499,
+                "byte_stop": 11257766,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 60.164,
+                        "byte_start": 136499,
+                        "byte_stop": 377243,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.184,
+                                "byte_start": 136499,
+                                "byte_stop": 177250,
+                                "text": "We\u0027ll hear argument next in Number 99-1884, Lackawanna County District Attorney v. South Carolina."
+                            },
+                            {
+                                "start": 10.184,
+                                "stop": 60.164,
+                                "byte_start": 177250,
+                                "byte_stop": 377243,
+                                "text": "Mr. O\u0027Malley."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 60.164,
+                        "stop": 2780.32,
+                        "byte_start": 377243,
+                        "byte_stop": 11257766,
+                        "speaker": {
+                            "ID": 45774,
+                            "name": "William P. O\u0027Malley",
+                            "href": "https:\/\/api.oyez.org\/people\/william_p_omalley",
+                            "last_name": "O\u0027Malley",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "william_p_omalley"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 60.164,
+                                "stop": 62.726,
+                                "byte_start": 377243,
+                                "byte_stop": 387483,
+                                "text": "Mr. Chief Justice, and may it please the Court:"
+                            },
+                            {
+                                "start": 62.726,
+                                "stop": 117.736,
+                                "byte_start": 387483,
+                                "byte_stop": 607539,
+                                "text": "Essentially involved in this case is the failure of the Third Circuit Court to apply the rationale espoused by this Court in Custis v. United States, to conclude that constitutional deprivations other than deprivation of the right to counsel can be addressed in habeas corpus proceedings as constituting a collateral effect enhancing the sentence of someone in custody under a conviction that they are seeking to attack in the Federal habeas corpus proceedings."
+                            },
+                            {
+                                "start": 117.736,
+                                "stop": 2780.32,
+                                "byte_start": 607539,
+                                "byte_stop": 11257766,
+                                "text": "In this case, Edward Coss had been convicted in the mid-eighties of simple assault and institutional vandalism and had been sentenced to incarceration, and he had completely served his sentence."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

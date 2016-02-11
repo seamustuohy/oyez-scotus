@@ -1,0 +1,95 @@
+{
+    "id": 20088,
+    "title": "Opinion Announcement - May 23, 1991",
+    "transcript": {
+        "title": "Farrey v. Sanderfoot",
+        "duration": 17.894,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 17.894,
+                "byte_start": 73958,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 17.894,
+                        "byte_start": 73958,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.725,
+                                "byte_start": 73958,
+                                "byte_stop": 100916,
+                                "text": "The second case is Farrey against Sanderfoot No 90-350."
+                            },
+                            {
+                                "start": 6.725,
+                                "stop": 10.746,
+                                "byte_start": 100916,
+                                "byte_stop": 117008,
+                                "text": "The Court of Appeals for the Seventh Circuit\u0027s judgment is reversed."
+                            },
+                            {
+                                "start": 10.746,
+                                "stop": 17.894,
+                                "byte_start": 117008,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy has filed a concurring opinion in which Justice Souter has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49300,
+            "mime": "audio\/mpeg",
+            "size": 145220,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/90-350\/19910523o_90-350.delivery.mp3"
+        },
+        {
+            "id": 71104,
+            "mime": "audio\/ogg",
+            "size": 183132,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/90-350\/19910523o_90-350.ogg"
+        },
+        {
+            "id": 71105,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/90-350\/19910523o_90-350.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

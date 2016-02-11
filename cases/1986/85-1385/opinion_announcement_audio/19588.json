@@ -1,0 +1,109 @@
+{
+    "id": 19588,
+    "title": "Opinion Announcement - April 22, 1987",
+    "transcript": {
+        "title": "United States v. General Dynamics Corp.",
+        "duration": 52.637,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 52.637,
+                "byte_start": 91792,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 52.637,
+                        "byte_start": 91792,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.454,
+                                "byte_start": 91792,
+                                "byte_stop": 141634,
+                                "text": "In No. 85-1385, the US versus General Dynamics comes to us from the United States Court of Appeals for the Federal Circuit."
+                            },
+                            {
+                                "start": 12.454,
+                                "stop": 30.931,
+                                "byte_start": 141634,
+                                "byte_stop": 215612,
+                                "text": "The Court of Appeals there held that an accrual-basis taxpayer, that provided medical benefit to its employees could deduct an estimate of its obligation to pay the medical care obtained during the last quarter of the year."
+                            },
+                            {
+                                "start": 30.931,
+                                "stop": 36.953,
+                                "byte_start": 215612,
+                                "byte_stop": 239645,
+                                "text": "Claims to which had not yet been filed has over close of the tax year."
+                            },
+                            {
+                                "start": 36.953,
+                                "stop": 42.801,
+                                "byte_start": 239645,
+                                "byte_stop": 263051,
+                                "text": "In an opinion filed with the Clerk today, we reverse the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 42.801,
+                                "stop": 52.637,
+                                "byte_start": 263051,
+                                "byte_stop": 0,
+                                "text": "Justice O\u0027Connor has filed a dissenting opinion in which Justice Blackmun and Justice Stevens have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48300,
+            "mime": "audio\/mpeg",
+            "size": 302339,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-1385\/19870422o_85-1385.delivery.mp3"
+        },
+        {
+            "id": 70120,
+            "mime": "audio\/ogg",
+            "size": 497004,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-1385\/19870422o_85-1385.ogg"
+        },
+        {
+            "id": 70121,
+            "mime": "application\/x-mpegURL",
+            "size": 903,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-1385\/19870422o_85-1385.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

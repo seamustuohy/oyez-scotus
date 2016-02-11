@@ -1,0 +1,95 @@
+{
+    "id": 18596,
+    "title": "Opinion Announcement - March 09, 1981",
+    "transcript": {
+        "title": "Doe v. Delaware",
+        "duration": 32.997,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.997,
+                "byte_start": 92064,
+                "byte_stop": 224035,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 32.997,
+                        "byte_start": 92064,
+                        "byte_stop": 224035,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.949,
+                                "byte_start": 92064,
+                                "byte_stop": 183911,
+                                "text": "In John Doe and Jane Roe against the State of Delaware, we have an opinion filed with the clerk this morning announcing that the appeal from the Supreme Court of Delaware is dismissed for want of a properly prevented -- presented federal question."
+                            },
+                            {
+                                "start": 22.949,
+                                "stop": 28.597,
+                                "byte_start": 183911,
+                                "byte_stop": 206480,
+                                "text": "Justice Brennan with whom Justice White joined filed a dissenting opinion."
+                            },
+                            {
+                                "start": 28.597,
+                                "stop": 32.997,
+                                "byte_start": 206480,
+                                "byte_stop": 224035,
+                                "text": "Justice Stevens filed a separate dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46315,
+            "mime": "audio\/mpeg",
+            "size": 224244,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/79-5932\/19810309o_79-5932.delivery.mp3"
+        },
+        {
+            "id": 68154,
+            "mime": "audio\/ogg",
+            "size": 333941,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/79-5932\/19810309o_79-5932.ogg"
+        },
+        {
+            "id": 68155,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/79-5932\/19810309o_79-5932.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

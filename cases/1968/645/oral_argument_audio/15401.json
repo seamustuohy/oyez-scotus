@@ -1,0 +1,600 @@
+{
+    "id": 15401,
+    "title": "Oral Argument - February 27, 1969",
+    "media_file": [
+        {
+            "id": 39925,
+            "mime": "audio\/mpeg",
+            "size": 1081762,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1968\/645\/19690227a_645.delivery.mp3"
+        },
+        {
+            "id": 61880,
+            "mime": "audio\/ogg",
+            "size": 2293046,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1968\/645\/19690227a_645.ogg"
+        },
+        {
+            "id": 61881,
+            "mime": "application\/x-mpegURL",
+            "size": 3391,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1968\/645\/19690227a_645.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Davis v. Mississippi",
+        "duration": 244.522,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 244.522,
+                "byte_start": 103424,
+                "byte_stop": 1081448,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 15.334,
+                        "byte_start": 103424,
+                        "byte_stop": 164864,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.78,
+                                "byte_start": 103424,
+                                "byte_stop": 146578,
+                                "text": "Number 645, John Davis, petitioner versus Mississippi."
+                            },
+                            {
+                                "start": 10.78,
+                                "stop": 15.334,
+                                "byte_start": 146578,
+                                "byte_stop": 164864,
+                                "text": "Mr. Zarr, you may continue with your argument."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 15.334,
+                        "stop": 212.683,
+                        "byte_start": 164864,
+                        "byte_stop": 954180,
+                        "speaker": {
+                            "ID": 36975,
+                            "name": "Melvyn Zarr",
+                            "href": "https:\/\/api.oyez.org\/people\/melvyn_zarr",
+                            "last_name": "Zarr",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "melvyn_zarr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 15.334,
+                                "stop": 17.775,
+                                "byte_start": 164864,
+                                "byte_stop": 174582,
+                                "text": "Mr. Chief Justice, may it please the Court."
+                            },
+                            {
+                                "start": 17.775,
+                                "stop": 24.652,
+                                "byte_start": 174582,
+                                "byte_stop": 202062,
+                                "text": "I\u0027d like to summarize the major points I made yesterday and then say a few things about the record."
+                            },
+                            {
+                                "start": 24.652,
+                                "stop": 30.703,
+                                "byte_start": 202062,
+                                "byte_stop": 226304,
+                                "text": "The major points were these; one, that the petitioner was caught up in a police dragnet."
+                            },
+                            {
+                                "start": 30.703,
+                                "stop": 44.766,
+                                "byte_start": 226304,
+                                "byte_stop": 282520,
+                                "text": "Two, that the two detentions of petitioner yielding the two sets of fingerprints were illegal arrest because in the first place, in neither case was there was a warrant to earn any attempt to show exigent circumstances excusing a warrant."
+                            },
+                            {
+                                "start": 44.766,
+                                "stop": 53.854,
+                                "byte_start": 282520,
+                                "byte_stop": 318882,
+                                "text": "And secondly, even assuming that the warrant requirement could somehow be excused in this case, there was no attempt by the state to show probable cause to arrest."
+                            },
+                            {
+                                "start": 53.854,
+                                "stop": 71.2,
+                                "byte_start": 318882,
+                                "byte_stop": 388263,
+                                "text": "Next the fact that these arrests were for investigation only explains but cannot excuse the failure to comply with these constitutional safeguards, and last that fingerprints are not accepted from the operation of the exclusionary rule."
+                            },
+                            {
+                                "start": 71.2,
+                                "stop": 90.017,
+                                "byte_start": 388263,
+                                "byte_stop": 463496,
+                                "text": "Now, counsel opposite stressed to the Court yesterday that the December 3rd detention, the first detention was not an arrest and apparently relied upon the court\u2019s below ruling which in role and part appears at page 59 of the record which I shall just briefly read."
+                            },
+                            {
+                                "start": 90.017,
+                                "stop": 108.951,
+                                "byte_start": 463496,
+                                "byte_stop": 539251,
+                                "text": "The court below said this, the officer said that he arrested appellant but the evidence which is in no way controverted shows that appellant was merely escorted to headquarters for interrogation as in fact for numerous others in the course of an investigation by police of an unsolved major crime."
+                            },
+                            {
+                                "start": 108.951,
+                                "stop": 117.727,
+                                "byte_start": 539251,
+                                "byte_stop": 574360,
+                                "text": "It is clear from the record that there was no intention to arrest within the accepted legal meaning of the word and of course there are two answers to this."
+                            },
+                            {
+                                "start": 117.727,
+                                "stop": 133.356,
+                                "byte_start": 574360,
+                                "byte_stop": 636949,
+                                "text": "One, it is clear from the record that that statement is wrong that the only testimony in the record about December 3rd arrest is that of officer Griffin and Thompson which they say they arrested the petitioner and there is nothing to controvert that."
+                            },
+                            {
+                                "start": 133.356,
+                                "stop": 143.247,
+                                "byte_start": 636949,
+                                "byte_stop": 676446,
+                                "text": "And the second answer of course is that this was an investigative arrest and that as we have argued is illegal."
+                            },
+                            {
+                                "start": 143.247,
+                                "stop": 156.766,
+                                "byte_start": 676446,
+                                "byte_stop": 730572,
+                                "text": "I have two evidentiary points, one, I want to stress that the petitioner had done the yard work for the woman at page 17 interrogation there that the record makes that clear."
+                            },
+                            {
+                                "start": 156.766,
+                                "stop": 169.98,
+                                "byte_start": 730572,
+                                "byte_stop": 783444,
+                                "text": "And next, I want to stress that even though Mr. Justice Stewart yesterday correctly observed that she testified that there was no doubt in my mind about it that Johnny was the one."
+                            },
+                            {
+                                "start": 169.98,
+                                "stop": 177.888,
+                                "byte_start": 783444,
+                                "byte_stop": 815000,
+                                "text": "In other places, she was not quite so positive at page 22 just previous to that she says, \u201cI recognized it was Johnny."
+                            },
+                            {
+                                "start": 177.888,
+                                "stop": 184.064,
+                                "byte_start": 815000,
+                                "byte_stop": 839764,
+                                "text": "I thought it was but I wasn\u2019t perfectly sure right then but then I knew nobody else have been in the house but him."
+                            },
+                            {
+                                "start": 184.064,
+                                "stop": 188.812,
+                                "byte_start": 839764,
+                                "byte_stop": 858676,
+                                "text": "I asked him to carry a table to the kitchen where he threw the light where the media was.\u201d"
+                            },
+                            {
+                                "start": 188.812,
+                                "stop": 199.088,
+                                "byte_start": 858676,
+                                "byte_stop": 899845,
+                                "text": "And on page 30 of the record, on cross-examination, she says in response to the question, \u201cBut by light of the flashlight could you see his face?\u201d"
+                            },
+                            {
+                                "start": 199.088,
+                                "stop": 201.436,
+                                "byte_start": 899845,
+                                "byte_stop": 909249,
+                                "text": "Answer, \u201cYes sir, true."
+                            },
+                            {
+                                "start": 201.436,
+                                "stop": 210.468,
+                                "byte_start": 909249,
+                                "byte_stop": 945298,
+                                "text": "He had that fascinator put to the head piece over it and I could see through that crochet part his face and I recognized him or who\u2019s as far that\u0027s who it was."
+                            },
+                            {
+                                "start": 210.468,
+                                "stop": 212.683,
+                                "byte_start": 945298,
+                                "byte_stop": 954180,
+                                "text": "I was pretty sure it was.\u201d"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 212.683,
+                        "stop": 217.814,
+                        "byte_start": 954180,
+                        "byte_stop": 974764,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 212.683,
+                                "stop": 217.814,
+                                "byte_start": 954180,
+                                "byte_stop": 974764,
+                                "text": "You are going back for a moment if you will to the first three points you made in summary."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 217.814,
+                        "stop": 218.467,
+                        "byte_start": 974764,
+                        "byte_stop": 977377,
+                        "speaker": {
+                            "ID": 36975,
+                            "name": "Melvyn Zarr",
+                            "href": "https:\/\/api.oyez.org\/people\/melvyn_zarr",
+                            "last_name": "Zarr",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "melvyn_zarr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 217.814,
+                                "stop": 218.467,
+                                "byte_start": 974764,
+                                "byte_stop": 977377,
+                                "text": "Yes, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 218.467,
+                        "stop": 229.918,
+                        "byte_start": 977377,
+                        "byte_stop": 1023143,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 218.467,
+                                "stop": 227.21,
+                                "byte_start": 977377,
+                                "byte_stop": 1012276,
+                                "text": "The last of which was -- the third of which was that fingerprints are not excluded from the -- are not accepted from the exclusionary rule."
+                            },
+                            {
+                                "start": 227.21,
+                                "stop": 229.918,
+                                "byte_start": 1012276,
+                                "byte_stop": 1023143,
+                                "text": "There\u0027s the Bynum case in the District of Columbia."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 229.918,
+                        "stop": 230.856,
+                        "byte_start": 1023143,
+                        "byte_stop": 1026905,
+                        "speaker": {
+                            "ID": 36975,
+                            "name": "Melvyn Zarr",
+                            "href": "https:\/\/api.oyez.org\/people\/melvyn_zarr",
+                            "last_name": "Zarr",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "melvyn_zarr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 229.918,
+                                "stop": 230.856,
+                                "byte_start": 1023143,
+                                "byte_stop": 1026905,
+                                "text": "Yes, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 230.856,
+                        "stop": 234.565,
+                        "byte_start": 1026905,
+                        "byte_stop": 1041742,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 230.856,
+                                "stop": 234.565,
+                                "byte_start": 1026905,
+                                "byte_stop": 1041742,
+                                "text": "Are there any other cases on that point?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 234.565,
+                        "stop": 238.15,
+                        "byte_start": 1041742,
+                        "byte_stop": 1056057,
+                        "speaker": {
+                            "ID": 36975,
+                            "name": "Melvyn Zarr",
+                            "href": "https:\/\/api.oyez.org\/people\/melvyn_zarr",
+                            "last_name": "Zarr",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "melvyn_zarr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 234.565,
+                                "stop": 238.15,
+                                "byte_start": 1041742,
+                                "byte_stop": 1056057,
+                                "text": "None that we could find Your Honor that dealt explicitly with fingerprints."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 238.15,
+                        "stop": 239.595,
+                        "byte_start": 1056057,
+                        "byte_stop": 1061909,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 238.15,
+                                "stop": 239.595,
+                                "byte_start": 1056057,
+                                "byte_stop": 1061909,
+                                "text": "That\u0027s what I\u0027m talking."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 239.595,
+                        "stop": 239.972,
+                        "byte_start": 1061909,
+                        "byte_stop": 1063372,
+                        "speaker": {
+                            "ID": 36975,
+                            "name": "Melvyn Zarr",
+                            "href": "https:\/\/api.oyez.org\/people\/melvyn_zarr",
+                            "last_name": "Zarr",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "melvyn_zarr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 239.595,
+                                "stop": 239.972,
+                                "byte_start": 1061909,
+                                "byte_stop": 1063372,
+                                "text": "Thank you (Voice Overlap)."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 239.972,
+                        "stop": 243.317,
+                        "byte_start": 1063372,
+                        "byte_stop": 1076746,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 239.972,
+                                "stop": 243.317,
+                                "byte_start": 1063372,
+                                "byte_stop": 1076746,
+                                "text": "Thank you."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 243.317,
+                        "stop": 244.522,
+                        "byte_start": 1076746,
+                        "byte_stop": 1081448,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 243.317,
+                                "stop": 244.522,
+                                "byte_start": 1076746,
+                                "byte_stop": 1081448,
+                                "text": "Very well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

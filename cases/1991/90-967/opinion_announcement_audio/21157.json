@@ -1,0 +1,81 @@
+{
+    "id": 21157,
+    "title": "Opinion Announcement - December 04, 1991",
+    "transcript": {
+        "title": "Wooddell v. International Brotherhood of Electrical Workers, Local 71",
+        "duration": 22.413,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 22.413,
+                "byte_start": 90892,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 22.413,
+                        "byte_start": 90892,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.413,
+                                "byte_start": 90892,
+                                "byte_stop": 0,
+                                "text": "The second case is Wooddell against International Brotherhood of Electrical Workers, No.90-967 and here, we reverse the judgment of the Court of Appeals for the Sixth Circuit and again, Justice Thomas took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51438,
+            "mime": "audio\/mpeg",
+            "size": 180544,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-967\/19911204o_90-967.delivery.mp3"
+        },
+        {
+            "id": 73214,
+            "mime": "audio\/ogg",
+            "size": 220831,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-967\/19911204o_90-967.ogg"
+        },
+        {
+            "id": 73215,
+            "mime": "application\/x-mpegURL",
+            "size": 455,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-967\/19911204o_90-967.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

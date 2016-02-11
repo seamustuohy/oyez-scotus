@@ -1,0 +1,2919 @@
+{
+    "id": 19218,
+    "title": "Oral Argument - April 26, 1989",
+    "media_file": [
+        {
+            "id": 47560,
+            "mime": "audio\/mpeg",
+            "size": 5965198,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-6997\/19890426a_87-6997.delivery.mp3"
+        },
+        {
+            "id": 69386,
+            "mime": "audio\/ogg",
+            "size": 14836738,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-6997\/19890426a_87-6997.ogg"
+        },
+        {
+            "id": 69387,
+            "mime": "application\/x-mpegURL",
+            "size": 21583,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-6997\/19890426a_87-6997.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Carella v. California",
+        "duration": 1461.39,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 726.937,
+                "byte_start": 110948,
+                "byte_stop": 3018795,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 12.308,
+                        "byte_start": 110948,
+                        "byte_stop": 160267,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.308,
+                                "byte_start": 110948,
+                                "byte_stop": 160267,
+                                "text": "We\u0027ll hear argument next on in 87-6997, Eugene John Carella v. California."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 12.308,
+                        "stop": 226.345,
+                        "byte_start": 160267,
+                        "byte_stop": 1016352,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 12.308,
+                                "stop": 16.11,
+                                "byte_start": 160267,
+                                "byte_stop": 175418,
+                                "text": "Thank you, Mr. Chief Justice, and may it please the Court:"
+                            },
+                            {
+                                "start": 16.11,
+                                "stop": 23.615,
+                                "byte_start": 175418,
+                                "byte_stop": 205511,
+                                "text": "Appellant was convicted of grand theft after failing to return a rental car by the date set out in the rental agreement."
+                            },
+                            {
+                                "start": 23.615,
+                                "stop": 36.923,
+                                "byte_start": 205511,
+                                "byte_stop": 258697,
+                                "text": "The question presented is whether two California statutes pursuant to which the jury was instructed to presume commission of the offense from proof of certain predicate facts deprived him of due process of law."
+                            },
+                            {
+                                "start": 36.923,
+                                "stop": 49.164,
+                                "byte_start": 258697,
+                                "byte_stop": 307702,
+                                "text": "It is our position, as the State of California now concedes, that these instructions violated the bedrock due process principal that the prosecution must prove its case beyond a reasonable doubt."
+                            },
+                            {
+                                "start": 49.164,
+                                "stop": 52.033,
+                                "byte_start": 307702,
+                                "byte_stop": 319092,
+                                "text": "The facts of the case can be summarized very briefly."
+                            },
+                            {
+                                "start": 52.033,
+                                "stop": 63.073,
+                                "byte_start": 319092,
+                                "byte_stop": 363291,
+                                "text": "Appellant rented a car from a Los Angeles rental agency on March 25th, 1985, left a substantial deposit and agreed to return it by May 3rd of that year."
+                            },
+                            {
+                                "start": 63.073,
+                                "stop": 72.012,
+                                "byte_start": 363291,
+                                "byte_stop": 399026,
+                                "text": "When the car was not returned by that date, the rental agency made several efforts to contact him and eventually reported the car as stolen."
+                            },
+                            {
+                                "start": 72.012,
+                                "stop": 83.135,
+                                "byte_start": 399026,
+                                "byte_stop": 443539,
+                                "text": "Appellant was arrested on June 27th, 1985, and the car was found that same day in the parking lot adjoining the business address he had provided at the time he rented the car."
+                            },
+                            {
+                                "start": 83.135,
+                                "stop": 87.189,
+                                "byte_start": 443539,
+                                "byte_stop": 459735,
+                                "text": "He was charged with two offenses under the California code."
+                            },
+                            {
+                                "start": 87.189,
+                                "stop": 91.574,
+                                "byte_start": 459735,
+                                "byte_stop": 477289,
+                                "text": "He was charged with grand theft and a related offense under the vehicle code."
+                            },
+                            {
+                                "start": 91.574,
+                                "stop": 110.637,
+                                "byte_start": 477289,
+                                "byte_stop": 553567,
+                                "text": "At the close of the evidence, the jury was instructed that grand theft required an intent to deprive the owner of permanent possession; that a conviction under the lesser offense would be authorized even if temporary deprivation was intended; and that embezzlement was a form of grand theft."
+                            },
+                            {
+                                "start": 110.637,
+                                "stop": 119.16,
+                                "byte_start": 553567,
+                                "byte_stop": 587630,
+                                "text": "In addition, over appellant\u0027s objection, the trial court instructed the jury on two statutory presumptions at issue in this appeal."
+                            },
+                            {
+                                "start": 119.16,
+                                "stop": 135.003,
+                                "byte_start": 587630,
+                                "byte_stop": 651056,
+                                "text": "The jury was told first that whenever a person intentionally and wilfully keeps a rental car more than five days beyond the expiration of the rental agreement, he shall be presumed to have embezzled it, embezzlement, again, being a species of grand theft in California."
+                            },
+                            {
+                                "start": 135.003,
+                                "stop": 147.577,
+                                "byte_start": 651056,
+                                "byte_stop": 701315,
+                                "text": "In addition, the jury was told that intent to commit theft by fraud is presumed from failure to return rental property within 20 days of the mailing of a demand letter."
+                            },
+                            {
+                                "start": 147.577,
+                                "stop": 163.253,
+                                "byte_start": 701315,
+                                "byte_stop": 764009,
+                                "text": "After seeking further clarification on the meaning of these presumptions, the jury deliberated for an additional nine minutes and then returned a verdict of guilty on the grand theft charge and acquitted him of the lesser offense under the vehicle code."
+                            },
+                            {
+                                "start": 163.253,
+                                "stop": 173.895,
+                                "byte_start": 764009,
+                                "byte_stop": 806537,
+                                "text": "One of the most basic safeguards against the wrongful deprivation of liberty is the requirement that the prosecution prove its case beyond a reasonable doubt."
+                            },
+                            {
+                                "start": 173.895,
+                                "stop": 181.734,
+                                "byte_start": 806537,
+                                "byte_stop": 837988,
+                                "text": "It is our submission today that the instructions to appellant\u0027s jury violated that rather simple but fundamental principle."
+                            },
+                            {
+                                "start": 181.734,
+                                "stop": 196.826,
+                                "byte_start": 837988,
+                                "byte_stop": 898279,
+                                "text": "In clear, unmistakable, unqualified language, the jury was told that if it concluded that appellant had wilfully kept a car more than five extra days, it was to find that he was a thief."
+                            },
+                            {
+                                "start": 196.826,
+                                "stop": 208.734,
+                                "byte_start": 898279,
+                                "byte_stop": 945926,
+                                "text": "As a consequence of that instruction, the jury was authorized to return a verdict of guilty, even though the prosecution had not proven him guilty."
+                            },
+                            {
+                                "start": 208.734,
+                                "stop": 214.038,
+                                "byte_start": 945926,
+                                "byte_stop": 967137,
+                                "text": "We think that that instruction is plainly unconstitutional under the decisions of this Court."
+                            },
+                            {
+                                "start": 214.038,
+                                "stop": 226.345,
+                                "byte_start": 967137,
+                                "byte_stop": 1016352,
+                                "text": "Indeed, as the state of California now concedes, in that respect, this case is indistinguishable from this Court\u0027s decisions in Francis v. Franklin and Sandstrom v. Montana."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 226.345,
+                        "stop": 232.683,
+                        "byte_start": 1016352,
+                        "byte_stop": 1041743,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 226.345,
+                                "stop": 232.683,
+                                "byte_start": 1016352,
+                                "byte_stop": 1041743,
+                                "text": "Mr. Cerf, I take it the State now says, though, that the error in the case might be harmless."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 232.683,
+                        "stop": 248.276,
+                        "byte_start": 1041743,
+                        "byte_stop": 1104124,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 232.683,
+                                "stop": 241.189,
+                                "byte_start": 1041743,
+                                "byte_stop": 1075807,
+                                "text": "It does suggest that, uh, and indeed, I believe that is the only remaining issue in the case, unless, and let me turn my attention to that, if I may."
+                            },
+                            {
+                                "start": 241.189,
+                                "stop": 248.276,
+                                "byte_start": 1075807,
+                                "byte_stop": 1104124,
+                                "text": "I, we, seriously question whether a violation of this particular nature is even subject to harmless error but I--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 248.276,
+                        "stop": 252.797,
+                        "byte_start": 1104124,
+                        "byte_stop": 1122200,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 248.276,
+                                "stop": 252.797,
+                                "byte_start": 1104124,
+                                "byte_stop": 1122200,
+                                "text": "Oh, I thought Sandstrom applied a harmless error analysis, didn\u0027t it?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 252.797,
+                        "stop": 255.815,
+                        "byte_start": 1122200,
+                        "byte_stop": 1134217,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 252.797,
+                                "stop": 254.763,
+                                "byte_start": 1122200,
+                                "byte_stop": 1130037,
+                                "text": "--Sandstrom, I believe, did not."
+                            },
+                            {
+                                "start": 254.763,
+                                "stop": 255.815,
+                                "byte_start": 1130037,
+                                "byte_stop": 1134217,
+                                "text": "Rose v. Clark--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 255.815,
+                        "stop": 261.519,
+                        "byte_start": 1134217,
+                        "byte_stop": 1157100,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 255.815,
+                                "stop": 256.965,
+                                "byte_start": 1134217,
+                                "byte_stop": 1138814,
+                                "text": "Rose v. Clark did."
+                            },
+                            {
+                                "start": 256.965,
+                                "stop": 261.519,
+                                "byte_start": 1138814,
+                                "byte_stop": 1157100,
+                                "text": "In any event, I, I think, uh, it was certainly open to that."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 261.519,
+                        "stop": 344.557,
+                        "byte_start": 1157100,
+                        "byte_stop": 1489273,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 261.519,
+                                "stop": 264.738,
+                                "byte_start": 1157100,
+                                "byte_stop": 1169952,
+                                "text": "--It is certainly subject to that construction."
+                            },
+                            {
+                                "start": 264.738,
+                                "stop": 268.339,
+                                "byte_start": 1169952,
+                                "byte_stop": 1184372,
+                                "text": "We believe that Rose v. Clark, uh, does not control this case."
+                            },
+                            {
+                                "start": 268.339,
+                                "stop": 286.734,
+                                "byte_start": 1184372,
+                                "byte_stop": 1257932,
+                                "text": "But let me stress at the outside, before explaining that position, that ultimately the error here, in our judgment, so clearly was harmful that there really is no reason for the Court to address that more abstract threshold issue, and we think the error was harmful for a number of reasons."
+                            },
+                            {
+                                "start": 286.734,
+                                "stop": 317.689,
+                                "byte_start": 1257932,
+                                "byte_stop": 1381753,
+                                "text": "Assuming that the standard of Rose v. Clark does apply in this case, the issue would be whether the, it, whether permanent intent to deprive the owner of automobile, which is the central element to this, uh, crime, whether a reviewing court could conclude beyond a reasonable doubt that the evidence of that intent was so overwhelming that it could conclude that the jury must not have even relied on the presumption, and we don\u0027t think the state has made that argument, and we don\u0027t think that the state can make that argument."
+                            },
+                            {
+                                "start": 317.689,
+                                "stop": 323.009,
+                                "byte_start": 1381753,
+                                "byte_stop": 1403069,
+                                "text": "Indeed, we think the error here was prejudicial under that standard for two reasons."
+                            },
+                            {
+                                "start": 323.009,
+                                "stop": 332.549,
+                                "byte_start": 1403069,
+                                "byte_stop": 1441208,
+                                "text": "First of all, the evidence of, and by the way, let me, let me make something clear, that this jury was told on four occasions."
+                            },
+                            {
+                                "start": 332.549,
+                                "stop": 343.84,
+                                "byte_start": 1441208,
+                                "byte_stop": 1486347,
+                                "text": "It was told four occasions that in order to convict appellant of grand theft it had to find an intent to deprive the owner of permanent possession, and that\u0027s the crucial element here."
+                            },
+                            {
+                                "start": 343.84,
+                                "stop": 344.557,
+                                "byte_start": 1486347,
+                                "byte_stop": 1489273,
+                                "text": "Now the evidence--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 344.557,
+                        "stop": 349.576,
+                        "byte_start": 1489273,
+                        "byte_stop": 1509335,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 344.557,
+                                "stop": 349.576,
+                                "byte_start": 1489273,
+                                "byte_stop": 1509335,
+                                "text": "Oh, the state now says, well, embezzlement in California requires less."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 349.576,
+                        "stop": 378.828,
+                        "byte_start": 1509335,
+                        "byte_stop": 1626364,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 349.576,
+                                "stop": 351.026,
+                                "byte_start": 1509335,
+                                "byte_stop": 1515082,
+                                "text": "--It, it does say that now."
+                            },
+                            {
+                                "start": 351.026,
+                                "stop": 369.722,
+                                "byte_start": 1515082,
+                                "byte_stop": 1589897,
+                                "text": "It certainly didn\u0027t say that at trial when the trial judge gave the standard pattern jury instructions that operate and are presumptively correct, correct in California, and those instructions on four separate occasions said grand theft requires a specific intent to keep the car permanently, and embezzlement is a species of grand theft."
+                            },
+                            {
+                                "start": 369.722,
+                                "stop": 378.828,
+                                "byte_start": 1589897,
+                                "byte_stop": 1626364,
+                                "text": "I think that at this point, it\u0027s too late in the day for the state to come forward and suggest that the law of California is different from the law that was applied by a California court."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 378.828,
+                        "stop": 392.135,
+                        "byte_start": 1626364,
+                        "byte_stop": 1679549,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 378.828,
+                                "stop": 383.213,
+                                "byte_start": 1626364,
+                                "byte_stop": 1643813,
+                                "text": "Well, doesn\u0027t this suggest the desirability of letting the California Court of Appeal make this determination?"
+                            },
+                            {
+                                "start": 383.213,
+                                "stop": 387.332,
+                                "byte_start": 1643813,
+                                "byte_stop": 1660323,
+                                "text": "They can speak with final authority, uh, make the determination on harmless error."
+                            },
+                            {
+                                "start": 387.332,
+                                "stop": 391.135,
+                                "byte_start": 1660323,
+                                "byte_stop": 1675578,
+                                "text": "They can speak with final authority on what embezzlement requires under California law."
+                            },
+                            {
+                                "start": 391.135,
+                                "stop": 392.135,
+                                "byte_start": 1675578,
+                                "byte_stop": 1679549,
+                                "text": "We can\u0027t."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 392.135,
+                        "stop": 638.011,
+                        "byte_start": 1679549,
+                        "byte_stop": 2663007,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 392.135,
+                                "stop": 394.17,
+                                "byte_start": 1679549,
+                                "byte_stop": 1687699,
+                                "text": "They, they certainly can speak with final authority on that."
+                            },
+                            {
+                                "start": 394.17,
+                                "stop": 398.389,
+                                "byte_start": 1687699,
+                                "byte_stop": 1704522,
+                                "text": "I don\u0027t think as a matter of harmless error jurisprudence that makes any difference at all."
+                            },
+                            {
+                                "start": 398.389,
+                                "stop": 411.549,
+                                "byte_start": 1704522,
+                                "byte_stop": 1757185,
+                                "text": "I think the central issue here is the crime with which this individual was charged, and here the jury was told four times, grand theft, of which embezzlement is a, is a variety, requires an intent to keep the car permanently."
+                            },
+                            {
+                                "start": 411.549,
+                                "stop": 423.19,
+                                "byte_start": 1757185,
+                                "byte_stop": 1803787,
+                                "text": "I don\u0027t think harmless error analysis entitles a review in court to return to the scene and find, well, in any event, he is guilty of a lesser crime than that, which the jury was told to find the crime."
+                            },
+                            {
+                                "start": 423.19,
+                                "stop": 433.145,
+                                "byte_start": 1803787,
+                                "byte_stop": 1843598,
+                                "text": "For that reason, it would be our suggestion that regardless of what the crime of embezzlement may or may not be in California, nothing turns on that as a matter of harmless error analysis."
+                            },
+                            {
+                                "start": 433.145,
+                                "stop": 440.632,
+                                "byte_start": 1843598,
+                                "byte_stop": 1873482,
+                                "text": "On this issue of intent, uh, the evidence, uh, we would suggest, was really quite equivocal."
+                            },
+                            {
+                                "start": 440.632,
+                                "stop": 452.19,
+                                "byte_start": 1873482,
+                                "byte_stop": 1919771,
+                                "text": "This is not a case in which, uh, the evidence suggested that the car had been abandoned, that the person who had leased the car had been caught trying to sell it, that he\u0027d been trying to cross a border or anything of that nature."
+                            },
+                            {
+                                "start": 452.19,
+                                "stop": 464.434,
+                                "byte_start": 1919771,
+                                "byte_stop": 1968777,
+                                "text": "This automobile was found down Wilshire Boulevard from the place where it was rented, and it was found at an address that had been provided at the, by appellant at the time he had leased the car."
+                            },
+                            {
+                                "start": 464.434,
+                                "stop": 475.289,
+                                "byte_start": 1968777,
+                                "byte_stop": 2012140,
+                                "text": "Now, we would suggest that the jury could very reasonably conclude that whatever else was going on in this case, that did not suggest an intent to keep the car permanently."
+                            },
+                            {
+                                "start": 475.289,
+                                "stop": 494.636,
+                                "byte_start": 2012140,
+                                "byte_stop": 2089567,
+                                "text": "Moreover, this is a somewhat unusual case, as harmless error cases go, even assuming that Rose applies, in that the jury need not, rather, in that the Court need not really speculate as to what the jury would have done, whether in fact it found a need to rely on the presumptions."
+                            },
+                            {
+                                "start": 494.636,
+                                "stop": 506.694,
+                                "byte_start": 2089567,
+                                "byte_stop": 2137737,
+                                "text": "Indeed, uh, we have included in the Joint Appendix a question, and I think it\u0027s found on page 23, but it\u0027s a question that was submitted to, uh, the court after the period had been deliberating for a while."
+                            },
+                            {
+                                "start": 506.694,
+                                "stop": 518.401,
+                                "byte_start": 2137737,
+                                "byte_stop": 2184652,
+                                "text": "And that question asks the court in no uncertain terms, what about this requirement of intent to keep the car permanently, and just how do these presumptions work with respect to that element."
+                            },
+                            {
+                                "start": 518.401,
+                                "stop": 532.744,
+                                "byte_start": 2184652,
+                                "byte_stop": 2242017,
+                                "text": "The jury, so far as the record reveals, was reinstructed pursuant to the offending instructions, and nine minutes later came back with a verdict of not, of, of guilty."
+                            },
+                            {
+                                "start": 532.744,
+                                "stop": 545.236,
+                                "byte_start": 2242017,
+                                "byte_stop": 2291964,
+                                "text": "And we think that that chain of events is, simply as a matter of logic and reason, inconsistent with the suggestion that the jury did not find it necessary to rely on the presumptions."
+                            },
+                            {
+                                "start": 545.236,
+                                "stop": 562.28,
+                                "byte_start": 2291964,
+                                "byte_stop": 2360091,
+                                "text": "Let me suggest, uh, uh, on this issue of remand, I recognize that the issues, and I think we\u0027re as guilty as the state, provide something of a mixed message on this as to whether we would like the matter resolved here in this Court or resolved, uh, or handed back."
+                            },
+                            {
+                                "start": 562.28,
+                                "stop": 568.251,
+                                "byte_start": 2360091,
+                                "byte_stop": 2384019,
+                                "text": "And let me further suggest that we realize that as a matter of precedent, we\u0027re sailing into something of a stiff wind here."
+                            },
+                            {
+                                "start": 568.251,
+                                "stop": 577.623,
+                                "byte_start": 2384019,
+                                "byte_stop": 2421531,
+                                "text": "It certainly is the general practice of this Court to remand on harmless error issues, uh, when the court below has not taken a first cut at it."
+                            },
+                            {
+                                "start": 577.623,
+                                "stop": 586.463,
+                                "byte_start": 2421531,
+                                "byte_stop": 2456848,
+                                "text": "We would suggest, however, that the considerations that, uh, underlie that practice, are absent in this case."
+                            },
+                            {
+                                "start": 586.463,
+                                "stop": 591.7,
+                                "byte_start": 2456848,
+                                "byte_stop": 2477851,
+                                "text": "We would rely in particular on the apparent absence of the trial transcript."
+                            },
+                            {
+                                "start": 591.7,
+                                "stop": 604.174,
+                                "byte_start": 2477851,
+                                "byte_stop": 2527692,
+                                "text": "The record in this case is extremely spare, so far as we have been told by the Clerk\u0027s Office of this Court and by the state of California, the trial transcript has, there was never transcribed from the recording, and is simply not to be had."
+                            },
+                            {
+                                "start": 604.174,
+                                "stop": 622.069,
+                                "byte_start": 2527692,
+                                "byte_stop": 2599268,
+                                "text": "In light of the, the rather spare nature of the record, we don\u0027t think that it would be any, uh, more or less efficient for this Court to make that determination than to hand it back, and I would also suggest, if I might, that this case has been kicking around now for over four years in the California system."
+                            },
+                            {
+                                "start": 622.069,
+                                "stop": 633.443,
+                                "byte_start": 2599268,
+                                "byte_stop": 2644721,
+                                "text": "It is our submission that the error here, particularly in light of the jury question, was so obviously prejudicial, that there really is no reason to keep this case lingering on any longer."
+                            },
+                            {
+                                "start": 633.443,
+                                "stop": 638.011,
+                                "byte_start": 2644721,
+                                "byte_stop": 2663007,
+                                "text": "And we would ask the Court to reverse the decision below in its entirety."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 638.011,
+                        "stop": 640.53,
+                        "byte_start": 2663007,
+                        "byte_stop": 2673142,
+                        "speaker": {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            },
+                            "length_of_service": 10147,
+                            "identifier": "anthony_m_kennedy"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 638.011,
+                                "stop": 640.53,
+                                "byte_start": 2663007,
+                                "byte_stop": 2673142,
+                                "text": "Did the defendant test, take stand in the case?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 640.53,
+                        "stop": 647.367,
+                        "byte_start": 2673142,
+                        "byte_stop": 2700519,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 640.53,
+                                "stop": 642.399,
+                                "byte_start": 2673142,
+                                "byte_stop": 2680561,
+                                "text": "He did not, Justice Kennedy."
+                            },
+                            {
+                                "start": 642.399,
+                                "stop": 647.367,
+                                "byte_start": 2680561,
+                                "byte_stop": 2700519,
+                                "text": "He represented himself, but he did not take the stand, and therefore, anything he said would not have been under oath."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 647.367,
+                        "stop": 659.261,
+                        "byte_start": 2700519,
+                        "byte_stop": 2748061,
+                        "speaker": {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            },
+                            "length_of_service": 10147,
+                            "identifier": "anthony_m_kennedy"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 647.367,
+                                "stop": 659.261,
+                                "byte_start": 2700519,
+                                "byte_stop": 2748061,
+                                "text": "Was the testimony from, I guess his girlfriend, that he went to the, with a lot of money to the gas station next to the rental car place, was that on an affidavit, or was that something she testified to at trial?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 659.261,
+                        "stop": 713.662,
+                        "byte_start": 2748061,
+                        "byte_stop": 2965609,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 659.261,
+                                "stop": 667.598,
+                                "byte_start": 2748061,
+                                "byte_stop": 2781394,
+                                "text": "The Appeal was conducted pursuant to one of California\u0027s what is known as the Settled Statement of Fact on Appeal, in lieu of a transcript."
+                            },
+                            {
+                                "start": 667.598,
+                                "stop": 685.911,
+                                "byte_start": 2781394,
+                                "byte_stop": 2854641,
+                                "text": "And the Settled Statement of Fact on Appeal says that she, uh, took the stand, his girlfriend took the stand, testified that, uh, appellant had a substantial amount of money with him, uh, when he was in the vicinity of the rental car agency, but she had absolutely no idea what that money was for."
+                            },
+                            {
+                                "start": 685.911,
+                                "stop": 694.165,
+                                "byte_start": 2854641,
+                                "byte_stop": 2887660,
+                                "text": "There was a subsequently filed affidavit which, I must concede, I don\u0027t think is part, was part of the record below in any kind of formal sense."
+                            },
+                            {
+                                "start": 694.165,
+                                "stop": 706.825,
+                                "byte_start": 2887660,
+                                "byte_stop": 2938337,
+                                "text": "I think it was before the court, but I don\u0027t think it was the basis for the court below, and I don\u0027t think that this Court can fully take that into account in, in, in its estimation of the case."
+                            },
+                            {
+                                "start": 706.825,
+                                "stop": 713.662,
+                                "byte_start": 2938337,
+                                "byte_stop": 2965609,
+                                "text": "If the Court has no further questions, I will reserve, if I might, Mr. Chief Justice, the balance of my time for rebuttal."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 713.662,
+                        "stop": 726.937,
+                        "byte_start": 2965609,
+                        "byte_stop": 3018795,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 713.662,
+                                "stop": 715.129,
+                                "byte_start": 2965609,
+                                "byte_stop": 2971565,
+                                "text": "Very well, Mr. Cerf."
+                            },
+                            {
+                                "start": 715.129,
+                                "stop": 726.937,
+                                "byte_start": 2971565,
+                                "byte_stop": 3018795,
+                                "text": "Uh, Mr. Guminski?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "start": 726.937,
+                "stop": 1226.625,
+                "byte_start": 3018795,
+                "byte_stop": 5017475,
+                "turns": [
+                    {
+                        "start": 726.937,
+                        "stop": 769.78,
+                        "byte_start": 3018795,
+                        "byte_stop": 3190158,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 726.937,
+                                "stop": 729.603,
+                                "byte_start": 3018795,
+                                "byte_stop": 3029452,
+                                "text": "Mr. Chief Justice, and may it please the Court:"
+                            },
+                            {
+                                "start": 729.603,
+                                "stop": 748.45,
+                                "byte_start": 3029452,
+                                "byte_stop": 3104790,
+                                "text": "As we mentioned in our brief below, little did we anticipate that this case, which resulted in an unpublished opinion without precedential value, would\u0027ve come before this, uh, Court, uh, as perhaps one of the last mandatory appeals from state court judgments, but, uh, here we are."
+                            },
+                            {
+                                "start": 748.45,
+                                "stop": 750.802,
+                                "byte_start": 3104790,
+                                "byte_stop": 3114194,
+                                "text": "And being here, what should be done?"
+                            },
+                            {
+                                "start": 750.802,
+                                "stop": 769.78,
+                                "byte_start": 3114194,
+                                "byte_stop": 3190158,
+                                "text": "Of course, via justicia, let justice be done, though the heavens fall, but coming down to specifics, we agree that the judgment should be vacated and suggest that the case be remanded to the court below for a consideration of the Chapman harmless error rule."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 769.78,
+                        "stop": 775.518,
+                        "byte_start": 3190158,
+                        "byte_stop": 3213041,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 769.78,
+                                "stop": 775.518,
+                                "byte_start": 3190158,
+                                "byte_stop": 3213041,
+                                "text": "Well, did you, what position did the state take in the lower courts?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 775.518,
+                        "stop": 792.379,
+                        "byte_start": 3213041,
+                        "byte_stop": 3280541,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 775.518,
+                                "stop": 779.719,
+                                "byte_start": 3213041,
+                                "byte_stop": 3229864,
+                                "text": "The position taken by the state in the lower court was precisely the same, Your Honor."
+                            },
+                            {
+                                "start": 779.719,
+                                "stop": 792.379,
+                                "byte_start": 3229864,
+                                "byte_stop": 3280541,
+                                "text": "We pointed out to the court below that instructional error was made in violation of due process of law, but we took the position that the error was harmless beyond a reasonable doubt."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 792.379,
+                        "stop": 794.212,
+                        "byte_start": 3280541,
+                        "byte_stop": 3287856,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 792.379,
+                                "stop": 794.212,
+                                "byte_start": 3280541,
+                                "byte_stop": 3287856,
+                                "text": "And, and what did the court do?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 794.212,
+                        "stop": 815.309,
+                        "byte_start": 3287856,
+                        "byte_stop": 3372284,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 794.212,
+                                "stop": 805.12,
+                                "byte_start": 3287856,
+                                "byte_stop": 3331532,
+                                "text": "And the court below thought it, in their wisdom, not to take our advice, and, and it is in the nature of meant to err, and I suppose that is true, of course, as well."
+                            },
+                            {
+                                "start": 805.12,
+                                "stop": 815.309,
+                                "byte_start": 3331532,
+                                "byte_stop": 3372284,
+                                "text": "And, therefore, this appeal is before this Court, and, uh, it is not completely, I hope, without interest, although we have had a tough act to follow."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 815.309,
+                        "stop": 825.366,
+                        "byte_start": 3372284,
+                        "byte_stop": 3412512,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 815.309,
+                                "stop": 817.578,
+                                "byte_start": 3372284,
+                                "byte_stop": 3381270,
+                                "text": "Did you, uh, I don\u0027t recall."
+                            },
+                            {
+                                "start": 817.578,
+                                "stop": 825.366,
+                                "byte_start": 3381270,
+                                "byte_stop": 3412512,
+                                "text": "Did you, uh, what about your oppo... did you file an opposition to the cert petition?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 825.366,
+                        "stop": 827.968,
+                        "byte_start": 3412512,
+                        "byte_stop": 3422857,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 825.366,
+                                "stop": 827.968,
+                                "byte_start": 3412512,
+                                "byte_stop": 3422857,
+                                "text": "Uh, we filed a motion to dismiss the appeal, your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 827.968,
+                        "stop": 830.687,
+                        "byte_start": 3422857,
+                        "byte_stop": 3433724,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 827.968,
+                                "stop": 830.687,
+                                "byte_start": 3422857,
+                                "byte_stop": 3433724,
+                                "text": "Why did you do that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 830.687,
+                        "stop": 1116.738,
+                        "byte_start": 3433724,
+                        "byte_stop": 4577991,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 830.687,
+                                "stop": 853.101,
+                                "byte_start": 3433724,
+                                "byte_stop": 3523376,
+                                "text": "Uh, well, because, we took the position in that that this Court could, in the first instance, review the case for harmless error review, uh, as to whether there was harmless error, and I, we reconsidered our position, and, uh, thought that it would be more appropriate for the court below to undertake that inquiry."
+                            },
+                            {
+                                "start": 853.101,
+                                "stop": 866.21,
+                                "byte_start": 3523376,
+                                "byte_stop": 3575830,
+                                "text": "Uh, I might add, your Honor, that, uh, in connection with the preparation of any reporter\u0027s transcript of the trial, it is true that this case was decided in the court below on a subtle statement."
+                            },
+                            {
+                                "start": 866.21,
+                                "stop": 880.437,
+                                "byte_start": 3575830,
+                                "byte_stop": 3632777,
+                                "text": "Uh, Mr. Carella failing three times to appear for the conference on the Settle Statement, and uh, the issue, in any event, not being before this Court as to whether this was properly done or not done."
+                            },
+                            {
+                                "start": 880.437,
+                                "stop": 889.543,
+                                "byte_start": 3632777,
+                                "byte_stop": 3669139,
+                                "text": "Uh, nevertheless, uh, we have determined within the last week that the court reporter, who had submerged somewhere, has surfaced."
+                            },
+                            {
+                                "start": 889.543,
+                                "stop": 902.516,
+                                "byte_start": 3669139,
+                                "byte_stop": 3721070,
+                                "text": "I have, during the last week, uh, been advised of his, uh, telephone number, his address and that his representation that he does have the notes of the transcript."
+                            },
+                            {
+                                "start": 902.516,
+                                "stop": 904.968,
+                                "byte_start": 3721070,
+                                "byte_stop": 3730892,
+                                "text": "So, volla !"
+                            },
+                            {
+                                "start": 904.968,
+                                "stop": 916.96,
+                                "byte_start": 3730892,
+                                "byte_stop": 3778853,
+                                "text": "Uh, counsel chastises us, uh, in this case for departing from the general rule that the law of the state should be taken as that of the court below."
+                            },
+                            {
+                                "start": 916.96,
+                                "stop": 937.54,
+                                "byte_start": 3778853,
+                                "byte_stop": 3861191,
+                                "text": "And, of course, we take the position that the court below, uh, erred in considering that the California statutes in question, 484 subdivision (b) of the penal Code and 10855 of the vehicle code, were constitutional, at least implicitly so ruled."
+                            },
+                            {
+                                "start": 937.54,
+                                "stop": 954.318,
+                                "byte_start": 3861191,
+                                "byte_stop": 3928274,
+                                "text": "And their construction, it seems to me, was that yes, these were statutes establishing presumption pertaining to burdens of producing evidence, but that the jury was not required to be instructed as to the effect of the presumption."
+                            },
+                            {
+                                "start": 954.318,
+                                "stop": 961.989,
+                                "byte_start": 3928274,
+                                "byte_stop": 3958994,
+                                "text": "And reading Sandstrom as we did, we had to concede that that would be an improper construction of the statute."
+                            },
+                            {
+                                "start": 961.989,
+                                "stop": 984.604,
+                                "byte_start": 3958994,
+                                "byte_stop": 4049377,
+                                "text": "Now, under, as this Court pointed out in Hicks v. Felock, the general rule that this Court will follow the construction of the, uh, the, uh, court, state court of last resort, is open to the exception when there is otherwise persuasive data that would convince this court that the highest court of the state would decide otherwise."
+                            },
+                            {
+                                "start": 984.604,
+                                "stop": 1007.034,
+                                "byte_start": 4049377,
+                                "byte_stop": 4139134,
+                                "text": "And this is precisely the case in this, uh, in this case, because the Supreme Court of California in People versus Jackman, Jackson, a 1903 case, ruled and recognized the effect of penal code section 512 that the intent to restore property is not a defense to an embezzlement case."
+                            },
+                            {
+                                "start": 1007.034,
+                                "stop": 1014.54,
+                                "byte_start": 4139134,
+                                "byte_stop": 4169123,
+                                "text": "It recognized that the intent to steal is not an element of the crime of embezzlement under the law of California."
+                            },
+                            {
+                                "start": 1014.54,
+                                "stop": 1021.443,
+                                "byte_start": 4169123,
+                                "byte_stop": 4196812,
+                                "text": "The fraudulent intent is the intent to deprive the owner permanently or temporarily of his property."
+                            },
+                            {
+                                "start": 1021.443,
+                                "stop": 1036.453,
+                                "byte_start": 4196812,
+                                "byte_stop": 4256790,
+                                "text": "Now, had this problem been presented to the court below, and it was not, everybody like Emmanuel Kant before reading David Hume\u0027s works was, were asleep with their dogmatic, dogmatic slumbers."
+                            },
+                            {
+                                "start": 1036.453,
+                                "stop": 1038.905,
+                                "byte_start": 4256790,
+                                "byte_stop": 4266612,
+                                "text": "Uh, instructions had developed."
+                            },
+                            {
+                                "start": 1038.905,
+                                "stop": 1059.486,
+                                "byte_start": 4266612,
+                                "byte_stop": 4348950,
+                                "text": "But if the question had been squarely presented to the the Appellate Department of the Superior Court, they would, under the doctrine of auto equity sales, uh, be compelled to rule that the crime of embezzlement, yea, even of a automobile, uh, does not include the intent to steal as an element of the offense."
+                            },
+                            {
+                                "start": 1059.486,
+                                "stop": 1076.078,
+                                "byte_start": 4348950,
+                                "byte_stop": 4415301,
+                                "text": "So, therefore, our position modestly is that since the intent to steal entails as a lesser intent, as it were, the intent to deprive the owner permanently or temporarily, uh, no harm, no foul as far as the conviction in this case."
+                            },
+                            {
+                                "start": 1076.078,
+                                "stop": 1098.527,
+                                "byte_start": 4415301,
+                                "byte_stop": 4505057,
+                                "text": "Similarly, the court below, uh, in interpreting the statutes in question as they did, failed to follow the mandate of the California Supreme Court in People versus Roder that all state statutes creating presumptions, creating or confirming presumptions, are to be interpreted so as to save their constitutionality."
+                            },
+                            {
+                                "start": 1098.527,
+                                "stop": 1116.738,
+                                "byte_start": 4505057,
+                                "byte_stop": 4577991,
+                                "text": "And so, therefore, in that ca... particular case, a presumption, uh, pertaining to the guilty knowledge in a, uh, receiving stolen property prosecution was, was reinterpreted by the California Supreme Court to create a permissive inference."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1116.738,
+                        "stop": 1127.427,
+                        "byte_start": 4577991,
+                        "byte_stop": 4620728,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1116.738,
+                                "stop": 1120.04,
+                                "byte_start": 4577991,
+                                "byte_stop": 4591157,
+                                "text": "But that\u0027s... there\u0027s nothing we can do about that, Mr. Guminski."
+                            },
+                            {
+                                "start": 1120.04,
+                                "stop": 1127.427,
+                                "byte_start": 4591157,
+                                "byte_stop": 4620728,
+                                "text": "I mean, if the Court of Appeal has incorrectly followed a decision of the Supreme Court of California, that\u0027s between them, not our problem."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1127.427,
+                        "stop": 1169.221,
+                        "byte_start": 4620728,
+                        "byte_stop": 4787911,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1127.427,
+                                "stop": 1145.305,
+                                "byte_start": 4620728,
+                                "byte_stop": 4692199,
+                                "text": "But we would like to point out, your Honor, that in terms of re... a remand for determination of the harmless error doctrine, it would be appropriate and would give the court below a reopportunity to rethink what is the applicable California law."
+                            },
+                            {
+                                "start": 1145.305,
+                                "stop": 1166.735,
+                                "byte_start": 4692199,
+                                "byte_stop": 4777985,
+                                "text": "I should point out, of course, that of course we are interested in preserving the viability of our statutes, and from the comments of the Court, the constitutional... constitutional viability of our statutes and from the comments of the Court, I, I have no such apprehension."
+                            },
+                            {
+                                "start": 1166.735,
+                                "stop": 1169.221,
+                                "byte_start": 4777985,
+                                "byte_stop": 4787911,
+                                "text": "I should like to certainly agree--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1169.221,
+                        "stop": 1171.039,
+                        "byte_start": 4787911,
+                        "byte_stop": 4795121,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1169.221,
+                                "stop": 1171.039,
+                                "byte_start": 4787911,
+                                "byte_stop": 4795121,
+                                "text": "--count on it."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1171.039,
+                        "stop": 1196.004,
+                        "byte_start": 4795121,
+                        "byte_stop": 4895013,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1171.039,
+                                "stop": 1173.158,
+                                "byte_start": 4795121,
+                                "byte_stop": 4803585,
+                                "text": "--Uh, no."
+                            },
+                            {
+                                "start": 1173.158,
+                                "stop": 1174.325,
+                                "byte_start": 4803585,
+                                "byte_stop": 4808287,
+                                "text": "That is true, your Honor."
+                            },
+                            {
+                                "start": 1174.325,
+                                "stop": 1176.36,
+                                "byte_start": 4808287,
+                                "byte_stop": 4816437,
+                                "text": "[Laughter]"
+                            },
+                            {
+                                "start": 1176.36,
+                                "stop": 1196.004,
+                                "byte_start": 4816437,
+                                "byte_stop": 4895013,
+                                "text": "Uh, but, uh, certainly as People v. Roder, uh, has established the judicial policy of the state of California that California presumption statutes aren\u0027t to be so construed as to preserve their viability under the doctrines of this Court from Sandstrom and--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1196.004,
+                        "stop": 1199.975,
+                        "byte_start": 4895013,
+                        "byte_stop": 4910896,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1196.004,
+                                "stop": 1198.123,
+                                "byte_start": 4895013,
+                                "byte_stop": 4903477,
+                                "text": "Well, I take it it\u0027s just the instructions at issue in this case."
+                            },
+                            {
+                                "start": 1198.123,
+                                "stop": 1199.975,
+                                "byte_start": 4903477,
+                                "byte_stop": 4910896,
+                                "text": "It\u0027s not the statutes, is that right?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1199.975,
+                        "stop": 1200.775,
+                        "byte_start": 4910896,
+                        "byte_stop": 4914135,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1199.975,
+                                "stop": 1200.775,
+                                "byte_start": 4910896,
+                                "byte_stop": 4914135,
+                                "text": "--Well, is--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1200.775,
+                        "stop": 1202.344,
+                        "byte_start": 4914135,
+                        "byte_stop": 4920404,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1200.775,
+                                "stop": 1202.344,
+                                "byte_start": 4914135,
+                                "byte_stop": 4920404,
+                                "text": "Is that why you confessed error, the--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1202.344,
+                        "stop": 1219.287,
+                        "byte_start": 4920404,
+                        "byte_stop": 4988114,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1202.344,
+                                "stop": 1204.444,
+                                "byte_start": 4920404,
+                                "byte_stop": 4928764,
+                                "text": "--The, the instructions were clearly erroneous."
+                            },
+                            {
+                                "start": 1204.444,
+                                "stop": 1215.235,
+                                "byte_start": 4928764,
+                                "byte_stop": 4971918,
+                                "text": "But, however, in terms of a remand, it would, uh, appear necessary for the court below to make an appropriate determination of what is proper California law."
+                            },
+                            {
+                                "start": 1215.235,
+                                "stop": 1219.287,
+                                "byte_start": 4971918,
+                                "byte_stop": 4988114,
+                                "text": "Unless the Court has any further questions, uh, we would submit the case."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1219.287,
+                        "stop": 1222.039,
+                        "byte_start": 4988114,
+                        "byte_stop": 4999190,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1219.287,
+                                "stop": 1220.639,
+                                "byte_start": 4988114,
+                                "byte_stop": 4993547,
+                                "text": "--Via con dios."
+                            },
+                            {
+                                "start": 1220.639,
+                                "stop": 1222.039,
+                                "byte_start": 4993547,
+                                "byte_stop": 4999190,
+                                "text": "[Laughter]"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1222.039,
+                        "stop": 1226.625,
+                        "byte_start": 4999190,
+                        "byte_stop": 5017475,
+                        "speaker": {
+                            "ID": 16013,
+                            "name": "Arnold T. Guminski",
+                            "href": "https:\/\/api.oyez.org\/people\/arnold_t_guminski",
+                            "last_name": "Guminski",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "arnold_t_guminski"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1222.039,
+                                "stop": 1226.625,
+                                "byte_start": 4999190,
+                                "byte_stop": 5017475,
+                                "text": "Thank you, Your Honor."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "start": 1226.625,
+                "stop": 1461.39,
+                "byte_start": 5017475,
+                "byte_stop": 5956421,
+                "turns": [
+                    {
+                        "start": 1226.625,
+                        "stop": 1275.89,
+                        "byte_start": 5017475,
+                        "byte_stop": 5214543,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1226.625,
+                                "stop": 1232.796,
+                                "byte_start": 5017475,
+                                "byte_stop": 5042135,
+                                "text": "I too have a hard act to follow, being limited to the English language, but I only have one or two very, very brief points."
+                            },
+                            {
+                                "start": 1232.796,
+                                "stop": 1249.991,
+                                "byte_start": 5042135,
+                                "byte_stop": 5110994,
+                                "text": "I, I, I just want the record to be clear here that the State of California, as I understand it, is, uh, conceding that if the trial transcript is found, it will be germane to harmless error review, and I would just point out that throughout Mr. Carella\u0027s travels in this case, he has tried very, very hard to get this transcript for many years."
+                            },
+                            {
+                                "start": 1249.991,
+                                "stop": 1257.495,
+                                "byte_start": 5110994,
+                                "byte_stop": 5140982,
+                                "text": "And I now understand the state of California to be telling him for the first time, that the transcript is available and that it indeed is germane."
+                            },
+                            {
+                                "start": 1257.495,
+                                "stop": 1275.89,
+                                "byte_start": 5140982,
+                                "byte_stop": 5214543,
+                                "text": "But I would also suggest that an error so clearly harmful as this one isn\u0027t going to get any more harmful by reviewing the transcript, and for that reason, I would again ask the Court to make what I would hope would be a very brief evaluation harmless error issue and to reverse the judgment below."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1275.89,
+                        "stop": 1286.681,
+                        "byte_start": 5214543,
+                        "byte_stop": 5257697,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1275.89,
+                                "stop": 1286.681,
+                                "byte_start": 5214543,
+                                "byte_stop": 5257697,
+                                "text": "Don\u0027t you agree that an evaluation of the harmless error issue does require us to decide what California is, uh, law is on, on the permanent versus temporary, uh, deprivation of property?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1286.681,
+                        "stop": 1287.697,
+                        "byte_start": 5257697,
+                        "byte_stop": 5261772,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1286.681,
+                                "stop": 1287.697,
+                                "byte_start": 5257697,
+                                "byte_stop": 5261772,
+                                "text": "I don\u0027t agree with that."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1287.697,
+                        "stop": 1289.966,
+                        "byte_start": 5261772,
+                        "byte_stop": 5270863,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1287.697,
+                                "stop": 1289.966,
+                                "byte_start": 5261772,
+                                "byte_stop": 5270863,
+                                "text": "You don\u0027t agree with that, why don\u0027t you agree with that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1289.966,
+                        "stop": 1314.781,
+                        "byte_start": 5270863,
+                        "byte_stop": 5370128,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1289.966,
+                                "stop": 1300.239,
+                                "byte_start": 5270863,
+                                "byte_stop": 5311928,
+                                "text": "Because this jury was charged on four different occasions that intent to deprive the owner of permanent possession was an element of the law of theft in California."
+                            },
+                            {
+                                "start": 1300.239,
+                                "stop": 1313.498,
+                                "byte_start": 5311928,
+                                "byte_stop": 5365008,
+                                "text": "I don\u0027t think in undertaking a harmless error review the Court does anything other than look at the crime as charged and measure it against the record evidence to determine whether that record evidence overwhelmingly demonstrates proof of the crime as charged."
+                            },
+                            {
+                                "start": 1313.498,
+                                "stop": 1314.781,
+                                "byte_start": 5365008,
+                                "byte_stop": 5370128,
+                                "text": "I don\u0027t think--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1314.781,
+                        "stop": 1319.918,
+                        "byte_start": 5370128,
+                        "byte_stop": 5390713,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1314.781,
+                                "stop": 1319.918,
+                                "byte_start": 5370128,
+                                "byte_stop": 5390713,
+                                "text": "Charge to the jury goes beyond, uh, what is necessary to establish the, the crime, and--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1319.918,
+                        "stop": 1322.687,
+                        "byte_start": 5390713,
+                        "byte_stop": 5401789,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1319.918,
+                                "stop": 1321.235,
+                                "byte_start": 5390713,
+                                "byte_stop": 5395937,
+                                "text": "--I believe that\u0027s right."
+                            },
+                            {
+                                "start": 1321.235,
+                                "stop": 1322.687,
+                                "byte_start": 5395937,
+                                "byte_stop": 5401789,
+                                "text": "I believe that, uh,--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1322.687,
+                        "stop": 1346.385,
+                        "byte_start": 5401789,
+                        "byte_stop": 5496561,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1322.687,
+                                "stop": 1323.37,
+                                "byte_start": 5401789,
+                                "byte_stop": 5404506,
+                                "text": "--Do you have any many cases for that?"
+                            },
+                            {
+                                "start": 1323.37,
+                                "stop": 1346.385,
+                                "byte_start": 5404506,
+                                "byte_stop": 5496561,
+                                "text": "I, I, see, I wouldn\u0027t think, I would think that if the Judge mistakenly tells the jury to find something that they don\u0027t have to find, and that it\u0027s very clear that that isn\u0027t necessary under the state\u0027s law, that we could find... and the only issue in the case becomes whether, whether a jury could possibly have found that, I would think we could say harmless error, even if a jury couldn\u0027t have found it since it wasn\u0027t necessary to the conviction, uh, no harm done."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1346.385,
+                        "stop": 1358.71,
+                        "byte_start": 5496561,
+                        "byte_stop": 5545880,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1346.385,
+                                "stop": 1349.52,
+                                "byte_start": 5496561,
+                                "byte_stop": 5509100,
+                                "text": "--With respect, I would, I would disagree, and I would disagree on two grounds."
+                            },
+                            {
+                                "start": 1349.52,
+                                "stop": 1354.556,
+                                "byte_start": 5509100,
+                                "byte_stop": 5529266,
+                                "text": "First of all, obviously, that is not the law as it comes to this Court, as, as it arrives today."
+                            },
+                            {
+                                "start": 1354.556,
+                                "stop": 1358.71,
+                                "byte_start": 5529266,
+                                "byte_stop": 5545880,
+                                "text": "There is a theoretical possibility that the court below would reach a different determination."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1358.71,
+                        "stop": 1366.297,
+                        "byte_start": 5545880,
+                        "byte_stop": 5576182,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1358.71,
+                                "stop": 1359.376,
+                                "byte_start": 5545880,
+                                "byte_stop": 5548492,
+                                "text": "Sure, sure."
+                            },
+                            {
+                                "start": 1359.376,
+                                "stop": 1360.11,
+                                "byte_start": 5548492,
+                                "byte_stop": 5551418,
+                                "text": "I understand that."
+                            },
+                            {
+                                "start": 1360.11,
+                                "stop": 1366.297,
+                                "byte_start": 5551418,
+                                "byte_stop": 5576182,
+                                "text": "But do you have any cases that say that everything you charge the jury with you have to prove?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1366.297,
+                        "stop": 1382.626,
+                        "byte_start": 5576182,
+                        "byte_stop": 5641488,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1366.297,
+                                "stop": 1368.216,
+                                "byte_start": 5576182,
+                                "byte_stop": 5583915,
+                                "text": "I have no cases precisely for that."
+                            },
+                            {
+                                "start": 1368.216,
+                                "stop": 1379.19,
+                                "byte_start": 5583915,
+                                "byte_stop": 5627800,
+                                "text": "However, I can suggest that if an individual is found guilty of murder, for example, I think the case is Presnell, it\u0027s not incumbent on the court to come back and say that, well, in any event he\u0027s guilty of assault."
+                            },
+                            {
+                                "start": 1379.19,
+                                "stop": 1381.507,
+                                "byte_start": 5627800,
+                                "byte_stop": 5636995,
+                                "text": "And for that reason, we\u0027re going to hold him guilty of that, anyway."
+                            },
+                            {
+                                "start": 1381.507,
+                                "stop": 1382.626,
+                                "byte_start": 5636995,
+                                "byte_stop": 5641488,
+                                "text": "That certainly would be improper."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1382.626,
+                        "stop": 1393.097,
+                        "byte_start": 5641488,
+                        "byte_stop": 5683389,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1382.626,
+                                "stop": 1393.097,
+                                "byte_start": 5641488,
+                                "byte_stop": 5683389,
+                                "text": "Well, Mr. Cerf, I gather that on the Appellate Review, which was granted without opinion, that it upheld the conviction below in, in California."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1393.097,
+                        "stop": 1394.516,
+                        "byte_start": 5683389,
+                        "byte_stop": 5689031,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1393.097,
+                                "stop": 1393.533,
+                                "byte_start": 5683389,
+                                "byte_stop": 5685165,
+                                "text": "It did."
+                            },
+                            {
+                                "start": 1393.533,
+                                "stop": 1394.516,
+                                "byte_start": 5685165,
+                                "byte_stop": 5689031,
+                                "text": "It upheld it against--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1394.516,
+                        "stop": 1402.805,
+                        "byte_start": 5689031,
+                        "byte_stop": 5722259,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1394.516,
+                                "stop": 1397.085,
+                                "byte_start": 5689031,
+                                "byte_stop": 5699376,
+                                "text": "So it\u0027s more than just a trial court instruction."
+                            },
+                            {
+                                "start": 1397.085,
+                                "stop": 1402.805,
+                                "byte_start": 5699376,
+                                "byte_stop": 5722259,
+                                "text": "We have, we have it approved on, on the one Appellate Review it had."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1402.805,
+                        "stop": 1416.111,
+                        "byte_start": 5722259,
+                        "byte_stop": 5775444,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1402.805,
+                                "stop": 1404.472,
+                                "byte_start": 5722259,
+                                "byte_stop": 5728842,
+                                "text": "--The instruction was approved."
+                            },
+                            {
+                                "start": 1404.472,
+                                "stop": 1405.507,
+                                "byte_start": 5728842,
+                                "byte_stop": 5733021,
+                                "text": "That is correct."
+                            },
+                            {
+                                "start": 1405.507,
+                                "stop": 1410.809,
+                                "byte_start": 5733021,
+                                "byte_stop": 5754233,
+                                "text": "I, I would agree with the state of California that it is not necessary to go beyond the instruction."
+                            },
+                            {
+                                "start": 1410.809,
+                                "stop": 1416.111,
+                                "byte_start": 5754233,
+                                "byte_stop": 5775444,
+                                "text": "We think the statutes are unconstitutional in all their applications, but I don\u0027t believe it\u0027s necessary to go beyond--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1416.111,
+                        "stop": 1417.979,
+                        "byte_start": 5775444,
+                        "byte_stop": 5782968,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1416.111,
+                                "stop": 1417.979,
+                                "byte_start": 5775444,
+                                "byte_stop": 5782968,
+                                "text": "Where is the record in this case?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1417.979,
+                        "stop": 1418.463,
+                        "byte_start": 5782968,
+                        "byte_stop": 5784848,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1417.979,
+                                "stop": 1418.463,
+                                "byte_start": 5782968,
+                                "byte_stop": 5784848,
+                                "text": "--I\u0027m sorry?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1418.463,
+                        "stop": 1419.915,
+                        "byte_start": 5784848,
+                        "byte_stop": 5790700,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1418.463,
+                                "stop": 1419.915,
+                                "byte_start": 5784848,
+                                "byte_stop": 5790700,
+                                "text": "Where is the transcript?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1419.915,
+                        "stop": 1427.469,
+                        "byte_start": 5790700,
+                        "byte_stop": 5820897,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1419.915,
+                                "stop": 1424.45,
+                                "byte_start": 5790700,
+                                "byte_stop": 5808777,
+                                "text": "Well, there has been some back and forth on that over the last, uh, several months."
+                            },
+                            {
+                                "start": 1424.45,
+                                "stop": 1426.485,
+                                "byte_start": 5808777,
+                                "byte_stop": 5816927,
+                                "text": "The case, there is no transcript."
+                            },
+                            {
+                                "start": 1426.485,
+                                "stop": 1427.469,
+                                "byte_start": 5816927,
+                                "byte_stop": 5820897,
+                                "text": "There is a tape recording--"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1427.469,
+                        "stop": 1434.572,
+                        "byte_start": 5820897,
+                        "byte_stop": 5849319,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1427.469,
+                                "stop": 1434.572,
+                                "byte_start": 5820897,
+                                "byte_stop": 5849319,
+                                "text": "Well, how in the world can we decide that it\u0027s harmless error without a transcript?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1434.572,
+                        "stop": 1451.867,
+                        "byte_start": 5849319,
+                        "byte_stop": 5918491,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1434.572,
+                                "stop": 1451.867,
+                                "byte_start": 5849319,
+                                "byte_stop": 5918491,
+                                "text": "--I think, I think you can, Justice Marshall, because the case was decided by the court below on something called a Settled Statement of Fact on Appeal, which under the law of California stands in the place of a transcript, and that is before this Court, and it\u0027s in the Joint Appendix today."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1451.867,
+                        "stop": 1457.121,
+                        "byte_start": 5918491,
+                        "byte_stop": 5939493,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1451.867,
+                                "stop": 1457.121,
+                                "byte_start": 5918491,
+                                "byte_stop": 5939493,
+                                "text": "--law in California is a good law here."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1457.121,
+                        "stop": 1459.623,
+                        "byte_start": 5939493,
+                        "byte_stop": 5949524,
+                        "speaker": {
+                            "ID": 18618,
+                            "name": "Christopher D. Cerf",
+                            "href": "https:\/\/api.oyez.org\/people\/christopher_d_cerf",
+                            "last_name": "Cerf",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "christopher_d_cerf"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1457.121,
+                                "stop": 1457.704,
+                                "byte_start": 5939493,
+                                "byte_stop": 5941792,
+                                "text": "I believe it is."
+                            },
+                            {
+                                "start": 1457.704,
+                                "stop": 1459.623,
+                                "byte_start": 5941792,
+                                "byte_stop": 5949524,
+                                "text": "Thank you very much."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1459.623,
+                        "stop": 1461.39,
+                        "byte_start": 5949524,
+                        "byte_stop": 5956421,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1459.623,
+                                "stop": 1460.59,
+                                "byte_start": 5949524,
+                                "byte_stop": 5953390,
+                                "text": "Thank you, Mr. Cerf."
+                            },
+                            {
+                                "start": 1460.59,
+                                "stop": 1461.39,
+                                "byte_start": 5953390,
+                                "byte_stop": 5956421,
+                                "text": "The case is submitted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

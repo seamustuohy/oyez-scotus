@@ -1,0 +1,126 @@
+{
+    "id": 19635,
+    "title": "Opinion Announcement - May 16, 1988",
+    "transcript": {
+        "title": "D. H. Holmes Company, Ltd. v. McNamara",
+        "duration": 49.803,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 49.803,
+                "byte_start": 28672,
+                "byte_stop": 227830,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 49.803,
+                        "byte_start": 28672,
+                        "byte_stop": 227830,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.457,
+                                "byte_start": 28672,
+                                "byte_stop": 70572,
+                                "text": "In No. 87-267, D. H. Holmes Company, Limited versus McNamara, involves a state tax on commercial activities."
+                            },
+                            {
+                                "start": 10.457,
+                                "stop": 21.625,
+                                "byte_start": 70572,
+                                "byte_stop": 115190,
+                                "text": "D. H. Holmes is a department store based in New Orleans and it had its merchandize catalogs printed out of state and shipped to its customers in Louisiana."
+                            },
+                            {
+                                "start": 21.625,
+                                "stop": 28.242,
+                                "byte_start": 115190,
+                                "byte_stop": 141730,
+                                "text": "Louisiana levied a used tax on the value of these merchandize catalogs."
+                            },
+                            {
+                                "start": 28.242,
+                                "stop": 37.324,
+                                "byte_start": 141730,
+                                "byte_stop": 177988,
+                                "text": "D. H. Holmes who was required to pay the tax argued that the imposition of this tax on its catalogs violated the Commerce Clause of the Constitution."
+                            },
+                            {
+                                "start": 37.324,
+                                "stop": 42.451,
+                                "byte_start": 177988,
+                                "byte_stop": 198572,
+                                "text": "We disagree and find instead that the tax was fully consistent with the Commerce Clause."
+                            },
+                            {
+                                "start": 42.451,
+                                "stop": 49.803,
+                                "byte_start": 198572,
+                                "byte_stop": 227830,
+                                "text": "We therefore affirm the judgment of the Supreme Court of the Louisiana Court of Appeals and that opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48394,
+            "mime": "audio\/mpeg",
+            "size": 228143,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-267\/19880516o_87-267.delivery.mp3"
+        },
+        {
+            "id": 70214,
+            "mime": "audio\/ogg",
+            "size": 486912,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-267\/19880516o_87-267.ogg"
+        },
+        {
+            "id": 70215,
+            "mime": "application\/x-mpegURL",
+            "size": 842,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-267\/19880516o_87-267.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

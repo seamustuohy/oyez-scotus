@@ -1,0 +1,625 @@
+{
+    "ID": 56004,
+    "name": "Chadbourne and Parke LLP v. Troice",
+    "href": "https:\/\/api.oyez.org\/cases\/2013\/12-79",
+    "docket_number": "12-79",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Chadbourne and Parke LLP",
+    "second_party": "Samuel Troice et al.",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1358488800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/41335"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381122000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/41336"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393394400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/41585"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EIn 1995, Congress enacted the Private Securities Litigation Reform Act (PSLRA), which was meant to combat issues such as nuisance filings, targeting of specific clients, and client manipulation in class action suits. To prevent plaintiffs from filing class action suits in state courts in order to get around the restrictions of PSLRA, Congress enacted the Securities Litigation Uniform Standards Act (SLUSA), which provided for the dismissal or removal of a class action suit brought by more than 50 plaintiffs in connection with a \u0022covered security.\u0022 The term \u0022covered security\u0022 was limited to a subset of securities that were traded on a national exchange or issued by a federally registered investment company.\u003C\/p\u003E\n\u003Cp\u003EIn 2009, the Securities and Exchange Commission (SEC) sued the Stanford Group Company and other holdings of R. Allen Stanford for allegedly perpetrating a massive Ponzi scheme. Two groups of Louisiana investors also sued Stanford holdings for their roles in the Ponzi scheme and for violations of the Louisiana Securities Act. These cases were consolidated with two others against Stanford holdings and moved to the district court for the Northern District of Texas. The defendants moved to dismiss the complaints under SLUSA and argued that the court should adopt an expansive interpretation of \u0022covered securities.\u0022 The district court held that the funds were not covered securities, but it granted the dismissal because the funds were represented as covered securities and because it was likely that at least one of the plaintiffs liquidated a retirement account, which a covered security, in order to purchase the funds in question. The U.S. Court of Appeals for the Fifth Circuit reversed and held that there was not a sufficient connection between the misrepresentation and the stock sale to consider them connected and for the securities to function as \u0022covered\u0022 for the purposes of a SLUSA dismissal.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDoes the Securities Litigation Uniform Standards Act (SLUSA) preclude a class action under state securities law that alleges fraud and misrepresentations of securities as SLUSA-covered securities?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003ENo. Justice Stephen G. Breyer delivered the opinion for the 7-2 majority. The Court held that the scope of SLUSA does not extend beyond misrepresentations that are material to the purchase or sale of a covered security. Because the focus of SLUSA deals with covered securities, the purchase or sale of uncovered securities is beyond SLUSA\u0027s purview. The Court also held that nothing in the language of SLUSA itself or the underlying regulatory statutes suggests that the relevant language should be interpreted more broadly. To do so would prohibit more lawsuits and interfere with state efforts to provide remedies to victims of frauds.\u003C\/p\u003E\n\u003Cp\u003EIn his concurring opinion, Justice Clarence Thomas wrote that, while SLUSA precludes class action cases dealing with fraud \u0022in connection with\u0022 covered securities, the connection does not extend to all securities.\u003C\/p\u003E\n\u003Cp\u003EJustice Anthony M. Kennedy wrote a dissent in which he argued that the majority\u0027s opinion unnecessarily narrows and constricts protection from fraud in national securities markets. Justice Kennedy argued that the relevant language must be interpreted broadly in order for SLUSA to accomplish its purpose of protecting the integrity of the markets. If misrepresentations were made relating to covered securities to perpetrate fraud, federal regulation is necessary, and it is this interest that Congress intended SLUSA to protect. Justice Samuel A. Alito, Jr. joined in the dissent.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 37772,
+                "name": "Paul D. Clement",
+                "href": "https:\/\/api.oyez.org\/people\/paul_d_clement",
+                "last_name": "Clement",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "paul_d_clement"
+            },
+            "advocate_description": "for the petitioners",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/20700"
+        },
+        {
+            "advocate": {
+                "ID": 22331,
+                "name": "Elaine J. Goldenberg",
+                "href": "https:\/\/api.oyez.org\/people\/elaine_j_goldenberg",
+                "last_name": "Goldenberg",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "elaine_j_goldenberg"
+            },
+            "advocate_description": "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the petitioners",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/20701"
+        },
+        {
+            "advocate": {
+                "ID": 42731,
+                "name": "Thomas C. Goldstein",
+                "href": "https:\/\/api.oyez.org\/people\/thomas_c_goldstein",
+                "last_name": "Goldstein",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "thomas_c_goldstein"
+            },
+            "advocate_description": "for the respondents",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/20702"
+        }
+    ],
+    "oral_argument_audio": [
+        {
+            "id": 21723,
+            "title": "Oral Argument - October 07, 2013",
+            "public_note": null,
+            "unavailable": null,
+            "href": "https:\/\/api.oyez.org\/case_media\/oral_argument_audio\/21723"
+        }
+    ],
+    "citation": {
+        "volume": "571",
+        "page": null,
+        "year": "2014",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/20897"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15151,
+            "name": "Roberts Court (2010-     )",
+            "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+            "members": [
+                {
+                    "ID": 15086,
+                    "name": "John G. Roberts, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "last_name": "Roberts",
+                    "roles": [
+                        {
+                            "id": 2730,
+                            "type": "scotus_justice",
+                            "date_start": 1127970000,
+                            "date_end": 0,
+                            "appointing_president": "George W. Bush",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32683,
+                        "mime": "image\/png",
+                        "size": 52305,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    },
+                    "length_of_service": 3702,
+                    "identifier": "john_g_roberts_jr"
+                },
+                {
+                    "ID": 15049,
+                    "name": "Antonin Scalia",
+                    "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "last_name": "Scalia",
+                    "roles": [
+                        {
+                            "id": 2693,
+                            "type": "scotus_justice",
+                            "date_start": 528094800,
+                            "date_end": 0,
+                            "appointing_president": "Ronald Reagan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32678,
+                        "mime": "image\/png",
+                        "size": 58944,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    },
+                    "length_of_service": 10699,
+                    "identifier": "antonin_scalia"
+                },
+                {
+                    "ID": 15113,
+                    "name": "Anthony M. Kennedy",
+                    "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "last_name": "Kennedy",
+                    "roles": [
+                        {
+                            "id": 2757,
+                            "type": "scotus_justice",
+                            "date_start": 572162400,
+                            "date_end": 0,
+                            "appointing_president": "Ronald Reagan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32679,
+                        "mime": "image\/png",
+                        "size": 47100,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    },
+                    "length_of_service": 10147,
+                    "identifier": "anthony_m_kennedy"
+                },
+                {
+                    "ID": 15100,
+                    "name": "Clarence Thomas",
+                    "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "last_name": "Thomas",
+                    "roles": [
+                        {
+                            "id": 2744,
+                            "type": "scotus_justice",
+                            "date_start": 688194000,
+                            "date_end": 0,
+                            "appointing_president": "George H. W. Bush",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32680,
+                        "mime": "image\/png",
+                        "size": 49064,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    },
+                    "length_of_service": 8870,
+                    "identifier": "clarence_thomas"
+                },
+                {
+                    "ID": 15084,
+                    "name": "Ruth Bader Ginsburg",
+                    "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "last_name": "Ginsburg",
+                    "roles": [
+                        {
+                            "id": 2728,
+                            "type": "scotus_justice",
+                            "date_start": 744958800,
+                            "date_end": 0,
+                            "appointing_president": "Bill Clinton",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32681,
+                        "mime": "image\/png",
+                        "size": 45030,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    },
+                    "length_of_service": 8135,
+                    "identifier": "ruth_bader_ginsburg"
+                },
+                {
+                    "ID": 15139,
+                    "name": "Stephen G. Breyer",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "last_name": "Breyer",
+                    "roles": [
+                        {
+                            "id": 2785,
+                            "type": "scotus_justice",
+                            "date_start": 775890000,
+                            "date_end": 0,
+                            "appointing_president": "Bill Clinton",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32682,
+                        "mime": "image\/png",
+                        "size": 49908,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    },
+                    "length_of_service": 7777,
+                    "identifier": "stephen_g_breyer"
+                },
+                {
+                    "ID": 15068,
+                    "name": "Samuel A. Alito, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "last_name": "Alito",
+                    "roles": [
+                        {
+                            "id": 2712,
+                            "type": "scotus_justice",
+                            "date_start": 1138687200,
+                            "date_end": 0,
+                            "appointing_president": "George W. Bush",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32684,
+                        "mime": "image\/png",
+                        "size": 44799,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    },
+                    "length_of_service": 3531,
+                    "identifier": "samuel_alito_jr"
+                },
+                {
+                    "ID": 15131,
+                    "name": "Sonia Sotomayor",
+                    "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                    "last_name": "Sotomayor",
+                    "roles": [
+                        {
+                            "id": 2776,
+                            "type": "scotus_justice",
+                            "date_start": 1249707600,
+                            "date_end": 0,
+                            "appointing_president": null,
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2776"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32685,
+                        "mime": "image\/png",
+                        "size": 50379,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                    },
+                    "length_of_service": 2293,
+                    "identifier": "sonia_sotomayor"
+                },
+                {
+                    "ID": 15094,
+                    "name": "Elena Kagan",
+                    "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                    "last_name": "Kagan",
+                    "roles": [
+                        {
+                            "id": 2738,
+                            "type": "scotus_justice",
+                            "date_start": 1281157200,
+                            "date_end": 0,
+                            "appointing_president": "Barack Obama",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2738"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32690,
+                        "mime": "image\/png",
+                        "size": 44456,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                    },
+                    "length_of_service": 1931,
+                    "identifier": "elena_kagan"
+                }
+            ],
+            "court_start": 1281157200,
+            "images": [
+                {
+                    "id": 12235,
+                    "mime": "image\/jpeg",
+                    "size": 359998,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                }
+            ],
+            "identifier": "roberts6"
+        }
+    ],
+    "decided_by": {
+        "ID": 15151,
+        "name": "Roberts Court (2010-     )",
+        "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+        "members": [
+            {
+                "ID": 15086,
+                "name": "John G. Roberts, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                "last_name": "Roberts",
+                "roles": [
+                    {
+                        "id": 2730,
+                        "type": "scotus_justice",
+                        "date_start": 1127970000,
+                        "date_end": 0,
+                        "appointing_president": "George W. Bush",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32683,
+                    "mime": "image\/png",
+                    "size": 52305,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                },
+                "length_of_service": 3702,
+                "identifier": "john_g_roberts_jr"
+            },
+            {
+                "ID": 15049,
+                "name": "Antonin Scalia",
+                "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "last_name": "Scalia",
+                "roles": [
+                    {
+                        "id": 2693,
+                        "type": "scotus_justice",
+                        "date_start": 528094800,
+                        "date_end": 0,
+                        "appointing_president": "Ronald Reagan",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32678,
+                    "mime": "image\/png",
+                    "size": 58944,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                },
+                "length_of_service": 10699,
+                "identifier": "antonin_scalia"
+            },
+            {
+                "ID": 15113,
+                "name": "Anthony M. Kennedy",
+                "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "last_name": "Kennedy",
+                "roles": [
+                    {
+                        "id": 2757,
+                        "type": "scotus_justice",
+                        "date_start": 572162400,
+                        "date_end": 0,
+                        "appointing_president": "Ronald Reagan",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32679,
+                    "mime": "image\/png",
+                    "size": 47100,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                },
+                "length_of_service": 10147,
+                "identifier": "anthony_m_kennedy"
+            },
+            {
+                "ID": 15100,
+                "name": "Clarence Thomas",
+                "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "last_name": "Thomas",
+                "roles": [
+                    {
+                        "id": 2744,
+                        "type": "scotus_justice",
+                        "date_start": 688194000,
+                        "date_end": 0,
+                        "appointing_president": "George H. W. Bush",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32680,
+                    "mime": "image\/png",
+                    "size": 49064,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                },
+                "length_of_service": 8870,
+                "identifier": "clarence_thomas"
+            },
+            {
+                "ID": 15084,
+                "name": "Ruth Bader Ginsburg",
+                "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "last_name": "Ginsburg",
+                "roles": [
+                    {
+                        "id": 2728,
+                        "type": "scotus_justice",
+                        "date_start": 744958800,
+                        "date_end": 0,
+                        "appointing_president": "Bill Clinton",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32681,
+                    "mime": "image\/png",
+                    "size": 45030,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                },
+                "length_of_service": 8135,
+                "identifier": "ruth_bader_ginsburg"
+            },
+            {
+                "ID": 15139,
+                "name": "Stephen G. Breyer",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "last_name": "Breyer",
+                "roles": [
+                    {
+                        "id": 2785,
+                        "type": "scotus_justice",
+                        "date_start": 775890000,
+                        "date_end": 0,
+                        "appointing_president": "Bill Clinton",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32682,
+                    "mime": "image\/png",
+                    "size": 49908,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                },
+                "length_of_service": 7777,
+                "identifier": "stephen_g_breyer"
+            },
+            {
+                "ID": 15068,
+                "name": "Samuel A. Alito, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                "last_name": "Alito",
+                "roles": [
+                    {
+                        "id": 2712,
+                        "type": "scotus_justice",
+                        "date_start": 1138687200,
+                        "date_end": 0,
+                        "appointing_president": "George W. Bush",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32684,
+                    "mime": "image\/png",
+                    "size": 44799,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                },
+                "length_of_service": 3531,
+                "identifier": "samuel_alito_jr"
+            },
+            {
+                "ID": 15131,
+                "name": "Sonia Sotomayor",
+                "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                "last_name": "Sotomayor",
+                "roles": [
+                    {
+                        "id": 2776,
+                        "type": "scotus_justice",
+                        "date_start": 1249707600,
+                        "date_end": 0,
+                        "appointing_president": null,
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2776"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32685,
+                    "mime": "image\/png",
+                    "size": 50379,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                },
+                "length_of_service": 2293,
+                "identifier": "sonia_sotomayor"
+            },
+            {
+                "ID": 15094,
+                "name": "Elena Kagan",
+                "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                "last_name": "Kagan",
+                "roles": [
+                    {
+                        "id": 2738,
+                        "type": "scotus_justice",
+                        "date_start": 1281157200,
+                        "date_end": 0,
+                        "appointing_president": "Barack Obama",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2738"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32690,
+                    "mime": "image\/png",
+                    "size": 44456,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                },
+                "length_of_service": 1931,
+                "identifier": "elena_kagan"
+            }
+        ],
+        "court_start": 1281157200,
+        "images": [
+            {
+                "id": 12235,
+                "mime": "image\/jpeg",
+                "size": 359998,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+            }
+        ],
+        "identifier": "roberts6"
+    },
+    "term": "2013",
+    "location": {
+        "latitude": 32.778816,
+        "longitude": -96.802112,
+        "name": "United States District Court for the Northern District of Texas",
+        "street": "1100 Commerce St.",
+        "city": "Dallas",
+        "province": "TX",
+        "postal_code": null,
+        "province_name": "Texas"
+    },
+    "opinion_announcement": [
+        {
+            "id": 23267,
+            "title": "Opinion Announcement - February 26, 2014",
+            "unavailable": null,
+            "href": "https:\/\/api.oyez.org\/case_media\/opinion_announcement_audio\/23267"
+        }
+    ],
+    "description": "A case in which the Court held that the Securities Litigation Uniform Standards Act does not extend its scope beyond misrepresentations that are material to the sale of a closed financial security.",
+    "written_opinion": null,
+    "related_cases": null
+}

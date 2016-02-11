@@ -1,0 +1,130 @@
+{
+    "id": 20489,
+    "title": "Opinion Announcement - May 23, 1994",
+    "transcript": {
+        "title": "Custis v. United States",
+        "duration": 120.607,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 120.607,
+                "byte_start": 90999,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 120.607,
+                        "byte_start": 90999,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15045,
+                            "name": "Harry A. Blackmun",
+                            "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "last_name": "Blackmun",
+                            "roles": [
+                                {
+                                    "id": 2689,
+                                    "type": "scotus_justice",
+                                    "date_start": 13755600,
+                                    "date_end": 775890000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2689"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32712,
+                                "mime": "image\/png",
+                                "size": 50281,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            },
+                            "length_of_service": 8821,
+                            "identifier": "harry_a_blackmun"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.236,
+                                "byte_start": 90999,
+                                "byte_stop": 140005,
+                                "text": "Also on behalf of the Chief Justice, I have the opinion to announce in No. 93-5209, Custis against the United States."
+                            },
+                            {
+                                "start": 12.236,
+                                "stop": 37.24,
+                                "byte_start": 140005,
+                                "byte_stop": 240001,
+                                "text": "This case involves a collateral challenge to a State Court conviction used to enhance a federal sentence pursuant to the Armed Career Criminal Act which provides for enhancement of the sentence of a convicted firearms possessor who has three previous convictions or a violent felony or a serious drug offense."
+                            },
+                            {
+                                "start": 37.24,
+                                "stop": 54.107,
+                                "byte_start": 240001,
+                                "byte_stop": 307502,
+                                "text": "After the jury convicted petitioner, Darren J. Custis, of possession of a firearm by a felon and another federal crime, the government relied on his prior State Court convictions to support a motion under the Armed Career Criminal Act."
+                            },
+                            {
+                                "start": 54.107,
+                                "stop": 63.032,
+                                "byte_start": 307502,
+                                "byte_stop": 343133,
+                                "text": "The District Court rejected Custis\u0027 challange to be used for this purpose of his State Court convictions and the Court of Appeals affirmed."
+                            },
+                            {
+                                "start": 63.032,
+                                "stop": 88.807,
+                                "byte_start": 343133,
+                                "byte_stop": 446264,
+                                "text": "In an opinion filed with the Clerk today, we hold that with the sole exception of convictions obtained in violation of a right to counsel, a defendant in a federal sentencing proceeding has no right collaterally to attack the validity of previous state convictions that are used to enhance this sentence under the statute known as Section 924(e)."
+                            },
+                            {
+                                "start": 88.807,
+                                "stop": 109.117,
+                                "byte_start": 446264,
+                                "byte_stop": 527557,
+                                "text": "Congress did not intend to permit such collateral attacks and none of the constitutional violations alleged by Custis including the claim denial of effective assistance of counsel rises to the level of a jurisdictional defect resulting from the failure to appoint counsel at all."
+                            },
+                            {
+                                "start": 109.117,
+                                "stop": 113.085,
+                                "byte_start": 527557,
+                                "byte_stop": 543440,
+                                "text": "And the judgment of the Court of Appeals is therefore, affirmed."
+                            },
+                            {
+                                "start": 113.085,
+                                "stop": 120.607,
+                                "byte_start": 543440,
+                                "byte_stop": 0,
+                                "text": "Justice Souter, joined by Justice Stevens and by me, has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50102,
+            "mime": "audio\/mpeg",
+            "size": 573428,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1993\/93-5209\/19940523o_93-5209.delivery.mp3"
+        },
+        {
+            "id": 71892,
+            "mime": "audio\/ogg",
+            "size": 1155827,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1993\/93-5209\/19940523o_93-5209.ogg"
+        },
+        {
+            "id": 71893,
+            "mime": "application\/x-mpegURL",
+            "size": 1915,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1993\/93-5209\/19940523o_93-5209.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,102 @@
+{
+    "id": 20855,
+    "title": "Opinion Announcement - June 26, 1992",
+    "transcript": {
+        "title": "United States v. Fordice",
+        "duration": 37.434,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.434,
+                "byte_start": 90991,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 37.434,
+                        "byte_start": 90991,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.294,
+                                "byte_start": 90991,
+                                "byte_stop": 108232,
+                                "text": "I have two opinions to announce."
+                            },
+                            {
+                                "start": 4.294,
+                                "stop": 17.451,
+                                "byte_start": 108232,
+                                "byte_stop": 160895,
+                                "text": "The first one actually deals with two cases 90-1205, United States against Fordice, and 90-6588, Ayers against Fordice."
+                            },
+                            {
+                                "start": 17.451,
+                                "stop": 28.361,
+                                "byte_start": 160895,
+                                "byte_stop": 204467,
+                                "text": "For reasons stated in an opinion on file with the Clerk, the judgment of the Court of Appeals for the Fifth Circuit is vacated and remanded for further proceedings."
+                            },
+                            {
+                                "start": 28.361,
+                                "stop": 37.434,
+                                "byte_start": 204467,
+                                "byte_stop": 0,
+                                "text": "Justices O\u0027Connor and Thomas have filed concurring opinions; Justice Scalia has filed an opinion concurring in the judgment in part and dissenting in part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50834,
+            "mime": "audio\/mpeg",
+            "size": 240725,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-1205\/19920626o_90-1205.delivery.mp3"
+        },
+        {
+            "id": 72616,
+            "mime": "audio\/ogg",
+            "size": 377449,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-1205\/19920626o_90-1205.ogg"
+        },
+        {
+            "id": 72617,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-1205\/19920626o_90-1205.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

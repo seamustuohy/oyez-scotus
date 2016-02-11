@@ -1,0 +1,150 @@
+{
+    "id": 17640,
+    "title": "Opinion Announcement - February 20, 1974",
+    "transcript": {
+        "title": "United States v. Matlock",
+        "duration": 47.854,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 47.854,
+                "byte_start": 76800,
+                "byte_stop": 268121,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.096,
+                        "byte_start": 76800,
+                        "byte_stop": 113267,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.096,
+                                "byte_start": 76800,
+                                "byte_stop": 113267,
+                                "text": "Mr. Justice White will announce the disposition of 72-1355, United States against Matlock."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.096,
+                        "stop": 47.854,
+                        "byte_start": 113267,
+                        "byte_stop": 268121,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.096,
+                                "stop": 14.454,
+                                "byte_start": 113267,
+                                "byte_stop": 134687,
+                                "text": "In this case, the federal officers seized certain evidence in the course of searching the house."
+                            },
+                            {
+                                "start": 14.454,
+                                "stop": 20.506,
+                                "byte_start": 134687,
+                                "byte_stop": 158929,
+                                "text": "They had no warrant, but relied on consent of one of the occupants."
+                            },
+                            {
+                                "start": 20.506,
+                                "stop": 32.341,
+                                "byte_start": 158929,
+                                "byte_stop": 206263,
+                                "text": "The District Court held that the consent was invalid and suppressed the evidence, Court of Appeals affirmed for the reasons stated in the opinion on file."
+                            },
+                            {
+                                "start": 32.341,
+                                "stop": 40.07,
+                                "byte_start": 206263,
+                                "byte_stop": 237087,
+                                "text": "We in turn reverse the judgment of the Court of Appeals and remand the case to the District Court for further proceeding."
+                            },
+                            {
+                                "start": 40.07,
+                                "stop": 47.854,
+                                "byte_start": 237087,
+                                "byte_stop": 268121,
+                                "text": "Mr. Justice Douglas is has filed a dissenting opinion and Mr. Justice Brennan ahs also filed a dissenting opinion in which Mr. Justice Marshall joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44402,
+            "mime": "audio\/mpeg",
+            "size": 268330,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-1355\/19740220o_72-1355.delivery.mp3"
+        },
+        {
+            "id": 66262,
+            "mime": "audio\/ogg",
+            "size": 477836,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-1355\/19740220o_72-1355.ogg"
+        },
+        {
+            "id": 66263,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-1355\/19740220o_72-1355.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

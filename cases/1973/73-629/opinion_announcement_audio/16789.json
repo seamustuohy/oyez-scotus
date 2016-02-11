@@ -1,0 +1,143 @@
+{
+    "id": 16789,
+    "title": "Opinion Announcement - May 20, 1974",
+    "transcript": {
+        "title": "Kosydar v. National Cash Register Company",
+        "duration": 83.72,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 83.72,
+                "byte_start": 76800,
+                "byte_stop": 411585,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 81.369,
+                        "byte_start": 76800,
+                        "byte_stop": 402286,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 28.554,
+                                "byte_start": 76800,
+                                "byte_stop": 191112,
+                                "text": "And finally the last opinion and judgment that I am authorized to announce this morning is in the case of Robert J. Kosydar who is the tax commissioner of Ohio, petitioner in this case, against the National Cash Register Company, respondent number 73-629, a case which is here on writ of certiorari to the Supreme Court of Ohio."
+                            },
+                            {
+                                "start": 28.554,
+                                "stop": 59.819,
+                                "byte_start": 191112,
+                                "byte_stop": 316082,
+                                "text": "In this case, the Supreme Court of Ohio held by a divided vote that the Import-Export Clause of the Constitution that is Article 1, Section 10, Clause 2, prevented the state from assessing an ad valorem property tax upon goods specially manufactured by the respondent company for shipment to customers overseas, but temporarily resting in the respondent\u2019s warehouse in Dayton, Ohio."
+                            },
+                            {
+                                "start": 59.819,
+                                "stop": 76.342,
+                                "byte_start": 316082,
+                                "byte_stop": 382224,
+                                "text": "Since the goods have not yet actually entered into the stream of international commerce, we hold, upon the reasoning and the authority of our prior decisions, that Ohio was constitutionally free to impose a tax upon the goods in question."
+                            },
+                            {
+                                "start": 76.342,
+                                "stop": 81.369,
+                                "byte_start": 382224,
+                                "byte_stop": 402286,
+                                "text": "Accordingly we reverse the judgment of the Ohio Supreme Court."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 81.369,
+                        "stop": 83.72,
+                        "byte_start": 402286,
+                        "byte_stop": 411585,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 81.369,
+                                "stop": 83.72,
+                                "byte_start": 402286,
+                                "byte_stop": 411585,
+                                "text": "Thank you Mr. Justice Stewart."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42700,
+            "mime": "audio\/mpeg",
+            "size": 411794,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-629\/19740520o_73-629.delivery.mp3"
+        },
+        {
+            "id": 64610,
+            "mime": "audio\/ogg",
+            "size": 845970,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-629\/19740520o_73-629.ogg"
+        },
+        {
+            "id": 64611,
+            "mime": "application\/x-mpegURL",
+            "size": 1315,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-629\/19740520o_73-629.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

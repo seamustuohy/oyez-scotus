@@ -1,0 +1,102 @@
+{
+    "id": 16466,
+    "title": "Opinion Announcement - June 25, 1975",
+    "transcript": {
+        "title": "Preiser v. Newkirk",
+        "duration": 40.981,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.981,
+                "byte_start": 28672,
+                "byte_stop": 192512,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.981,
+                        "byte_start": 28672,
+                        "byte_stop": 192512,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.745,
+                                "byte_start": 28672,
+                                "byte_stop": 71722,
+                                "text": "I have the judgment and opinion of the Court to announce in No. 74-107, Preiser, Commissioner of Correctional Services of New York against Newkirk."
+                            },
+                            {
+                                "start": 10.745,
+                                "stop": 25.36,
+                                "byte_start": 71722,
+                                "byte_stop": 130132,
+                                "text": "And for reasons stated in an opinion filed today, the judgment of the Court of Appeals of the Second Circuit is vacated and remanded to that Court with directions that the complaint be dismissed by the District Court as moot."
+                            },
+                            {
+                                "start": 25.36,
+                                "stop": 28.414,
+                                "byte_start": 130132,
+                                "byte_stop": 142357,
+                                "text": "Mr. Justice Marshall filed a concurring statement."
+                            },
+                            {
+                                "start": 28.414,
+                                "stop": 40.981,
+                                "byte_start": 142357,
+                                "byte_stop": 192512,
+                                "text": "Mr. Justice Douglas filed a dissenting statement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42054,
+            "mime": "audio\/mpeg",
+            "size": 192825,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/74-107\/19750625o_74-107.delivery.mp3"
+        },
+        {
+            "id": 63978,
+            "mime": "audio\/ogg",
+            "size": 409830,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/74-107\/19750625o_74-107.ogg"
+        },
+        {
+            "id": 63979,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/74-107\/19750625o_74-107.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

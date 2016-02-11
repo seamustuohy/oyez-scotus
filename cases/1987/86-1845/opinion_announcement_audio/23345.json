@@ -1,0 +1,153 @@
+{
+    "id": 23345,
+    "title": "Opinion Announcement - June 24, 1988",
+    "transcript": {
+        "title": "Torres v. Oakland Scavenger Company",
+        "duration": 43.754,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 43.754,
+                "byte_start": 28672,
+                "byte_stop": 203588,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.331,
+                        "byte_start": 28672,
+                        "byte_stop": 66079,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.331,
+                                "byte_start": 28672,
+                                "byte_stop": 66079,
+                                "text": "The opinion of the Court in No. 86-1845, Torres against Oakland Scavenger Company will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.331,
+                        "stop": 43.754,
+                        "byte_start": 66079,
+                        "byte_stop": 203588,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.331,
+                                "stop": 14.705,
+                                "byte_start": 66079,
+                                "byte_stop": 87500,
+                                "text": "This case is here on certiorari to the Court of Appeals for the Ninth Circuit."
+                            },
+                            {
+                                "start": 14.705,
+                                "stop": 32.121,
+                                "byte_start": 87500,
+                                "byte_stop": 157194,
+                                "text": "Here, we hold that failure to file a Notice of Appeal in compliance with the specificity requirement of Federal Rule of Appellate Procedure 3(c) presents a jurisdictional bar to that appeal."
+                            },
+                            {
+                                "start": 32.121,
+                                "stop": 36.158,
+                                "byte_start": 157194,
+                                "byte_stop": 173390,
+                                "text": "The judgment of the Court of Appeals is therefore affirmed."
+                            },
+                            {
+                                "start": 36.158,
+                                "stop": 43.754,
+                                "byte_start": 173390,
+                                "byte_stop": 203588,
+                                "text": "Justice Scalia has filed an opinion concurring in the judgment and Justice Brennan has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55812,
+            "mime": "audio\/mpeg",
+            "size": 203901,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1845\/19880624o_86-1845.delivery.mp3"
+        },
+        {
+            "id": 77526,
+            "mime": "audio\/ogg",
+            "size": 417605,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1845\/19880624o_86-1845.ogg"
+        },
+        {
+            "id": 77527,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1845\/19880624o_86-1845.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

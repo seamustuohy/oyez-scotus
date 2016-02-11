@@ -1,0 +1,88 @@
+{
+    "id": 19009,
+    "title": "Opinion Announcement - April 27, 1988",
+    "transcript": {
+        "title": "Landers v. National Railroad Passenger Corp.",
+        "duration": 13.375,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 13.375,
+                "byte_start": 80942,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 13.375,
+                        "byte_start": 80942,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.977,
+                                "byte_start": 80942,
+                                "byte_stop": 124932,
+                                "text": "In the Landers case we affirm the judgment of the Court of Appeals for the First Circuit for the reasons stated in an opinion on file."
+                            },
+                            {
+                                "start": 10.977,
+                                "stop": 13.375,
+                                "byte_start": 124932,
+                                "byte_stop": 0,
+                                "text": "The opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47142,
+            "mime": "audio\/mpeg",
+            "size": 134232,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-2037\/19880427o_86-2037.delivery.mp3"
+        },
+        {
+            "id": 68968,
+            "mime": "audio\/ogg",
+            "size": 137602,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-2037\/19880427o_86-2037.ogg"
+        },
+        {
+            "id": 68969,
+            "mime": "application\/x-mpegURL",
+            "size": 331,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-2037\/19880427o_86-2037.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

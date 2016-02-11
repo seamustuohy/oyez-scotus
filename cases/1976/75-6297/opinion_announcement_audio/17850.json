@@ -1,0 +1,81 @@
+{
+    "id": 17850,
+    "title": "Opinion Announcement - April 26, 1977",
+    "transcript": {
+        "title": "Fiallo v. Bell",
+        "duration": 13.339,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 13.339,
+                "byte_start": 100528,
+                "byte_stop": 153818,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 13.339,
+                        "byte_start": 100528,
+                        "byte_stop": 153818,
+                        "speaker": {
+                            "ID": 15119,
+                            "name": "Lewis F. Powell, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "last_name": "Powell",
+                            "roles": [
+                                {
+                                    "id": 2764,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 551682000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2764"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32738,
+                                "mime": "image\/png",
+                                "size": 53543,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                            },
+                            "length_of_service": 5649,
+                            "identifier": "lewis_f_powell_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.339,
+                                "byte_start": 100528,
+                                "byte_stop": 153818,
+                                "text": "The last case, Fiallo against Bell is another case involving the application of the Equal Protection Clause to this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44822,
+            "mime": "audio\/mpeg",
+            "size": 154027,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-6297\/19770426o_75-6297.delivery.mp3"
+        },
+        {
+            "id": 66678,
+            "mime": "audio\/ogg",
+            "size": 135896,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-6297\/19770426o_75-6297.ogg"
+        },
+        {
+            "id": 66679,
+            "mime": "application\/x-mpegURL",
+            "size": 331,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-6297\/19770426o_75-6297.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

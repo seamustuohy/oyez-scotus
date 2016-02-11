@@ -1,0 +1,109 @@
+{
+    "id": 21031,
+    "title": "Opinion Announcement - April 17, 1991",
+    "transcript": {
+        "title": "Cottage Savings Association v. Commissioner of Internal Revenue",
+        "duration": 57.156,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 57.156,
+                "byte_start": 74340,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 57.156,
+                        "byte_start": 74340,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 17.094,
+                                "byte_start": 74340,
+                                "byte_stop": 142781,
+                                "text": "The third case, Cottage Savings Association versus the Commissioner, No. 89-1965, is here on certiorari to the Court of Appeals for the Sixth Circuit."
+                            },
+                            {
+                                "start": 17.094,
+                                "stop": 37.05,
+                                "byte_start": 142781,
+                                "byte_stop": 222611,
+                                "text": "The question in this case is whether a lending institution may realize tax deductible losses by exchanging its mortgage loans for mortgage loans held by other financial institutions."
+                            },
+                            {
+                                "start": 37.05,
+                                "stop": 47.556,
+                                "byte_start": 222611,
+                                "byte_stop": 264616,
+                                "text": "In an opinion filed with the clerk today, we hold that such transaction does give rise to realized losses."
+                            },
+                            {
+                                "start": 47.556,
+                                "stop": 51.345,
+                                "byte_start": 264616,
+                                "byte_stop": 279767,
+                                "text": "Accordingly, we reverse the judgment of the Fifth Circuit."
+                            },
+                            {
+                                "start": 51.345,
+                                "stop": 57.156,
+                                "byte_start": 279767,
+                                "byte_stop": 0,
+                                "text": "Justice Blackmun has filed a dissenting opinion in which Justice White joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51186,
+            "mime": "audio\/mpeg",
+            "size": 302964,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-1965\/19910417o_89-1965.delivery.mp3"
+        },
+        {
+            "id": 72962,
+            "mime": "audio\/ogg",
+            "size": 545475,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-1965\/19910417o_89-1965.ogg"
+        },
+        {
+            "id": 72963,
+            "mime": "application\/x-mpegURL",
+            "size": 991,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-1965\/19910417o_89-1965.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

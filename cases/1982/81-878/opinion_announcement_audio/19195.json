@@ -1,0 +1,95 @@
+{
+    "id": 19195,
+    "title": "Opinion Announcement - December 13, 1982",
+    "transcript": {
+        "title": "Larkin v. Grendel\u0027s Den, Inc.",
+        "duration": 20.715,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.715,
+                "byte_start": 92297,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.715,
+                        "byte_start": 92297,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.983,
+                                "byte_start": 92297,
+                                "byte_stop": 132317,
+                                "text": "I have the judgments and opinions in two cases to announce in Larkin against Grendel\u0027s Den, Incorporated."
+                            },
+                            {
+                                "start": 9.983,
+                                "stop": 17.793,
+                                "byte_start": 132317,
+                                "byte_stop": 163559,
+                                "text": "For reasons stated in an opinion of the Court filed with the clerk this morning, the judgment of the Court of Appeals is affirmed."
+                            },
+                            {
+                                "start": 17.793,
+                                "stop": 20.715,
+                                "byte_start": 163559,
+                                "byte_stop": 0,
+                                "text": "Justice Rehnquist has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47514,
+            "mime": "audio\/mpeg",
+            "size": 175262,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1982\/81-878\/19821213o_81-878.delivery.mp3"
+        },
+        {
+            "id": 69340,
+            "mime": "audio\/ogg",
+            "size": 216779,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1982\/81-878\/19821213o_81-878.ogg"
+        },
+        {
+            "id": 69341,
+            "mime": "application\/x-mpegURL",
+            "size": 412,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1982\/81-878\/19821213o_81-878.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

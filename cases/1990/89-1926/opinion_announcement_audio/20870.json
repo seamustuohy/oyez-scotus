@@ -1,0 +1,109 @@
+{
+    "id": 20870,
+    "title": "Opinion Announcement - April 17, 1991",
+    "transcript": {
+        "title": "United States v. Centennial Savings Bank FSB",
+        "duration": 65.959,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 65.959,
+                "byte_start": 74377,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 65.959,
+                        "byte_start": 74377,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.364,
+                                "byte_start": 74377,
+                                "byte_stop": 135921,
+                                "text": "The second case, United States versus Centennial Savings Bank No. 89-1926, is here on certiorari to the United States Court of Appeals for the Fifth Circuit."
+                            },
+                            {
+                                "start": 15.364,
+                                "stop": 32.74,
+                                "byte_start": 135921,
+                                "byte_stop": 205407,
+                                "text": "In an opinion filed with the Clerk today, we hold that a lending institution realizes deductible losses when it exchanges mortgage loan with another lender."
+                            },
+                            {
+                                "start": 32.74,
+                                "stop": 51.308,
+                                "byte_start": 205407,
+                                "byte_stop": 279699,
+                                "text": "We also hold that family withdrawal from these accounts collected by a savings account do not qualify as income from the discharge of in debt following under Section 108 of the tax code."
+                            },
+                            {
+                                "start": 51.308,
+                                "stop": 58.114,
+                                "byte_start": 279699,
+                                "byte_stop": 306867,
+                                "text": "We therefore affirm in part and reverse in part the judgment of the Fifth Circuit."
+                            },
+                            {
+                                "start": 58.114,
+                                "stop": 65.959,
+                                "byte_start": 306867,
+                                "byte_stop": 0,
+                                "text": "Justice Blackmun has filed an opinion concurring in part and dissenting in part in which Justice White joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50864,
+            "mime": "audio\/mpeg",
+            "size": 338214,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-1926\/19910417o_89-1926.delivery.mp3"
+        },
+        {
+            "id": 72646,
+            "mime": "audio\/ogg",
+            "size": 622215,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-1926\/19910417o_89-1926.ogg"
+        },
+        {
+            "id": 72647,
+            "mime": "application\/x-mpegURL",
+            "size": 1123,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-1926\/19910417o_89-1926.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

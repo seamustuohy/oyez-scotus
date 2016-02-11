@@ -1,0 +1,95 @@
+{
+    "id": 16278,
+    "title": "Opinion Announcement - June 21, 1977",
+    "transcript": {
+        "title": "United States v. Chadwick",
+        "duration": 33.842,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 33.842,
+                "byte_start": 100539,
+                "byte_stop": 235853,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 33.842,
+                        "byte_start": 100539,
+                        "byte_stop": 235853,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.309,
+                                "byte_start": 100539,
+                                "byte_stop": 153829,
+                                "text": "I have the judgment and opinion for the Court to announce in 75-1721, United States against Chadwick and for reasons stated in an opinion for the Court filed this morning."
+                            },
+                            {
+                                "start": 13.309,
+                                "stop": 17.522,
+                                "byte_start": 153829,
+                                "byte_stop": 170652,
+                                "text": "The judgment of the United States Court of Appeals for the First Circuit is affirmed."
+                            },
+                            {
+                                "start": 17.522,
+                                "stop": 33.842,
+                                "byte_start": 170652,
+                                "byte_stop": 235853,
+                                "text": "Mr. Justice Brennan filed an opinion concurring and Mr. Justice Blackmun with whom Mr. Justice Rehnquist joined filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41678,
+            "mime": "audio\/mpeg",
+            "size": 236062,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-1721\/19770621o_75-1721.delivery.mp3"
+        },
+        {
+            "id": 63608,
+            "mime": "audio\/ogg",
+            "size": 358746,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-1721\/19770621o_75-1721.ogg"
+        },
+        {
+            "id": 63609,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-1721\/19770621o_75-1721.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

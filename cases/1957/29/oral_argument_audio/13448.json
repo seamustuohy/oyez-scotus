@@ -1,0 +1,820 @@
+{
+    "id": 13448,
+    "title": "Oral Argument - January 07, 1958 (Part 1)",
+    "media_file": [
+        {
+            "id": 36016,
+            "mime": "audio\/mpeg",
+            "size": 2016799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1957\/29\/19580107a_29_part1.delivery.mp3"
+        },
+        {
+            "id": 58064,
+            "mime": "audio\/ogg",
+            "size": 4648713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1957\/29\/19580107a_29_part1.ogg"
+        },
+        {
+            "id": 58065,
+            "mime": "application\/x-mpegURL",
+            "size": 7581,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1957\/29\/19580107a_29_part1.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "United States v. Central Eureka Mining Company",
+        "duration": 496.976,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 496.976,
+                "byte_start": 28672,
+                "byte_stop": 2016486,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 45.303,
+                        "byte_start": 28672,
+                        "byte_stop": 209962,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 38.506,
+                                "byte_start": 28672,
+                                "byte_stop": 182794,
+                                "text": "Number 29, the United States versus Central Eureka Mining Company -- Corporation."
+                            },
+                            {
+                                "start": 38.506,
+                                "stop": 45.303,
+                                "byte_start": 182794,
+                                "byte_stop": 209962,
+                                "text": "Mr. Doub."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 45.303,
+                        "stop": 347.316,
+                        "byte_start": 209962,
+                        "byte_stop": 1417968,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 45.303,
+                                "stop": 49.782,
+                                "byte_start": 209962,
+                                "byte_stop": 227830,
+                                "text": "If the Court please."
+                            },
+                            {
+                                "start": 49.782,
+                                "stop": 66.436,
+                                "byte_start": 227830,
+                                "byte_stop": 294494,
+                                "text": "This is an appeal by the United States from a decision of the Court of Claims holding that a wartime order of the War Production Board took private property for public use under the Fifth Amendment."
+                            },
+                            {
+                                "start": 66.436,
+                                "stop": 85.732,
+                                "byte_start": 294494,
+                                "byte_stop": 371608,
+                                "text": "The order involved was issued by the War Production Board 10 months after this country entered the war in October 1942 as part of the effective mobilization of our industry for the prosecution of the war and is known as Order L-208."
+                            },
+                            {
+                                "start": 85.732,
+                                "stop": 89.792,
+                                "byte_start": 371608,
+                                "byte_stop": 387908,
+                                "text": "It remained in effect until June 1945."
+                            },
+                            {
+                                "start": 89.792,
+                                "stop": 95.279,
+                                "byte_start": 387908,
+                                "byte_stop": 409851,
+                                "text": "So it was in effect for something over two and half years."
+                            },
+                            {
+                                "start": 95.279,
+                                "stop": 123.407,
+                                "byte_start": 409851,
+                                "byte_stop": 522386,
+                                "text": "The order required all gold mines classified as unnecessary or rather nonessential to this country\u0027s war effort to be closed in the shortest possible time and it prohibited them from acquiring, consuming or using any material facility or equipment for mining purposes except minimum amounts for maintenance."
+                            },
+                            {
+                                "start": 123.407,
+                                "stop": 144.258,
+                                "byte_start": 522386,
+                                "byte_stop": 605769,
+                                "text": "The essential question then is whether the order should be deemed a non-compensable temporary restriction upon a business or from the use and enjoyment of private property in the interest of the national defense or as the Court of Claims, the undertaking of private property under the Fifth Amendment."
+                            },
+                            {
+                                "start": 144.258,
+                                "stop": 147.689,
+                                "byte_start": 605769,
+                                "byte_stop": 619457,
+                                "text": "Now, I might say these respondents complied with the order."
+                            },
+                            {
+                                "start": 147.689,
+                                "stop": 162.72,
+                                "byte_start": 619457,
+                                "byte_stop": 679643,
+                                "text": "They suspended their mining operations and I\u0027m -- they made no attempt to contest the validity of the order by affirmative or negative legal proceedings."
+                            },
+                            {
+                                "start": 162.72,
+                                "stop": 181.961,
+                                "byte_start": 679643,
+                                "byte_stop": 756548,
+                                "text": "These suits were brought in the Court of Claims under a special reference statute passed by Congress in 1952 which conferred upon the Court jurisdiction to hear and determine the claims in question and waiving any statute of limitations or latches."
+                            },
+                            {
+                                "start": 181.961,
+                                "stop": 214.337,
+                                "byte_start": 756548,
+                                "byte_stop": 886115,
+                                "text": "In the second War Powers Act of Congress in 1940, Congress provided that in the interest of national defense, the President might allocate the supply of any material or any facilities for defense or for private account or for export \u201cupon such conditions and to such extent as he shall deem necessary or appropriate in the public interest and to promote the national defense\u201d."
+                            },
+                            {
+                                "start": 214.337,
+                                "stop": 222.579,
+                                "byte_start": 886115,
+                                "byte_stop": 919030,
+                                "text": "Now, that was a broad comprehensive draft of congressional power to the President."
+                            },
+                            {
+                                "start": 222.579,
+                                "stop": 240.742,
+                                "byte_start": 919030,
+                                "byte_stop": 991650,
+                                "text": "And the President, by a series of executive orders, delegated that power to the War Production Board which was composed of Donald Nelson as Chairman, the Secretary of War, Secretary of Navy, other Cabinet Officers."
+                            },
+                            {
+                                "start": 240.742,
+                                "stop": 244.624,
+                                "byte_start": 991650,
+                                "byte_stop": 1007219,
+                                "text": "John Lord O\u0027Brian was the distinguished general counsel."
+                            },
+                            {
+                                "start": 244.624,
+                                "stop": 254.763,
+                                "byte_start": 1007219,
+                                "byte_stop": 1047761,
+                                "text": "Now, this was the Board that was exercising that statutory power of the President."
+                            },
+                            {
+                                "start": 254.763,
+                                "stop": 270.919,
+                                "byte_start": 1047761,
+                                "byte_stop": 1112440,
+                                "text": "And it was that Board which converted a laissez faire, free economy into a regulated economy with speed and efficiency to an extraordinary extent."
+                            },
+                            {
+                                "start": 270.919,
+                                "stop": 276.22,
+                                "byte_start": 1112440,
+                                "byte_stop": 1133652,
+                                "text": "It converted our economy from a peace to a wartime basis."
+                            },
+                            {
+                                "start": 276.22,
+                                "stop": 279.501,
+                                "byte_start": 1133652,
+                                "byte_stop": 1146713,
+                                "text": "Now, how did it do this?"
+                            },
+                            {
+                                "start": 279.501,
+                                "stop": 299.921,
+                                "byte_start": 1146713,
+                                "byte_stop": 1228424,
+                                "text": "Regulation was primarily through thousands of priority orders, material conservation orders and orders limiting, curtailing or prohibiting the -- the production of nonessential products and restricting the use of critical war materials."
+                            },
+                            {
+                                "start": 299.921,
+                                "stop": 313.031,
+                                "byte_start": 1228424,
+                                "byte_stop": 1280878,
+                                "text": "So through this WPB regulation, raw materials, machine tools, machinery and equipment were channeled in nonessential users to essential users."
+                            },
+                            {
+                                "start": 313.031,
+                                "stop": 328.964,
+                                "byte_start": 1280878,
+                                "byte_stop": 1344616,
+                                "text": "The War Production Board issued so-called the L orders of which this was one and thousands of other type orders which resulted in severe financial losses to enumerable businesses."
+                            },
+                            {
+                                "start": 328.964,
+                                "stop": 347.316,
+                                "byte_start": 1344616,
+                                "byte_stop": 1417968,
+                                "text": "By L orders, the War Production Board stopped the manufacturer, passenger automobiles, stoves, refrigerators, office equipment, bar graphs, vending machine, metal household, furniture and other metal commodities."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 347.316,
+                        "stop": 352.324,
+                        "byte_start": 1417968,
+                        "byte_stop": 1438030,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 347.316,
+                                "stop": 352.324,
+                                "byte_start": 1417968,
+                                "byte_stop": 1438030,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 352.324,
+                        "stop": 356.174,
+                        "byte_start": 1438030,
+                        "byte_stop": 1453390,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 352.324,
+                                "stop": 356.174,
+                                "byte_start": 1438030,
+                                "byte_stop": 1453390,
+                                "text": "Well, it was all done as a war necessity."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 356.174,
+                        "stop": 359.328,
+                        "byte_start": 1453390,
+                        "byte_stop": 1466034,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 356.174,
+                                "stop": 359.328,
+                                "byte_start": 1453390,
+                                "byte_stop": 1466034,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 359.328,
+                        "stop": 359.566,
+                        "byte_start": 1466034,
+                        "byte_stop": 1466974,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 359.328,
+                                "stop": 359.566,
+                                "byte_start": 1466034,
+                                "byte_stop": 1466974,
+                                "text": "Yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 359.566,
+                        "stop": 363.075,
+                        "byte_start": 1466974,
+                        "byte_stop": 1480976,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 359.566,
+                                "stop": 363.075,
+                                "byte_start": 1466974,
+                                "byte_stop": 1480976,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 363.075,
+                        "stop": 365.121,
+                        "byte_start": 1480976,
+                        "byte_stop": 1489230,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 363.075,
+                                "stop": 364.372,
+                                "byte_start": 1480976,
+                                "byte_stop": 1486200,
+                                "text": "Yes."
+                            },
+                            {
+                                "start": 364.372,
+                                "stop": 365.121,
+                                "byte_start": 1486200,
+                                "byte_stop": 1489230,
+                                "text": "Yes, I -- I --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 365.121,
+                        "stop": 369.8,
+                        "byte_start": 1489230,
+                        "byte_stop": 1507934,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 365.121,
+                                "stop": 369.8,
+                                "byte_start": 1489230,
+                                "byte_stop": 1507934,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 369.8,
+                        "stop": 375.794,
+                        "byte_start": 1507934,
+                        "byte_stop": 1531862,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 369.8,
+                                "stop": 375.794,
+                                "byte_start": 1507934,
+                                "byte_stop": 1531862,
+                                "text": "No other order directed in explicit terms."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 375.794,
+                        "stop": 376.193,
+                        "byte_start": 1531862,
+                        "byte_stop": 1533534,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 375.794,
+                                "stop": 376.193,
+                                "byte_start": 1531862,
+                                "byte_stop": 1533534,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 376.193,
+                        "stop": 379.217,
+                        "byte_start": 1533534,
+                        "byte_stop": 1545550,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 376.193,
+                                "stop": 379.217,
+                                "byte_start": 1533534,
+                                "byte_stop": 1545550,
+                                "text": "The -- shutdown of a business."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 379.217,
+                        "stop": 379.916,
+                        "byte_start": 1545550,
+                        "byte_stop": 1548372,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 379.217,
+                                "stop": 379.916,
+                                "byte_start": 1545550,
+                                "byte_stop": 1548372,
+                                "text": "And this one did."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 379.916,
+                        "stop": 413.539,
+                        "byte_start": 1548372,
+                        "byte_stop": 1682850,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 379.916,
+                                "stop": 381.581,
+                                "byte_start": 1548372,
+                                "byte_stop": 1555059,
+                                "text": "But -- and this one did."
+                            },
+                            {
+                                "start": 381.581,
+                                "stop": 397.359,
+                                "byte_start": 1555059,
+                                "byte_stop": 1618171,
+                                "text": "But the -- all these other orders, in many cases, did forbid the -- an industry from consuming or using any materials which had the same effect."
+                            },
+                            {
+                                "start": 397.359,
+                                "stop": 413.539,
+                                "byte_start": 1618171,
+                                "byte_stop": 1682850,
+                                "text": "And I might say that paragraph (2) of this order forbad the gold mines from consuming or using any materials and that would have resulted in suspending gold mining operations without the first paragraph of the order."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 413.539,
+                        "stop": 420.315,
+                        "byte_start": 1682850,
+                        "byte_stop": 1710017,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 413.539,
+                                "stop": 420.315,
+                                "byte_start": 1682850,
+                                "byte_stop": 1710017,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 420.315,
+                        "stop": 491.646,
+                        "byte_start": 1710017,
+                        "byte_stop": 1995274,
+                        "speaker": {
+                            "ID": 25167,
+                            "name": "George Cochran Doub",
+                            "href": "https:\/\/api.oyez.org\/people\/george_cochran_doub",
+                            "last_name": "Doub",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "george_cochran_doub"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 420.315,
+                                "stop": 428.713,
+                                "byte_start": 1710017,
+                                "byte_stop": 1743559,
+                                "text": "Well, let me tell you what was the result of these orders regardless of technical form."
+                            },
+                            {
+                                "start": 428.713,
+                                "stop": 445.748,
+                                "byte_start": 1743559,
+                                "byte_stop": 1811686,
+                                "text": "In May of 1942, the War Production Board predicted that within six months as the result of their orders, 24,000 manufacturing businesses would have to close."
+                            },
+                            {
+                                "start": 445.748,
+                                "stop": 452.373,
+                                "byte_start": 1811686,
+                                "byte_stop": 1838226,
+                                "text": "Now, what the actual consequences were of these orders, if the Court please, we don\u0027t know."
+                            },
+                            {
+                                "start": 452.373,
+                                "stop": 472.137,
+                                "byte_start": 1838226,
+                                "byte_stop": 1917221,
+                                "text": "But we do know that in the years 1942 through 1944, the total business concerns in the United States excluding real estate and insurance, such things, declined by 201,000."
+                            },
+                            {
+                                "start": 472.137,
+                                "stop": 482.675,
+                                "byte_start": 1917221,
+                                "byte_stop": 1959434,
+                                "text": "And it\u0027s certainly fair to assume that a material part of that decline was attributable to this wartime regulation of the War Production Board."
+                            },
+                            {
+                                "start": 482.675,
+                                "stop": 491.646,
+                                "byte_start": 1959434,
+                                "byte_stop": 1995274,
+                                "text": "I\u0027d like to point out what Mr.O\u0027Brian said in his classic article on the functioning of the War Production Board --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 491.646,
+                        "stop": 496.976,
+                        "byte_start": 1995274,
+                        "byte_stop": 2016486,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 491.646,
+                                "stop": 496.976,
+                                "byte_start": 1995274,
+                                "byte_stop": 2016486,
+                                "text": "We\u0027ll recess now, Mr. Doub."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

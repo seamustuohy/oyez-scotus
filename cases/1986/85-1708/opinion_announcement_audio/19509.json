@@ -1,0 +1,139 @@
+{
+    "id": 19509,
+    "title": "Opinion Announcement - February 25, 1987",
+    "transcript": {
+        "title": "California v. Cabazon Band of Mission Indians",
+        "duration": 34.795,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.795,
+                "byte_start": 91798,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 15.08,
+                        "byte_start": 91798,
+                        "byte_stop": 152193,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.08,
+                                "byte_start": 91798,
+                                "byte_stop": 152193,
+                                "text": "The opinions of the Court on No. 85-1708, California versus Cabazon Band of Mission Indians, and No. 85-6461, Martin against Ohio will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 15.08,
+                        "stop": 34.795,
+                        "byte_start": 152193,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 15.08,
+                                "stop": 27.595,
+                                "byte_start": 152193,
+                                "byte_stop": 202244,
+                                "text": "In the Cabazon Case which is here from the Court of Appeals for the Ninth circuit, we affirm the judgment of that court and remand the case."
+                            },
+                            {
+                                "start": 27.595,
+                                "stop": 34.795,
+                                "byte_start": 202244,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed the dissenting opinion; Justices O\u0027Connor and Scalia have joined that opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48142,
+            "mime": "audio\/mpeg",
+            "size": 230978,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-1708\/19870225o_85-1708.delivery.mp3"
+        },
+        {
+            "id": 69964,
+            "mime": "audio\/ogg",
+            "size": 352768,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-1708\/19870225o_85-1708.ogg"
+        },
+        {
+            "id": 69965,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-1708\/19870225o_85-1708.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,102 @@
+{
+    "id": 15752,
+    "title": "Opinion Announcement - June 17, 1976",
+    "transcript": {
+        "title": "Hortonville Joint School District No. 1 v. Hortonville Education Assn",
+        "duration": 35.021,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.021,
+                "byte_start": 73693,
+                "byte_stop": 213709,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.021,
+                        "byte_start": 73693,
+                        "byte_stop": 213709,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.425,
+                                "byte_start": 73693,
+                                "byte_stop": 99397,
+                                "text": "I have four opinions to announce for the court."
+                            },
+                            {
+                                "start": 6.425,
+                                "stop": 13.379,
+                                "byte_start": 99397,
+                                "byte_stop": 127296,
+                                "text": "In 74-1606 Hortonville Joint School District against Hortonville Educational Association."
+                            },
+                            {
+                                "start": 13.379,
+                                "stop": 27.431,
+                                "byte_start": 127296,
+                                "byte_stop": 183512,
+                                "text": "For reasons stated in an opinion filed with the clerk today, the judgment of the Supreme Court of Wisconsin is reversed and the case is remanded for further proceedings, not inconsistent with our opinion."
+                            },
+                            {
+                                "start": 27.431,
+                                "stop": 35.021,
+                                "byte_start": 183512,
+                                "byte_stop": 213709,
+                                "text": "Mr. Justice Stewart joined by Mr. Justice Brennan and Mr. Justice Marshall filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40626,
+            "mime": "audio\/mpeg",
+            "size": 213918,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-1606\/19760617o_74-1606.delivery.mp3"
+        },
+        {
+            "id": 62570,
+            "mime": "audio\/ogg",
+            "size": 374659,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-1606\/19760617o_74-1606.ogg"
+        },
+        {
+            "id": 62571,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-1606\/19760617o_74-1606.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

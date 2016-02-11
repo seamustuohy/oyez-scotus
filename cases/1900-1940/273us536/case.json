@@ -1,0 +1,561 @@
+{
+    "ID": 62440,
+    "name": "Nixon v. Herndon",
+    "href": "https:\/\/api.oyez.org\/cases\/1900-1940\/273us536",
+    "docket_number": "117",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Nixon",
+    "second_party": "Herndon",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -1356717600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53038"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -1351360800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53039"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "",
+    "question": "",
+    "conclusion": "",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "273",
+        "page": "536",
+        "year": "1927",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27242"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15277,
+            "name": "Taft Court (1925-1930)",
+            "href": "https:\/\/api.oyez.org\/courts\/taft9",
+            "members": [
+                {
+                    "ID": 15146,
+                    "name": "William Howard Taft",
+                    "href": "https:\/\/api.oyez.org\/people\/william_howard_taft",
+                    "last_name": "Taft",
+                    "roles": [
+                        {
+                            "id": 2794,
+                            "type": "scotus_justice",
+                            "date_start": -1529780400,
+                            "date_end": -1259431200,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2794"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32777,
+                        "mime": "image\/png",
+                        "size": 35140,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_howard_taft.png"
+                    },
+                    "length_of_service": 3129,
+                    "identifier": "william_howard_taft"
+                },
+                {
+                    "ID": 15048,
+                    "name": "Oliver W. Holmes, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                    "last_name": "Holmes",
+                    "roles": [
+                        {
+                            "id": 2692,
+                            "type": "scotus_justice",
+                            "date_start": -2116432800,
+                            "date_end": -1198260000,
+                            "appointing_president": "Theodore Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32747,
+                        "mime": "image\/png",
+                        "size": 53023,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                    },
+                    "length_of_service": 10627,
+                    "identifier": "oliver_w_holmes_jr"
+                },
+                {
+                    "ID": 15133,
+                    "name": "Willis Van Devanter",
+                    "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                    "last_name": "Van Devanter",
+                    "roles": [
+                        {
+                            "id": 2778,
+                            "type": "scotus_justice",
+                            "date_start": -1861725600,
+                            "date_end": -1028228400,
+                            "appointing_president": "William Howard Taft",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32785,
+                        "mime": "image\/png",
+                        "size": 52800,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                    },
+                    "length_of_service": 9647,
+                    "identifier": "willis_van_devanter"
+                },
+                {
+                    "ID": 15066,
+                    "name": "James C. McReynolds",
+                    "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                    "last_name": "McReynolds",
+                    "roles": [
+                        {
+                            "id": 2710,
+                            "type": "scotus_justice",
+                            "date_start": -1742666400,
+                            "date_end": -912535200,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32720,
+                        "mime": "image\/png",
+                        "size": 55380,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                    },
+                    "length_of_service": 9608,
+                    "identifier": "james_c_mcreynolds"
+                },
+                {
+                    "ID": 15075,
+                    "name": "Louis D. Brandeis",
+                    "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                    "last_name": "Brandeis",
+                    "roles": [
+                        {
+                            "id": 2719,
+                            "type": "scotus_justice",
+                            "date_start": -1690653600,
+                            "date_end": -974570400,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32739,
+                        "mime": "image\/png",
+                        "size": 33357,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                    },
+                    "length_of_service": 8288,
+                    "identifier": "louis_d_brandeis"
+                },
+                {
+                    "ID": 15108,
+                    "name": "George Sutherland",
+                    "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+                    "last_name": "Sutherland",
+                    "roles": [
+                        {
+                            "id": 2752,
+                            "type": "scotus_justice",
+                            "date_start": -1491069600,
+                            "date_end": -1008439200,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
+                        }
+                    ],
+                    "thumbnail": null,
+                    "length_of_service": 5586,
+                    "identifier": "george_sutherland"
+                },
+                {
+                    "ID": 15138,
+                    "name": "Pierce Butler",
+                    "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                    "last_name": "Butler",
+                    "roles": [
+                        {
+                            "id": 2784,
+                            "type": "scotus_justice",
+                            "date_start": -1483120800,
+                            "date_end": -950724000,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32751,
+                        "mime": "image\/png",
+                        "size": 38328,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                    },
+                    "length_of_service": 6162,
+                    "identifier": "pierce_butler"
+                },
+                {
+                    "ID": 15088,
+                    "name": "Edward T. Sanford",
+                    "href": "https:\/\/api.oyez.org\/people\/edward_t_sanford",
+                    "last_name": "Sanford",
+                    "roles": [
+                        {
+                            "id": 2732,
+                            "type": "scotus_justice",
+                            "date_start": -1478973600,
+                            "date_end": -1256580000,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2732"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32705,
+                        "mime": "image\/png",
+                        "size": 36085,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_t_stanford.png"
+                    },
+                    "length_of_service": 2574,
+                    "identifier": "edward_t_sanford"
+                },
+                {
+                    "ID": 15134,
+                    "name": "Harlan Fiske Stone",
+                    "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                    "last_name": "Stone",
+                    "roles": [
+                        {
+                            "id": 2779,
+                            "type": "scotus_justice",
+                            "date_start": -1414864800,
+                            "date_end": -899406000,
+                            "appointing_president": "Calvin Coolidge",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                        },
+                        {
+                            "id": 2780,
+                            "type": "scotus_justice",
+                            "date_start": -899319600,
+                            "date_end": -747770400,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32788,
+                        "mime": "image\/png",
+                        "size": 33656,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                    },
+                    "length_of_service": 7720,
+                    "identifier": "harlan_fiske_stone"
+                }
+            ],
+            "court_start": -1414864800,
+            "images": [
+                {
+                    "id": 78533,
+                    "mime": "image\/jpeg",
+                    "size": 960090,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/taft6_photograph.jpg"
+                }
+            ],
+            "identifier": "taft9"
+        }
+    ],
+    "decided_by": {
+        "ID": 15277,
+        "name": "Taft Court (1925-1930)",
+        "href": "https:\/\/api.oyez.org\/courts\/taft9",
+        "members": [
+            {
+                "ID": 15146,
+                "name": "William Howard Taft",
+                "href": "https:\/\/api.oyez.org\/people\/william_howard_taft",
+                "last_name": "Taft",
+                "roles": [
+                    {
+                        "id": 2794,
+                        "type": "scotus_justice",
+                        "date_start": -1529780400,
+                        "date_end": -1259431200,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2794"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32777,
+                    "mime": "image\/png",
+                    "size": 35140,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_howard_taft.png"
+                },
+                "length_of_service": 3129,
+                "identifier": "william_howard_taft"
+            },
+            {
+                "ID": 15048,
+                "name": "Oliver W. Holmes, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                "last_name": "Holmes",
+                "roles": [
+                    {
+                        "id": 2692,
+                        "type": "scotus_justice",
+                        "date_start": -2116432800,
+                        "date_end": -1198260000,
+                        "appointing_president": "Theodore Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32747,
+                    "mime": "image\/png",
+                    "size": 53023,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                },
+                "length_of_service": 10627,
+                "identifier": "oliver_w_holmes_jr"
+            },
+            {
+                "ID": 15133,
+                "name": "Willis Van Devanter",
+                "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                "last_name": "Van Devanter",
+                "roles": [
+                    {
+                        "id": 2778,
+                        "type": "scotus_justice",
+                        "date_start": -1861725600,
+                        "date_end": -1028228400,
+                        "appointing_president": "William Howard Taft",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32785,
+                    "mime": "image\/png",
+                    "size": 52800,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                },
+                "length_of_service": 9647,
+                "identifier": "willis_van_devanter"
+            },
+            {
+                "ID": 15066,
+                "name": "James C. McReynolds",
+                "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                "last_name": "McReynolds",
+                "roles": [
+                    {
+                        "id": 2710,
+                        "type": "scotus_justice",
+                        "date_start": -1742666400,
+                        "date_end": -912535200,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32720,
+                    "mime": "image\/png",
+                    "size": 55380,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                },
+                "length_of_service": 9608,
+                "identifier": "james_c_mcreynolds"
+            },
+            {
+                "ID": 15075,
+                "name": "Louis D. Brandeis",
+                "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                "last_name": "Brandeis",
+                "roles": [
+                    {
+                        "id": 2719,
+                        "type": "scotus_justice",
+                        "date_start": -1690653600,
+                        "date_end": -974570400,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32739,
+                    "mime": "image\/png",
+                    "size": 33357,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                },
+                "length_of_service": 8288,
+                "identifier": "louis_d_brandeis"
+            },
+            {
+                "ID": 15108,
+                "name": "George Sutherland",
+                "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+                "last_name": "Sutherland",
+                "roles": [
+                    {
+                        "id": 2752,
+                        "type": "scotus_justice",
+                        "date_start": -1491069600,
+                        "date_end": -1008439200,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
+                    }
+                ],
+                "thumbnail": null,
+                "length_of_service": 5586,
+                "identifier": "george_sutherland"
+            },
+            {
+                "ID": 15138,
+                "name": "Pierce Butler",
+                "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                "last_name": "Butler",
+                "roles": [
+                    {
+                        "id": 2784,
+                        "type": "scotus_justice",
+                        "date_start": -1483120800,
+                        "date_end": -950724000,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32751,
+                    "mime": "image\/png",
+                    "size": 38328,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                },
+                "length_of_service": 6162,
+                "identifier": "pierce_butler"
+            },
+            {
+                "ID": 15088,
+                "name": "Edward T. Sanford",
+                "href": "https:\/\/api.oyez.org\/people\/edward_t_sanford",
+                "last_name": "Sanford",
+                "roles": [
+                    {
+                        "id": 2732,
+                        "type": "scotus_justice",
+                        "date_start": -1478973600,
+                        "date_end": -1256580000,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2732"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32705,
+                    "mime": "image\/png",
+                    "size": 36085,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_t_stanford.png"
+                },
+                "length_of_service": 2574,
+                "identifier": "edward_t_sanford"
+            },
+            {
+                "ID": 15134,
+                "name": "Harlan Fiske Stone",
+                "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                "last_name": "Stone",
+                "roles": [
+                    {
+                        "id": 2779,
+                        "type": "scotus_justice",
+                        "date_start": -1414864800,
+                        "date_end": -899406000,
+                        "appointing_president": "Calvin Coolidge",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                    },
+                    {
+                        "id": 2780,
+                        "type": "scotus_justice",
+                        "date_start": -899319600,
+                        "date_end": -747770400,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32788,
+                    "mime": "image\/png",
+                    "size": 33656,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                },
+                "length_of_service": 7720,
+                "identifier": "harlan_fiske_stone"
+            }
+        ],
+        "court_start": -1414864800,
+        "images": [
+            {
+                "id": 78533,
+                "mime": "image\/jpeg",
+                "size": 960090,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/taft6_photograph.jpg"
+            }
+        ],
+        "identifier": "taft9"
+    },
+    "term": "1900-1940",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

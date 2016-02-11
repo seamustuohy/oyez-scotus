@@ -1,0 +1,139 @@
+{
+    "id": 18571,
+    "title": "Opinion Announcement - March 28, 1990",
+    "transcript": {
+        "title": "Clemons v. Mississippi",
+        "duration": 33.828,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 33.828,
+                "byte_start": 87125,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.472,
+                        "byte_start": 87125,
+                        "byte_stop": 121084,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.472,
+                                "byte_start": 87125,
+                                "byte_stop": 121084,
+                                "text": "The opinion of the Court in No. 88-6873, Clemons against Mississippi will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.472,
+                        "stop": 33.828,
+                        "byte_start": 121084,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.472,
+                                "stop": 21.804,
+                                "byte_start": 121084,
+                                "byte_stop": 174374,
+                                "text": "For the reasons stated in an opinion on file with the Clerk, we vacate and remand the decision of the Supreme Court of Mississippi in this case."
+                            },
+                            {
+                                "start": 21.804,
+                                "stop": 33.828,
+                                "byte_start": 174374,
+                                "byte_stop": 0,
+                                "text": "Justices Brennan and Blackmun have each filed an opinion concurring in part and dissenting in part; Justices Brennan, Marshall, and Stevens join Justice Blackmun\u2019s opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46265,
+            "mime": "audio\/mpeg",
+            "size": 222439,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-6873\/19900328o_88-6873.delivery.mp3"
+        },
+        {
+            "id": 68104,
+            "mime": "audio\/ogg",
+            "size": 337864,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-6873\/19900328o_88-6873.ogg"
+        },
+        {
+            "id": 68105,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-6873\/19900328o_88-6873.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

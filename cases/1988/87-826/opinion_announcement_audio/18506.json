@@ -1,0 +1,116 @@
+{
+    "id": 18506,
+    "title": "Opinion Announcement - January 10, 1989",
+    "transcript": {
+        "title": "Goldberg v. Sweet",
+        "duration": 55.753,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 55.753,
+                "byte_start": 86538,
+                "byte_stop": 309519,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 55.753,
+                        "byte_start": 86538,
+                        "byte_stop": 309519,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.467,
+                                "byte_start": 86538,
+                                "byte_stop": 124468,
+                                "text": "The other case, Goldberg versus Sweet, No. 87-1101, is appealed from the Supreme Court of Illinois."
+                            },
+                            {
+                                "start": 9.467,
+                                "stop": 26.951,
+                                "byte_start": 124468,
+                                "byte_stop": 194371,
+                                "text": "This case, we hold that the Illinois Telecommunications Excise Tax does not violate the Dormant Commerce Clause and challenge tax on interstate telecommunications is falsely apportioned."
+                            },
+                            {
+                                "start": 26.951,
+                                "stop": 31.426,
+                                "byte_start": 194371,
+                                "byte_stop": 212344,
+                                "text": "It does not discriminate against interstate commerce."
+                            },
+                            {
+                                "start": 31.426,
+                                "stop": 37.561,
+                                "byte_start": 212344,
+                                "byte_stop": 236794,
+                                "text": "It is fairly related to services and benefits produced by the State of Illinois."
+                            },
+                            {
+                                "start": 37.561,
+                                "stop": 43.209,
+                                "byte_start": 236794,
+                                "byte_stop": 259469,
+                                "text": "The judgment of the Supreme Court of Illinois is, thereby, affirmed."
+                            },
+                            {
+                                "start": 43.209,
+                                "stop": 55.753,
+                                "byte_start": 259469,
+                                "byte_stop": 309519,
+                                "text": "Justice Stevens and Justice O?Connor have each filed separate concurring opinions, and Justice Scalia has filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46134,
+            "mime": "audio\/mpeg",
+            "size": 309728,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-826\/19890110o_87-826.delivery.mp3"
+        },
+        {
+            "id": 67974,
+            "mime": "audio\/ogg",
+            "size": 535930,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-826\/19890110o_87-826.ogg"
+        },
+        {
+            "id": 67975,
+            "mime": "application\/x-mpegURL",
+            "size": 928,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-826\/19890110o_87-826.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,150 @@
+{
+    "id": 17529,
+    "title": "Opinion Announcement - June 15, 1978",
+    "transcript": {
+        "title": "Moorman Manufacturing Company v. Bair",
+        "duration": 65.322,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 65.322,
+                "byte_start": 79985,
+                "byte_stop": 341209,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 63.412,
+                        "byte_start": 79985,
+                        "byte_stop": 333686,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.597,
+                                "byte_start": 79985,
+                                "byte_stop": 142470,
+                                "text": "The second text, the second case coming from Iowa involves the constitutionality of Iowa\u0027s formula for determining what portion of the income of an Interstate business shall be subject to tax in Iowa."
+                            },
+                            {
+                                "start": 15.597,
+                                "stop": 29.45,
+                                "byte_start": 142470,
+                                "byte_stop": 197849,
+                                "text": "Under Iowa\u0027s formula, the portion that is taxed by that state is measured by the portion of the gross sales made in the -- the portion of the total sales made by the corporation which take place within the state."
+                            },
+                            {
+                                "start": 29.45,
+                                "stop": 48.932,
+                                "byte_start": 197849,
+                                "byte_stop": 275799,
+                                "text": "For reasons stated in the opinion, which we filed with the clerk, we uphold the validity of this tax noting that if the Commerce problems that raises can effectively be dealt with by the Congress of the United States if it wishes to remove the risk of multiple taxation that this sort of statute does create."
+                            },
+                            {
+                                "start": 48.932,
+                                "stop": 57.625,
+                                "byte_start": 275799,
+                                "byte_stop": 310489,
+                                "text": "There have been three dissenting opinions filed in this case; one by Justice Powell, one by Justice Brennan and one by Justice Blackmun."
+                            },
+                            {
+                                "start": 57.625,
+                                "stop": 63.412,
+                                "byte_start": 310489,
+                                "byte_stop": 333686,
+                                "text": "Mr. Justice Blackmun has also joined Mr. Justice Powell\u0027s opinion."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 63.412,
+                        "stop": 65.322,
+                        "byte_start": 333686,
+                        "byte_stop": 341209,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 63.412,
+                                "stop": 65.322,
+                                "byte_start": 333686,
+                                "byte_stop": 341209,
+                                "text": "Thank you, Mr. Justice Stevens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44180,
+            "mime": "audio\/mpeg",
+            "size": 341418,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/77-454\/19780615o_77-454.delivery.mp3"
+        },
+        {
+            "id": 66042,
+            "mime": "audio\/ogg",
+            "size": 682147,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/77-454\/19780615o_77-454.ogg"
+        },
+        {
+            "id": 66043,
+            "mime": "application\/x-mpegURL",
+            "size": 1057,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/77-454\/19780615o_77-454.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

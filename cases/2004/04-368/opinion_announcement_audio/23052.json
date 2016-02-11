@@ -1,0 +1,140 @@
+{
+    "id": 23052,
+    "title": "Opinion Announcement - May 31, 2005",
+    "transcript": {
+        "title": "Arthur Andersen LLP v. United States",
+        "duration": 109.871,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 109.871,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 109.871,
+                        "byte_start": 28672,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.696,
+                                "byte_start": 28672,
+                                "byte_stop": 59496,
+                                "text": "I have the opinion of the Court to announce in Arthur Andersen versus the United States."
+                            },
+                            {
+                                "start": 7.696,
+                                "stop": 29.286,
+                                "byte_start": 59496,
+                                "byte_stop": 145910,
+                                "text": "As Enron Corporation\u0027s financial difficulties became public in 2001, petitioner Arthur Andersen, Enron\u0027s auditor, instructed its employees to destroy documents pursuant to a document retention policy."
+                            },
+                            {
+                                "start": 29.286,
+                                "stop": 46.371,
+                                "byte_start": 145910,
+                                "byte_stop": 214246,
+                                "text": "A jury found that this made Andersen criminally liable as a corrupt persuader under Section 1512(b) of Title 18, and the Section is dealing with Obstruction of Justice."
+                            },
+                            {
+                                "start": 46.371,
+                                "stop": 49.946,
+                                "byte_start": 214246,
+                                "byte_stop": 228561,
+                                "text": "The Court of Appeals to the Fifth Circuit affirmed."
+                            },
+                            {
+                                "start": 49.946,
+                                "stop": 79.028,
+                                "byte_start": 228561,
+                                "byte_stop": 344858,
+                                "text": "We granted certiorari and we hold that the phrase \u0022knowingly corruptly persuades\u0022 in 1512(b) requires a consciousness of wrongdoing and that one cannot knowingly corruptly persuade another to shred documents unless one foresees a particular official proceeding in which those documents might be material."
+                            },
+                            {
+                                "start": 79.028,
+                                "stop": 86.421,
+                                "byte_start": 344858,
+                                "byte_stop": 374429,
+                                "text": "The jury instructions here failed to correctly convey these statutory elements."
+                            },
+                            {
+                                "start": 86.421,
+                                "stop": 90.789,
+                                "byte_start": 374429,
+                                "byte_stop": 391879,
+                                "text": "The judgment of the Court of Appeals is therefore reversed."
+                            },
+                            {
+                                "start": 90.789,
+                                "stop": 109.871,
+                                "byte_start": 391879,
+                                "byte_stop": 0,
+                                "text": "The opinion of the Court is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55226,
+            "mime": "audio\/mpeg",
+            "size": 402328,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2004\/04-368\/20050531o_04-368.delivery.mp3"
+        },
+        {
+            "id": 76966,
+            "mime": "audio\/ogg",
+            "size": 888742,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2004\/04-368\/20050531o_04-368.ogg"
+        },
+        {
+            "id": 76967,
+            "mime": "application\/x-mpegURL",
+            "size": 1487,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2004\/04-368\/20050531o_04-368.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,126 @@
+{
+    "id": 19224,
+    "title": "Opinion Announcement - April 18, 1989",
+    "transcript": {
+        "title": "American Foreign Service Association v. Garfinkel",
+        "duration": 54.204,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 54.204,
+                "byte_start": 86568,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 54.204,
+                        "byte_start": 86568,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.741,
+                                "byte_start": 86568,
+                                "byte_stop": 121572,
+                                "text": "I have the opinion of the Court to announce in No. 87-2127, American Foreign Service Association versus Garfinkel."
+                            },
+                            {
+                                "start": 8.741,
+                                "stop": 26.533,
+                                "byte_start": 121572,
+                                "byte_stop": 192730,
+                                "text": "In this case, the District Court invalidated Section 630 of an Act of Congress dealing with disclosure agreements by Executive Branch employees as an impermissible interference with the President\u2019s authority to regulate the disclosure of national security information."
+                            },
+                            {
+                                "start": 26.533,
+                                "stop": 36.665,
+                                "byte_start": 192730,
+                                "byte_stop": 233272,
+                                "text": "In a subsequent ruling, it held that the Executives\u2019 use of the term \u0022classifiable\u0022 was impermissibly vague and ordered the executive to discontinue use of this term."
+                            },
+                            {
+                                "start": 36.665,
+                                "stop": 40.725,
+                                "byte_start": 233272,
+                                "byte_stop": 249572,
+                                "text": "In light of this development, a portion of appellant\u2019s lawsuit is moot."
+                            },
+                            {
+                                "start": 40.725,
+                                "stop": 47.815,
+                                "byte_start": 249572,
+                                "byte_stop": 277889,
+                                "text": "Other questions, however, may remain, and in their current posture of best resolved in the first instance by the District Court."
+                            },
+                            {
+                                "start": 47.815,
+                                "stop": 54.204,
+                                "byte_start": 277889,
+                                "byte_stop": 0,
+                                "text": "We therefore vacate the judgment of the District Court and remand for further proceedings consistent with this opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47572,
+            "mime": "audio\/mpeg",
+            "size": 303384,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-2127\/19890418o_87-2127.delivery.mp3"
+        },
+        {
+            "id": 69398,
+            "mime": "audio\/ogg",
+            "size": 545943,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-2127\/19890418o_87-2127.ogg"
+        },
+        {
+            "id": 69399,
+            "mime": "application\/x-mpegURL",
+            "size": 947,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-2127\/19890418o_87-2127.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

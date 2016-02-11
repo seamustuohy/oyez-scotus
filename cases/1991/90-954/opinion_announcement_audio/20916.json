@@ -1,0 +1,146 @@
+{
+    "id": 20916,
+    "title": "Opinion Announcement - January 15, 1992",
+    "transcript": {
+        "title": "Rufo v. Inmates of Suffolk County Jail",
+        "duration": 32.313,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.313,
+                "byte_start": 90888,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 11.049,
+                        "byte_start": 90888,
+                        "byte_stop": 135087,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.049,
+                                "byte_start": 90888,
+                                "byte_stop": 135087,
+                                "text": "The opinion of the Court in No. 90-954, Rufo against the Inmates of Suffolk County Jail and a companion case will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 11.049,
+                        "stop": 32.313,
+                        "byte_start": 135087,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 11.049,
+                                "stop": 22.533,
+                                "byte_start": 135087,
+                                "byte_stop": 181063,
+                                "text": "For the reasons stated in an opinion on file with the Clerk, the judgment of the Court of Appeals for the First Circuit in these cases is vacated and remanded for further proceedings."
+                            },
+                            {
+                                "start": 22.533,
+                                "stop": 27.205,
+                                "byte_start": 181063,
+                                "byte_stop": 199766,
+                                "text": "Justice Stevens has filed a dissenting opinion that Justice Blackmun has joined."
+                            },
+                            {
+                                "start": 27.205,
+                                "stop": 32.313,
+                                "byte_start": 199766,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas took no part in the consideration and decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50956,
+            "mime": "audio\/mpeg",
+            "size": 220142,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-954\/19920115o_90-954.delivery.mp3"
+        },
+        {
+            "id": 72734,
+            "mime": "audio\/ogg",
+            "size": 320543,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-954\/19920115o_90-954.ogg"
+        },
+        {
+            "id": 72735,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-954\/19920115o_90-954.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

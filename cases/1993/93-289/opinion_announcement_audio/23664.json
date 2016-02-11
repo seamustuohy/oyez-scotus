@@ -1,0 +1,123 @@
+{
+    "id": 23664,
+    "title": "Opinion Announcement - May 23, 1994",
+    "transcript": {
+        "title": "Dalton v. Specter",
+        "duration": 83.566,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 83.566,
+                "byte_start": 91012,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 83.566,
+                        "byte_start": 91012,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15045,
+                            "name": "Harry A. Blackmun",
+                            "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "last_name": "Blackmun",
+                            "roles": [
+                                {
+                                    "id": 2689,
+                                    "type": "scotus_justice",
+                                    "date_start": 13755600,
+                                    "date_end": 775890000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2689"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32712,
+                                "mime": "image\/png",
+                                "size": 50281,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            },
+                            "length_of_service": 8821,
+                            "identifier": "harry_a_blackmun"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.99,
+                                "byte_start": 91012,
+                                "byte_stop": 147019,
+                                "text": "On behalf of the Chief Justice, I have the announcement to make in No.93-289 Dalton against Specter, and I read his bench statement."
+                            },
+                            {
+                                "start": 13.99,
+                                "stop": 24.359,
+                                "byte_start": 147019,
+                                "byte_stop": 188501,
+                                "text": "In this case, respondent sought to prevent the Secretary of Defense from carrying out a decision by the President to close the Philadelphia Naval Shipyard."
+                            },
+                            {
+                                "start": 24.359,
+                                "stop": 34.613,
+                                "byte_start": 188501,
+                                "byte_stop": 229565,
+                                "text": "The President\u0027s decision was the end result of a selection process prescribed by the Defense Base Closure and Realignment Act of 1990."
+                            },
+                            {
+                                "start": 34.613,
+                                "stop": 52.909,
+                                "byte_start": 229565,
+                                "byte_stop": 302708,
+                                "text": "The United States Court of Appeals for the Third Circuit held that judicial review of the decision was available to ensure that various participants on the selection process had complied with a procedural requirements imposed by the Base Closure Act."
+                            },
+                            {
+                                "start": 52.909,
+                                "stop": 65.669,
+                                "byte_start": 302708,
+                                "byte_stop": 353699,
+                                "text": "The Court today holds that judicial review of the decision to close the Philadelphia Shipyard is not available and accordingly, the judgment of the Court of Appeals is reversed."
+                            },
+                            {
+                                "start": 65.669,
+                                "stop": 77.272,
+                                "byte_start": 353699,
+                                "byte_stop": 400197,
+                                "text": "Justice Souter has filed an opinion concurring in part and concurring in the judgment in which I and Justice Stevens and Justice Ginsburg have joined."
+                            },
+                            {
+                                "start": 77.272,
+                                "stop": 83.566,
+                                "byte_start": 400197,
+                                "byte_stop": 0,
+                                "text": "I also have filed a separate opinion concurring in part and concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56446,
+            "mime": "audio\/mpeg",
+            "size": 425275,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1993\/93-289\/19940523o_93-289.delivery.mp3"
+        },
+        {
+            "id": 78134,
+            "mime": "audio\/ogg",
+            "size": 793555,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1993\/93-289\/19940523o_93-289.ogg"
+        },
+        {
+            "id": 78135,
+            "mime": "application\/x-mpegURL",
+            "size": 1315,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1993\/93-289\/19940523o_93-289.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

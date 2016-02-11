@@ -1,0 +1,81 @@
+{
+    "id": 16033,
+    "title": "Opinion Announcement - March 08, 1976",
+    "transcript": {
+        "title": "East Carroll Parish School Board v. Marshall",
+        "duration": 27.211,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.211,
+                "byte_start": 73688,
+                "byte_stop": 182462,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 27.211,
+                        "byte_start": 73688,
+                        "byte_stop": 182462,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 27.211,
+                                "byte_start": 73688,
+                                "byte_stop": 182462,
+                                "text": "I have the judgment and opinion of the Court in 73-861, East Carroll Parish School Board and the Police Jury against Marshall and for reasons stated in an opinion of the Court filed with the clerk this morning, the judgment of the United States Court of Appeals for the Fifth Circuit is affirmed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41188,
+            "mime": "audio\/mpeg",
+            "size": 182671,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/73-861\/19760308o_73-861.delivery.mp3"
+        },
+        {
+            "id": 63130,
+            "mime": "audio\/ogg",
+            "size": 278220,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/73-861\/19760308o_73-861.ogg"
+        },
+        {
+            "id": 63131,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/73-861\/19760308o_73-861.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

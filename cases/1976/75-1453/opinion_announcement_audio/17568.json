@@ -1,0 +1,88 @@
+{
+    "id": 17568,
+    "title": "Opinion Announcement - April 20, 1977",
+    "transcript": {
+        "title": "Wooley v. Maynard",
+        "duration": 34.704,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.704,
+                "byte_start": 100643,
+                "byte_stop": 239405,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 34.704,
+                        "byte_start": 100643,
+                        "byte_stop": 239405,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 20.822,
+                                "byte_start": 100643,
+                                "byte_stop": 184026,
+                                "text": "I have the judgment and opinion of the Court to announce Number 75-1453, Neil Wooley against Maynard and for reasons stated in an opinion filed with the clerk this morning, the judgment of the United States District Court for the District of New Hampshire is affirmed."
+                            },
+                            {
+                                "start": 20.822,
+                                "stop": 34.704,
+                                "byte_start": 184026,
+                                "byte_stop": 239405,
+                                "text": "Mr. Justice White, with whom Mr. Justice Blackmun and Mr. Justice Rehnquist joined, filed an opinion dissenting in part and separately, Mr. Justice Rehnquist, with whom Mr. Justice Blackmun joined, filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44258,
+            "mime": "audio\/mpeg",
+            "size": 239614,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-1453\/19770420o_75-1453.delivery.mp3"
+        },
+        {
+            "id": 66118,
+            "mime": "audio\/ogg",
+            "size": 353667,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-1453\/19770420o_75-1453.ogg"
+        },
+        {
+            "id": 66119,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-1453\/19770420o_75-1453.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,139 @@
+{
+    "id": 23430,
+    "title": "Opinion Announcement - March 07, 1988",
+    "transcript": {
+        "title": "Norwest Bank Worthington v. Ahlers",
+        "duration": 27.778,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.778,
+                "byte_start": 28672,
+                "byte_stop": 139745,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.421,
+                        "byte_start": 28672,
+                        "byte_stop": 62422,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.421,
+                                "byte_start": 28672,
+                                "byte_stop": 62422,
+                                "text": "The opinion of the Court in No. 86-958, Norwest Bank Worthington versus Ahlers will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.421,
+                        "stop": 27.778,
+                        "byte_start": 62422,
+                        "byte_stop": 139745,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.421,
+                                "stop": 22.368,
+                                "byte_start": 62422,
+                                "byte_stop": 118220,
+                                "text": "We review a judgment of the Court of Appeals for the Eighth Circuit in this case and for the reasons stated in an opinion that is on file, we reverse the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 22.368,
+                                "stop": 27.778,
+                                "byte_start": 118220,
+                                "byte_stop": 139745,
+                                "text": "Justice Kennedy took no part in the case and the opinion is otherwise unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55982,
+            "mime": "audio\/mpeg",
+            "size": 140058,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-958\/19880307o_86-958.delivery.mp3"
+        },
+        {
+            "id": 77690,
+            "mime": "audio\/ogg",
+            "size": 284463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-958\/19880307o_86-958.ogg"
+        },
+        {
+            "id": 77691,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-958\/19880307o_86-958.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

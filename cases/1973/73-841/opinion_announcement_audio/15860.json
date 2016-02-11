@@ -1,0 +1,88 @@
+{
+    "id": 15860,
+    "title": "Opinion Announcement - May 28, 1974",
+    "transcript": {
+        "title": "Holder v. Banks",
+        "duration": 16.273,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.273,
+                "byte_start": 76800,
+                "byte_stop": 141793,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.273,
+                        "byte_start": 76800,
+                        "byte_stop": 141793,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.441,
+                                "byte_start": 76800,
+                                "byte_stop": 106580,
+                                "text": "I have the disposition to announce in number 73-841, Holder against Banks."
+                            },
+                            {
+                                "start": 7.441,
+                                "stop": 16.273,
+                                "byte_start": 106580,
+                                "byte_stop": 141793,
+                                "text": "The petition for a certiorari is dismissed as having been improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40842,
+            "mime": "audio\/mpeg",
+            "size": 142002,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-841\/19740528o_73-841.delivery.mp3"
+        },
+        {
+            "id": 62784,
+            "mime": "audio\/ogg",
+            "size": 168397,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-841\/19740528o_73-841.ogg"
+        },
+        {
+            "id": 62785,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-841\/19740528o_73-841.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

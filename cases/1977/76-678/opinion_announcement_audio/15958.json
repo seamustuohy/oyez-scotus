@@ -1,0 +1,95 @@
+{
+    "id": 15958,
+    "title": "Opinion Announcement - November 29, 1977",
+    "transcript": {
+        "title": "Shell Oil Co. v. Dartt",
+        "duration": 16.624,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.624,
+                "byte_start": 79983,
+                "byte_stop": 146439,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.624,
+                        "byte_start": 79983,
+                        "byte_stop": 146439,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.416,
+                                "byte_start": 79983,
+                                "byte_stop": 97746,
+                                "text": "In number 76-678 Shell Oil Company against."
+                            },
+                            {
+                                "start": 4.416,
+                                "stop": 11.081,
+                                "byte_start": 97746,
+                                "byte_stop": 124391,
+                                "text": "Dartt, the judgment of the United States Court of Appeals for the Tenth Circuit is affirmed by an equally divided court."
+                            },
+                            {
+                                "start": 11.081,
+                                "stop": 16.624,
+                                "byte_start": 124391,
+                                "byte_stop": 146439,
+                                "text": "Mr. Justice Stewart took no part in the consideration or the decision of this matter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41038,
+            "mime": "audio\/mpeg",
+            "size": 146647,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-678\/19771129o_76-678.delivery.mp3"
+        },
+        {
+            "id": 62980,
+            "mime": "audio\/ogg",
+            "size": 172881,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-678\/19771129o_76-678.ogg"
+        },
+        {
+            "id": 62981,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-678\/19771129o_76-678.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

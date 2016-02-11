@@ -1,0 +1,116 @@
+{
+    "id": 23351,
+    "title": "Opinion Announcement - May 16, 1988",
+    "transcript": {
+        "title": "Equal Employment Opportunity Commission v. Commercial Office Products Company",
+        "duration": 50.827,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 50.827,
+                "byte_start": 28672,
+                "byte_stop": 231905,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 50.827,
+                        "byte_start": 28672,
+                        "byte_stop": 231905,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.832,
+                                "byte_start": 28672,
+                                "byte_stop": 56048,
+                                "text": "In the EEOC case is here on certiorari to the Court of Appeals for the Tenth Circuit."
+                            },
+                            {
+                                "start": 6.832,
+                                "stop": 26.934,
+                                "byte_start": 56048,
+                                "byte_stop": 136505,
+                                "text": "In that case, we hold that a state agency\u0027s waiver of the 60-day federal period provided by Title VII constitutes a termination of state proceedings so that the EEOC may immediately began to process the charge of discrimination."
+                            },
+                            {
+                                "start": 26.934,
+                                "stop": 32.841,
+                                "byte_start": 136505,
+                                "byte_stop": 160120,
+                                "text": "Therefore, we reverse the decision of the Court of Appeals and remand the case."
+                            },
+                            {
+                                "start": 32.841,
+                                "stop": 38.533,
+                                "byte_start": 160120,
+                                "byte_stop": 182899,
+                                "text": "Justice O\u0027Connor has filed an opinion concurring in part and concurring into judgment."
+                            },
+                            {
+                                "start": 38.533,
+                                "stop": 45.92,
+                                "byte_start": 182899,
+                                "byte_stop": 212365,
+                                "text": "Justice Stevens has filed a dissenting opinion in which the Chief Justice and Justice Scalia have joined."
+                            },
+                            {
+                                "start": 45.92,
+                                "stop": 50.827,
+                                "byte_start": 212365,
+                                "byte_stop": 231905,
+                                "text": "Justice Kennedy took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55824,
+            "mime": "audio\/mpeg",
+            "size": 232218,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1696\/19880516o_86-1696.delivery.mp3"
+        },
+        {
+            "id": 77538,
+            "mime": "audio\/ogg",
+            "size": 473531,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1696\/19880516o_86-1696.ogg"
+        },
+        {
+            "id": 77539,
+            "mime": "application\/x-mpegURL",
+            "size": 859,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1696\/19880516o_86-1696.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

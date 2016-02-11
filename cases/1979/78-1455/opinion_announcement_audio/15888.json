@@ -1,0 +1,95 @@
+{
+    "id": 15888,
+    "title": "Opinion Announcement - March 19, 1980",
+    "transcript": {
+        "title": "United States v. Gillock",
+        "duration": 24.867,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.867,
+                "byte_start": 28672,
+                "byte_stop": 128042,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.867,
+                        "byte_start": 28672,
+                        "byte_stop": 128042,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.1,
+                                "byte_start": 28672,
+                                "byte_stop": 69110,
+                                "text": "In the second case, Number 1455, United States against Gillock for reasons stated in an opinion for the Court filed with the Clerk this morning."
+                            },
+                            {
+                                "start": 10.1,
+                                "stop": 15.597,
+                                "byte_start": 69110,
+                                "byte_stop": 91157,
+                                "text": "The judgment of the United States Court of Appeals for the Sixth Circuit is reversed."
+                            },
+                            {
+                                "start": 15.597,
+                                "stop": 24.867,
+                                "byte_start": 91157,
+                                "byte_stop": 128042,
+                                "text": "Mr. Justice Rehnquist, with whom Mr. Justice Powell joined, filed a dissenting statement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40898,
+            "mime": "audio\/mpeg",
+            "size": 128355,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/78-1455\/19800319o_78-1455.delivery.mp3"
+        },
+        {
+            "id": 62840,
+            "mime": "audio\/ogg",
+            "size": 256718,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/78-1455\/19800319o_78-1455.ogg"
+        },
+        {
+            "id": 62841,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/78-1455\/19800319o_78-1455.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

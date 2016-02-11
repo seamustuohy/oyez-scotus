@@ -1,0 +1,160 @@
+{
+    "id": 23442,
+    "title": "Opinion Announcement - June 13, 1988",
+    "transcript": {
+        "title": "Johnson v. Mississippi",
+        "duration": 80.167,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 80.167,
+                "byte_start": 28672,
+                "byte_stop": 349247,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.396,
+                        "byte_start": 28672,
+                        "byte_stop": 66288,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.396,
+                                "byte_start": 28672,
+                                "byte_stop": 66288,
+                                "text": "The opinion of the Court in No. 87-5468, Johnson against Mississippi will be announced by Justice Stevens."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.396,
+                        "stop": 80.167,
+                        "byte_start": 66288,
+                        "byte_stop": 349247,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.396,
+                                "stop": 17.66,
+                                "byte_start": 66288,
+                                "byte_stop": 99412,
+                                "text": "This is a capital case that comes to us on writ of certiorari to the Supreme Court of Mississippi."
+                            },
+                            {
+                                "start": 17.66,
+                                "stop": 35.306,
+                                "byte_start": 99412,
+                                "byte_stop": 169942,
+                                "text": "A petitioner was convicted of murder and sentenced to death largely that in the sentencing hearing great emphasis was placed on the fact that he had previously been convicted of a felony in New York and that substantiated one of the aggravating circumstances to justify the death sentence."
+                            },
+                            {
+                                "start": 35.306,
+                                "stop": 52.037,
+                                "byte_start": 169942,
+                                "byte_stop": 236920,
+                                "text": "However, after he had been sentenced, the New York conviction was reversed by the New York Court of Appeals and the question then arose as to whether the death sentence could stand when it was impart based on a factual conviction that was no longer valid."
+                            },
+                            {
+                                "start": 52.037,
+                                "stop": 61.327,
+                                "byte_start": 236920,
+                                "byte_stop": 274014,
+                                "text": "And in the unanimous judgment today, we reverse the holding of the Mississippi Supreme Court and remand the case for further proceedings."
+                            },
+                            {
+                                "start": 61.327,
+                                "stop": 80.167,
+                                "byte_start": 274014,
+                                "byte_stop": 349247,
+                                "text": "Justice Brennan has filed a statement joined by Justice Marshall, concurring and Justice White has filed a statement -- a concurring statement joined by the Chief Justice, and Justice O\u0027Connor has joined in the judgment but not in the opinion of the Court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56006,
+            "mime": "audio\/mpeg",
+            "size": 349560,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-5468\/19880613o_87-5468.delivery.mp3"
+        },
+        {
+            "id": 77714,
+            "mime": "audio\/ogg",
+            "size": 804484,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-5468\/19880613o_87-5468.ogg"
+        },
+        {
+            "id": 77715,
+            "mime": "application\/x-mpegURL",
+            "size": 1299,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-5468\/19880613o_87-5468.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

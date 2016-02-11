@@ -1,0 +1,81 @@
+{
+    "id": 18878,
+    "title": "Opinion Announcement - November 01, 1983",
+    "transcript": {
+        "title": "Norfolk Redevelopment and Housing Authority v. Chesapeake and Potomac Telephone Company of Virginia",
+        "duration": 10.462,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 10.462,
+                "byte_start": 103575,
+                "byte_stop": 145371,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 10.462,
+                        "byte_start": 103575,
+                        "byte_stop": 145371,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.462,
+                                "byte_start": 103575,
+                                "byte_stop": 145371,
+                                "text": "The judgment and opinion of the Court in Norfolk Redevelopment \u0026 Housing Authority against the C \u0026 P Telephone Company will be announced by Justice Rehnquist."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46879,
+            "mime": "audio\/mpeg",
+            "size": 145580,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1983\/81-2332\/19831101o_81-2332.delivery.mp3"
+        },
+        {
+            "id": 68710,
+            "mime": "audio\/ogg",
+            "size": 112458,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1983\/81-2332\/19831101o_81-2332.ogg"
+        },
+        {
+            "id": 68711,
+            "mime": "application\/x-mpegURL",
+            "size": 287,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1983\/81-2332\/19831101o_81-2332.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

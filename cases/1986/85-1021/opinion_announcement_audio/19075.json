@@ -1,0 +1,91 @@
+{
+    "id": 19075,
+    "title": "Opinion Announcement - December 09, 1986",
+    "transcript": {
+        "title": "R. J. Reynolds Tobacco Company v. Durham County, North Carolina",
+        "duration": 11.468,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 11.468,
+                "byte_start": 91796,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 11.468,
+                        "byte_start": 91796,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.468,
+                                "byte_start": 91796,
+                                "byte_stop": 0,
+                                "text": "The opinions of the court in No. 85-1021, R. J. Reynolds Tobacco Company versus Durham County and related cases will be announced by Justice Blackmun."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47274,
+            "mime": "audio\/mpeg",
+            "size": 137458,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-1021\/19861209o_85-1021.delivery.mp3"
+        },
+        {
+            "id": 69100,
+            "mime": "audio\/ogg",
+            "size": 114202,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-1021\/19861209o_85-1021.ogg"
+        },
+        {
+            "id": 69101,
+            "mime": "application\/x-mpegURL",
+            "size": 287,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-1021\/19861209o_85-1021.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

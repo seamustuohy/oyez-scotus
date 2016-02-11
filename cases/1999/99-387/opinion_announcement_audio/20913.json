@@ -1,0 +1,223 @@
+{
+    "id": 20913,
+    "title": "Opinion Announcement - May 30, 2000",
+    "transcript": {
+        "title": "Raleigh v. Illinois Dept. of Revenue",
+        "duration": 122.749,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 122.749,
+                "byte_start": 84117,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.002,
+                        "byte_start": 84117,
+                        "byte_stop": 116195,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.002,
+                                "byte_start": 84117,
+                                "byte_stop": 116195,
+                                "text": "The opinion of the Court in No. 99-387, Raleigh v. The Illinois Department of Revenue will be announced by Justice Souter."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.002,
+                        "stop": 122.749,
+                        "byte_start": 116195,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.002,
+                                "stop": 13.176,
+                                "byte_start": 116195,
+                                "byte_stop": 136884,
+                                "text": "This case comes to us on writ of certiorari to the Court of Appeals for the Seventh Circuit."
+                            },
+                            {
+                                "start": 13.176,
+                                "stop": 24.968,
+                                "byte_start": 136884,
+                                "byte_stop": 184009,
+                                "text": "The petitioner Raleigh is the trustee in bankruptcy for William Stoecker, the former President of Chandler Enterprises Incorporated, the corporation doing business in the Illinois."
+                            },
+                            {
+                                "start": 24.968,
+                                "stop": 30.813,
+                                "byte_start": 184009,
+                                "byte_stop": 207415,
+                                "text": "Chandler bought an airplane out of State and failed to pay the Illinois use tax on the purchase."
+                            },
+                            {
+                                "start": 30.813,
+                                "stop": 42.381,
+                                "byte_start": 207415,
+                                "byte_stop": 253704,
+                                "text": "When the State Department of Revenue discovered the omission, it issued a notice of liability to Chandler and the notice of penalty liability to Stoecker as a responsible corporate officer."
+                            },
+                            {
+                                "start": 42.381,
+                                "stop": 49.116,
+                                "byte_start": 253704,
+                                "byte_stop": 280662,
+                                "text": "By doing that, the State in effect charged Stoecker with the liability for the corporation\u2019s unpaid tax."
+                            },
+                            {
+                                "start": 49.116,
+                                "stop": 53.06,
+                                "byte_start": 280662,
+                                "byte_stop": 296440,
+                                "text": "Stoecker however was by then in bankruptcy."
+                            },
+                            {
+                                "start": 53.06,
+                                "stop": 72.147,
+                                "byte_start": 296440,
+                                "byte_stop": 372718,
+                                "text": "While Illinois Law puts the burden of proof on the taxpayer to disprove the validity of a penalty liability claim, the trustee in bankruptcy argued that bankruptcy should be governed by a uniform rule putting the burden of proof on creditors, including State tax authorities."
+                            },
+                            {
+                                "start": 72.147,
+                                "stop": 82.261,
+                                "byte_start": 372718,
+                                "byte_stop": 413260,
+                                "text": "The Court of Appeals for the Seventh Circuit rejected the trustee\u2019s argument, yet applied Illinois Law and placed the burden of proof on the trustee."
+                            },
+                            {
+                                "start": 82.261,
+                                "stop": 89.612,
+                                "byte_start": 413260,
+                                "byte_stop": 442621,
+                                "text": "Because the evidence on either side was extremely limited, the trustee could not meet the burden and the liability was sustained."
+                            },
+                            {
+                                "start": 89.612,
+                                "stop": 93.346,
+                                "byte_start": 442621,
+                                "byte_stop": 457564,
+                                "text": "In an opinion filed with the Clerk of Court today, we affirm."
+                            },
+                            {
+                                "start": 93.346,
+                                "stop": 97.408,
+                                "byte_start": 457564,
+                                "byte_stop": 473759,
+                                "text": "The burden of proof is a substantive element of a creditor\u2019s claim."
+                            },
+                            {
+                                "start": 97.408,
+                                "stop": 110.675,
+                                "byte_start": 473759,
+                                "byte_stop": 526840,
+                                "text": "If the underlying law creating a tax claim puts the burden of proof on the taxpayer to show that he does not owe the tax claimed by the government, the burden of proof remains with the taxpayer if he files in bankruptcy."
+                            },
+                            {
+                                "start": 110.675,
+                                "stop": 120.275,
+                                "byte_start": 526840,
+                                "byte_stop": 565293,
+                                "text": "While Congress may alter substantive aspects of creditor\u2019s claims in bankruptcy, there is no indication that it is chosen to change the burden of proof in tax matters."
+                            },
+                            {
+                                "start": 120.275,
+                                "stop": 122.749,
+                                "byte_start": 565293,
+                                "byte_stop": 0,
+                                "text": "Our decision is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50950,
+            "mime": "audio\/mpeg",
+            "size": 575115,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1999\/99-387\/20000530o_99-387.delivery.mp3"
+        },
+        {
+            "id": 72728,
+            "mime": "audio\/ogg",
+            "size": 1200721,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1999\/99-387\/20000530o_99-387.ogg"
+        },
+        {
+            "id": 72729,
+            "mime": "application\/x-mpegURL",
+            "size": 1874,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1999\/99-387\/20000530o_99-387.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,158 @@
+{
+    "id": 22356,
+    "title": "Opinion Announcement - May 19, 2008",
+    "transcript": {
+        "title": "United States v. Ressam",
+        "duration": 110.184,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 110.184,
+                "byte_start": 104713,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 110.184,
+                        "byte_start": 104713,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.822,
+                                "byte_start": 104713,
+                                "byte_stop": 140031,
+                                "text": "Justice Stevens has our opinion in case 07-455, United States versus Ressam, which he has asked me to read."
+                            },
+                            {
+                                "start": 8.822,
+                                "stop": 13.266,
+                                "byte_start": 140031,
+                                "byte_stop": 157794,
+                                "text": "This case comes to us from the United States Court of Appeals for the Ninth Circuit."
+                            },
+                            {
+                                "start": 13.266,
+                                "stop": 19.75,
+                                "byte_start": 157794,
+                                "byte_stop": 183812,
+                                "text": "Respondent, Ahmed Ressam, attempted to enter the United States by ferry at Port Angeles, Washington."
+                            },
+                            {
+                                "start": 19.75,
+                                "stop": 27.259,
+                                "byte_start": 183812,
+                                "byte_stop": 213800,
+                                "text": "Hidden in the trunk of his rental car were explosives that he intended to detonate at the Los Angeles International Airport."
+                            },
+                            {
+                                "start": 27.259,
+                                "stop": 41.323,
+                                "byte_start": 213800,
+                                "byte_stop": 270016,
+                                "text": "He was subsequently convicted of a number of offenses, including making a false statement to United States custom official, a felony, and carrying an explosive \u201cduring the commission of\u201d that felony."
+                            },
+                            {
+                                "start": 41.323,
+                                "stop": 59.089,
+                                "byte_start": 270016,
+                                "byte_stop": 341173,
+                                "text": "The Court of Appeals for the Ninth Circuit set aside his conviction under the explosive statute because it concluded that the word \u201cduring\u201d as used in that statute, included a requirement that the explosive be carried during and in relation to the underlying felony."
+                            },
+                            {
+                                "start": 59.089,
+                                "stop": 65.515,
+                                "byte_start": 341173,
+                                "byte_stop": 366878,
+                                "text": "We granted certiorari and now reverse for reasons given in an opinion filed with the Clerk."
+                            },
+                            {
+                                "start": 65.515,
+                                "stop": 86.67,
+                                "byte_start": 366878,
+                                "byte_stop": 451410,
+                                "text": "We conclude that the most natural reading of the relevant statutory text as well as the statute\u0027s history establish that Congress did not intend to require the government to prove that the explosive was carried during and in relation to the underlying felony but merely intended to require that the two occur contemporaneously."
+                            },
+                            {
+                                "start": 86.67,
+                                "stop": 97.516,
+                                "byte_start": 451410,
+                                "byte_stop": 494878,
+                                "text": "Since it is undisputed that respondent was carrying explosives when he made a false statement to a customs official, he carried explosive during the commission of that felony."
+                            },
+                            {
+                                "start": 97.516,
+                                "stop": 100.639,
+                                "byte_start": 494878,
+                                "byte_stop": 507312,
+                                "text": "Nothing further is required by the statute."
+                            },
+                            {
+                                "start": 100.639,
+                                "stop": 107.694,
+                                "byte_start": 507312,
+                                "byte_stop": 535524,
+                                "text": "Justice Thomas has filed an opinion concurring in part and concurring in the judgment, which Justice Scalia has joined."
+                            },
+                            {
+                                "start": 107.694,
+                                "stop": 110.184,
+                                "byte_start": 535524,
+                                "byte_stop": 0,
+                                "text": "Justice Breyer has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53834,
+            "mime": "audio\/mpeg",
+            "size": 545451,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2007\/07-455\/20080519o_07-455.delivery.mp3"
+        },
+        {
+            "id": 75574,
+            "mime": "audio\/ogg",
+            "size": 1096632,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2007\/07-455\/20080519o_07-455.ogg"
+        },
+        {
+            "id": 75575,
+            "mime": "application\/x-mpegURL",
+            "size": 1702,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2007\/07-455\/20080519o_07-455.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

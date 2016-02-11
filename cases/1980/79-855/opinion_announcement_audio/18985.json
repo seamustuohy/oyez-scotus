@@ -1,0 +1,88 @@
+{
+    "id": 18985,
+    "title": "Opinion Announcement - March 09, 1981",
+    "transcript": {
+        "title": "Diamond v. Bradley",
+        "duration": 27.186,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.186,
+                "byte_start": 92062,
+                "byte_stop": 200731,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 27.186,
+                        "byte_start": 92062,
+                        "byte_stop": 200731,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 21.101,
+                                "byte_start": 92062,
+                                "byte_stop": 176490,
+                                "text": "I have the disposition of two cases to announce in Diamond, Commissioner of Patents and Trademarks against Bradley, in an opinion filed with the clerk this morning and the judgment of the United States Court of Customs and Patent Appeals is affirmed by an equally divided Court."
+                            },
+                            {
+                                "start": 21.101,
+                                "stop": 27.186,
+                                "byte_start": 176490,
+                                "byte_stop": 200731,
+                                "text": "I took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47094,
+            "mime": "audio\/mpeg",
+            "size": 200940,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/79-855\/19810309o_79-855.delivery.mp3"
+        },
+        {
+            "id": 68920,
+            "mime": "audio\/ogg",
+            "size": 278064,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/79-855\/19810309o_79-855.ogg"
+        },
+        {
+            "id": 68921,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/79-855\/19810309o_79-855.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

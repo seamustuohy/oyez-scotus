@@ -1,0 +1,130 @@
+{
+    "id": 20081,
+    "title": "Opinion Announcement - June 06, 1994",
+    "transcript": {
+        "title": "Key Tronic Corporation v. United States",
+        "duration": 89.025,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 89.025,
+                "byte_start": 91005,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 89.025,
+                        "byte_start": 91005,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.547,
+                                "byte_start": 91005,
+                                "byte_stop": 145235,
+                                "text": "The second case that I have to announce, Key Tronic Corporation against the United States, arises out of the dispute between two of the parties responsible for pollution of a landfill site in the State of Washington."
+                            },
+                            {
+                                "start": 13.547,
+                                "stop": 19.317,
+                                "byte_start": 145235,
+                                "byte_stop": 168327,
+                                "text": "Both Key Tronic and the United States Air force dump liquid chemicals in the landfill."
+                            },
+                            {
+                                "start": 19.317,
+                                "stop": 31.339,
+                                "byte_start": 168327,
+                                "byte_stop": 216393,
+                                "text": "In litigation with the Washington State Department of Ecology and the Federal Environmental Protection Agency, Key Tronic agreed to contribute over $4 million to the cost of cleaning up the site."
+                            },
+                            {
+                                "start": 31.339,
+                                "stop": 40.949,
+                                "byte_start": 216393,
+                                "byte_stop": 254845,
+                                "text": "In this action, Key Tronic seeks to recover a significant portion of those costs from the United States Air Force because it was also partially responsible for the pollution."
+                            },
+                            {
+                                "start": 40.949,
+                                "stop": 49.341,
+                                "byte_start": 254845,
+                                "byte_stop": 288386,
+                                "text": "The specific question we have to decide is whether in such an action one responsible party may recover its attorney\u0027s fees from another."
+                            },
+                            {
+                                "start": 49.341,
+                                "stop": 73.476,
+                                "byte_start": 288386,
+                                "byte_stop": 384935,
+                                "text": "The amount at issue is approximately $1.2 million for fees that covered three different types of services: First, the identification of other potentially responsible parties, including the Air Force, that was liable for the pollution; second, the preparation and negotiation of a settlement agreement with the EPA; and finally, that fees incurred in the prosecution of this litigation."
+                            },
+                            {
+                                "start": 73.476,
+                                "stop": 81.889,
+                                "byte_start": 384935,
+                                "byte_stop": 418581,
+                                "text": "For reasons stated in an opinion filed with the Clerk, we hold that fees of the first of those three types of services are recoverable but the others are not."
+                            },
+                            {
+                                "start": 81.889,
+                                "stop": 89.025,
+                                "byte_start": 418581,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed an opinion dissenting in part in which he has joined by Justice Blackmun and Justice Thomas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49286,
+            "mime": "audio\/mpeg",
+            "size": 447106,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1993\/93-376\/19940606o_93-376.delivery.mp3"
+        },
+        {
+            "id": 71090,
+            "mime": "audio\/ogg",
+            "size": 808014,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1993\/93-376\/19940606o_93-376.ogg"
+        },
+        {
+            "id": 71091,
+            "mime": "application\/x-mpegURL",
+            "size": 1401,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1993\/93-376\/19940606o_93-376.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

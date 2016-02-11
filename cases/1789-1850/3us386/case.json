@@ -1,0 +1,396 @@
+{
+    "ID": 62330,
+    "name": "Calder v. Bull",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/3us386",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Calder",
+    "second_party": "Bull",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -5424429600,
+                -5423997600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52823"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -5408791200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52824"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EMr. and Mrs. Caleb Bull, the stated beneficiaries of the will of Norman Morrison, were denied an inheritance by a Connecticut probate court. When the Bulls attempted to appeal the decision more than a year and a half later, they found that a state law prohibited appeals not made within 18 months of the original ruling. The Bulls persuaded the Connecticut legislature to change the restriction, which enabled them to successfully appeal the case. Calder, the initial inheritor of Morrison\u0027s estate, took the case to the Supreme Court.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EWas the Connecticut legislation a violation of Article 1, Section 10, of the Constitution, which prohibits ex post facto laws?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EIn a unanimous decision, the Court held that the legislation was not an ex post facto law. The Court drew a distinction between criminal rights and \u0022private rights,\u0022 arguing that restrictions against ex post facto laws were not designed to protect citizens\u0027 contract rights. Justice Chase noted that while all ex post facto laws are retrospective, all retrospective laws are not necessarily ex post facto. Even \u0022vested\u0022 property rights are subject to retroactive laws.\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "3",
+        "page": "386",
+        "year": "1798",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27132"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15310,
+            "name": "Ellsworth Court (1796-1798)",
+            "href": "https:\/\/api.oyez.org\/courts\/ellsworth1",
+            "members": [
+                {
+                    "ID": 15053,
+                    "name": "Oliver Ellsworth",
+                    "href": "https:\/\/api.oyez.org\/people\/oliver_ellsworth",
+                    "last_name": "Ellsworth",
+                    "roles": [
+                        {
+                            "id": 2697,
+                            "type": "scotus_justice",
+                            "date_start": -5485082400,
+                            "date_end": -5334573600,
+                            "appointing_president": "George Washington",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2697"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32746,
+                        "mime": "image\/png",
+                        "size": 50709,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_ellsworth.png"
+                    },
+                    "length_of_service": 1742,
+                    "identifier": "oliver_ellsworth"
+                },
+                {
+                    "ID": 15077,
+                    "name": "William Cushing",
+                    "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                    "last_name": "Cushing",
+                    "roles": [
+                        {
+                            "id": 2721,
+                            "type": "scotus_justice",
+                            "date_start": -5677408800,
+                            "date_end": -5027076000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32776,
+                        "mime": "image\/png",
+                        "size": 52796,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                    },
+                    "length_of_service": 7527,
+                    "identifier": "william_cushing"
+                },
+                {
+                    "ID": 15132,
+                    "name": "James Wilson",
+                    "href": "https:\/\/api.oyez.org\/people\/james_wilson",
+                    "last_name": "Wilson",
+                    "roles": [
+                        {
+                            "id": 2777,
+                            "type": "scotus_justice",
+                            "date_start": -5687776800,
+                            "date_end": -5407668000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2777"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32723,
+                        "mime": "image\/png",
+                        "size": 52013,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_wilson.png"
+                    },
+                    "length_of_service": 3242,
+                    "identifier": "james_wilson"
+                },
+                {
+                    "ID": 15130,
+                    "name": "James Iredell",
+                    "href": "https:\/\/api.oyez.org\/people\/james_iredell",
+                    "last_name": "Iredell",
+                    "roles": [
+                        {
+                            "id": 2775,
+                            "type": "scotus_justice",
+                            "date_start": -5668855200,
+                            "date_end": -5370948000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2775"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32791,
+                        "mime": "image\/png",
+                        "size": 55311,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_iredell.png"
+                    },
+                    "length_of_service": 3448,
+                    "identifier": "james_iredell"
+                },
+                {
+                    "ID": 15070,
+                    "name": "William Paterson",
+                    "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                    "last_name": "Paterson",
+                    "roles": [
+                        {
+                            "id": 2714,
+                            "type": "scotus_justice",
+                            "date_start": -5579517600,
+                            "date_end": -5153652000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32782,
+                        "mime": "image\/png",
+                        "size": 48669,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                    },
+                    "length_of_service": 4929,
+                    "identifier": "william_paterson"
+                },
+                {
+                    "ID": 15105,
+                    "name": "Samuel Chase",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                    "last_name": "Chase",
+                    "roles": [
+                        {
+                            "id": 2749,
+                            "type": "scotus_justice",
+                            "date_start": -5487933600,
+                            "date_end": -5002970400,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32759,
+                        "mime": "image\/png",
+                        "size": 52231,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                    },
+                    "length_of_service": 5613,
+                    "identifier": "samuel_chase"
+                }
+            ],
+            "court_start": -5485082400,
+            "images": [
+                {
+                    "id": 57155,
+                    "mime": "image\/jpeg",
+                    "size": 1992107,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1990-270-for-repro%2C%20Old%20City%20Hall%20PA%201791-1800_7.jpg"
+                }
+            ],
+            "identifier": "ellsworth1"
+        }
+    ],
+    "decided_by": {
+        "ID": 15310,
+        "name": "Ellsworth Court (1796-1798)",
+        "href": "https:\/\/api.oyez.org\/courts\/ellsworth1",
+        "members": [
+            {
+                "ID": 15053,
+                "name": "Oliver Ellsworth",
+                "href": "https:\/\/api.oyez.org\/people\/oliver_ellsworth",
+                "last_name": "Ellsworth",
+                "roles": [
+                    {
+                        "id": 2697,
+                        "type": "scotus_justice",
+                        "date_start": -5485082400,
+                        "date_end": -5334573600,
+                        "appointing_president": "George Washington",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2697"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32746,
+                    "mime": "image\/png",
+                    "size": 50709,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_ellsworth.png"
+                },
+                "length_of_service": 1742,
+                "identifier": "oliver_ellsworth"
+            },
+            {
+                "ID": 15077,
+                "name": "William Cushing",
+                "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                "last_name": "Cushing",
+                "roles": [
+                    {
+                        "id": 2721,
+                        "type": "scotus_justice",
+                        "date_start": -5677408800,
+                        "date_end": -5027076000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32776,
+                    "mime": "image\/png",
+                    "size": 52796,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                },
+                "length_of_service": 7527,
+                "identifier": "william_cushing"
+            },
+            {
+                "ID": 15132,
+                "name": "James Wilson",
+                "href": "https:\/\/api.oyez.org\/people\/james_wilson",
+                "last_name": "Wilson",
+                "roles": [
+                    {
+                        "id": 2777,
+                        "type": "scotus_justice",
+                        "date_start": -5687776800,
+                        "date_end": -5407668000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2777"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32723,
+                    "mime": "image\/png",
+                    "size": 52013,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_wilson.png"
+                },
+                "length_of_service": 3242,
+                "identifier": "james_wilson"
+            },
+            {
+                "ID": 15130,
+                "name": "James Iredell",
+                "href": "https:\/\/api.oyez.org\/people\/james_iredell",
+                "last_name": "Iredell",
+                "roles": [
+                    {
+                        "id": 2775,
+                        "type": "scotus_justice",
+                        "date_start": -5668855200,
+                        "date_end": -5370948000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2775"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32791,
+                    "mime": "image\/png",
+                    "size": 55311,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_iredell.png"
+                },
+                "length_of_service": 3448,
+                "identifier": "james_iredell"
+            },
+            {
+                "ID": 15070,
+                "name": "William Paterson",
+                "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                "last_name": "Paterson",
+                "roles": [
+                    {
+                        "id": 2714,
+                        "type": "scotus_justice",
+                        "date_start": -5579517600,
+                        "date_end": -5153652000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32782,
+                    "mime": "image\/png",
+                    "size": 48669,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                },
+                "length_of_service": 4929,
+                "identifier": "william_paterson"
+            },
+            {
+                "ID": 15105,
+                "name": "Samuel Chase",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                "last_name": "Chase",
+                "roles": [
+                    {
+                        "id": 2749,
+                        "type": "scotus_justice",
+                        "date_start": -5487933600,
+                        "date_end": -5002970400,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32759,
+                    "mime": "image\/png",
+                    "size": 52231,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                },
+                "length_of_service": 5613,
+                "identifier": "samuel_chase"
+            }
+        ],
+        "court_start": -5485082400,
+        "images": [
+            {
+                "id": 57155,
+                "mime": "image\/jpeg",
+                "size": 1992107,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1990-270-for-repro%2C%20Old%20City%20Hall%20PA%201791-1800_7.jpg"
+            }
+        ],
+        "identifier": "ellsworth1"
+    },
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

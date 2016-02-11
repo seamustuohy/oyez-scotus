@@ -1,0 +1,95 @@
+{
+    "id": 16126,
+    "title": "Opinion Announcement - June 30, 1975",
+    "transcript": {
+        "title": "Hill v. Printing Industries of the Gulf Coast",
+        "duration": 40.693,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.693,
+                "byte_start": 28672,
+                "byte_stop": 191363,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.693,
+                        "byte_start": 28672,
+                        "byte_stop": 191363,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.184,
+                                "byte_start": 28672,
+                                "byte_stop": 81439,
+                                "text": "I have also for announcement the judgment and opinion of the Court in 74-456, Hill, the Attorney General of Texas against the Printing Industries of the Gulf Coast."
+                            },
+                            {
+                                "start": 13.184,
+                                "stop": 34.656,
+                                "byte_start": 81439,
+                                "byte_stop": 167330,
+                                "text": "And here for reasons stated in an opinion filed this morning, the judgment of the District Court is vacated and the case is remanded to that Court for reconsideration in light of the new legislation and for dismissal, if the case is or becomes moot."
+                            },
+                            {
+                                "start": 34.656,
+                                "stop": 40.693,
+                                "byte_start": 167330,
+                                "byte_stop": 191363,
+                                "text": "Mr. Justice Douglas took no part in the consideration or the decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41374,
+            "mime": "audio\/mpeg",
+            "size": 191676,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/74-456\/19750630o_74-456.delivery.mp3"
+        },
+        {
+            "id": 63312,
+            "mime": "audio\/ogg",
+            "size": 410703,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/74-456\/19750630o_74-456.ogg"
+        },
+        {
+            "id": 63313,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/74-456\/19750630o_74-456.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

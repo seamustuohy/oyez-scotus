@@ -1,0 +1,102 @@
+{
+    "id": 17448,
+    "title": "Opinion Announcement - April 22, 1980",
+    "transcript": {
+        "title": "Baldasar v. Illinois",
+        "duration": 45.845,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 45.845,
+                "byte_start": 28672,
+                "byte_stop": 212052,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 45.845,
+                        "byte_start": 28672,
+                        "byte_stop": 212052,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.64,
+                                "byte_start": 28672,
+                                "byte_stop": 67333,
+                                "text": "I have the disposition to announce in No. 6219, Baldasar against Illinois by a per curiam opinion."
+                            },
+                            {
+                                "start": 9.64,
+                                "stop": 26.672,
+                                "byte_start": 67333,
+                                "byte_stop": 135461,
+                                "text": "And for reasons stated in the separate concurring opinions attached to the per curiam filed with the clerk this morning, the judgment of the Appellate Court of Illinois for the Second District is reversed and the case is remanded to that court for further proceedings."
+                            },
+                            {
+                                "start": 26.672,
+                                "stop": 36.87,
+                                "byte_start": 135461,
+                                "byte_stop": 176212,
+                                "text": "Concurring opinions have been filed or joined by Justices Brennan, Stewart, Marshall, Blackmun, and Stevens."
+                            },
+                            {
+                                "start": 36.87,
+                                "stop": 45.845,
+                                "byte_start": 176212,
+                                "byte_stop": 212052,
+                                "text": "Mr. Justice Powell with whom Mr. Justice White and Mr. Justice Rehnquist and I have joined filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44018,
+            "mime": "audio\/mpeg",
+            "size": 212365,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/77-6219\/19800422o_77-6219.delivery.mp3"
+        },
+        {
+            "id": 65884,
+            "mime": "audio\/ogg",
+            "size": 463117,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/77-6219\/19800422o_77-6219.ogg"
+        },
+        {
+            "id": 65885,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/77-6219\/19800422o_77-6219.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

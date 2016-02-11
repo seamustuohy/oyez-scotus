@@ -1,0 +1,116 @@
+{
+    "id": 16906,
+    "title": "Opinion Announcement - January 21, 1980",
+    "transcript": {
+        "title": "Brown v. Glines",
+        "duration": 46.676,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.676,
+                "byte_start": 28672,
+                "byte_stop": 215291,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 46.676,
+                        "byte_start": 28672,
+                        "byte_stop": 215291,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 17.312,
+                                "byte_start": 28672,
+                                "byte_stop": 97949,
+                                "text": "I have the judgment and opinion of the Court to announce on behalf of Mr. Justice Powell who is unavoidably absent today, an opinion written and signed by him in 78-1006, Brown, the Secretary of Defense against Glines."
+                            },
+                            {
+                                "start": 17.312,
+                                "stop": 26.673,
+                                "byte_start": 97949,
+                                "byte_stop": 135461,
+                                "text": "And for reasons stated in an opinion filed with the clerk this morning, the judgment of the United States Court of Appeals of the Ninth Circuit is reversed."
+                            },
+                            {
+                                "start": 26.673,
+                                "stop": 30.228,
+                                "byte_start": 135461,
+                                "byte_stop": 149671,
+                                "text": "Mr. Justice Brennan filed a dissenting opinion."
+                            },
+                            {
+                                "start": 30.228,
+                                "stop": 36.189,
+                                "byte_start": 149671,
+                                "byte_stop": 173495,
+                                "text": "Mr. Justice Stewart filed a separate dissenting opinion in which Mr. Justice Brennan joined."
+                            },
+                            {
+                                "start": 36.189,
+                                "stop": 39.683,
+                                "byte_start": 173495,
+                                "byte_stop": 187496,
+                                "text": "Mr. Justice Stevens also filed a dissenting opinion."
+                            },
+                            {
+                                "start": 39.683,
+                                "stop": 46.676,
+                                "byte_start": 187496,
+                                "byte_stop": 215291,
+                                "text": "Mr. Justice Marshall took no part in the consideration or the decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42934,
+            "mime": "audio\/mpeg",
+            "size": 215604,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/78-1006\/19800121o_78-1006.delivery.mp3"
+        },
+        {
+            "id": 64838,
+            "mime": "audio\/ogg",
+            "size": 482312,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/78-1006\/19800121o_78-1006.ogg"
+        },
+        {
+            "id": 64839,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/78-1006\/19800121o_78-1006.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

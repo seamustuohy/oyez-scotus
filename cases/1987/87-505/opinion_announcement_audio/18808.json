@@ -1,0 +1,126 @@
+{
+    "id": 18808,
+    "title": "Opinion Announcement - May 16, 1988",
+    "transcript": {
+        "title": "Chick Kam Choo v. Exxon Corporation",
+        "duration": 51.416,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 51.416,
+                "byte_start": 28672,
+                "byte_stop": 234308,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 51.416,
+                        "byte_start": 28672,
+                        "byte_stop": 234308,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.62,
+                                "byte_start": 28672,
+                                "byte_stop": 87186,
+                                "text": "I have the opinions of the Court to announce in three cases and the first of them, No. 87-505 Chick Kam Choo versus Exxon Corporation, is here on certiorari from the Court of Appeals for the Fifth Circuit."
+                            },
+                            {
+                                "start": 14.62,
+                                "stop": 24.225,
+                                "byte_start": 87186,
+                                "byte_stop": 125639,
+                                "text": "It involves the propriety of an order issued by a Federal District Court enjoining the petitioners from litigating a certain wrongful death action in the Texas state courts."
+                            },
+                            {
+                                "start": 24.225,
+                                "stop": 34.327,
+                                "byte_start": 125639,
+                                "byte_stop": 166076,
+                                "text": "The question presented is whether this injunction is permissible in light of the Anti-Injunction Act, which generally bars federal courts from enjoining state court proceedings."
+                            },
+                            {
+                                "start": 34.327,
+                                "stop": 39.701,
+                                "byte_start": 166076,
+                                "byte_stop": 187496,
+                                "text": "We hold that the injunction actually entered is broader than the limited, one we find permissible."
+                            },
+                            {
+                                "start": 39.701,
+                                "stop": 48.511,
+                                "byte_start": 187496,
+                                "byte_stop": 222814,
+                                "text": "In an opinion authored by Justice O\u0027Connor, accordingly, the judgment is reversed and the case is remanded for the District Court for further proceedings."
+                            },
+                            {
+                                "start": 48.511,
+                                "stop": 51.416,
+                                "byte_start": 222814,
+                                "byte_stop": 234308,
+                                "text": "Justice White has filed a concurring opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46739,
+            "mime": "audio\/mpeg",
+            "size": 234621,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-505\/19880516o_87-505.delivery.mp3"
+        },
+        {
+            "id": 68574,
+            "mime": "audio\/ogg",
+            "size": 498466,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-505\/19880516o_87-505.ogg"
+        },
+        {
+            "id": 68575,
+            "mime": "application\/x-mpegURL",
+            "size": 885,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-505\/19880516o_87-505.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

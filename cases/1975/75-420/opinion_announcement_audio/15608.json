@@ -1,0 +1,95 @@
+{
+    "id": 15608,
+    "title": "Opinion Announcement - June 17, 1976",
+    "transcript": {
+        "title": "United States v. Chesapeake \u0026 Ohio Railway Company",
+        "duration": 35.725,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.725,
+                "byte_start": 73687,
+                "byte_stop": 216525,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.725,
+                        "byte_start": 73687,
+                        "byte_stop": 216525,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 24.165,
+                                "byte_start": 73687,
+                                "byte_stop": 170445,
+                                "text": "In 75-420, United States against Chesapeake \u0026 Ohio Railway Company and for reasons stated in an opinion filed with the clerk today, the judgment of the United States District Court for the Eastern District of Virginia is reversed and the case is remanded to that court for further proceedings consistent with our opinion."
+                            },
+                            {
+                                "start": 24.165,
+                                "stop": 29.036,
+                                "byte_start": 170445,
+                                "byte_stop": 189880,
+                                "text": "Mr. Justice Stevens, joined by Mr. Justice Stewart, filed a dissenting opinion."
+                            },
+                            {
+                                "start": 29.036,
+                                "stop": 35.725,
+                                "byte_start": 189880,
+                                "byte_stop": 216525,
+                                "text": "Mr. Justice Powell took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40338,
+            "mime": "audio\/mpeg",
+            "size": 216734,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-420\/19760617o_75-420.delivery.mp3"
+        },
+        {
+            "id": 62284,
+            "mime": "audio\/ogg",
+            "size": 376239,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-420\/19760617o_75-420.ogg"
+        },
+        {
+            "id": 62285,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-420\/19760617o_75-420.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

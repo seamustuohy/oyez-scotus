@@ -1,0 +1,88 @@
+{
+    "id": 18261,
+    "title": "Opinion Announcement - February 25, 1987",
+    "transcript": {
+        "title": "Martin v. Ohio",
+        "duration": 20.349,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.349,
+                "byte_start": 91767,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.349,
+                        "byte_start": 91767,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.795,
+                                "byte_start": 91767,
+                                "byte_stop": 126980,
+                                "text": "In the Martin Case, Martin against Ohio, we affirm the judgment of the Supreme Court of Ohio."
+                            },
+                            {
+                                "start": 8.795,
+                                "stop": 20.349,
+                                "byte_start": 126980,
+                                "byte_stop": 0,
+                                "text": "Justice Powell has filed a dissenting opinion; Justices Brennan and Marshall have joined that opinion and Justice Blackman has joined parts 1 and 3 of Justice Powell\u0027s opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45644,
+            "mime": "audio\/mpeg",
+            "size": 172851,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-6461\/19870225o_85-6461.delivery.mp3"
+        },
+        {
+            "id": 67490,
+            "mime": "audio\/ogg",
+            "size": 210031,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-6461\/19870225o_85-6461.ogg"
+        },
+        {
+            "id": 67491,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-6461\/19870225o_85-6461.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

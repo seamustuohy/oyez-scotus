@@ -1,0 +1,164 @@
+{
+    "id": 16551,
+    "title": "Opinion Announcement - June 20, 1977",
+    "transcript": {
+        "title": "Morris v. Gressette",
+        "duration": 61.837,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 61.837,
+                "byte_start": 100533,
+                "byte_stop": 347860,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 59.988,
+                        "byte_start": 100533,
+                        "byte_stop": 340546,
+                        "speaker": {
+                            "ID": 15119,
+                            "name": "Lewis F. Powell, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "last_name": "Powell",
+                            "roles": [
+                                {
+                                    "id": 2764,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 551682000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2764"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32738,
+                                "mime": "image\/png",
+                                "size": 53543,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                            },
+                            "length_of_service": 5649,
+                            "identifier": "lewis_f_powell_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.482,
+                                "byte_start": 100533,
+                                "byte_stop": 162495,
+                                "text": "I also have to announce to the Court the decision in the case of Morris against Gressette coming to us from a three-judge District Court in South Carolina."
+                            },
+                            {
+                                "start": 15.482,
+                                "stop": 21.067,
+                                "byte_start": 162495,
+                                "byte_stop": 184856,
+                                "text": "This case presents a rather technical issue under Section 5 of the Voting Rights Act."
+                            },
+                            {
+                                "start": 21.067,
+                                "stop": 35.468,
+                                "byte_start": 184856,
+                                "byte_stop": 242430,
+                                "text": "The issue consents a scope of judicial review where the Attorney General failed to interpose under that Act a timely objection to a reapportionment change in the laws of South Carolina."
+                            },
+                            {
+                                "start": 35.468,
+                                "stop": 46.989,
+                                "byte_start": 242430,
+                                "byte_stop": 288510,
+                                "text": "In an opinion filed today with the clerk, we agree with the three-judge court that the Act does not contemplate the type of judicial review that was sorted in this case by the appellants."
+                            },
+                            {
+                                "start": 46.989,
+                                "stop": 50.139,
+                                "byte_start": 288510,
+                                "byte_stop": 301153,
+                                "text": "Accordingly, the judgment of the District Court is affirmed."
+                            },
+                            {
+                                "start": 50.139,
+                                "stop": 55.258,
+                                "byte_start": 301153,
+                                "byte_stop": 321633,
+                                "text": "Dissenting opinions have been filed by Mr. Justice Brennan, joined by Mr. Justice Marshall."
+                            },
+                            {
+                                "start": 55.258,
+                                "stop": 59.988,
+                                "byte_start": 321633,
+                                "byte_stop": 340546,
+                                "text": "Mr. Justice Blackmun also has filed a dissenting opinion."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 59.988,
+                        "stop": 61.837,
+                        "byte_start": 340546,
+                        "byte_stop": 347860,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 59.988,
+                                "stop": 61.837,
+                                "byte_start": 340546,
+                                "byte_stop": 347860,
+                                "text": "Thank you, Mr. Justice Powell."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42224,
+            "mime": "audio\/mpeg",
+            "size": 348069,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-1583\/19770620o_75-1583.delivery.mp3"
+        },
+        {
+            "id": 64144,
+            "mime": "audio\/ogg",
+            "size": 639631,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-1583\/19770620o_75-1583.ogg"
+        },
+        {
+            "id": 64145,
+            "mime": "application\/x-mpegURL",
+            "size": 1035,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-1583\/19770620o_75-1583.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

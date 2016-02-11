@@ -1,0 +1,81 @@
+{
+    "id": 21414,
+    "title": "Opinion Announcement - March 31, 2009",
+    "transcript": {
+        "title": "Philip Morris USA Inc. v. Williams",
+        "duration": 10.944,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 10.944,
+                "byte_start": 28672,
+                "byte_stop": 72349,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 10.944,
+                        "byte_start": 28672,
+                        "byte_stop": 72349,
+                        "speaker": {
+                            "ID": 15139,
+                            "name": "Stephen G. Breyer",
+                            "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                            "last_name": "Breyer",
+                            "roles": [
+                                {
+                                    "id": 2785,
+                                    "type": "scotus_justice",
+                                    "date_start": 775890000,
+                                    "date_end": 0,
+                                    "appointing_president": "Bill Clinton",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32682,
+                                "mime": "image\/png",
+                                "size": 49908,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            },
+                            "length_of_service": 7777,
+                            "identifier": "stephen_g_breyer"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.944,
+                                "byte_start": 28672,
+                                "byte_stop": 72349,
+                                "text": "In case 07-1216, Philip Morris USA versus Williams, the petition for writ of certiorari is dismissed as improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51951,
+            "mime": "audio\/mpeg",
+            "size": 72558,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2008\/07-1216\/20090331o_07-1216.delivery.mp3"
+        },
+        {
+            "id": 73722,
+            "mime": "audio\/ogg",
+            "size": 111969,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2008\/07-1216\/20090331o_07-1216.ogg"
+        },
+        {
+            "id": 73723,
+            "mime": "application\/x-mpegURL",
+            "size": 287,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2008\/07-1216\/20090331o_07-1216.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

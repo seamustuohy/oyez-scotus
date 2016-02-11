@@ -1,0 +1,123 @@
+{
+    "id": 22273,
+    "title": "Opinion Announcement - December 03, 2002",
+    "transcript": {
+        "title": "Sprietsma v. Mercury Marine",
+        "duration": 91.272,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 91.272,
+                "byte_start": 84942,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 91.272,
+                        "byte_start": 84942,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.443,
+                                "byte_start": 84942,
+                                "byte_stop": 134784,
+                                "text": "I have the opinion to announce in No. 01-706, Sprietsma against The Brunswick Corporation, a case that comes to us from the Supreme Court of Illinois."
+                            },
+                            {
+                                "start": 12.443,
+                                "stop": 19.604,
+                                "byte_start": 134784,
+                                "byte_stop": 163414,
+                                "text": "Petitioner\u0027s wife suffered fatal injuries when she fell off a motorboat and was struck by its propeller."
+                            },
+                            {
+                                "start": 19.604,
+                                "stop": 35.812,
+                                "byte_start": 163414,
+                                "byte_stop": 228198,
+                                "text": "Petitioner brought a state law tort suit against respondent, the manufacturer of the motorboat alleging that it had manufactured an unreasonably dangerous product, because, among other things, the motor was not protected by a propeller guard."
+                            },
+                            {
+                                "start": 35.812,
+                                "stop": 49.55,
+                                "byte_start": 228198,
+                                "byte_stop": 283159,
+                                "text": "The State Court\u0027s held that the action was preempted by the Federal Boat Safety Act, a statute enacted by Congress in 1971 to improve the safe operation of recreational boats."
+                            },
+                            {
+                                "start": 49.55,
+                                "stop": 64.066,
+                                "byte_start": 283159,
+                                "byte_stop": 341255,
+                                "text": "The statute gives the Secretary of Transportation authority which has been delegated to the Coast Guard to issue regulations establishing minimum safety standards for recreational vessels and associated equipment."
+                            },
+                            {
+                                "start": 64.066,
+                                "stop": 80.744,
+                                "byte_start": 341255,
+                                "byte_stop": 407920,
+                                "text": "We granted certiorari to decide whether petitioner\u0027s action is preempted either by the federal statute itself or by a decision of the Coast Guard in 1990 not to promulgate a regulation requiring propeller guards on motorboats."
+                            },
+                            {
+                                "start": 80.744,
+                                "stop": 91.272,
+                                "byte_start": 407920,
+                                "byte_stop": 0,
+                                "text": "For reasons stated in a unanimous opinion filed with the Clerk, we hold that petitioner\u0027s action is not preempted and therefore reverse the judgment of the Illinois Supreme Court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53668,
+            "mime": "audio\/mpeg",
+            "size": 450029,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/01-706\/20021203o_01-706.delivery.mp3"
+        },
+        {
+            "id": 75412,
+            "mime": "audio\/ogg",
+            "size": 918039,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/01-706\/20021203o_01-706.ogg"
+        },
+        {
+            "id": 75413,
+            "mime": "application\/x-mpegURL",
+            "size": 1444,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/01-706\/20021203o_01-706.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

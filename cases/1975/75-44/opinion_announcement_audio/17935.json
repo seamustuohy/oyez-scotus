@@ -1,0 +1,109 @@
+{
+    "id": 17935,
+    "title": "Opinion Announcement - June 14, 1976",
+    "transcript": {
+        "title": "Burrell v. McCray",
+        "duration": 28.063,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.063,
+                "byte_start": 73657,
+                "byte_stop": 185879,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.063,
+                        "byte_start": 73657,
+                        "byte_stop": 185879,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.172,
+                                "byte_start": 73657,
+                                "byte_stop": 90375,
+                                "text": "I have disposition of two cases to announce."
+                            },
+                            {
+                                "start": 4.172,
+                                "stop": 15.823,
+                                "byte_start": 90375,
+                                "byte_stop": 136978,
+                                "text": "In 75-44 Burrell against McRay, the Writ of Certiorari can be United States Court of Appeals for the Fourth Circuit is dismissed as having been improvidently granted."
+                            },
+                            {
+                                "start": 15.823,
+                                "stop": 19.752,
+                                "byte_start": 136978,
+                                "byte_stop": 152756,
+                                "text": "Mr. Justice White would affirm the judgment of Court of Appeals."
+                            },
+                            {
+                                "start": 19.752,
+                                "stop": 22.344,
+                                "byte_start": 152756,
+                                "byte_stop": 163100,
+                                "text": "Mr. Justice Stevens filed a concurring opinion."
+                            },
+                            {
+                                "start": 22.344,
+                                "stop": 28.063,
+                                "byte_start": 163100,
+                                "byte_stop": 185879,
+                                "text": "Mr. Justice Brennan joined by and Mr. Justice Marshall filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44992,
+            "mime": "audio\/mpeg",
+            "size": 186088,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-44\/19760614o_75-44.delivery.mp3"
+        },
+        {
+            "id": 66846,
+            "mime": "audio\/ogg",
+            "size": 301755,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-44\/19760614o_75-44.ogg"
+        },
+        {
+            "id": 66847,
+            "mime": "application\/x-mpegURL",
+            "size": 531,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-44\/19760614o_75-44.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

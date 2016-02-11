@@ -1,0 +1,95 @@
+{
+    "id": 17831,
+    "title": "Opinion Announcement - November 02, 1976",
+    "transcript": {
+        "title": "Scott v. Kentucky Parole Board",
+        "duration": 29.362,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.362,
+                "byte_start": 100544,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 29.362,
+                        "byte_start": 100544,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 17.002,
+                                "byte_start": 100544,
+                                "byte_stop": 168567,
+                                "text": "I have a disposition to announce in Scott against the Kentucky Parole Board, Number 64-38, and for reasons stated in an opinion filed with the Clerk of the Court this morning, the judgment of the United States Court of Appeals of the Sixth Circuit is vacated."
+                            },
+                            {
+                                "start": 17.002,
+                                "stop": 22.263,
+                                "byte_start": 168567,
+                                "byte_stop": 189674,
+                                "text": "The case is remanded to that Court for consideration of the question of mootness."
+                            },
+                            {
+                                "start": 22.263,
+                                "stop": 29.362,
+                                "byte_start": 189674,
+                                "byte_stop": 0,
+                                "text": "Mr. Justice Stevens with whom Mr. Justice Brennan and Mr. Justice Powell would join filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44784,
+            "mime": "audio\/mpeg",
+            "size": 218095,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/74-6438\/19761102o_74-6438.delivery.mp3"
+        },
+        {
+            "id": 66640,
+            "mime": "audio\/ogg",
+            "size": 307111,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/74-6438\/19761102o_74-6438.ogg"
+        },
+        {
+            "id": 66641,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/74-6438\/19761102o_74-6438.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,810 @@
+{
+    "ID": 62345,
+    "name": "Worcester v. Georgia",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/31us515",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Other",
+    "first_party": "Samuel A. Worcester",
+    "second_party": "Georgia",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -4350564000,
+                -4350477600,
+                -4350304800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52852"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -4349527200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52853"
+        }
+    ],
+    "lower_court": {
+        "ID": 77,
+        "name": "State trial court",
+        "href": "https:\/\/api.oyez.org\/courts\/state_trial_court"
+    },
+    "facts_of_the_case": "\u003Cp\u003EIn September 1831, Samuel A. Worcester and others, all non-Native Americans, were indicted in the supreme court for the county of Gwinnett in the state of Georgia for \u0022residing within the limits of the Cherokee nation without a license\u0022 and \u0022without having taken the oath to support and defend the constitution and laws of the state of Georgia.\u0022 They were indicted under an 1830 act of the Georgia legislature entitled \u0022an act to prevent the exercise of assumed and arbitrary power by all persons, under pretext of authority from the Cherokee Indians.\u0022 Among other things, Worcester argued that the state could not maintain the prosecution because the statute violated the Constitution, treaties between the United States and the Cherokee nation, and an act of Congress entitled \u0022an act to regulate trade and intercourse with the Indian tribes.\u0022 Worcester was convicted and sentenced to \u0022hard labour in the penitentiary for four years.\u0022 The U.S. Supreme Court received the case on a writ of error.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDoes the state of Georgia have the authority to regulate the intercourse between citizens of its state and members of the Cherokee Nation?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003ENo. In an opinion delivered by Chief Justice John Marshall, the Court held that the Georgia act, under which Worcester was prosecuted, violated the Constitution, treaties, and laws of the United States. Noting that the \u0022treaties and laws of the United States contemplate the Indian territory as completely separated from that of the states; and provide that all intercourse with them shall be carried on exclusively by the government of the union,\u0022 Chief Justice Marshall argued, \u0022The Cherokee nation, then, is a distinct community occupying its own territory in which the laws of Georgia can have no force. The whole intercourse between the United States and this nation, is, by our constitution and laws, vested in the government of the United States.\u0022 The Georgia act thus interfered with the federal government\u0027s authority and was unconstitutional. Justice Henry Baldwin dissented for procedural reasons and on the merits.\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "31",
+        "page": "515",
+        "year": "1832",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27147"
+    },
+    "decisions": [
+        {
+            "description": "The Constitution acknowledges Indian tribes as separate political entities rendering the Georgia statute void",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15085,
+                        "name": "John Marshall",
+                        "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                        "last_name": "Marshall",
+                        "roles": [
+                            {
+                                "id": 2729,
+                                "type": "scotus_justice",
+                                "date_start": -5330167200,
+                                "date_end": -4244119200,
+                                "appointing_president": "John Adams",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32729,
+                            "mime": "image\/png",
+                            "size": 53035,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                        },
+                        "length_of_service": 12570,
+                        "identifier": "john_marshall"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205612"
+                },
+                {
+                    "member": {
+                        "ID": 15147,
+                        "name": "Gabriel Duvall",
+                        "href": "https:\/\/api.oyez.org\/people\/gabriel_duvall",
+                        "last_name": "Duvall",
+                        "roles": [
+                            {
+                                "id": 2795,
+                                "type": "scotus_justice",
+                                "date_start": -4989405600,
+                                "date_end": -4259066400,
+                                "appointing_president": "James Madison",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2795"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32709,
+                            "mime": "image\/png",
+                            "size": 48482,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/gabriel_duvall.png"
+                        },
+                        "length_of_service": 8453,
+                        "identifier": "gabriel_duvall"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205613"
+                },
+                {
+                    "member": {
+                        "ID": 15091,
+                        "name": "Joseph Story",
+                        "href": "https:\/\/api.oyez.org\/people\/joseph_story",
+                        "last_name": "Story",
+                        "roles": [
+                            {
+                                "id": 2735,
+                                "type": "scotus_justice",
+                                "date_start": -4983184800,
+                                "date_end": -3922797600,
+                                "appointing_president": "James Madison",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2735"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32736,
+                            "mime": "image\/png",
+                            "size": 44576,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_story.png"
+                        },
+                        "length_of_service": 12273,
+                        "identifier": "joseph_story"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205614"
+                },
+                {
+                    "member": {
+                        "ID": 15143,
+                        "name": "Smith Thompson",
+                        "href": "https:\/\/api.oyez.org\/people\/smith_thompson",
+                        "last_name": "Thompson",
+                        "roles": [
+                            {
+                                "id": 2790,
+                                "type": "scotus_justice",
+                                "date_start": -4617885600,
+                                "date_end": -3977402400,
+                                "appointing_president": "James Monroe",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2790"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32764,
+                            "mime": "image\/png",
+                            "size": 43703,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/smith_thompson.png"
+                        },
+                        "length_of_service": 7413,
+                        "identifier": "smith_thompson"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205615"
+                },
+                {
+                    "member": {
+                        "ID": 15112,
+                        "name": "John McLean",
+                        "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+                        "last_name": "McLean",
+                        "roles": [
+                            {
+                                "id": 2756,
+                                "type": "scotus_justice",
+                                "date_start": -4411908000,
+                                "date_end": -3431613600,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2756"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32731,
+                            "mime": "image\/png",
+                            "size": 38658,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                        },
+                        "length_of_service": 11346,
+                        "identifier": "john_mclean"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205616"
+                },
+                {
+                    "member": {
+                        "ID": 15125,
+                        "name": "Henry Baldwin",
+                        "href": "https:\/\/api.oyez.org\/people\/henry_baldwin",
+                        "last_name": "Baldwin",
+                        "roles": [
+                            {
+                                "id": 2770,
+                                "type": "scotus_justice",
+                                "date_start": -4416487200,
+                                "date_end": -3966602400,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2770"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32713,
+                            "mime": "image\/png",
+                            "size": 35799,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_baldwin.png"
+                        },
+                        "length_of_service": 5207,
+                        "identifier": "henry_baldwin"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 7,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205617"
+                },
+                {
+                    "member": {
+                        "ID": 15059,
+                        "name": "William Johnson",
+                        "href": "https:\/\/api.oyez.org\/people\/william_johnson",
+                        "last_name": "Johnson",
+                        "roles": [
+                            {
+                                "id": 2703,
+                                "type": "scotus_justice",
+                                "date_start": -5227524000,
+                                "date_end": -4273149600,
+                                "appointing_president": "Thomas Jefferson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2703"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32779,
+                            "mime": "image\/png",
+                            "size": 45940,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_johnson.png"
+                        },
+                        "length_of_service": 11046,
+                        "identifier": "william_johnson"
+                    },
+                    "vote": "none",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205618"
+                }
+            ],
+            "majority_vote": 5,
+            "minority_vote": 1,
+            "winning_party": "Worcester",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16397"
+        }
+    ],
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15258,
+            "name": "Marshall Court (1830-1834)",
+            "href": "https:\/\/api.oyez.org\/courts\/marshall18",
+            "members": [
+                {
+                    "ID": 15085,
+                    "name": "John Marshall",
+                    "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                    "last_name": "Marshall",
+                    "roles": [
+                        {
+                            "id": 2729,
+                            "type": "scotus_justice",
+                            "date_start": -5330167200,
+                            "date_end": -4244119200,
+                            "appointing_president": "John Adams",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32729,
+                        "mime": "image\/png",
+                        "size": 53035,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                    },
+                    "length_of_service": 12570,
+                    "identifier": "john_marshall"
+                },
+                {
+                    "ID": 15059,
+                    "name": "William Johnson",
+                    "href": "https:\/\/api.oyez.org\/people\/william_johnson",
+                    "last_name": "Johnson",
+                    "roles": [
+                        {
+                            "id": 2703,
+                            "type": "scotus_justice",
+                            "date_start": -5227524000,
+                            "date_end": -4273149600,
+                            "appointing_president": "Thomas Jefferson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2703"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32779,
+                        "mime": "image\/png",
+                        "size": 45940,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_johnson.png"
+                    },
+                    "length_of_service": 11046,
+                    "identifier": "william_johnson"
+                },
+                {
+                    "ID": 15147,
+                    "name": "Gabriel Duvall",
+                    "href": "https:\/\/api.oyez.org\/people\/gabriel_duvall",
+                    "last_name": "Duvall",
+                    "roles": [
+                        {
+                            "id": 2795,
+                            "type": "scotus_justice",
+                            "date_start": -4989405600,
+                            "date_end": -4259066400,
+                            "appointing_president": "James Madison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2795"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32709,
+                        "mime": "image\/png",
+                        "size": 48482,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/gabriel_duvall.png"
+                    },
+                    "length_of_service": 8453,
+                    "identifier": "gabriel_duvall"
+                },
+                {
+                    "ID": 15091,
+                    "name": "Joseph Story",
+                    "href": "https:\/\/api.oyez.org\/people\/joseph_story",
+                    "last_name": "Story",
+                    "roles": [
+                        {
+                            "id": 2735,
+                            "type": "scotus_justice",
+                            "date_start": -4983184800,
+                            "date_end": -3922797600,
+                            "appointing_president": "James Madison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2735"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32736,
+                        "mime": "image\/png",
+                        "size": 44576,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_story.png"
+                    },
+                    "length_of_service": 12273,
+                    "identifier": "joseph_story"
+                },
+                {
+                    "ID": 15143,
+                    "name": "Smith Thompson",
+                    "href": "https:\/\/api.oyez.org\/people\/smith_thompson",
+                    "last_name": "Thompson",
+                    "roles": [
+                        {
+                            "id": 2790,
+                            "type": "scotus_justice",
+                            "date_start": -4617885600,
+                            "date_end": -3977402400,
+                            "appointing_president": "James Monroe",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2790"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32764,
+                        "mime": "image\/png",
+                        "size": 43703,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/smith_thompson.png"
+                    },
+                    "length_of_service": 7413,
+                    "identifier": "smith_thompson"
+                },
+                {
+                    "ID": 15112,
+                    "name": "John McLean",
+                    "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+                    "last_name": "McLean",
+                    "roles": [
+                        {
+                            "id": 2756,
+                            "type": "scotus_justice",
+                            "date_start": -4411908000,
+                            "date_end": -3431613600,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2756"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32731,
+                        "mime": "image\/png",
+                        "size": 38658,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                    },
+                    "length_of_service": 11346,
+                    "identifier": "john_mclean"
+                },
+                {
+                    "ID": 15125,
+                    "name": "Henry Baldwin",
+                    "href": "https:\/\/api.oyez.org\/people\/henry_baldwin",
+                    "last_name": "Baldwin",
+                    "roles": [
+                        {
+                            "id": 2770,
+                            "type": "scotus_justice",
+                            "date_start": -4416487200,
+                            "date_end": -3966602400,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2770"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32713,
+                        "mime": "image\/png",
+                        "size": 35799,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_baldwin.png"
+                    },
+                    "length_of_service": 5207,
+                    "identifier": "henry_baldwin"
+                }
+            ],
+            "court_start": -4416487200,
+            "images": [
+                {
+                    "id": 56758,
+                    "mime": "image\/jpeg",
+                    "size": 3274208,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_20.jpg"
+                }
+            ],
+            "identifier": "marshall18"
+        }
+    ],
+    "decided_by": {
+        "ID": 15258,
+        "name": "Marshall Court (1830-1834)",
+        "href": "https:\/\/api.oyez.org\/courts\/marshall18",
+        "members": [
+            {
+                "ID": 15085,
+                "name": "John Marshall",
+                "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                "last_name": "Marshall",
+                "roles": [
+                    {
+                        "id": 2729,
+                        "type": "scotus_justice",
+                        "date_start": -5330167200,
+                        "date_end": -4244119200,
+                        "appointing_president": "John Adams",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32729,
+                    "mime": "image\/png",
+                    "size": 53035,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                },
+                "length_of_service": 12570,
+                "identifier": "john_marshall"
+            },
+            {
+                "ID": 15059,
+                "name": "William Johnson",
+                "href": "https:\/\/api.oyez.org\/people\/william_johnson",
+                "last_name": "Johnson",
+                "roles": [
+                    {
+                        "id": 2703,
+                        "type": "scotus_justice",
+                        "date_start": -5227524000,
+                        "date_end": -4273149600,
+                        "appointing_president": "Thomas Jefferson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2703"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32779,
+                    "mime": "image\/png",
+                    "size": 45940,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_johnson.png"
+                },
+                "length_of_service": 11046,
+                "identifier": "william_johnson"
+            },
+            {
+                "ID": 15147,
+                "name": "Gabriel Duvall",
+                "href": "https:\/\/api.oyez.org\/people\/gabriel_duvall",
+                "last_name": "Duvall",
+                "roles": [
+                    {
+                        "id": 2795,
+                        "type": "scotus_justice",
+                        "date_start": -4989405600,
+                        "date_end": -4259066400,
+                        "appointing_president": "James Madison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2795"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32709,
+                    "mime": "image\/png",
+                    "size": 48482,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/gabriel_duvall.png"
+                },
+                "length_of_service": 8453,
+                "identifier": "gabriel_duvall"
+            },
+            {
+                "ID": 15091,
+                "name": "Joseph Story",
+                "href": "https:\/\/api.oyez.org\/people\/joseph_story",
+                "last_name": "Story",
+                "roles": [
+                    {
+                        "id": 2735,
+                        "type": "scotus_justice",
+                        "date_start": -4983184800,
+                        "date_end": -3922797600,
+                        "appointing_president": "James Madison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2735"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32736,
+                    "mime": "image\/png",
+                    "size": 44576,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_story.png"
+                },
+                "length_of_service": 12273,
+                "identifier": "joseph_story"
+            },
+            {
+                "ID": 15143,
+                "name": "Smith Thompson",
+                "href": "https:\/\/api.oyez.org\/people\/smith_thompson",
+                "last_name": "Thompson",
+                "roles": [
+                    {
+                        "id": 2790,
+                        "type": "scotus_justice",
+                        "date_start": -4617885600,
+                        "date_end": -3977402400,
+                        "appointing_president": "James Monroe",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2790"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32764,
+                    "mime": "image\/png",
+                    "size": 43703,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/smith_thompson.png"
+                },
+                "length_of_service": 7413,
+                "identifier": "smith_thompson"
+            },
+            {
+                "ID": 15112,
+                "name": "John McLean",
+                "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+                "last_name": "McLean",
+                "roles": [
+                    {
+                        "id": 2756,
+                        "type": "scotus_justice",
+                        "date_start": -4411908000,
+                        "date_end": -3431613600,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2756"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32731,
+                    "mime": "image\/png",
+                    "size": 38658,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                },
+                "length_of_service": 11346,
+                "identifier": "john_mclean"
+            },
+            {
+                "ID": 15125,
+                "name": "Henry Baldwin",
+                "href": "https:\/\/api.oyez.org\/people\/henry_baldwin",
+                "last_name": "Baldwin",
+                "roles": [
+                    {
+                        "id": 2770,
+                        "type": "scotus_justice",
+                        "date_start": -4416487200,
+                        "date_end": -3966602400,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2770"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32713,
+                    "mime": "image\/png",
+                    "size": 35799,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_baldwin.png"
+                },
+                "length_of_service": 5207,
+                "identifier": "henry_baldwin"
+            }
+        ],
+        "court_start": -4416487200,
+        "images": [
+            {
+                "id": 56758,
+                "mime": "image\/jpeg",
+                "size": 3274208,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_20.jpg"
+            }
+        ],
+        "identifier": "marshall18"
+    },
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court found that the Georgia legislature lacked the authority to regulate the intercourse between citizens of the state and members of Native American territories.",
+    "written_opinion": null,
+    "related_cases": null
+}

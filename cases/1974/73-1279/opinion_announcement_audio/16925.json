@@ -1,0 +1,81 @@
+{
+    "id": 16925,
+    "title": "Opinion Announcement - February 19, 1975",
+    "transcript": {
+        "title": "Williams \u0026 Wilkins Co. v. United States",
+        "duration": 12.825,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 12.825,
+                "byte_start": 28672,
+                "byte_stop": 79872,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 12.825,
+                        "byte_start": 28672,
+                        "byte_stop": 79872,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.825,
+                                "byte_start": 28672,
+                                "byte_stop": 79872,
+                                "text": "In No. 73-1279, Williams \u0026 Wilkins against the United States, the judgment under review is affirmed by an equally divided Court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42972,
+            "mime": "audio\/mpeg",
+            "size": 80185,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1279\/19750219o_73-1279.delivery.mp3"
+        },
+        {
+            "id": 64876,
+            "mime": "audio\/ogg",
+            "size": 130692,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1279\/19750219o_73-1279.ogg"
+        },
+        {
+            "id": 64877,
+            "mime": "application\/x-mpegURL",
+            "size": 331,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1279\/19750219o_73-1279.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

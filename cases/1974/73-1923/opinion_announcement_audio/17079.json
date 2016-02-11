@@ -1,0 +1,116 @@
+{
+    "id": 17079,
+    "title": "Opinion Announcement - May 27, 1975",
+    "transcript": {
+        "title": "Eastland v. United States Servicemen\u0027s Fund",
+        "duration": 47.814,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 47.814,
+                "byte_start": 28672,
+                "byte_stop": 219888,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 47.814,
+                        "byte_start": 28672,
+                        "byte_stop": 219888,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.009,
+                                "byte_start": 28672,
+                                "byte_stop": 68796,
+                                "text": "I have the opinion and judgment of the Court to announce in 73-1923, Eastland against United States Servicemen\u0027s Fund."
+                            },
+                            {
+                                "start": 10.009,
+                                "stop": 19.865,
+                                "byte_start": 68796,
+                                "byte_stop": 108189,
+                                "text": "And for reasons stated in an opinion filed today with the clerk, the judgment of the Court of Appeals with respect to the Senate aspect of the case is reversed."
+                            },
+                            {
+                                "start": 19.865,
+                                "stop": 26.436,
+                                "byte_start": 108189,
+                                "byte_stop": 134520,
+                                "text": "The case is remanded by the Court of Appeals for the entry of a judgment directing the District Court to dismiss the complaint."
+                            },
+                            {
+                                "start": 26.436,
+                                "stop": 36.87,
+                                "byte_start": 134520,
+                                "byte_stop": 176212,
+                                "text": "The House aspects of this case are remanded with directions to return to the District Court for further consideration consistent with this opinion."
+                            },
+                            {
+                                "start": 36.87,
+                                "stop": 44.551,
+                                "byte_start": 176212,
+                                "byte_stop": 206932,
+                                "text": "Mr. Justice Marshall with whom Mr. Justice Brennan and Mr. Justice Stewart joined filed an opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 44.551,
+                                "stop": 47.814,
+                                "byte_start": 206932,
+                                "byte_stop": 219888,
+                                "text": "Mr. Justice Douglas has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43280,
+            "mime": "audio\/mpeg",
+            "size": 220202,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1923\/19750527o_73-1923.delivery.mp3"
+        },
+        {
+            "id": 65174,
+            "mime": "audio\/ogg",
+            "size": 481585,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1923\/19750527o_73-1923.ogg"
+        },
+        {
+            "id": 65175,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1923\/19750527o_73-1923.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

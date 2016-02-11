@@ -1,0 +1,147 @@
+{
+    "id": 20859,
+    "title": "Opinion Announcement - June 13, 1991",
+    "transcript": {
+        "title": "Burns v. United States",
+        "duration": 120.424,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 120.424,
+                "byte_start": 73964,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 120.424,
+                        "byte_start": 73964,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.516,
+                                "byte_start": 73964,
+                                "byte_stop": 124119,
+                                "text": "I have the opinion of the Court to announce in No. 89-7260, Burns against the United States, which comes to us from the United States Court of Appeals for the District of Columbia Circuit."
+                            },
+                            {
+                                "start": 12.516,
+                                "stop": 27.265,
+                                "byte_start": 124119,
+                                "byte_stop": 183051,
+                                "text": "Up until a few years ago, Congress wanted to enact a criminal statue making certain crimes punishable would prescribe the broadened sort of latitude for the punishment."
+                            },
+                            {
+                                "start": 27.265,
+                                "stop": 42.082,
+                                "byte_start": 183051,
+                                "byte_stop": 242297,
+                                "text": "They would say, a person convicted of this crime shall be sentenced for not less than one or more than ten years, leaving it entirely up to the District Judge who is conducting the sentencing hearing to fix the penalty between those times."
+                            },
+                            {
+                                "start": 42.082,
+                                "stop": 50.129,
+                                "byte_start": 242297,
+                                "byte_stop": 274584,
+                                "text": "But a few years ago, Congress approved sentencing guidelines which took a much different approach to sentencing."
+                            },
+                            {
+                                "start": 50.129,
+                                "stop": 63.16,
+                                "byte_start": 274584,
+                                "byte_stop": 326620,
+                                "text": "And as the sentencing commission, which has promulgated those guidelines, has prescribed very detailed provisions as to how a judge shall go about sentencing a defendant who is convicted of a particular crime."
+                            },
+                            {
+                                "start": 63.16,
+                                "stop": 76.316,
+                                "byte_start": 326620,
+                                "byte_stop": 379283,
+                                "text": "And one thing the guidelines provide is that the District Court may depart upward, to impose a greater sentence than the guidelines prescribe under certain specified conditions."
+                            },
+                            {
+                                "start": 76.316,
+                                "stop": 93.034,
+                                "byte_start": 379283,
+                                "byte_stop": 446157,
+                                "text": "And the question presented in this case is whether a District Court may make such an upward departure from the sentencing range established by the sentencing guidelines without first notifying the parties that it intends to do that."
+                            },
+                            {
+                                "start": 93.034,
+                                "stop": 111.376,
+                                "byte_start": 446157,
+                                "byte_stop": 519508,
+                                "text": "In an opinion written by Justice Marshall and filed with the clerk today, the court holds that such notice is required by Rule 32 of the Rules of Federal Criminal Procedure, because the petitioner did not receive notice before the District Court\u0027s upward departure at his sentencing, the judgment of the Court of Appeals is reversed."
+                            },
+                            {
+                                "start": 111.376,
+                                "stop": 120.424,
+                                "byte_start": 519508,
+                                "byte_stop": 0,
+                                "text": "Justice Souter has filed a dissenting opinion in which Justice White and Justice O\u0027Connor have joined, and as to part I of which, I have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50842,
+            "mime": "audio\/mpeg",
+            "size": 555662,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-7260\/19910613o_89-7260.delivery.mp3"
+        },
+        {
+            "id": 72624,
+            "mime": "audio\/ogg",
+            "size": 1181414,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-7260\/19910613o_89-7260.ogg"
+        },
+        {
+            "id": 72625,
+            "mime": "application\/x-mpegURL",
+            "size": 1915,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-7260\/19910613o_89-7260.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

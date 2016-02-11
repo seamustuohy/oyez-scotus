@@ -1,0 +1,88 @@
+{
+    "id": 18289,
+    "title": "Opinion Announcement - May 02, 1983",
+    "transcript": {
+        "title": "Block v. North Dakota ex Rel. Board of University and School Lands",
+        "duration": 42.408,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 42.408,
+                "byte_start": 92294,
+                "byte_stop": 261881,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 42.408,
+                        "byte_start": 92294,
+                        "byte_stop": 261881,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.841,
+                                "byte_start": 92294,
+                                "byte_stop": 183723,
+                                "text": "I am authorized to announce the judgment and opinion of the Court in Block, the Secretary of Agriculture against the State of North Dakota and others, an opinion written by Justice White for the Court, Justice White being absent today attending a judicial conference."
+                            },
+                            {
+                                "start": 22.841,
+                                "stop": 42.408,
+                                "byte_start": 183723,
+                                "byte_stop": 261881,
+                                "text": "And for reasons stated in Justice White\u0027s opinion for the Court filed with the clerk this morning, the case is remanded to the Court of Appeals for the Eighth Circuit for further proceedings consistent with the opinion which is filed this morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45700,
+            "mime": "audio\/mpeg",
+            "size": 262090,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1982\/81-2337\/19830502o_81-2337.delivery.mp3"
+        },
+        {
+            "id": 67544,
+            "mime": "audio\/ogg",
+            "size": 440226,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1982\/81-2337\/19830502o_81-2337.ogg"
+        },
+        {
+            "id": 67545,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1982\/81-2337\/19830502o_81-2337.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

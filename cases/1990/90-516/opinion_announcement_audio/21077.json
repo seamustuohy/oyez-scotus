@@ -1,0 +1,109 @@
+{
+    "id": 21077,
+    "title": "Opinion Announcement - May 20, 1991",
+    "transcript": {
+        "title": "Kamen v. Kemper Financial Services, Inc.",
+        "duration": 53.107,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 53.107,
+                "byte_start": 73978,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 53.107,
+                        "byte_start": 73978,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.479,
+                                "byte_start": 73978,
+                                "byte_stop": 135940,
+                                "text": "In the other case, Kamen versus Kemper Financial Services Incorporated, No. 90-516, is here on certiorari to the United States Court of Appeals for the Seventh Circuit."
+                            },
+                            {
+                                "start": 15.479,
+                                "stop": 25.101,
+                                "byte_start": 135940,
+                                "byte_stop": 174393,
+                                "text": "In a shareholder derivative action, the plaintiff typically must make a demand on the board of directors before bringing suit."
+                            },
+                            {
+                                "start": 25.101,
+                                "stop": 39.12,
+                                "byte_start": 174393,
+                                "byte_stop": 230504,
+                                "text": "The question in this case is whether federal common law recognizes a futility exception in this requirement in a derivative action under the Investment Company Act of 1940."
+                            },
+                            {
+                                "start": 39.12,
+                                "stop": 49.36,
+                                "byte_start": 230504,
+                                "byte_stop": 271464,
+                                "text": "In an opinion filed with the Clerk today, we hold that a court in such a suit must apply the futility exception as defined by state law."
+                            },
+                            {
+                                "start": 49.36,
+                                "stop": 53.107,
+                                "byte_start": 271464,
+                                "byte_stop": 0,
+                                "text": "We, therefore, reverse the judgment of the Seventh Circuit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51278,
+            "mime": "audio\/mpeg",
+            "size": 286406,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/90-516\/19910520o_90-516.delivery.mp3"
+        },
+        {
+            "id": 73054,
+            "mime": "audio\/ogg",
+            "size": 503122,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/90-516\/19910520o_90-516.ogg"
+        },
+        {
+            "id": 73055,
+            "mime": "application\/x-mpegURL",
+            "size": 885,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/90-516\/19910520o_90-516.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

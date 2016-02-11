@@ -1,0 +1,112 @@
+{
+    "id": 23394,
+    "title": "Opinion Announcement - December 14, 1987",
+    "transcript": {
+        "title": "Mullins Coal Company, Inc. v. Director, Office of Workers\u0027 Compensation Programs, United States Department of Labor",
+        "duration": 49.334,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 49.334,
+                "byte_start": 29696,
+                "byte_stop": 226973,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 49.334,
+                        "byte_start": 29696,
+                        "byte_stop": 226973,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.585,
+                                "byte_start": 29696,
+                                "byte_stop": 120080,
+                                "text": "I have the opinions of the Court to announce in three cases, and the first of this, 86-32, Mullins Coal Company versus The Director of the Office of Workers\u0027 Compensation Programs, we review a judgment of the Court of Appeals for the Fourth Circuit regarding the burden of proof that the invocation stage of a Black Lung Benefits claim."
+                            },
+                            {
+                                "start": 22.585,
+                                "stop": 41.11,
+                                "byte_start": 120080,
+                                "byte_stop": 194163,
+                                "text": "For the reasons stated in an opinion written by Justice Stevens for the Court, we agree with the Secretary of Labor and hold that a single item of qualifying evidence is not always sufficient to invoke the presumption rather a claimant must establish at least one of the five qualifying facts by a preponderance of the evidence."
+                            },
+                            {
+                                "start": 41.11,
+                                "stop": 44.419,
+                                "byte_start": 194163,
+                                "byte_stop": 207433,
+                                "text": "Accordingly, we reverse the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 44.419,
+                                "stop": 49.334,
+                                "byte_start": 207433,
+                                "byte_stop": 226973,
+                                "text": "Justice Marshall has filed a dissenting opinion in which Justice Brennan joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55910,
+            "mime": "audio\/mpeg",
+            "size": 227286,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-327\/19871214o_86-327.delivery.mp3"
+        },
+        {
+            "id": 77620,
+            "mime": "audio\/ogg",
+            "size": 468437,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-327\/19871214o_86-327.ogg"
+        },
+        {
+            "id": 77621,
+            "mime": "application\/x-mpegURL",
+            "size": 842,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-327\/19871214o_86-327.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

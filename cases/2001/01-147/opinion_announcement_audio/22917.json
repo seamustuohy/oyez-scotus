@@ -1,0 +1,125 @@
+{
+    "id": 22917,
+    "title": "Opinion Announcement - June 03, 2002",
+    "transcript": {
+        "title": "Securities and Exchange Commission v. Zandford",
+        "duration": 71.732,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 71.732,
+                "byte_start": 87442,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 10.528,
+                        "byte_start": 87442,
+                        "byte_stop": 129656,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.528,
+                                "byte_start": 87442,
+                                "byte_stop": 129656,
+                                "text": "The opinion of the court in No. 01-147, Securities and Exchange Commission versus Zandford will be announced by Justice Stevens."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 10.528,
+                        "stop": 71.732,
+                        "byte_start": 129656,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 10.528,
+                                "stop": 15.039,
+                                "byte_start": 129656,
+                                "byte_stop": 147628,
+                                "text": "This case comes to us from the Court of Appeals for the Fourth Circuit."
+                            },
+                            {
+                                "start": 15.039,
+                                "stop": 32.551,
+                                "byte_start": 147628,
+                                "byte_stop": 217741,
+                                "text": "The Securities and Exchange Commission filed a civil complaint alleging that a stock broker violated section 10(b) of the 1934 act by selling his customer\u2019s securities and using the proceeds for his won benefit without the customer\u2019s knowledge or consent."
+                            },
+                            {
+                                "start": 32.551,
+                                "stop": 47.102,
+                                "byte_start": 217741,
+                                "byte_stop": 275942,
+                                "text": "The question that is presented to us is whether the alleged fraudulent conduct was \u201cin connection with the purchase or sale of any security\u201d within the meaning of the statute and the implementing Rule 10b-5."
+                            },
+                            {
+                                "start": 47.102,
+                                "stop": 62.438,
+                                "byte_start": 275942,
+                                "byte_stop": 337277,
+                                "text": "In the view of the Court of Appeals for the Fourth Circuit, the sales of securities were incidental to a scheme that was simply to steal his customer\u2019s assets rather than to engage in manipulation of a particular security."
+                            },
+                            {
+                                "start": 62.438,
+                                "stop": 71.732,
+                                "byte_start": 337277,
+                                "byte_stop": 0,
+                                "text": "For reason stated in an 11 page opinion filed with the Clerk at the Court, we disagree and we reverse the Court of Appeals, and our decision is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 54956,
+            "mime": "audio\/mpeg",
+            "size": 373117,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2001\/01-147\/20020603o_01-147.delivery.mp3"
+        },
+        {
+            "id": 76696,
+            "mime": "audio\/ogg",
+            "size": 725578,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2001\/01-147\/20020603o_01-147.ogg"
+        },
+        {
+            "id": 76697,
+            "mime": "application\/x-mpegURL",
+            "size": 1143,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2001\/01-147\/20020603o_01-147.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

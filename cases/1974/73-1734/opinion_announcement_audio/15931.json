@@ -1,0 +1,157 @@
+{
+    "id": 15931,
+    "title": "Opinion Announcement - May 12, 1975",
+    "transcript": {
+        "title": "Gurley v. Rhoden",
+        "duration": 60.051,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 60.051,
+                "byte_start": 28672,
+                "byte_stop": 268790,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.082,
+                        "byte_start": 28672,
+                        "byte_stop": 65034,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.082,
+                                "byte_start": 28672,
+                                "byte_stop": 65034,
+                                "text": "The judgment and opinion of the Court in No. 73-1734, Gurley against Rhoden will be announced by Mr. Justice Brennan."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.082,
+                        "stop": 60.051,
+                        "byte_start": 65034,
+                        "byte_stop": 268790,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.082,
+                                "stop": 13.664,
+                                "byte_start": 65034,
+                                "byte_stop": 83425,
+                                "text": "This case is here from the Supreme Court of Mississippi."
+                            },
+                            {
+                                "start": 13.664,
+                                "stop": 21.794,
+                                "byte_start": 83425,
+                                "byte_stop": 115921,
+                                "text": "The Mississippi 5% sales tax is applied to the pump price of gasoline."
+                            },
+                            {
+                                "start": 21.794,
+                                "stop": 33.273,
+                                "byte_start": 115921,
+                                "byte_stop": 161792,
+                                "text": "That pump price is increased 13 cents represent federal and state excise taxes passed on by the retailer to the motorist."
+                            },
+                            {
+                                "start": 33.273,
+                                "stop": 44.171,
+                                "byte_start": 161792,
+                                "byte_stop": 205364,
+                                "text": "The Mississippi Supreme Court held that this does not render the sales tax an unconstitutional tax upon a tax."
+                            },
+                            {
+                                "start": 44.171,
+                                "stop": 46.303,
+                                "byte_start": 205364,
+                                "byte_stop": 213932,
+                                "text": "We agree and affirm."
+                            },
+                            {
+                                "start": 46.303,
+                                "stop": 60.051,
+                                "byte_start": 213932,
+                                "byte_stop": 268790,
+                                "text": "Mr. Justice Douglas took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40984,
+            "mime": "audio\/mpeg",
+            "size": 269103,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1734\/19750512o_73-1734.delivery.mp3"
+        },
+        {
+            "id": 62926,
+            "mime": "audio\/ogg",
+            "size": 591173,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1734\/19750512o_73-1734.ogg"
+        },
+        {
+            "id": 62927,
+            "mime": "application\/x-mpegURL",
+            "size": 1035,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1734\/19750512o_73-1734.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

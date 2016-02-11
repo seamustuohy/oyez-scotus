@@ -1,0 +1,105 @@
+{
+    "id": 23650,
+    "title": "Opinion Announcement - October 16, 1989",
+    "transcript": {
+        "title": "White v. United States",
+        "duration": 15.804,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 15.804,
+                "byte_start": 87121,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 15.804,
+                        "byte_start": 87121,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.919,
+                                "byte_start": 87121,
+                                "byte_stop": 122857,
+                                "text": "I have the opinion of the Court to announce in No. 88-928, James White versus the United States."
+                            },
+                            {
+                                "start": 8.919,
+                                "stop": 12.427,
+                                "byte_start": 122857,
+                                "byte_stop": 136858,
+                                "text": "The writ of certiorari has dismissed as improvidently granted."
+                            },
+                            {
+                                "start": 12.427,
+                                "stop": 15.804,
+                                "byte_start": 136858,
+                                "byte_stop": 0,
+                                "text": "Justice White Dissents."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56418,
+            "mime": "audio\/mpeg",
+            "size": 150128,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-928\/19891016o_88-928.delivery.mp3"
+        },
+        {
+            "id": 78106,
+            "mime": "audio\/ogg",
+            "size": 156274,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-928\/19891016o_88-928.ogg"
+        },
+        {
+            "id": 78107,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-928\/19891016o_88-928.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

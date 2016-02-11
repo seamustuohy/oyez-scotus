@@ -1,0 +1,116 @@
+{
+    "id": 20712,
+    "title": "Opinion Announcement - March 20, 1991",
+    "transcript": {
+        "title": "United States v. Smith",
+        "duration": 63.19,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 63.19,
+                "byte_start": 73964,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 63.19,
+                        "byte_start": 73964,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.732,
+                                "byte_start": 73964,
+                                "byte_stop": 132896,
+                                "text": "In the other case, United States against Smith No. 89-1646 is here on a certiorari to the United States Court of Appeals for the Ninth Circuit."
+                            },
+                            {
+                                "start": 14.732,
+                                "stop": 27.453,
+                                "byte_start": 132896,
+                                "byte_stop": 183783,
+                                "text": "The question in this case is whether respondents, David Cober against the military position for malpractice committed at an army hospital in Italy."
+                            },
+                            {
+                                "start": 27.453,
+                                "stop": 39.891,
+                                "byte_start": 183783,
+                                "byte_stop": 233624,
+                                "text": "The Federal Tort Claims Act bars recovery against the United States for such hindrance occurring aboard."
+                            },
+                            {
+                                "start": 39.891,
+                                "stop": 54.856,
+                                "byte_start": 233624,
+                                "byte_stop": 293393,
+                                "text": "In an opinion filed with the Clerk today, we hold that the Federal Employees Liability Reform Act also bars recovery against the individual positions."
+                            },
+                            {
+                                "start": 54.856,
+                                "stop": 58.298,
+                                "byte_start": 293393,
+                                "byte_stop": 307185,
+                                "text": "We therefore reverse the judgment of the Ninth Circuit."
+                            },
+                            {
+                                "start": 58.298,
+                                "stop": 63.19,
+                                "byte_start": 307185,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50548,
+            "mime": "audio\/mpeg",
+            "size": 326725,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-1646\/19910320o_89-1646.delivery.mp3"
+        },
+        {
+            "id": 72336,
+            "mime": "audio\/ogg",
+            "size": 594835,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-1646\/19910320o_89-1646.ogg"
+        },
+        {
+            "id": 72337,
+            "mime": "application\/x-mpegURL",
+            "size": 1079,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-1646\/19910320o_89-1646.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,88 @@
+{
+    "id": 21134,
+    "title": "Opinion Announcement - October 21, 1996",
+    "transcript": {
+        "title": null,
+        "duration": 24.403,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.403,
+                "byte_start": 28672,
+                "byte_stop": 126265,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.403,
+                        "byte_start": 28672,
+                        "byte_stop": 126265,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.498,
+                                "byte_start": 28672,
+                                "byte_stop": 66706,
+                                "text": "To announce the No. 95-1521 United States Department of State versus Legal Assistance for Vietnamese Asylum Seekers."
+                            },
+                            {
+                                "start": 9.498,
+                                "stop": 24.403,
+                                "byte_start": 66706,
+                                "byte_stop": 126265,
+                                "text": "The judgment of the Court of Appeals in this case is vacated and remanded to the Court of Appeals for the District of Columbia Circuit for further consideration in the light of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51392,
+            "mime": "audio\/mpeg",
+            "size": 126579,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1996\/95-1521\/19961021o_95-1521.delivery.mp3"
+        },
+        {
+            "id": 73168,
+            "mime": "audio\/ogg",
+            "size": 236954,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1996\/95-1521\/19961021o_95-1521.ogg"
+        },
+        {
+            "id": 73169,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1996\/95-1521\/19961021o_95-1521.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 17283,
+    "title": "Opinion Announcement - June 25, 1974",
+    "transcript": {
+        "title": "Miami Herald Publishing Company v. Tornillo",
+        "duration": 28.635,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.635,
+                "byte_start": 76800,
+                "byte_stop": 191321,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.635,
+                        "byte_start": 76800,
+                        "byte_stop": 191321,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.042,
+                                "byte_start": 76800,
+                                "byte_stop": 152973,
+                                "text": "I also have for announcement number 73-797, Miami Herald Publishing Co. against Tornillo and for reasons stated in an opinion filed today, the judgment of the Supreme Court of Florida is reversed."
+                            },
+                            {
+                                "start": 19.042,
+                                "stop": 23.939,
+                                "byte_start": 152973,
+                                "byte_stop": 172617,
+                                "text": "Mr. Justice Brennan, with whom Mr. Justice Rehnquist joined, filed a concurring statement."
+                            },
+                            {
+                                "start": 23.939,
+                                "stop": 28.635,
+                                "byte_start": 172617,
+                                "byte_stop": 191321,
+                                "text": "Mr. Justice White also filed a concurring opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43688,
+            "mime": "audio\/mpeg",
+            "size": 191530,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-797\/19740625o_73-797.delivery.mp3"
+        },
+        {
+            "id": 65570,
+            "mime": "audio\/ogg",
+            "size": 289004,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-797\/19740625o_73-797.ogg"
+        },
+        {
+            "id": 65571,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-797\/19740625o_73-797.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

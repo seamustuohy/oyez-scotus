@@ -1,0 +1,95 @@
+{
+    "id": 17218,
+    "title": "Opinion Announcement - May 23, 1977",
+    "transcript": {
+        "title": "Massachusetts v. Westcott",
+        "duration": 34.982,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.982,
+                "byte_start": 100539,
+                "byte_stop": 240451,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 34.982,
+                        "byte_start": 100539,
+                        "byte_stop": 240451,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.758,
+                                "byte_start": 100539,
+                                "byte_stop": 159576,
+                                "text": "In 75-1775, Massachusetts against Westcott for reasons stated in opinion for the Court filed this morning, the judgement of the Supreme Judicial Court of Massachusetts is vacated."
+                            },
+                            {
+                                "start": 14.758,
+                                "stop": 23.197,
+                                "byte_start": 159576,
+                                "byte_stop": 193430,
+                                "text": "The case is remanded for further consideration in light of Douglas against Seacoast Products decided today."
+                            },
+                            {
+                                "start": 23.197,
+                                "stop": 34.982,
+                                "byte_start": 193430,
+                                "byte_stop": 240451,
+                                "text": "In this case, Mr. Justice Rehnquist concurs in a judgment of the Court under the authority of Douglas against Seacoast products."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43558,
+            "mime": "audio\/mpeg",
+            "size": 240660,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-1775\/19770523o_75-1775.delivery.mp3"
+        },
+        {
+            "id": 65444,
+            "mime": "audio\/ogg",
+            "size": 367971,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-1775\/19770523o_75-1775.ogg"
+        },
+        {
+            "id": 65445,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-1775\/19770523o_75-1775.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

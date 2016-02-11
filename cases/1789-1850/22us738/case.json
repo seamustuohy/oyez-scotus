@@ -1,0 +1,450 @@
+{
+    "ID": 62342,
+    "name": "Osborn v. Bank of the United States",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/22us738",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Osborn",
+    "second_party": "Bank of the United States",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -4601383200,
+                -4603888800,
+                -4603802400,
+                -4601296800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52846"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -4600605600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52847"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EThe state of Ohio levied taxes on each branch of the United States Bank in Ohio. Although the Court ruled in McCulloch v. Maryland that such taxes were unconstitutional, Ohio persisted in its enforcement of the tax. Defying a circuit court injunction, Ralph Osborn, the Ohio State Auditor, forcibly seized funds from the Bank. The circuit court then ordered Osborn and his colleagues to repay the amount seized.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDid the federal circuit court\u0027s assertion of jurisdiction over the case, which involved an action commenced against the state of Ohio, violate the Eleventh Amendment?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EIn a 6-to-1 decision, the Court held that the circuit court properly ruled against Ohio officials and that the Ohio law was \u0022repugnant to the Constitution.\u0022 The Court held that the Eleventh Amendment was limited to suits in which a state was party on the record, and that Ohio was not the target of the suit in the case at hand. Osborn and his colleagues were thus \u0022incontestably liable for the full amount of the money taken out of the bank.\u0022\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "22",
+        "page": "738",
+        "year": "1824",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27144"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15261,
+            "name": "Marshall Court (1824-1826)",
+            "href": "https:\/\/api.oyez.org\/courts\/marshall12",
+            "members": [
+                {
+                    "ID": 15085,
+                    "name": "John Marshall",
+                    "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                    "last_name": "Marshall",
+                    "roles": [
+                        {
+                            "id": 2729,
+                            "type": "scotus_justice",
+                            "date_start": -5330167200,
+                            "date_end": -4244119200,
+                            "appointing_president": "John Adams",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32729,
+                        "mime": "image\/png",
+                        "size": 53035,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                    },
+                    "length_of_service": 12570,
+                    "identifier": "john_marshall"
+                },
+                {
+                    "ID": 15093,
+                    "name": "Bushrod Washington",
+                    "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                    "last_name": "Washington",
+                    "roles": [
+                        {
+                            "id": 2737,
+                            "type": "scotus_justice",
+                            "date_start": -5400756000,
+                            "date_end": -4421066400,
+                            "appointing_president": "John Adams",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32698,
+                        "mime": "image\/png",
+                        "size": 42759,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                    },
+                    "length_of_service": 11339,
+                    "identifier": "bushrod_washington"
+                },
+                {
+                    "ID": 15059,
+                    "name": "William Johnson",
+                    "href": "https:\/\/api.oyez.org\/people\/william_johnson",
+                    "last_name": "Johnson",
+                    "roles": [
+                        {
+                            "id": 2703,
+                            "type": "scotus_justice",
+                            "date_start": -5227524000,
+                            "date_end": -4273149600,
+                            "appointing_president": "Thomas Jefferson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2703"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32779,
+                        "mime": "image\/png",
+                        "size": 45940,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_johnson.png"
+                    },
+                    "length_of_service": 11046,
+                    "identifier": "william_johnson"
+                },
+                {
+                    "ID": 15039,
+                    "name": "Thomas Todd",
+                    "href": "https:\/\/api.oyez.org\/people\/thomas_todd",
+                    "last_name": "Todd",
+                    "roles": [
+                        {
+                            "id": 2683,
+                            "type": "scotus_justice",
+                            "date_start": -5133175200,
+                            "date_end": -4540989600,
+                            "appointing_president": "Thomas Jefferson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2683"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32769,
+                        "mime": "image\/png",
+                        "size": 41113,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thomas_todd.png"
+                    },
+                    "length_of_service": 6854,
+                    "identifier": "thomas_todd"
+                },
+                {
+                    "ID": 15147,
+                    "name": "Gabriel Duvall",
+                    "href": "https:\/\/api.oyez.org\/people\/gabriel_duvall",
+                    "last_name": "Duvall",
+                    "roles": [
+                        {
+                            "id": 2795,
+                            "type": "scotus_justice",
+                            "date_start": -4989405600,
+                            "date_end": -4259066400,
+                            "appointing_president": "James Madison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2795"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32709,
+                        "mime": "image\/png",
+                        "size": 48482,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/gabriel_duvall.png"
+                    },
+                    "length_of_service": 8453,
+                    "identifier": "gabriel_duvall"
+                },
+                {
+                    "ID": 15091,
+                    "name": "Joseph Story",
+                    "href": "https:\/\/api.oyez.org\/people\/joseph_story",
+                    "last_name": "Story",
+                    "roles": [
+                        {
+                            "id": 2735,
+                            "type": "scotus_justice",
+                            "date_start": -4983184800,
+                            "date_end": -3922797600,
+                            "appointing_president": "James Madison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2735"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32736,
+                        "mime": "image\/png",
+                        "size": 44576,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_story.png"
+                    },
+                    "length_of_service": 12273,
+                    "identifier": "joseph_story"
+                },
+                {
+                    "ID": 15143,
+                    "name": "Smith Thompson",
+                    "href": "https:\/\/api.oyez.org\/people\/smith_thompson",
+                    "last_name": "Thompson",
+                    "roles": [
+                        {
+                            "id": 2790,
+                            "type": "scotus_justice",
+                            "date_start": -4617885600,
+                            "date_end": -3977402400,
+                            "appointing_president": "James Monroe",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2790"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32764,
+                        "mime": "image\/png",
+                        "size": 43703,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/smith_thompson.png"
+                    },
+                    "length_of_service": 7413,
+                    "identifier": "smith_thompson"
+                }
+            ],
+            "court_start": -4603888800,
+            "images": [
+                {
+                    "id": 56764,
+                    "mime": "image\/jpeg",
+                    "size": 3274208,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_26.jpg"
+                }
+            ],
+            "identifier": "marshall12"
+        }
+    ],
+    "decided_by": {
+        "ID": 15261,
+        "name": "Marshall Court (1824-1826)",
+        "href": "https:\/\/api.oyez.org\/courts\/marshall12",
+        "members": [
+            {
+                "ID": 15085,
+                "name": "John Marshall",
+                "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                "last_name": "Marshall",
+                "roles": [
+                    {
+                        "id": 2729,
+                        "type": "scotus_justice",
+                        "date_start": -5330167200,
+                        "date_end": -4244119200,
+                        "appointing_president": "John Adams",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32729,
+                    "mime": "image\/png",
+                    "size": 53035,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                },
+                "length_of_service": 12570,
+                "identifier": "john_marshall"
+            },
+            {
+                "ID": 15093,
+                "name": "Bushrod Washington",
+                "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                "last_name": "Washington",
+                "roles": [
+                    {
+                        "id": 2737,
+                        "type": "scotus_justice",
+                        "date_start": -5400756000,
+                        "date_end": -4421066400,
+                        "appointing_president": "John Adams",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32698,
+                    "mime": "image\/png",
+                    "size": 42759,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                },
+                "length_of_service": 11339,
+                "identifier": "bushrod_washington"
+            },
+            {
+                "ID": 15059,
+                "name": "William Johnson",
+                "href": "https:\/\/api.oyez.org\/people\/william_johnson",
+                "last_name": "Johnson",
+                "roles": [
+                    {
+                        "id": 2703,
+                        "type": "scotus_justice",
+                        "date_start": -5227524000,
+                        "date_end": -4273149600,
+                        "appointing_president": "Thomas Jefferson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2703"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32779,
+                    "mime": "image\/png",
+                    "size": 45940,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_johnson.png"
+                },
+                "length_of_service": 11046,
+                "identifier": "william_johnson"
+            },
+            {
+                "ID": 15039,
+                "name": "Thomas Todd",
+                "href": "https:\/\/api.oyez.org\/people\/thomas_todd",
+                "last_name": "Todd",
+                "roles": [
+                    {
+                        "id": 2683,
+                        "type": "scotus_justice",
+                        "date_start": -5133175200,
+                        "date_end": -4540989600,
+                        "appointing_president": "Thomas Jefferson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2683"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32769,
+                    "mime": "image\/png",
+                    "size": 41113,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thomas_todd.png"
+                },
+                "length_of_service": 6854,
+                "identifier": "thomas_todd"
+            },
+            {
+                "ID": 15147,
+                "name": "Gabriel Duvall",
+                "href": "https:\/\/api.oyez.org\/people\/gabriel_duvall",
+                "last_name": "Duvall",
+                "roles": [
+                    {
+                        "id": 2795,
+                        "type": "scotus_justice",
+                        "date_start": -4989405600,
+                        "date_end": -4259066400,
+                        "appointing_president": "James Madison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2795"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32709,
+                    "mime": "image\/png",
+                    "size": 48482,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/gabriel_duvall.png"
+                },
+                "length_of_service": 8453,
+                "identifier": "gabriel_duvall"
+            },
+            {
+                "ID": 15091,
+                "name": "Joseph Story",
+                "href": "https:\/\/api.oyez.org\/people\/joseph_story",
+                "last_name": "Story",
+                "roles": [
+                    {
+                        "id": 2735,
+                        "type": "scotus_justice",
+                        "date_start": -4983184800,
+                        "date_end": -3922797600,
+                        "appointing_president": "James Madison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2735"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32736,
+                    "mime": "image\/png",
+                    "size": 44576,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_story.png"
+                },
+                "length_of_service": 12273,
+                "identifier": "joseph_story"
+            },
+            {
+                "ID": 15143,
+                "name": "Smith Thompson",
+                "href": "https:\/\/api.oyez.org\/people\/smith_thompson",
+                "last_name": "Thompson",
+                "roles": [
+                    {
+                        "id": 2790,
+                        "type": "scotus_justice",
+                        "date_start": -4617885600,
+                        "date_end": -3977402400,
+                        "appointing_president": "James Monroe",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2790"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32764,
+                    "mime": "image\/png",
+                    "size": 43703,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/smith_thompson.png"
+                },
+                "length_of_service": 7413,
+                "identifier": "smith_thompson"
+            }
+        ],
+        "court_start": -4603888800,
+        "images": [
+            {
+                "id": 56764,
+                "mime": "image\/jpeg",
+                "size": 3274208,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_26.jpg"
+            }
+        ],
+        "identifier": "marshall12"
+    },
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

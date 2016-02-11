@@ -1,0 +1,88 @@
+{
+    "id": 17363,
+    "title": "Opinion Announcement - March 22, 1978",
+    "transcript": {
+        "title": "Foley v. Connelie",
+        "duration": 40.71,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.71,
+                "byte_start": 80059,
+                "byte_stop": 242854,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.71,
+                        "byte_start": 80059,
+                        "byte_stop": 242854,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 30.381,
+                                "byte_start": 80059,
+                                "byte_stop": 201685,
+                                "text": "I have the judgment and opinion to announce for the Court in Foley against Connelie, the Superintendent of New York State Police and reasons in stated in an opinion for the Court filed this morning, the judgment of the United States District Court for the Southern District of New York is affirmed."
+                            },
+                            {
+                                "start": 30.381,
+                                "stop": 40.71,
+                                "byte_start": 201685,
+                                "byte_stop": 242854,
+                                "text": "Mr. Justice Blackmun filed an opinion concurring in the judgment, justices Brennan, Marshall and Stevens have filed or joined in separate and dissenting opinions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43848,
+            "mime": "audio\/mpeg",
+            "size": 243063,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-839\/19780322o_76-839.delivery.mp3"
+        },
+        {
+            "id": 65724,
+            "mime": "audio\/ogg",
+            "size": 418286,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-839\/19780322o_76-839.ogg"
+        },
+        {
+            "id": 65725,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-839\/19780322o_76-839.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

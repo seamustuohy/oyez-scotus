@@ -1,0 +1,140 @@
+{
+    "id": 21852,
+    "title": "Opinion Announcement - March 22, 2005",
+    "transcript": {
+        "title": "Muehler v. Mena",
+        "duration": 102.747,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 102.747,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 102.747,
+                        "byte_start": 28672,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.588,
+                                "byte_start": 28672,
+                                "byte_stop": 67124,
+                                "text": "I have the opinion of the Court to announce in No.03-1423, Muehler against Mena."
+                            },
+                            {
+                                "start": 9.588,
+                                "stop": 21.908,
+                                "byte_start": 67124,
+                                "byte_stop": 116339,
+                                "text": "During a search of the premises occupied by respondent, she was detained and handcuffs and questioned about her immigration status."
+                            },
+                            {
+                                "start": 21.908,
+                                "stop": 33.169,
+                                "byte_start": 116339,
+                                "byte_stop": 161374,
+                                "text": "The Court of Appeals for the Ninth Circuit found that the use of handcuffs and the questioning violated the Fourth Amendment rights."
+                            },
+                            {
+                                "start": 33.169,
+                                "stop": 37.054,
+                                "byte_start": 161374,
+                                "byte_stop": 176943,
+                                "text": "We granted certiorari and now reverse."
+                            },
+                            {
+                                "start": 37.054,
+                                "stop": 52.535,
+                                "byte_start": 176943,
+                                "byte_stop": 238905,
+                                "text": "First, Mena\u0027s disambient was plainly permissible under our opinion in Michigan against Summers, and the use of handcuffs to effectuate the detention was reasonable."
+                            },
+                            {
+                                "start": 52.535,
+                                "stop": 61.719,
+                                "byte_start": 238905,
+                                "byte_stop": 275581,
+                                "text": "Second, the officer\u2019s questioning of Mena did not violate the Fourth Amendment because it was not an independent seizure."
+                            },
+                            {
+                                "start": 61.719,
+                                "stop": 71.745,
+                                "byte_start": 275581,
+                                "byte_stop": 315705,
+                                "text": "The judgment of the Court of Appeals is vacated and the case remanded for further proceedings consistent with this opinion."
+                            },
+                            {
+                                "start": 71.745,
+                                "stop": 102.747,
+                                "byte_start": 315705,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy has filed a concurring opinion; Justice Stevens filed an opinion concurring in the judgment in which Justices Souter, Ginsburg, and Breyer join."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 52826,
+            "mime": "audio\/mpeg",
+            "size": 373906,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2004\/03-1423\/20050322o_03-1423.delivery.mp3"
+        },
+        {
+            "id": 74580,
+            "mime": "audio\/ogg",
+            "size": 816380,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2004\/03-1423\/20050322o_03-1423.ogg"
+        },
+        {
+            "id": 74581,
+            "mime": "application\/x-mpegURL",
+            "size": 1387,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2004\/03-1423\/20050322o_03-1423.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

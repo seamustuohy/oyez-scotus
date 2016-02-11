@@ -1,0 +1,1831 @@
+{
+    "id": 14621,
+    "title": "Oral Argument - October 18, 1961",
+    "media_file": [
+        {
+            "id": 38362,
+            "mime": "audio\/mpeg",
+            "size": 3558964,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1961\/26\/19611018a_26.delivery.mp3"
+        },
+        {
+            "id": 60352,
+            "mime": "audio\/ogg",
+            "size": 8320590,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1961\/26\/19611018a_26.ogg"
+        },
+        {
+            "id": 60353,
+            "mime": "application\/x-mpegURL",
+            "size": 11343,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1961\/26\/19611018a_26.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Garner v. Louisiana",
+        "duration": 863.31,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 863.31,
+                "byte_start": 105472,
+                "byte_stop": 3558651,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 54.564,
+                        "byte_start": 105472,
+                        "byte_stop": 323751,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 52.382,
+                                "byte_start": 105472,
+                                "byte_stop": 315079,
+                                "text": "Number 26, John Burrell Garner et al., Petitioners, versus Louisiana, Number 27, Mary Briscoe et al., Petitioners, versus Louisiana, and Number 28, Jannette Hoston et al., Petitioners, versus Louisiana."
+                            },
+                            {
+                                "start": 52.382,
+                                "stop": 54.564,
+                                "byte_start": 315079,
+                                "byte_stop": 323751,
+                                "text": "Mr. Greenberg."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 54.564,
+                        "stop": 110.138,
+                        "byte_start": 323751,
+                        "byte_stop": 546105,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 54.564,
+                                "stop": 57.185,
+                                "byte_start": 323751,
+                                "byte_stop": 334305,
+                                "text": "May it please the Court."
+                            },
+                            {
+                                "start": 57.185,
+                                "stop": 63.242,
+                                "byte_start": 334305,
+                                "byte_stop": 358442,
+                                "text": "These three cases are here on writs of certiorari to the Supreme Court of Louisiana."
+                            },
+                            {
+                                "start": 63.242,
+                                "stop": 75.327,
+                                "byte_start": 358442,
+                                "byte_stop": 406821,
+                                "text": "Petitioners having asserted in the courts below and asserting here right secured by the due process and Equal Protection Clauses of the Fourteenth Amendment of the United States Constitution."
+                            },
+                            {
+                                "start": 75.327,
+                                "stop": 82.883,
+                                "byte_start": 406821,
+                                "byte_stop": 437018,
+                                "text": "The cases are what colloquially and generally have been referred to as sit-in cases."
+                            },
+                            {
+                                "start": 82.883,
+                                "stop": 92.288,
+                                "byte_start": 437018,
+                                "byte_stop": 474634,
+                                "text": "The petitioners are students, boys and girls who attended Southern University at Baton Rouge, Louisiana."
+                            },
+                            {
+                                "start": 92.288,
+                                "stop": 110.138,
+                                "byte_start": 474634,
+                                "byte_stop": 546105,
+                                "text": "They were arrested and convicted of disturbing the peace at three establishments in Baton Rouge, a drugstore, lunch counter, a bus terminal lunch counter and a dime store lunch counter while seeking service there on a nonsegregated basis."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 110.138,
+                        "stop": 113.417,
+                        "byte_start": 546105,
+                        "byte_stop": 559167,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 110.138,
+                                "stop": 113.417,
+                                "byte_start": 546105,
+                                "byte_stop": 559167,
+                                "text": "You say they\u0027re boys and girls, their age isn\u0027t an issue here, doesn\u0027t it -- is there no claim here (Voice Overlap) --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 113.417,
+                        "stop": 115.339,
+                        "byte_start": 559167,
+                        "byte_stop": 566899,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 113.417,
+                                "stop": 115.339,
+                                "byte_start": 559167,
+                                "byte_stop": 566899,
+                                "text": "They\u0027re college students."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 115.339,
+                        "stop": 118.048,
+                        "byte_start": 566899,
+                        "byte_stop": 577766,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 115.339,
+                                "stop": 118.048,
+                                "byte_start": 566899,
+                                "byte_stop": 577766,
+                                "text": "-- shouldn\u0027t have been dealt with as adults or anything such as that is there?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 118.048,
+                        "stop": 120.46,
+                        "byte_start": 577766,
+                        "byte_stop": 587379,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 118.048,
+                                "stop": 120.46,
+                                "byte_start": 577766,
+                                "byte_stop": 587379,
+                                "text": "There\u0027s no question of juvenile proceedings or anything that -- were involved under it."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 120.46,
+                        "stop": 123.922,
+                        "byte_start": 587379,
+                        "byte_stop": 601172,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 120.46,
+                                "stop": 123.922,
+                                "byte_start": 587379,
+                                "byte_stop": 601172,
+                                "text": "No."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 123.922,
+                        "stop": 451.023,
+                        "byte_start": 601172,
+                        "byte_stop": 1909593,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 123.922,
+                                "stop": 144.581,
+                                "byte_start": 601172,
+                                "byte_stop": 683823,
+                                "text": "The statute under which they were convicted which appears in Louisiana Statutes Annotated Title 14, Section 103 contains seven subsections and it is pertinent to the case that I briefly review the provisions of the statute."
+                            },
+                            {
+                                "start": 144.581,
+                                "stop": 158.761,
+                                "byte_start": 683823,
+                                "byte_stop": 740561,
+                                "text": "The introductory provision states and I quote, \u201cDisturbing the peace is the doing of any of following in such a manner as would foreseeably disturb or alarm the public.\u201d"
+                            },
+                            {
+                                "start": 158.761,
+                                "stop": 168.461,
+                                "byte_start": 740561,
+                                "byte_stop": 779327,
+                                "text": "And then there are six subsections which I will rapidly paraphrase and the seven subsections under which they were convicted."
+                            },
+                            {
+                                "start": 168.461,
+                                "stop": 202.141,
+                                "byte_start": 779327,
+                                "byte_stop": 914119,
+                                "text": "The first six subsections provide defines as disturbing of peace: (1) engaging in a fist fight, (2) using unnecessarily loud, offensive, or insulting language (3), appearing in an intoxicated condition, (4) engaging in any act in a violent and tumultuous manner by any three or more person, (5) holding an unlawful assembly and (6) interfering with a lawful assembly."
+                            },
+                            {
+                                "start": 202.141,
+                                "stop": 223.86,
+                                "byte_start": 914119,
+                                "byte_stop": 1000950,
+                                "text": "The seventh subsection, under which they were convicted and the only subsection which is directly applicable to this case makes criminal the commission of any other act in such a manner as to unreasonably disturb or alarm the public."
+                            },
+                            {
+                                "start": 223.86,
+                                "stop": 238.435,
+                                "byte_start": 1000950,
+                                "byte_stop": 1059255,
+                                "text": "The penalties provided by this Act or a fine of $100 imprisonment for not more than 90 days or both."
+                            },
+                            {
+                                "start": 238.435,
+                                "stop": 268.65,
+                                "byte_start": 1059255,
+                                "byte_stop": 1180150,
+                                "text": "Before stating the facts of each of these three cases, each of which differ somewhat from one another, petitioners will first briefly identify two of their legal arguments which are common to all of the cases that these arguments are intimately related to each other and to the fact and because presentation of the facts petitioner submit will dispose of the largest part of the argument."
+                            },
+                            {
+                                "start": 268.65,
+                                "stop": 305.053,
+                                "byte_start": 1180150,
+                                "byte_stop": 1325704,
+                                "text": "Petitioners first contend that (1), as this statute has been construed previously by the State Supreme Court in Louisiana, (2) by its plain and ordinary meaning, and (3) by reading it in a context of Louisiana Legislation passed after the sit-ins occurred for the purpose of dealing with sit-ins, the statute now under scrutiny requires the proof of elements of guilt which do not at all appear upon these records."
+                            },
+                            {
+                                "start": 305.053,
+                                "stop": 319.181,
+                                "byte_start": 1325704,
+                                "byte_stop": 1382233,
+                                "text": "And that the judgment below upon a record barren of evidence is fatally defective under the Due Process Clause of the Fourteenth Amendment as this Court held in Thompson versus City of Louisville."
+                            },
+                            {
+                                "start": 319.181,
+                                "stop": 356.938,
+                                "byte_start": 1382233,
+                                "byte_stop": 1533325,
+                                "text": "On the other hand, petitioners contend that if this statute is not to be read as having its ordinary, settled meaning by which I submit there can be no question, it must stand for the proposition that the presence of a Negro at a lunch counter which by custom in Louisiana is reserved for white persons is as a matter of law a disturbance of the peace, and therefore, the only factor upon which these convictions rest is that these petitioners were Negroes seated at white lunch counters."
+                            },
+                            {
+                                "start": 356.938,
+                                "stop": 366.413,
+                                "byte_start": 1533325,
+                                "byte_stop": 1571150,
+                                "text": "As a consequence the convictions are defective under the Fourteenth Amendment which forbids the State to enforce racial segregation."
+                            },
+                            {
+                                "start": 366.413,
+                                "stop": 395.24,
+                                "byte_start": 1571150,
+                                "byte_stop": 1686507,
+                                "text": "The other issues in this case which I might mention briefly at this point involve a challenge to the statute on the ground that (1) it is unconstitutionally vague under the Due Process Clause of the Fourteenth Amendment, and (2) a challenge to the judgment below on the ground that a punished expression protected by the First Amendment as read into the Fourteenth Amendment of the United States Constitution."
+                            },
+                            {
+                                "start": 395.24,
+                                "stop": 402.063,
+                                "byte_start": 1686507,
+                                "byte_stop": 1713779,
+                                "text": "Before going to the first two issues, however, petitioners will first make clear what is not involved in these cases."
+                            },
+                            {
+                                "start": 402.063,
+                                "stop": 409.495,
+                                "byte_start": 1713779,
+                                "byte_stop": 1743454,
+                                "text": "These cases do not involve a variety of questions proposed by respondent\u0027s brief and elsewhere."
+                            },
+                            {
+                                "start": 409.495,
+                                "stop": 420.649,
+                                "byte_start": 1743454,
+                                "byte_stop": 1788071,
+                                "text": "There is no question in this case of the validity or constitutionality of disturbing the peace or breach of the peace statutes in their normal use or operation."
+                            },
+                            {
+                                "start": 420.649,
+                                "stop": 437.706,
+                                "byte_start": 1788071,
+                                "byte_stop": 1856303,
+                                "text": "Two, there is no question in this case of the validity of state enforcement of choice of guests or persons with whom one would associate where the law or recognizes an almost unlimited right of privacy such as in the home or in a strictly private club."
+                            },
+                            {
+                                "start": 437.706,
+                                "stop": 451.023,
+                                "byte_start": 1856303,
+                                "byte_stop": 1909593,
+                                "text": "Three, there is no question in this case of anyone being punished for having and attempting to exercise by the use of private action only a personally held racial prejudice."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 451.023,
+                        "stop": 458.33,
+                        "byte_start": 1909593,
+                        "byte_stop": 1938850,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 451.023,
+                                "stop": 458.33,
+                                "byte_start": 1909593,
+                                "byte_stop": 1938850,
+                                "text": "At the time of these occurrences, was there a distinct or separate no trespassing statute in Louisiana?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 458.33,
+                        "stop": 464.69,
+                        "byte_start": 1938850,
+                        "byte_stop": 1964241,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 458.33,
+                                "stop": 464.21,
+                                "byte_start": 1938850,
+                                "byte_stop": 1962360,
+                                "text": "No sir, not but that -- I understand it would\u0027ve been applicable to this case."
+                            },
+                            {
+                                "start": 464.21,
+                                "stop": 464.69,
+                                "byte_start": 1962360,
+                                "byte_stop": 1964241,
+                                "text": "In fact --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 464.69,
+                        "stop": 465.926,
+                        "byte_start": 1964241,
+                        "byte_stop": 1969256,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 464.69,
+                                "stop": 465.926,
+                                "byte_start": 1964241,
+                                "byte_stop": 1969256,
+                                "text": "I didn\u0027t ask -- and I --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 465.926,
+                        "stop": 466.283,
+                        "byte_start": 1969256,
+                        "byte_stop": 1970615,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 465.926,
+                                "stop": 466.283,
+                                "byte_start": 1969256,
+                                "byte_stop": 1970615,
+                                "text": "No."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 466.283,
+                        "stop": 469.51,
+                        "byte_start": 1970615,
+                        "byte_stop": 1983572,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 466.283,
+                                "stop": 469.51,
+                                "byte_start": 1970615,
+                                "byte_stop": 1983572,
+                                "text": "I didn\u0027t mean -- I didn\u0027t ask whether it would be applicable to this (Voice Overlap) --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 469.51,
+                        "stop": 470.404,
+                        "byte_start": 1983572,
+                        "byte_stop": 1987124,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 469.51,
+                                "stop": 470.404,
+                                "byte_start": 1983572,
+                                "byte_stop": 1987124,
+                                "text": "There was a no trespass --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 470.404,
+                        "stop": 478.249,
+                        "byte_start": 1987124,
+                        "byte_stop": 2018471,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 470.404,
+                                "stop": 478.249,
+                                "byte_start": 1987124,
+                                "byte_stop": 2018471,
+                                "text": "Was there a no trespassing statute explicitly an expressed no trespassing statute?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 478.249,
+                        "stop": 482.324,
+                        "byte_start": 2018471,
+                        "byte_stop": 2034772,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 478.249,
+                                "stop": 482.324,
+                                "byte_start": 2018471,
+                                "byte_stop": 2034772,
+                                "text": "There was but would not even be remotely applicable to this type of situation."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 482.324,
+                        "stop": 483.97,
+                        "byte_start": 2034772,
+                        "byte_stop": 2041354,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 482.324,
+                                "stop": 483.97,
+                                "byte_start": 2034772,
+                                "byte_stop": 2041354,
+                                "text": "Have you got the reference to that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 483.97,
+                        "stop": 486.583,
+                        "byte_start": 2041354,
+                        "byte_stop": 2051908,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 483.97,
+                                "stop": 485.428,
+                                "byte_start": 2041354,
+                                "byte_stop": 2047206,
+                                "text": "I believe that we didn\u0027t even go into it."
+                            },
+                            {
+                                "start": 485.428,
+                                "stop": 486.583,
+                                "byte_start": 2047206,
+                                "byte_stop": 2051908,
+                                "text": "It\u0027s cited in the Government\u0027s brief --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 486.583,
+                        "stop": 487.172,
+                        "byte_start": 2051908,
+                        "byte_stop": 2054207,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 486.583,
+                                "stop": 487.172,
+                                "byte_start": 2051908,
+                                "byte_stop": 2054207,
+                                "text": "But I\u0027m not suggesting --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 487.172,
+                        "stop": 487.568,
+                        "byte_start": 2054207,
+                        "byte_stop": 2055774,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 487.172,
+                                "stop": 487.568,
+                                "byte_start": 2054207,
+                                "byte_stop": 2055774,
+                                "text": "Yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 487.568,
+                        "stop": 488.959,
+                        "byte_start": 2055774,
+                        "byte_stop": 2061312,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 487.568,
+                                "stop": 488.959,
+                                "byte_start": 2055774,
+                                "byte_stop": 2061312,
+                                "text": "-- that it\u0027s applicable."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 488.959,
+                        "stop": 490.151,
+                        "byte_start": 2061312,
+                        "byte_stop": 2066119,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 488.959,
+                                "stop": 490.151,
+                                "byte_start": 2061312,
+                                "byte_stop": 2066119,
+                                "text": "Yes there was a (Inaudible)."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 490.151,
+                        "stop": 491.336,
+                        "byte_start": 2066119,
+                        "byte_stop": 2070821,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 490.151,
+                                "stop": 491.336,
+                                "byte_start": 2066119,
+                                "byte_stop": 2070821,
+                                "text": "Alright."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 491.336,
+                        "stop": 495.801,
+                        "byte_start": 2070821,
+                        "byte_stop": 2088688,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 491.336,
+                                "stop": 492.274,
+                                "byte_start": 2070821,
+                                "byte_stop": 2074582,
+                                "text": "Yes."
+                            },
+                            {
+                                "start": 492.274,
+                                "stop": 495.801,
+                                "byte_start": 2074582,
+                                "byte_stop": 2088688,
+                                "text": "Is that situation now Mr. Greenberg or not?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 495.801,
+                        "stop": 509.412,
+                        "byte_start": 2088688,
+                        "byte_stop": 2143128,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 495.801,
+                                "stop": 509.412,
+                                "byte_start": 2088688,
+                                "byte_stop": 2143128,
+                                "text": "They have now enacted two statutes which we quote in our brief that\u0027s specifically deal with sit-ins, refusal to leave a lunch counter when ordered to and there is a criminal mischief statute also which is to the same effect and those statutes are --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 509.412,
+                        "stop": 511.438,
+                        "byte_start": 2143128,
+                        "byte_stop": 2151278,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 509.412,
+                                "stop": 511.438,
+                                "byte_start": 2143128,
+                                "byte_stop": 2151278,
+                                "text": "When ordered to leave by whom?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 511.438,
+                        "stop": 511.957,
+                        "byte_start": 2151278,
+                        "byte_stop": 2153368,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 511.438,
+                                "stop": 511.957,
+                                "byte_start": 2151278,
+                                "byte_stop": 2153368,
+                                "text": "Pardon me?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 511.957,
+                        "stop": 514.693,
+                        "byte_start": 2153368,
+                        "byte_stop": 2164339,
+                        "speaker": {
+                            "ID": 15089,
+                            "name": "Hugo L. Black",
+                            "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "last_name": "Black",
+                            "roles": [
+                                {
+                                    "id": 2733,
+                                    "type": "scotus_justice",
+                                    "date_start": -1021489200,
+                                    "date_end": 53931600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32719,
+                                "mime": "image\/png",
+                                "size": 51667,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                            },
+                            "length_of_service": 12447,
+                            "identifier": "hugo_l_black"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 511.957,
+                                "stop": 514.693,
+                                "byte_start": 2153368,
+                                "byte_stop": 2164339,
+                                "text": "When ordered to leave by whom?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 514.693,
+                        "stop": 551.892,
+                        "byte_start": 2164339,
+                        "byte_stop": 2313132,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 514.693,
+                                "stop": 528.805,
+                                "byte_start": 2164339,
+                                "byte_stop": 2220763,
+                                "text": "I\u0027ll read the statutes so that I won\u0027t run the risk of incorrectly paraphrasing it."
+                            },
+                            {
+                                "start": 528.805,
+                                "stop": 551.892,
+                                "byte_start": 2220763,
+                                "byte_stop": 2313132,
+                                "text": "On page 31 of our brief, we quote at the bottom of the page, the first statute, \u201cWhoever with intent to provoke a breach of the peace or under circumstance as such that a breach of the peace may be occasioned thereby refuses to leave the premises of another when requested so to do by any owner, lessee, or any employee thereof shall be guilty of disturbing the peace.\u201d"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 551.892,
+                        "stop": 556.078,
+                        "byte_start": 2313132,
+                        "byte_stop": 2329851,
+                        "speaker": {
+                            "ID": 15097,
+                            "name": "John M. Harlan II",
+                            "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "last_name": "Harlan",
+                            "roles": [
+                                {
+                                    "id": 2741,
+                                    "type": "scotus_justice",
+                                    "date_start": -465933600,
+                                    "date_end": 54450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2741"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32728,
+                                "mime": "image\/png",
+                                "size": 53784,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                            },
+                            "length_of_service": 6023,
+                            "identifier": "john_m_harlan2"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 551.892,
+                                "stop": 556.078,
+                                "byte_start": 2313132,
+                                "byte_stop": 2329851,
+                                "text": "That\u0027s an amendment to the statute that\u0027s involved here."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 556.078,
+                        "stop": 582.774,
+                        "byte_start": 2329851,
+                        "byte_stop": 2436639,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 556.078,
+                                "stop": 557.441,
+                                "byte_start": 2329851,
+                                "byte_stop": 2335284,
+                                "text": "Yes sir."
+                            },
+                            {
+                                "start": 557.441,
+                                "stop": 582.774,
+                                "byte_start": 2335284,
+                                "byte_stop": 2436639,
+                                "text": "And then a new statute, a criminal mischief statute which appears at the top of page 32 of our brief deals with taking temporary possession of any part or parts of the place of business or remaining in a place of business after the person in charge of such business or portion of such business has ordered such person to leave the premises and to desist from the temporary possession of any part or parts of such business."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 582.774,
+                        "stop": 583.991,
+                        "byte_start": 2436639,
+                        "byte_stop": 2441446,
+                        "speaker": {
+                            "ID": 15097,
+                            "name": "John M. Harlan II",
+                            "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "last_name": "Harlan",
+                            "roles": [
+                                {
+                                    "id": 2741,
+                                    "type": "scotus_justice",
+                                    "date_start": -465933600,
+                                    "date_end": 54450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2741"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32728,
+                                "mime": "image\/png",
+                                "size": 53784,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                            },
+                            "length_of_service": 6023,
+                            "identifier": "john_m_harlan2"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 582.774,
+                                "stop": 583.991,
+                                "byte_start": 2436639,
+                                "byte_stop": 2441446,
+                                "text": "That\u0027s a separate statute, --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 583.991,
+                        "stop": 584.04,
+                        "byte_start": 2441446,
+                        "byte_stop": 2441655,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 583.991,
+                                "stop": 584.04,
+                                "byte_start": 2441446,
+                                "byte_stop": 2441655,
+                                "text": "Yes sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 584.04,
+                        "stop": 585.42,
+                        "byte_start": 2441655,
+                        "byte_stop": 2447193,
+                        "speaker": {
+                            "ID": 15097,
+                            "name": "John M. Harlan II",
+                            "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "last_name": "Harlan",
+                            "roles": [
+                                {
+                                    "id": 2741,
+                                    "type": "scotus_justice",
+                                    "date_start": -465933600,
+                                    "date_end": 54450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2741"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32728,
+                                "mime": "image\/png",
+                                "size": 53784,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                            },
+                            "length_of_service": 6023,
+                            "identifier": "john_m_harlan2"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 584.04,
+                                "stop": 585.42,
+                                "byte_start": 2441655,
+                                "byte_stop": 2447193,
+                                "text": "-- not an amendment to this one."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 585.42,
+                        "stop": 702.994,
+                        "byte_start": 2447193,
+                        "byte_stop": 2917501,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 585.42,
+                                "stop": 588.947,
+                                "byte_start": 2447193,
+                                "byte_stop": 2461299,
+                                "text": "That\u0027s right."
+                            },
+                            {
+                                "start": 588.947,
+                                "stop": 611.599,
+                                "byte_start": 2461299,
+                                "byte_stop": 2551892,
+                                "text": "This case involves only the use of state power to convict persons who in entirely peaceful manner sought nonsegregated service at a lunch counter reserved by state custom in accordance with state policy for white persons only in an establishment generally open for the public."
+                            },
+                            {
+                                "start": 611.599,
+                                "stop": 664.989,
+                                "byte_start": 2551892,
+                                "byte_stop": 2765469,
+                                "text": "The first case, Number 26, Garner versus State of Louisiana commenced with an information which on page one of the record stated that the two defendants in that case on the date in question did felonously and unlawfully violate Article 103, Section 7 of Louisiana Criminal Code in that they refused to move from a caf\u00e9 counter seat at Sitman\u0027s Drug Store gives the address in Baton Rouge after having been ordered to do so by the agent of Sitman\u0027s Drug Store, said conduct being in such a manner as to unreasonably and foreseeably disturb the public."
+                            },
+                            {
+                                "start": 664.989,
+                                "stop": 677.624,
+                                "byte_start": 2765469,
+                                "byte_stop": 2816042,
+                                "text": "After motions to quash and the bill of particulars were denied and relief against these denials were sought in the State Supreme Court and denied, petitioners went to trial."
+                            },
+                            {
+                                "start": 677.624,
+                                "stop": 684.75,
+                                "byte_start": 2816042,
+                                "byte_stop": 2844568,
+                                "text": "The record in this case as in the other two cases is exceeding brief and consist of the testimony of two witnesses."
+                            },
+                            {
+                                "start": 684.75,
+                                "stop": 702.994,
+                                "byte_start": 2844568,
+                                "byte_stop": 2917501,
+                                "text": "First witness is the owner of the drugstore, the second is Captain Weiner of the Baton Rouge Police who performed the arrests or participated in the arrest of each of these cases and was the prosecution witness in each of these three cases involving these events which occurred on two consecutive days."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 702.994,
+                        "stop": 706.12,
+                        "byte_start": 2917501,
+                        "byte_stop": 2930040,
+                        "speaker": {
+                            "ID": 15107,
+                            "name": "William O. Douglas",
+                            "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                            "last_name": "Douglas",
+                            "roles": [
+                                {
+                                    "id": 2751,
+                                    "type": "scotus_justice",
+                                    "date_start": -969127200,
+                                    "date_end": 185004000,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32781,
+                                "mime": "image\/png",
+                                "size": 56651,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                            },
+                            "length_of_service": 13358,
+                            "identifier": "william_o_douglas"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 702.994,
+                                "stop": 706.12,
+                                "byte_start": 2917501,
+                                "byte_stop": 2930040,
+                                "text": "There\u0027s no opinion of the Supreme Court, or there\u0027s any?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 706.12,
+                        "stop": 814.616,
+                        "byte_start": 2930040,
+                        "byte_stop": 3363986,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 706.12,
+                                "stop": 722.252,
+                                "byte_start": 2930040,
+                                "byte_stop": 2994510,
+                                "text": "There\u0027s a two-page opinion which appears near the end of each of the records which states briefly that the State Supreme Court is without power to review the fact and the trial court was correct on the law."
+                            },
+                            {
+                                "start": 722.252,
+                                "stop": 726.194,
+                                "byte_start": 2994510,
+                                "byte_stop": 3010288,
+                                "text": "They said the opinion consist merely of two sentences."
+                            },
+                            {
+                                "start": 726.194,
+                                "stop": 735.709,
+                                "byte_start": 3010288,
+                                "byte_stop": 3048323,
+                                "text": "If you were inquiring whether there was an opinion of the denial of the motions to quash the answer to that is no, just merely do not."
+                            },
+                            {
+                                "start": 735.709,
+                                "stop": 746.785,
+                                "byte_start": 3048323,
+                                "byte_stop": 3092626,
+                                "text": "On page 29 of the Garner record, which is Number 26, the manager, Mr. Willis, who was in fact the owner of Sitman\u0027s Drugstore."
+                            },
+                            {
+                                "start": 746.785,
+                                "stop": 760.706,
+                                "byte_start": 3092626,
+                                "byte_stop": 3148319,
+                                "text": "Mr. Willis testified that on March 29th, 1960 the two petitioners came into the store and they simply seated themselves at the lunch counter, described the episode as follows."
+                            },
+                            {
+                                "start": 760.706,
+                                "stop": 772.517,
+                                "byte_start": 3148319,
+                                "byte_stop": 3195549,
+                                "text": "They occupied two seats, in their presence they have caused me to approach them a short time later and advised them that we couldn\u0027t serve them and I believe that the police came and arrested them and took them away."
+                            },
+                            {
+                                "start": 772.517,
+                                "stop": 776.074,
+                                "byte_start": 3195549,
+                                "byte_stop": 3209864,
+                                "text": "He was asked what they said and what happened on this occasion."
+                            },
+                            {
+                                "start": 776.074,
+                                "stop": 780.86,
+                                "byte_start": 3209864,
+                                "byte_stop": 3228985,
+                                "text": "He said one asked for coffee and I told them we couldn\u0027t serve them and one of the boys said he wants some coffee."
+                            },
+                            {
+                                "start": 780.86,
+                                "stop": 785.086,
+                                "byte_start": 3228985,
+                                "byte_stop": 3245913,
+                                "text": "Then said the police arrived within 10 minutes, less than 10 minutes."
+                            },
+                            {
+                                "start": 785.086,
+                                "stop": 789.826,
+                                "byte_start": 3245913,
+                                "byte_stop": 3264825,
+                                "text": "He made it quite clear that he did not call the police and he did not know who called the police."
+                            },
+                            {
+                                "start": 789.826,
+                                "stop": 802.841,
+                                "byte_start": 3264825,
+                                "byte_stop": 3316861,
+                                "text": "Although, there\u0027s an inference that a police officer in the store perhaps had called them and the police captain later testified that he was called by the cop on the beat and we might assume that this was the same person."
+                            },
+                            {
+                                "start": 802.841,
+                                "stop": 814.616,
+                                "byte_start": 3316861,
+                                "byte_stop": 3363986,
+                                "text": "Testified that in this store he used his words and page 32 of the record, Negroes are very good customers and indeed one of the petitioners in this case had purchased an umbrella in the store."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 814.616,
+                        "stop": 822.812,
+                        "byte_start": 3363986,
+                        "byte_stop": 3396796,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 814.616,
+                                "stop": 822.812,
+                                "byte_start": 3363986,
+                                "byte_stop": 3396796,
+                                "text": "You did say that in addition to the fact that he didn\u0027t call the police that no one of his employees called the police as far as he knew it."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 822.812,
+                        "stop": 838.728,
+                        "byte_start": 3396796,
+                        "byte_stop": 3460430,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 822.812,
+                                "stop": 832.475,
+                                "byte_start": 3396796,
+                                "byte_stop": 3435457,
+                                "text": "That\u0027s correct, and on page 33 of the record, he added that there was no complaint to him from any of his customers concerning this situation either."
+                            },
+                            {
+                                "start": 832.475,
+                                "stop": 838.728,
+                                "byte_start": 3435457,
+                                "byte_stop": 3460430,
+                                "text": "That consists of the testimony of the manager of the store as to his experience with this event."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 838.728,
+                        "stop": 843.297,
+                        "byte_start": 3460430,
+                        "byte_stop": 3478716,
+                        "speaker": {
+                            "ID": 15107,
+                            "name": "William O. Douglas",
+                            "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                            "last_name": "Douglas",
+                            "roles": [
+                                {
+                                    "id": 2751,
+                                    "type": "scotus_justice",
+                                    "date_start": -969127200,
+                                    "date_end": 185004000,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32781,
+                                "mime": "image\/png",
+                                "size": 56651,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                            },
+                            "length_of_service": 13358,
+                            "identifier": "william_o_douglas"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 838.728,
+                                "stop": 843.297,
+                                "byte_start": 3460430,
+                                "byte_stop": 3478716,
+                                "text": "Would it be a -- make a difference in your view if customers had complained?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 843.297,
+                        "stop": 846.198,
+                        "byte_start": 3478716,
+                        "byte_stop": 3490314,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 843.297,
+                                "stop": 846.198,
+                                "byte_start": 3478716,
+                                "byte_stop": 3490314,
+                                "text": "No sir, it certainly would not."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 846.198,
+                        "stop": 853.461,
+                        "byte_start": 3490314,
+                        "byte_stop": 3519363,
+                        "speaker": {
+                            "ID": 15089,
+                            "name": "Hugo L. Black",
+                            "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "last_name": "Black",
+                            "roles": [
+                                {
+                                    "id": 2733,
+                                    "type": "scotus_justice",
+                                    "date_start": -1021489200,
+                                    "date_end": 53931600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32719,
+                                "mime": "image\/png",
+                                "size": 51667,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                            },
+                            "length_of_service": 12447,
+                            "identifier": "hugo_l_black"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 846.198,
+                                "stop": 853.461,
+                                "byte_start": 3490314,
+                                "byte_stop": 3519363,
+                                "text": "Is there a dispute in the record as to whether or not he did direct -- he and his employees did direct the arrest?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 853.461,
+                        "stop": 858.657,
+                        "byte_start": 3519363,
+                        "byte_stop": 3540156,
+                        "speaker": {
+                            "ID": 30616,
+                            "name": "Jack Greenberg",
+                            "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "last_name": "Greenberg",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jack_greenberg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 853.461,
+                                "stop": 854.759,
+                                "byte_start": 3519363,
+                                "byte_stop": 3524587,
+                                "text": "Is there any dispute in the record?"
+                            },
+                            {
+                                "start": 854.759,
+                                "stop": 856.883,
+                                "byte_start": 3524587,
+                                "byte_stop": 3533051,
+                                "text": "No, that\u0027s completely uncontradicted."
+                            },
+                            {
+                                "start": 856.883,
+                                "stop": 858.657,
+                                "byte_start": 3533051,
+                                "byte_stop": 3540156,
+                                "text": "He doesn\u0027t know who called the police."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 858.657,
+                        "stop": 863.31,
+                        "byte_start": 3540156,
+                        "byte_stop": 3558651,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 858.657,
+                                "stop": 863.31,
+                                "byte_start": 3540156,
+                                "byte_stop": 3558651,
+                                "text": "We\u0027ll recess now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

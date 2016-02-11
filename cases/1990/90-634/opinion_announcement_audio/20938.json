@@ -1,0 +1,160 @@
+{
+    "id": 20938,
+    "title": "Opinion Announcement - June 24, 1991",
+    "transcript": {
+        "title": "Cohen v. Cowles Media Company",
+        "duration": 38.922,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.922,
+                "byte_start": 74119,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.741,
+                        "byte_start": 74119,
+                        "byte_stop": 109123,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.741,
+                                "byte_start": 74119,
+                                "byte_stop": 109123,
+                                "text": "The opinion of the Court in No. 90-634 Cohen versus Cowles Media Company will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.741,
+                        "stop": 38.922,
+                        "byte_start": 109123,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.741,
+                                "stop": 23.871,
+                                "byte_start": 109123,
+                                "byte_stop": 169623,
+                                "text": "This case for reasons that are stated in an opinion on file with the clerk, we reverse the judgment of the Supreme Court of Minnesota and remand the case."
+                            },
+                            {
+                                "start": 23.871,
+                                "stop": 26.868,
+                                "byte_start": 169623,
+                                "byte_stop": 181639,
+                                "text": "Justice Blackmun has filed a dissenting opinion."
+                            },
+                            {
+                                "start": 26.868,
+                                "stop": 29.88,
+                                "byte_start": 181639,
+                                "byte_stop": 193655,
+                                "text": "He is joined by Justices Marshall and Souter."
+                            },
+                            {
+                                "start": 29.88,
+                                "stop": 33.243,
+                                "byte_start": 193655,
+                                "byte_stop": 207135,
+                                "text": "Justice Souter has also filed a dissenting opinion."
+                            },
+                            {
+                                "start": 33.243,
+                                "stop": 38.922,
+                                "byte_start": 207135,
+                                "byte_stop": 0,
+                                "text": "Justices Marshall, Blackmun, and O\u0027Connor had joined his opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51000,
+            "mime": "audio\/mpeg",
+            "size": 229809,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/90-634\/19910624o_90-634.delivery.mp3"
+        },
+        {
+            "id": 72778,
+            "mime": "audio\/ogg",
+            "size": 375528,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/90-634\/19910624o_90-634.ogg"
+        },
+        {
+            "id": 72779,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/90-634\/19910624o_90-634.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

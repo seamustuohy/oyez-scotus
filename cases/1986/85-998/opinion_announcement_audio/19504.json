@@ -1,0 +1,139 @@
+{
+    "id": 19504,
+    "title": "Opinion Announcement - March 03, 1987",
+    "transcript": {
+        "title": "United States v. Dunn",
+        "duration": 33.698,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 33.698,
+                "byte_start": 91770,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.864,
+                        "byte_start": 91770,
+                        "byte_stop": 123326,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.864,
+                                "byte_start": 91770,
+                                "byte_stop": 123326,
+                                "text": "The opinion of the Court in No. 85-998, United States against Dunn will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.864,
+                        "stop": 33.698,
+                        "byte_start": 123326,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.864,
+                                "stop": 19.973,
+                                "byte_start": 123326,
+                                "byte_stop": 171705,
+                                "text": "As the opinion on file with the Clerk indicates the Court reverses the judgment of the Court of Appeals for the Fifth Circuit in this case."
+                            },
+                            {
+                                "start": 19.973,
+                                "stop": 33.698,
+                                "byte_start": 171705,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed a concurring statement disassociating himself from a portion of the opinion; Justice Brennan has filed a dissenting opinion in which Justice Marshall has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48132,
+            "mime": "audio\/mpeg",
+            "size": 226562,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-998\/19870303o_85-998.delivery.mp3"
+        },
+        {
+            "id": 69954,
+            "mime": "audio\/ogg",
+            "size": 337134,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-998\/19870303o_85-998.ogg"
+        },
+        {
+            "id": 69955,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-998\/19870303o_85-998.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

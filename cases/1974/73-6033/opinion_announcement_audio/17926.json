@@ -1,0 +1,95 @@
+{
+    "id": 17926,
+    "title": "Opinion Announcement - June 24, 1975",
+    "transcript": {
+        "title": "Roe v. Norton",
+        "duration": 39.156,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 39.156,
+                "byte_start": 28672,
+                "byte_stop": 185198,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 39.156,
+                        "byte_start": 28672,
+                        "byte_stop": 185198,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.541,
+                                "byte_start": 28672,
+                                "byte_stop": 66915,
+                                "text": "I have also for announcement the disposition of 73-6033, Roe against Norton."
+                            },
+                            {
+                                "start": 9.541,
+                                "stop": 22.415,
+                                "byte_start": 66915,
+                                "byte_stop": 118429,
+                                "text": "And for reasons stated in an opinion for the Court filed with the clerk today, the judgment of the District Court is vacated and remanded to that Court for further consideration."
+                            },
+                            {
+                                "start": 22.415,
+                                "stop": 39.156,
+                                "byte_start": 118429,
+                                "byte_stop": 185198,
+                                "text": "Mr. Justice Douglas concurs in part and has filed a separate statement of his position."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44974,
+            "mime": "audio\/mpeg",
+            "size": 185511,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-6033\/19750624o_73-6033.delivery.mp3"
+        },
+        {
+            "id": 66828,
+            "mime": "audio\/ogg",
+            "size": 385040,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-6033\/19750624o_73-6033.ogg"
+        },
+        {
+            "id": 66829,
+            "mime": "application\/x-mpegURL",
+            "size": 727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-6033\/19750624o_73-6033.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

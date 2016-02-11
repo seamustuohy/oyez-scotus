@@ -1,0 +1,1826 @@
+{
+    "id": 13449,
+    "title": "Oral Argument - April 03, 1958 (Part 1)",
+    "media_file": [
+        {
+            "id": 36018,
+            "mime": "audio\/mpeg",
+            "size": 4831023,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1957\/287\/19580403a_287_part1.delivery.mp3"
+        },
+        {
+            "id": 58066,
+            "mime": "audio\/ogg",
+            "size": 11689008,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1957\/287\/19580403a_287_part1.ogg"
+        },
+        {
+            "id": 58067,
+            "mime": "application\/x-mpegURL",
+            "size": 18557,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1957\/287\/19580403a_287_part1.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Dessalernos v. Savoretti",
+        "duration": 1200.526,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 1200.526,
+                "byte_start": 28672,
+                "byte_stop": 4830710,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 18.843,
+                        "byte_start": 28672,
+                        "byte_stop": 104114,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.379,
+                                "byte_start": 28672,
+                                "byte_stop": 86246,
+                                "text": "Number 287, Gerys Dessalernos, Petitioner, versus Joseph Savoretti."
+                            },
+                            {
+                                "start": 14.379,
+                                "stop": 18.843,
+                                "byte_start": 86246,
+                                "byte_stop": 104114,
+                                "text": "Mr. Walters."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 18.843,
+                        "stop": 379.958,
+                        "byte_start": 104114,
+                        "byte_stop": 1548581,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 18.843,
+                                "stop": 23.845,
+                                "byte_start": 104114,
+                                "byte_stop": 124071,
+                                "text": "Honorable Chief Justice, may it please the Court."
+                            },
+                            {
+                                "start": 23.845,
+                                "stop": 42.282,
+                                "byte_start": 124071,
+                                "byte_stop": 197841,
+                                "text": "The petitioner whom I represent, presents this Court with what I believe to be legal issue that is very narrow, it involves the construction of a statute."
+                            },
+                            {
+                                "start": 42.282,
+                                "stop": 58.809,
+                                "byte_start": 197841,
+                                "byte_stop": 263983,
+                                "text": "The statute particularly is the Immigration and Nationality Act of 1952, a section of it, Section 244 (a) and the various subsections there under."
+                            },
+                            {
+                                "start": 58.809,
+                                "stop": 61.708,
+                                "byte_start": 263983,
+                                "byte_stop": 275581,
+                                "text": "The petitioner is an alien."
+                            },
+                            {
+                                "start": 61.708,
+                                "stop": 65.807,
+                                "byte_start": 275581,
+                                "byte_stop": 291986,
+                                "text": "He\u0027s a native and citizen of Greece."
+                            },
+                            {
+                                "start": 65.807,
+                                "stop": 71.249,
+                                "byte_start": 291986,
+                                "byte_stop": 313720,
+                                "text": "He entered the United States in March of 1947 as a seaman."
+                            },
+                            {
+                                "start": 71.249,
+                                "stop": 76.362,
+                                "byte_start": 313720,
+                                "byte_stop": 334200,
+                                "text": "His entry was legal but he\u0027s thereafter remained beyond the period of time for which he was admitted."
+                            },
+                            {
+                                "start": 76.362,
+                                "stop": 81.303,
+                                "byte_start": 334200,
+                                "byte_stop": 353949,
+                                "text": "He\u0027s been here ever since."
+                            },
+                            {
+                                "start": 81.303,
+                                "stop": 111.875,
+                                "byte_start": 353949,
+                                "byte_stop": 476202,
+                                "text": "In the course of a -- in administration deportation proceeding, he presented to the special inquiry officer an application for suspension of deportation which is a device established by Congress in 1940 to and particular hardship cases to alleviate deportation and permit an adjustment of status."
+                            },
+                            {
+                                "start": 111.875,
+                                "stop": 139.906,
+                                "byte_start": 476202,
+                                "byte_stop": 588319,
+                                "text": "Later in 1948, this device was extended in July the 1st, 1948 and with the advent of the Immigration and Nationality Act of 1952, it was extended and broadened and in that particular act for the first time included the extension of relief from deportation to people of the criminal and on moral classes."
+                            },
+                            {
+                                "start": 139.906,
+                                "stop": 147.714,
+                                "byte_start": 588319,
+                                "byte_stop": 619562,
+                                "text": "The petitioner however, does not fall within any of those classes."
+                            },
+                            {
+                                "start": 147.714,
+                                "stop": 157.375,
+                                "byte_start": 619562,
+                                "byte_stop": 658223,
+                                "text": "What the petitioners sought in connection with this hearing and which was permitted by Congress."
+                            },
+                            {
+                                "start": 157.375,
+                                "stop": 168.561,
+                                "byte_start": 658223,
+                                "byte_stop": 702945,
+                                "text": "Apparently, Congress, it was believed with numerous and many appropriations or petitions by persons for relief from deportation."
+                            },
+                            {
+                                "start": 168.561,
+                                "stop": 176.496,
+                                "byte_start": 702945,
+                                "byte_stop": 734710,
+                                "text": "The laws prior to the enactments that I spoke of did not provide for any such relief."
+                            },
+                            {
+                                "start": 176.496,
+                                "stop": 193.522,
+                                "byte_start": 734710,
+                                "byte_stop": 802837,
+                                "text": "Therefore, Congress did give to the Attorney General of the United States the discretion to recommend and give suspension of deportation to certain classes of aliens who suffered particular hardship."
+                            },
+                            {
+                                "start": 193.522,
+                                "stop": 198.741,
+                                "byte_start": 802837,
+                                "byte_stop": 823735,
+                                "text": "The petitioner did make such an application."
+                            },
+                            {
+                                "start": 198.741,
+                                "stop": 217.049,
+                                "byte_start": 823735,
+                                "byte_stop": 896878,
+                                "text": "The special inquiry officer in the Board of Immigration Appeals said that he did not qualify statutorily and for that reason, the Attorney General of the United States could not exercise the discretion that the Congress of the United States had given him."
+                            },
+                            {
+                                "start": 217.049,
+                                "stop": 236.413,
+                                "byte_start": 896878,
+                                "byte_stop": 974409,
+                                "text": "The Congress of the United States in this particular section and other sections pertaining to suspension deportation had established certain statutory requirements, which had to be met prior to the invocation of the discretion."
+                            },
+                            {
+                                "start": 236.413,
+                                "stop": 256.577,
+                                "byte_start": 974409,
+                                "byte_stop": 1055075,
+                                "text": "Now, Section 244 (a) does provide that the Attorney General under certain circumstances may invoke this discretion and then it proceeds to give five separate and distinct categories or subsections."
+                            },
+                            {
+                                "start": 256.577,
+                                "stop": 262.998,
+                                "byte_start": 1055075,
+                                "byte_stop": 1080675,
+                                "text": "Each of which is separated by the word \u201cor.\u201d"
+                            },
+                            {
+                                "start": 262.998,
+                                "stop": 273.495,
+                                "byte_start": 1080675,
+                                "byte_stop": 1122680,
+                                "text": "The first category is separate and distinct from every other category."
+                            },
+                            {
+                                "start": 273.495,
+                                "stop": 289.553,
+                                "byte_start": 1122680,
+                                "byte_stop": 1186941,
+                                "text": "Now, in the course of the deportation hearing, the hearing examiner determine and did lies to the second deportation charge in addition to the charge that the man had entered the United States remained illegally."
+                            },
+                            {
+                                "start": 289.553,
+                                "stop": 301.462,
+                                "byte_start": 1186941,
+                                "byte_stop": 1234589,
+                                "text": "The charge that he had failed to report in January of 1953 and 1954 is required by law."
+                            },
+                            {
+                                "start": 301.462,
+                                "stop": 318.751,
+                                "byte_start": 1234589,
+                                "byte_stop": 1303761,
+                                "text": "In the Immigration and Nationality Act of 1952, the Act does contain a charge that anybody who fails to so comply willfully is subject to deportation."
+                            },
+                            {
+                                "start": 318.751,
+                                "stop": 345.56,
+                                "byte_start": 1303761,
+                                "byte_stop": 1410968,
+                                "text": "Section 244 (a) (5) if the relief provision and suspension of deportation does contain therein a portion which said that people who have committed such an act may receive the privilege of suspension of deportation under certain circumstances."
+                            },
+                            {
+                                "start": 345.56,
+                                "stop": 371.916,
+                                "byte_start": 1410968,
+                                "byte_stop": 1516398,
+                                "text": "Now, the problem is this and the court below recognized that this man did qualify under the statutory provisions of Section 244 (a) (1), if the statutory provisions of Section 244 (a) (5) were to apply, he would not qualify if they were to apply."
+                            },
+                            {
+                                "start": 371.916,
+                                "stop": 379.958,
+                                "byte_start": 1516398,
+                                "byte_stop": 1548581,
+                                "text": "Our position -- that having qualified under one, he need not qualify under two or more of the same subsections."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 379.958,
+                        "stop": 383.148,
+                        "byte_start": 1548581,
+                        "byte_stop": 1561328,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 379.958,
+                                "stop": 383.148,
+                                "byte_start": 1548581,
+                                "byte_stop": 1561328,
+                                "text": "Why is it that he\u0027s not qualified under (5)?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 383.148,
+                        "stop": 412.634,
+                        "byte_start": 1561328,
+                        "byte_stop": 1679297,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 383.148,
+                                "stop": 408.542,
+                                "byte_start": 1561328,
+                                "byte_stop": 1662892,
+                                "text": "Under (5), Your Honor, the Government urged that in as much as he had been found deportable on the ground that he had fail to notify his change of address in 1953 and 1954, that he would have to, therefore have ten years of residence after having attained the status."
+                            },
+                            {
+                                "start": 408.542,
+                                "stop": 412.634,
+                                "byte_start": 1662892,
+                                "byte_stop": 1679297,
+                                "text": "A -- a qualification which he did not posses --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 412.634,
+                        "stop": 414.726,
+                        "byte_start": 1679297,
+                        "byte_stop": 1687656,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 412.634,
+                                "stop": 414.726,
+                                "byte_start": 1679297,
+                                "byte_stop": 1687656,
+                                "text": "You conceive that he\u0027s not qualified?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 414.726,
+                        "stop": 437.624,
+                        "byte_start": 1687656,
+                        "byte_stop": 1779190,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 414.726,
+                                "stop": 437.624,
+                                "byte_start": 1687656,
+                                "byte_stop": 1779190,
+                                "text": "We conceive that he does not qualify under five but we do not conceive that he -- that the fact does not prevent him or does prevent him from qualifying under (1) and therefore he\u0027s entitled to invocation or at least the consideration of Attorney General of his application."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 437.624,
+                        "stop": 447.806,
+                        "byte_start": 1779190,
+                        "byte_stop": 1819941,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 437.624,
+                                "stop": 447.806,
+                                "byte_start": 1779190,
+                                "byte_stop": 1819941,
+                                "text": "(Inaudible) failed to report and no consideration under (1)?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 447.806,
+                        "stop": 453.266,
+                        "byte_start": 1819941,
+                        "byte_stop": 1841779,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 447.806,
+                                "stop": 453.266,
+                                "byte_start": 1819941,
+                                "byte_stop": 1841779,
+                                "text": "Failure to report is not a consideration under (1)."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 453.266,
+                        "stop": 464.691,
+                        "byte_start": 1841779,
+                        "byte_stop": 1887441,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 453.266,
+                                "stop": 464.691,
+                                "byte_start": 1841779,
+                                "byte_stop": 1887441,
+                                "text": "What do you say that the Government\u0027s argue that he doesn\u0027t qualify under either because of the examination finding that his deportation will not result unusual hardship?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 464.691,
+                        "stop": 532.487,
+                        "byte_start": 1887441,
+                        "byte_stop": 2158696,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 464.691,
+                                "stop": 474.784,
+                                "byte_start": 1887441,
+                                "byte_stop": 1927879,
+                                "text": "Your Honor, that\u0027s the first time that\u0027s come up in the course of District Court proceedings or the Circuit Court proceedings and it only come up in connection with this brief."
+                            },
+                            {
+                                "start": 474.784,
+                                "stop": 477.182,
+                                "byte_start": 1927879,
+                                "byte_stop": 1937492,
+                                "text": "I\u0027m prepared to answer that."
+                            },
+                            {
+                                "start": 477.182,
+                                "stop": 485.555,
+                                "byte_start": 1937492,
+                                "byte_stop": 1970928,
+                                "text": "An examination of the record was showed that the Court did make an adjudication that he did qualify."
+                            },
+                            {
+                                "start": 485.555,
+                                "stop": 489.386,
+                                "byte_start": 1970928,
+                                "byte_stop": 1986288,
+                                "text": "There is stipulation that he did qualify under (1)."
+                            },
+                            {
+                                "start": 489.386,
+                                "stop": 499.66,
+                                "byte_start": 1986288,
+                                "byte_stop": 2027353,
+                                "text": "Now, in the administrative proceedings, there was a summary dismissal of his application."
+                            },
+                            {
+                                "start": 499.66,
+                                "stop": 512.732,
+                                "byte_start": 2027353,
+                                "byte_stop": 2079702,
+                                "text": "He was not given a full opportunity to present evidence of his qualifications, he was not in a complete opportunity to present all qualifications or have the adequately considered."
+                            },
+                            {
+                                "start": 512.732,
+                                "stop": 532.487,
+                                "byte_start": 2079702,
+                                "byte_stop": 2158696,
+                                "text": "The Board of Immigration appeals summarily dismissed that both times, the crux was that he was not eligible under Section 240 (a) (5) and therefore he couldn\u0027t be eligible under Section 244 (a) (1) and he failed to meet the statutory requirements."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 532.487,
+                        "stop": 536.307,
+                        "byte_start": 2158696,
+                        "byte_stop": 2173952,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 532.487,
+                                "stop": 536.307,
+                                "byte_start": 2158696,
+                                "byte_stop": 2173952,
+                                "text": "Did you say that the stipulation (Inaudible) requirements under (1)?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 536.307,
+                        "stop": 536.731,
+                        "byte_start": 2173952,
+                        "byte_stop": 2175624,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 536.307,
+                                "stop": 536.731,
+                                "byte_start": 2173952,
+                                "byte_stop": 2175624,
+                                "text": "Yes, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 536.731,
+                        "stop": 537.535,
+                        "byte_start": 2175624,
+                        "byte_stop": 2178863,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 536.731,
+                                "stop": 537.535,
+                                "byte_start": 2175624,
+                                "byte_stop": 2178863,
+                                "text": "Is that in the record?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 537.535,
+                        "stop": 540.853,
+                        "byte_start": 2178863,
+                        "byte_stop": 2192133,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 537.535,
+                                "stop": 540.853,
+                                "byte_start": 2178863,
+                                "byte_stop": 2192133,
+                                "text": "That\u0027s in the record."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 540.853,
+                        "stop": 549.297,
+                        "byte_start": 2192133,
+                        "byte_stop": 2225883,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 540.853,
+                                "stop": 549.297,
+                                "byte_start": 2192133,
+                                "byte_stop": 2225883,
+                                "text": "Your position Mr. Walters that you\u0027re not given an opportunity to show that it would be a hardship case."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 549.297,
+                        "stop": 578.274,
+                        "byte_start": 2225883,
+                        "byte_stop": 2341867,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 549.297,
+                                "stop": 557.544,
+                                "byte_start": 2225883,
+                                "byte_stop": 2258902,
+                                "text": "Not only the opportunity completely show this but the Board of Immigration Appeals didn\u0027t give a consideration in their decision."
+                            },
+                            {
+                                "start": 557.544,
+                                "stop": 578.274,
+                                "byte_start": 2258902,
+                                "byte_stop": 2341867,
+                                "text": "It doesn\u0027t show any detailed consideration of other qualifications other -- in the statement that he was statutorily ineligible among other things that it said but it didn\u0027t give any detailed consideration because other things are also concluded in Section 244 (a) (5)."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 578.274,
+                        "stop": 583.477,
+                        "byte_start": 2341867,
+                        "byte_stop": 2362661,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 578.274,
+                                "stop": 583.477,
+                                "byte_start": 2341867,
+                                "byte_stop": 2362661,
+                                "text": "Do you say the first that was raised (Voice Overlap) --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 583.477,
+                        "stop": 593.666,
+                        "byte_start": 2362661,
+                        "byte_stop": 2403412,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 583.477,
+                                "stop": 584.637,
+                                "byte_start": 2362661,
+                                "byte_stop": 2367258,
+                                "text": "I -- I wouldn\u0027t think so."
+                            },
+                            {
+                                "start": 584.637,
+                                "stop": 593.666,
+                                "byte_start": 2367258,
+                                "byte_stop": 2403412,
+                                "text": "However, they say that the matters come up in this Court and has never come up in any (Voice Overlap) --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 593.666,
+                        "stop": 595.464,
+                        "byte_start": 2403412,
+                        "byte_stop": 2410621,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 593.666,
+                                "stop": 595.464,
+                                "byte_start": 2403412,
+                                "byte_stop": 2410621,
+                                "text": "Where is the stipulation?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 595.464,
+                        "stop": 604.645,
+                        "byte_start": 2410621,
+                        "byte_stop": 2447297,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 595.464,
+                                "stop": 604.645,
+                                "byte_start": 2410621,
+                                "byte_stop": 2447297,
+                                "text": "The stipulation, Your Honor is in the record and reference was made to it in Government\u0027s brief."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 604.645,
+                        "stop": 607.66,
+                        "byte_start": 2447297,
+                        "byte_stop": 2459314,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 604.645,
+                                "stop": 607.66,
+                                "byte_start": 2447297,
+                                "byte_stop": 2459314,
+                                "text": "You mean the recital in the order?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 607.66,
+                        "stop": 621.43,
+                        "byte_start": 2459314,
+                        "byte_stop": 2514484,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 607.66,
+                                "stop": 621.43,
+                                "byte_start": 2459314,
+                                "byte_stop": 2514484,
+                                "text": "Yes, sir and this was accomplished by -- by means of summary judgment, motion for summary judgment."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 621.43,
+                        "stop": 652.728,
+                        "byte_start": 2514484,
+                        "byte_stop": 2639663,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 621.43,
+                                "stop": 640.302,
+                                "byte_start": 2514484,
+                                "byte_stop": 2589926,
+                                "text": "Now, the stipulation says that, if I\u0027m reading the right thing, that was no issue of fact to be tried by the Court and that the facts is found by the Board of Immigration Appeals special inquiry officer during the course of the administrative proceedings, represent the two factual situations."
+                            },
+                            {
+                                "start": 640.302,
+                                "stop": 652.728,
+                                "byte_start": 2589926,
+                                "byte_stop": 2639663,
+                                "text": "Then in the examiners report on page 33 as an expressed finding and it is -- he does not meet the requirement of a deportation result in exceptional and extremely unusual hardship to himself."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 652.728,
+                        "stop": 668.844,
+                        "byte_start": 2639663,
+                        "byte_stop": 2704133,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 652.728,
+                                "stop": 668.844,
+                                "byte_start": 2639663,
+                                "byte_stop": 2704133,
+                                "text": "But there\u0027s a second stipulation on which the court made its decision and the court\u0027s decision was this, at page 34 --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 668.844,
+                        "stop": 669.836,
+                        "byte_start": 2704133,
+                        "byte_stop": 2708104,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 668.844,
+                                "stop": 669.836,
+                                "byte_start": 2704133,
+                                "byte_stop": 2708104,
+                                "text": "Of your brief?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 669.836,
+                        "stop": 670.734,
+                        "byte_start": 2708104,
+                        "byte_stop": 2711656,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 669.836,
+                                "stop": 670.734,
+                                "byte_start": 2708104,
+                                "byte_stop": 2711656,
+                                "text": "Of the record, Your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 670.734,
+                        "stop": 679.711,
+                        "byte_start": 2711656,
+                        "byte_stop": 2747601,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 670.734,
+                                "stop": 679.711,
+                                "byte_start": 2711656,
+                                "byte_stop": 2747601,
+                                "text": "Oh the record."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 679.711,
+                        "stop": 715.183,
+                        "byte_start": 2747601,
+                        "byte_stop": 2889498,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 679.711,
+                                "stop": 683.25,
+                                "byte_start": 2747601,
+                                "byte_stop": 2761707,
+                                "text": "Does the fact -- and this with the issue considered by the Court."
+                            },
+                            {
+                                "start": 683.25,
+                                "stop": 694.208,
+                                "byte_start": 2761707,
+                                "byte_stop": 2805593,
+                                "text": "Does the fact that plaintiff is admittedly statutorily ineligible for suspension of deportation under Section 244 (a) (5) of the Immigration and Nationality Act."
+                            },
+                            {
+                                "start": 694.208,
+                                "stop": 708.311,
+                                "byte_start": 2805593,
+                                "byte_stop": 2862017,
+                                "text": "He, the plaintiff, not being able to meet the physical requirements of that section, preclude the plaintiff from presenting for consideration, his application for suspension of deportation under Section 244 (a) (1) of the said Act."
+                            },
+                            {
+                                "start": 708.311,
+                                "stop": 715.183,
+                                "byte_start": 2862017,
+                                "byte_stop": 2889498,
+                                "text": "He had been admitted that the plaintiff didn\u0027t fully meet the requirements of latter section."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 715.183,
+                        "stop": 739.576,
+                        "byte_start": 2889498,
+                        "byte_stop": 2986987,
+                        "speaker": {
+                            "ID": 15082,
+                            "name": "Charles E. Whittaker",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "last_name": "Whittaker",
+                            "roles": [
+                                {
+                                    "id": 2726,
+                                    "type": "scotus_justice",
+                                    "date_start": -403034400,
+                                    "date_end": -244749600,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2726"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32700,
+                                "mime": "image\/png",
+                                "size": 50854,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                            },
+                            "length_of_service": 1832,
+                            "identifier": "charles_e_whittaker"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 715.183,
+                                "stop": 739.576,
+                                "byte_start": 2889498,
+                                "byte_stop": 2986987,
+                                "text": "But even if he met those requirements, did he not have a hearing and an adjudication upon an essential element under both (1) and (5) which was that he must show what failed to show, the unusual hardships contemplated for the statute?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 739.576,
+                        "stop": 778.215,
+                        "byte_start": 2986987,
+                        "byte_stop": 3141632,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 739.576,
+                                "stop": 744.227,
+                                "byte_start": 2986987,
+                                "byte_stop": 3005586,
+                                "text": "Your Honor, he had a hearing."
+                            },
+                            {
+                                "start": 744.227,
+                                "stop": 769.917,
+                                "byte_start": 3005586,
+                                "byte_stop": 3108404,
+                                "text": "I -- I -- It\u0027s my position and position of the petitioner that he didn\u0027t have a full hearing on those subjects and they were treated summarily because of the fact there was determination by the special inquiry officer that under no circumstances and no matter how much was heard on the subject would he be eligible because he had not met the statutory requirements."
+                            },
+                            {
+                                "start": 769.917,
+                                "stop": 778.072,
+                                "byte_start": 3108404,
+                                "byte_stop": 3141005,
+                                "text": "Before the Board of Immigration Appeals, which is the appellate section, the matter wasn\u0027t even considered."
+                            },
+                            {
+                                "start": 778.072,
+                                "stop": 778.215,
+                                "byte_start": 3141005,
+                                "byte_stop": 3141632,
+                                "text": "It wasn\u0027t treated."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 778.215,
+                        "stop": 779.852,
+                        "byte_start": 3141632,
+                        "byte_stop": 3148110,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 778.215,
+                                "stop": 779.852,
+                                "byte_start": 3141632,
+                                "byte_stop": 3148110,
+                                "text": "Was it raised?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 779.852,
+                        "stop": 796.228,
+                        "byte_start": 3148110,
+                        "byte_stop": 3213625,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 779.852,
+                                "stop": 796.228,
+                                "byte_start": 3148110,
+                                "byte_stop": 3213625,
+                                "text": "It was raised but the entire matter, the record will show it here that there was no finding whatsoever on whether or not he was he was subject to any hardship like deportation."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 796.228,
+                        "stop": 808.357,
+                        "byte_start": 3213625,
+                        "byte_stop": 3262109,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 796.228,
+                                "stop": 808.357,
+                                "byte_start": 3213625,
+                                "byte_stop": 3262109,
+                                "text": "So, I gather (Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 808.357,
+                        "stop": 813.504,
+                        "byte_start": 3262109,
+                        "byte_stop": 3282693,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 808.357,
+                                "stop": 813.504,
+                                "byte_start": 3262109,
+                                "byte_stop": 3282693,
+                                "text": "Yes, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 813.504,
+                        "stop": 814.913,
+                        "byte_start": 3282693,
+                        "byte_stop": 3288336,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 813.504,
+                                "stop": 814.913,
+                                "byte_start": 3282693,
+                                "byte_stop": 3288336,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 814.913,
+                        "stop": 925.77,
+                        "byte_start": 3288336,
+                        "byte_stop": 3731790,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 814.913,
+                                "stop": 826.569,
+                                "byte_start": 3288336,
+                                "byte_stop": 3335043,
+                                "text": "I was counsel not in the original hearing but in the court proceedings, I was."
+                            },
+                            {
+                                "start": 826.569,
+                                "stop": 842.007,
+                                "byte_start": 3335043,
+                                "byte_stop": 3396796,
+                                "text": "Now, I think that what it requires solely is an ordinary examination of English and the word \u201cor\u201d still means to me \u201cor\u201d."
+                            },
+                            {
+                                "start": 842.007,
+                                "stop": 863.395,
+                                "byte_start": 3396796,
+                                "byte_stop": 3482269,
+                                "text": "Sometimes words are too complicated with some other meaning but it\u0027s an awfully tiny word and Blackwell Dictionary and -- and every dictionary that you will consult, give the conjunctive meaning that is afforded it and that is that it is in the alternate of something."
+                            },
+                            {
+                                "start": 863.395,
+                                "stop": 881.192,
+                                "byte_start": 3482269,
+                                "byte_stop": 3553531,
+                                "text": "Now, a person unfamiliar with the history of the Immigration and Nationality Act might say, \u201cWell why would 244 (a) (1) be setup so differently than the other four?\u201d"
+                            },
+                            {
+                                "start": 881.192,
+                                "stop": 893.771,
+                                "byte_start": 3553531,
+                                "byte_stop": 3603790,
+                                "text": "Section 244 (a) (1), if you please, has relationship only to those people who entered the United States before June1950."
+                            },
+                            {
+                                "start": 893.771,
+                                "stop": 904.068,
+                                "byte_start": 3603790,
+                                "byte_stop": 3644959,
+                                "text": "It has relationship only to those people who were in the United States for a period of seven years continuously."
+                            },
+                            {
+                                "start": 904.068,
+                                "stop": 914.882,
+                                "byte_start": 3644959,
+                                "byte_stop": 3688218,
+                                "text": "In effect, it\u0027s a continuation and an almost every essential of the prior suspension of deportation features."
+                            },
+                            {
+                                "start": 914.882,
+                                "stop": 925.77,
+                                "byte_start": 3688218,
+                                "byte_stop": 3731790,
+                                "text": "Section 3 or 2 and 3 have reference only to those people who entered after June 1950."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 925.77,
+                        "stop": 927.554,
+                        "byte_start": 3731790,
+                        "byte_stop": 3738896,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 925.77,
+                                "stop": 927.554,
+                                "byte_start": 3731790,
+                                "byte_stop": 3738896,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 927.554,
+                        "stop": 929.43,
+                        "byte_start": 3738896,
+                        "byte_stop": 3746419,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 927.554,
+                                "stop": 929.43,
+                                "byte_start": 3738896,
+                                "byte_stop": 3746419,
+                                "text": "It\u0027s in the language, yes sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 929.43,
+                        "stop": 943.075,
+                        "byte_start": 3746419,
+                        "byte_stop": 3801067,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 929.43,
+                                "stop": 943.075,
+                                "byte_start": 3746419,
+                                "byte_stop": 3801067,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 943.075,
+                        "stop": 966.178,
+                        "byte_start": 3801067,
+                        "byte_stop": 3893436,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 943.075,
+                                "stop": 961.704,
+                                "byte_start": 3801067,
+                                "byte_stop": 3875568,
+                                "text": "So that -- (1) applies to the Attorney General within five years after the effect of data of this Act for suspension of deportation and this is the pertinent part, last entered the United States more than two years prior to the date of the enactment of this Act."
+                            },
+                            {
+                                "start": 961.704,
+                                "stop": 965.753,
+                                "byte_start": 3875568,
+                                "byte_stop": 3891764,
+                                "text": "Every other one except (5) is another expression."
+                            },
+                            {
+                                "start": 965.753,
+                                "stop": 966.178,
+                                "byte_start": 3891764,
+                                "byte_stop": 3893436,
+                                "text": "However it --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 966.178,
+                        "stop": 968.747,
+                        "byte_start": 3893436,
+                        "byte_stop": 3903676,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 966.178,
+                                "stop": 968.747,
+                                "byte_start": 3893436,
+                                "byte_stop": 3903676,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 968.747,
+                        "stop": 1140.571,
+                        "byte_start": 3903676,
+                        "byte_stop": 4591010,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 968.747,
+                                "stop": 974.843,
+                                "byte_start": 3903676,
+                                "byte_stop": 3928127,
+                                "text": "Yes, and you have an unusual circumstance"
+                            },
+                            {
+                                "start": 974.843,
+                                "stop": 985.273,
+                                "byte_start": 3928127,
+                                "byte_stop": 3969818,
+                                "text": "All these other sections, 2 and 3 include entries after June 1950."
+                            },
+                            {
+                                "start": 985.273,
+                                "stop": 990.488,
+                                "byte_start": 3969818,
+                                "byte_stop": 3990716,
+                                "text": "No one who entered prior to 1950 can make applications."
+                            },
+                            {
+                                "start": 990.488,
+                                "stop": 1006.893,
+                                "byte_start": 3990716,
+                                "byte_stop": 4056336,
+                                "text": "Four has the same application, five, has the same application with the addition having pertinence to statuses that were of deportation which were acquired subsequent to entry."
+                            },
+                            {
+                                "start": 1006.893,
+                                "stop": 1021.51,
+                                "byte_start": 4056336,
+                                "byte_stop": 4114745,
+                                "text": "Three, two and -- two, has pertinence only to those people who were subject to deportation because of circumstances or statuses, at the time of their entry."
+                            },
+                            {
+                                "start": 1021.51,
+                                "stop": 1029.117,
+                                "byte_start": 4114745,
+                                "byte_stop": 4145152,
+                                "text": "Three, subsequent statuses -- they are all subsequent to entry."
+                            },
+                            {
+                                "start": 1029.117,
+                                "stop": 1032.118,
+                                "byte_start": 4145152,
+                                "byte_stop": 4157168,
+                                "text": "Four, prior to the entry."
+                            },
+                            {
+                                "start": 1032.118,
+                                "stop": 1040.952,
+                                "byte_start": 4157168,
+                                "byte_stop": 4192486,
+                                "text": "The only one that stands out with any comparison from one from the other is (1) and there\u0027s a good reason for that."
+                            },
+                            {
+                                "start": 1040.952,
+                                "stop": 1051.581,
+                                "byte_start": 4192486,
+                                "byte_stop": 4235013,
+                                "text": "The reason being the Congress wanted it that way, and they so much had said so at the time that they promulgated to statute."
+                            },
+                            {
+                                "start": 1051.581,
+                                "stop": 1056.735,
+                                "byte_start": 4235013,
+                                "byte_stop": 4255702,
+                                "text": "Congress said and this the excerpt from the report."
+                            },
+                            {
+                                "start": 1056.735,
+                                "stop": 1068.821,
+                                "byte_start": 4255702,
+                                "byte_stop": 4303976,
+                                "text": "Senate Report 137 81st Congress Session Report, Number 1515 and wherein they made the following recommendation."
+                            },
+                            {
+                                "start": 1068.821,
+                                "stop": 1093.726,
+                                "byte_start": 4303976,
+                                "byte_stop": 4403660,
+                                "text": "The sub committee recommends that the present suspension of deportation provision of the law be abolished within five years and no alien, that means every alien, who entered the United States within a period of two years prior to the enactment of the proposed legislation shall be eligible under the present suspension of deportation provisions of law as modified."
+                            },
+                            {
+                                "start": 1093.726,
+                                "stop": 1111.807,
+                                "byte_start": 4403660,
+                                "byte_stop": 4475967,
+                                "text": "Now, if the Court will examine Section 244 (a) (1), you will notice that as we speak today and since December the 27th, 1957, no one can make application under that section."
+                            },
+                            {
+                                "start": 1111.807,
+                                "stop": 1128.489,
+                                "byte_start": 4475967,
+                                "byte_stop": 4542631,
+                                "text": "In other words, that has died as far as the aliens who entered prior to1950 are concerned and all alliance except for those applications that are pending or under consideration."
+                            },
+                            {
+                                "start": 1128.489,
+                                "stop": 1140.571,
+                                "byte_start": 4542631,
+                                "byte_stop": 4591010,
+                                "text": "So we see that the congressional intent was that there would be some preservation of the prior suspension of deportation provisions until a certain date."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1140.571,
+                        "stop": 1143.621,
+                        "byte_start": 4591010,
+                        "byte_stop": 4603235,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1140.571,
+                                "stop": 1143.621,
+                                "byte_start": 4591010,
+                                "byte_stop": 4603235,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1143.621,
+                        "stop": 1144.028,
+                        "byte_start": 4603235,
+                        "byte_stop": 4604803,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1143.621,
+                                "stop": 1144.028,
+                                "byte_start": 4603235,
+                                "byte_stop": 4604803,
+                                "text": "It is --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1144.028,
+                        "stop": 1148.281,
+                        "byte_start": 4604803,
+                        "byte_stop": 4621834,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1144.028,
+                                "stop": 1148.281,
+                                "byte_start": 4604803,
+                                "byte_stop": 4621834,
+                                "text": "(Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1148.281,
+                        "stop": 1197.014,
+                        "byte_start": 4621834,
+                        "byte_stop": 4816812,
+                        "speaker": {
+                            "ID": 21689,
+                            "name": "David W. Walters",
+                            "href": "https:\/\/api.oyez.org\/people\/david_w_walters",
+                            "last_name": "Walters",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "david_w_walters"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1148.281,
+                                "stop": 1158.717,
+                                "byte_start": 4621834,
+                                "byte_stop": 4663630,
+                                "text": "It is almost identical except that prior to that, there had to be the concurrent approval of Congress."
+                            },
+                            {
+                                "start": 1158.717,
+                                "stop": 1173.062,
+                                "byte_start": 4663630,
+                                "byte_stop": 4720995,
+                                "text": "Whereas in the others, each of the others, two, three, four and five contained within themselves reference to their own subsections."
+                            },
+                            {
+                                "start": 1173.062,
+                                "stop": 1197.014,
+                                "byte_start": 4720995,
+                                "byte_stop": 4816812,
+                                "text": "One where it has an exclusion of eligibility says that those people who were subject to deportation under Section 3 of the Immigration Act of 1917, Section 19 (d), were ineligible and that\u0027s the only reference to ineligibility."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1197.014,
+                        "stop": 1200.526,
+                        "byte_start": 4816812,
+                        "byte_stop": 4830710,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1197.014,
+                                "stop": 1200.526,
+                                "byte_start": 4816812,
+                                "byte_stop": 4830710,
+                                "text": "We\u0027ll recess now Mr. Walters."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

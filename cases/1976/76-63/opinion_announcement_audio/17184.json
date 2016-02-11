@@ -1,0 +1,95 @@
+{
+    "id": 17184,
+    "title": "Opinion Announcement - June 20, 1977",
+    "transcript": {
+        "title": "Hunt v. Washington State Apple Advertising Commission",
+        "duration": 27.838,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.838,
+                "byte_start": 100656,
+                "byte_stop": 211938,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 27.838,
+                        "byte_start": 100656,
+                        "byte_stop": 211938,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.639,
+                                "byte_start": 100656,
+                                "byte_stop": 159275,
+                                "text": "In the second case 76-63, Hunt, the Governor of North Carolina against the Washington State Apple Advertising Commission for reasons stated in an opinion of the Court filed this morning."
+                            },
+                            {
+                                "start": 14.639,
+                                "stop": 20.225,
+                                "byte_start": 159275,
+                                "byte_stop": 181636,
+                                "text": "The judgment of the United States District Court for the Eastern District of North Carolina was affirmed."
+                            },
+                            {
+                                "start": 20.225,
+                                "stop": 27.838,
+                                "byte_start": 181636,
+                                "byte_stop": 211938,
+                                "text": "Mr. Justice Rehnquist took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43490,
+            "mime": "audio\/mpeg",
+            "size": 212147,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/76-63\/19770620o_76-63.delivery.mp3"
+        },
+        {
+            "id": 65378,
+            "mime": "audio\/ogg",
+            "size": 296608,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/76-63\/19770620o_76-63.ogg"
+        },
+        {
+            "id": 65379,
+            "mime": "application\/x-mpegURL",
+            "size": 531,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/76-63\/19770620o_76-63.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

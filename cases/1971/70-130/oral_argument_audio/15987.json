@@ -1,0 +1,658 @@
+{
+    "id": 15987,
+    "title": "Oral Argument - February 29, 1972",
+    "media_file": [
+        {
+            "id": 41096,
+            "mime": "audio\/mpeg",
+            "size": 3383045,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1971\/70-130\/19720229a_70-130.delivery.mp3"
+        },
+        {
+            "id": 63038,
+            "mime": "audio\/ogg",
+            "size": 8253889,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1971\/70-130\/19720229a_70-130.ogg"
+        },
+        {
+            "id": 63039,
+            "mime": "application\/x-mpegURL",
+            "size": 11979,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1971\/70-130\/19720229a_70-130.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "United States v. Scotland Neck City Board of Education",
+        "duration": 827.273,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 827.273,
+                "byte_start": 73749,
+                "byte_stop": 3382836,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 49.93,
+                        "byte_start": 73749,
+                        "byte_stop": 273533,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 44.285,
+                                "byte_start": 73749,
+                                "byte_stop": 250964,
+                                "text": "Hear arguments next in United States against Scotland Neck City Board of Education, 70-130 and 70-187."
+                            },
+                            {
+                                "start": 44.285,
+                                "stop": 49.93,
+                                "byte_start": 250964,
+                                "byte_stop": 273533,
+                                "text": "Mr. Wallace."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 49.93,
+                        "stop": 256.738,
+                        "byte_start": 273533,
+                        "byte_stop": 1100779,
+                        "speaker": {
+                            "ID": 35240,
+                            "name": "Lawrence G. Wallace",
+                            "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "last_name": "Wallace",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "lawrence_g_wallace"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 49.93,
+                                "stop": 53.667,
+                                "byte_start": 273533,
+                                "byte_stop": 288476,
+                                "text": "Mr. Chief Justice and may it please the Court."
+                            },
+                            {
+                                "start": 53.667,
+                                "stop": 68.661,
+                                "byte_start": 288476,
+                                "byte_stop": 348453,
+                                "text": "This consolidated case and the next case to be argued were decided together by the Court of Appeals by the Fourth Circuit sitting embank and presents similar issues."
+                            },
+                            {
+                                "start": 68.661,
+                                "stop": 81.504,
+                                "byte_start": 348453,
+                                "byte_stop": 399862,
+                                "text": "Each case involves a predominantly black, predominantly rural school district which has been operating a dual system of racially segregate schools."
+                            },
+                            {
+                                "start": 81.504,
+                                "stop": 104.803,
+                                "byte_start": 399862,
+                                "byte_stop": 492962,
+                                "text": "In each case, instead of proceeding to desegregate the entire district as the unit in which had been operating, the State has sought to split the district in two by carving out a small, more white and more urban enclave to operate as a separate school district."
+                            },
+                            {
+                                "start": 104.803,
+                                "stop": 131.442,
+                                "byte_start": 492962,
+                                "byte_stop": 599542,
+                                "text": "In the present case involving the schools of Halifax County, North Carolina, the United States filed suit alleging that the splitting of the district unconstitutionally impeded the disestablishment of the dual system and additional plaintiffs subsequently intervened that are now before the Court in the companion case which has been consolidated with ours."
+                            },
+                            {
+                                "start": 131.442,
+                                "stop": 150.539,
+                                "byte_start": 599542,
+                                "byte_stop": 675924,
+                                "text": "The next case to be heard which involves the schools of Greensville County, Virginia was brought by private plaintiffs and the United States did not participate in the case that any stage of the proceedings until this Court granted certiorari."
+                            },
+                            {
+                                "start": 150.539,
+                                "stop": 158.885,
+                                "byte_start": 675924,
+                                "byte_stop": 709360,
+                                "text": "The United States has now filed a brief, amicus curiae in support of the petitioners in that case."
+                            },
+                            {
+                                "start": 158.885,
+                                "stop": 169.993,
+                                "byte_start": 709360,
+                                "byte_stop": 753769,
+                                "text": "In each case, the split off was held unconstitutional by the District Court and the Court of Appeals reversed by a divided vote."
+                            },
+                            {
+                                "start": 169.993,
+                                "stop": 178.37,
+                                "byte_start": 753769,
+                                "byte_stop": 787310,
+                                "text": "Our position is that the Court of Appeals applied the wrong standard and reached the wrong result in both cases."
+                            },
+                            {
+                                "start": 178.37,
+                                "stop": 203.843,
+                                "byte_start": 787310,
+                                "byte_stop": 889187,
+                                "text": "There was also a third case decided on the same day by the Court of Appeals in which that Court by a differently divided vote upheld another District Court order enjoining another similar split off in North Carolina and no petition for certiorari was filed in that case and it is not before this Court."
+                            },
+                            {
+                                "start": 203.843,
+                                "stop": 227.53,
+                                "byte_start": 889187,
+                                "byte_stop": 983960,
+                                "text": "Now, the facts of the present case can conveniently be summarized by reference to the very readable foldout maps that appear in this large size appendix filed by the petitioners in the companion case, in the consolidated case."
+                            },
+                            {
+                                "start": 227.53,
+                                "stop": 244.447,
+                                "byte_start": 983960,
+                                "byte_stop": 1051565,
+                                "text": "If the Court please, I\u2019d like to turn first to the map at page 4B, which is a map of Halifax County, the County at issue here."
+                            },
+                            {
+                                "start": 244.447,
+                                "stop": 256.204,
+                                "byte_start": 1051565,
+                                "byte_stop": 1098585,
+                                "text": "It\u2019s a largely rural area which is some 40 miles across at its widest point."
+                            },
+                            {
+                                "start": 256.204,
+                                "stop": 256.738,
+                                "byte_start": 1098585,
+                                "byte_stop": 1100779,
+                                "text": "Scotland Neck --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 256.738,
+                        "stop": 258.558,
+                        "byte_start": 1100779,
+                        "byte_stop": 1107989,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 256.738,
+                                "stop": 258.558,
+                                "byte_start": 1100779,
+                                "byte_stop": 1107989,
+                                "text": "You\u2019re speaking of the whole county now."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 258.558,
+                        "stop": 387.267,
+                        "byte_start": 1107989,
+                        "byte_stop": 1622915,
+                        "speaker": {
+                            "ID": 35240,
+                            "name": "Lawrence G. Wallace",
+                            "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "last_name": "Wallace",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "lawrence_g_wallace"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 258.558,
+                                "stop": 293.147,
+                                "byte_start": 1107989,
+                                "byte_stop": 1246438,
+                                "text": "This is the whole county, depicted in this map and Scotland Neck, the town which has been carved out by this new legislation appears in the Southeastern portion Scotland Neck\u2019s School is labeled, that little rectangle around Scotland Neck\u2019s School and Brawley School and the limits of the town of Scotland Neck are within that rectangle, that irregularly shaped figure in lighter lines."
+                            },
+                            {
+                                "start": 293.147,
+                                "stop": 310.712,
+                                "byte_start": 1246438,
+                                "byte_stop": 1316655,
+                                "text": "The shaded areas in the northern portion, labeled, well, in Roanoke Rapids are two separately administered school districts, each of which is several times more populous than the town of Scotland Neck."
+                            },
+                            {
+                                "start": 310.712,
+                                "stop": 314.019,
+                                "byte_start": 1316655,
+                                "byte_stop": 1329925,
+                                "text": "Those have been administered a separate districts right along."
+                            },
+                            {
+                                "start": 314.019,
+                                "stop": 333.161,
+                                "byte_start": 1329925,
+                                "byte_stop": 1406412,
+                                "text": "The rest of the county has been operating as a single school district known as the Halifax County Administrative Unit and Scotland Neck has been included in that school system since 1936."
+                            },
+                            {
+                                "start": 333.161,
+                                "stop": 344.353,
+                                "byte_start": 1406412,
+                                "byte_stop": 1451238,
+                                "text": "And until 1965, all of the schools in that county system were completely segregated by race."
+                            },
+                            {
+                                "start": 344.353,
+                                "stop": 380.824,
+                                "byte_start": 1451238,
+                                "byte_stop": 1597106,
+                                "text": "In 1965, a freedom of choice plan was instituted but very little desegregation resulted from that, for example, during the 1968-1969 school year, the last one under unmodified freedom of choice, all of the whites students still attended the four traditionally white schools and 97% of the black students attended the other all-black schools."
+                            },
+                            {
+                                "start": 380.824,
+                                "stop": 387.267,
+                                "byte_start": 1597106,
+                                "byte_stop": 1622915,
+                                "text": "The District at that time was 77% black."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 387.267,
+                        "stop": 388.986,
+                        "byte_start": 1622915,
+                        "byte_stop": 1629707,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 387.267,
+                                "stop": 388.986,
+                                "byte_start": 1622915,
+                                "byte_stop": 1629707,
+                                "text": "When you speak the district now --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 388.986,
+                        "stop": 395.749,
+                        "byte_start": 1629707,
+                        "byte_stop": 1656769,
+                        "speaker": {
+                            "ID": 35240,
+                            "name": "Lawrence G. Wallace",
+                            "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "last_name": "Wallace",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "lawrence_g_wallace"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 388.986,
+                                "stop": 395.749,
+                                "byte_start": 1629707,
+                                "byte_stop": 1656769,
+                                "text": "The entire district that -- the Halifax County School District."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 395.749,
+                        "stop": 401.909,
+                        "byte_start": 1656769,
+                        "byte_stop": 1681429,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 395.749,
+                                "stop": 401.909,
+                                "byte_start": 1656769,
+                                "byte_stop": 1681429,
+                                "text": "The Halifax County School District at that time, was the entire County with the exception of Weldon and Roanoke Rapids."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 401.909,
+                        "stop": 423.095,
+                        "byte_start": 1681429,
+                        "byte_stop": 1766170,
+                        "speaker": {
+                            "ID": 35240,
+                            "name": "Lawrence G. Wallace",
+                            "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "last_name": "Wallace",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "lawrence_g_wallace"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 401.909,
+                                "stop": 403.041,
+                                "byte_start": 1681429,
+                                "byte_stop": 1685922,
+                                "text": "That is correct Your Honor."
+                            },
+                            {
+                                "start": 403.041,
+                                "stop": 408.364,
+                                "byte_start": 1685922,
+                                "byte_stop": 1707238,
+                                "text": "That is the latest -- it\u2019s been operating since 1936."
+                            },
+                            {
+                                "start": 408.364,
+                                "stop": 418.912,
+                                "byte_start": 1707238,
+                                "byte_stop": 1749452,
+                                "text": "And at that time also, more than 90% of the students in that County system were transported to school by school buses."
+                            },
+                            {
+                                "start": 418.912,
+                                "stop": 423.095,
+                                "byte_start": 1749452,
+                                "byte_stop": 1766170,
+                                "text": "The record shows, in the summer of 19 --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 423.095,
+                        "stop": 426.742,
+                        "byte_start": 1766170,
+                        "byte_stop": 1780799,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 423.095,
+                                "stop": 426.742,
+                                "byte_start": 1766170,
+                                "byte_stop": 1780799,
+                                "text": "What\u2019s the total attendance and numbers in round figures, do you have that in mind?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 426.742,
+                        "stop": 827.273,
+                        "byte_start": 1780799,
+                        "byte_stop": 3382836,
+                        "speaker": {
+                            "ID": 35240,
+                            "name": "Lawrence G. Wallace",
+                            "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "last_name": "Wallace",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "lawrence_g_wallace"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 426.742,
+                                "stop": 430.209,
+                                "byte_start": 1780799,
+                                "byte_stop": 1794591,
+                                "text": "It\u2019s a little more than 10,000 Your Honor."
+                            },
+                            {
+                                "start": 430.209,
+                                "stop": 440.808,
+                                "byte_start": 1794591,
+                                "byte_stop": 1837014,
+                                "text": "I think its 10,655 if I recall."
+                            },
+                            {
+                                "start": 440.808,
+                                "stop": 469.851,
+                                "byte_start": 1837014,
+                                "byte_stop": 1953207,
+                                "text": "In the summer of 1968, shortly after the grim trilogy of decisions in this Court, the Department of Justice notified the County School Board here pursuant to the 1964 Civil Rights Act that operation of its schools did not comply with constitutional requirements."
+                            },
+                            {
+                                "start": 469.851,
+                                "stop": 516.572,
+                                "byte_start": 1953207,
+                                "byte_stop": 2140139,
+                                "text": "Negotiations followed between the Department and the Board, and the Board agreed in the course of those negotiations to adopt the plan for disestablishing the dual system to be effective by the fall of 1969 and to take some interim steps for the 1968-1969 school year and the student assignments which are -- well, the great assignments reflected on this map reflect that interim agreement with the Department of Justice."
+                            },
+                            {
+                                "start": 516.572,
+                                "stop": 526.896,
+                                "byte_start": 2140139,
+                                "byte_stop": 2181413,
+                                "text": "The agreement was widely publicized in the local press and because of this agreement the Government did not file suit at that time."
+                            },
+                            {
+                                "start": 526.896,
+                                "stop": 548.252,
+                                "byte_start": 2181413,
+                                "byte_stop": 2266781,
+                                "text": "In the meantime, the County School Board had asked the North Carolina Department of Public Instruction to determine how the Board could meet its desegregation obligations and to reprimand an organizational plan designed for the best possible education of the children in the county system."
+                            },
+                            {
+                                "start": 548.252,
+                                "stop": 568.216,
+                                "byte_start": 2266781,
+                                "byte_stop": 2346716,
+                                "text": "And the Department during 1968 studied the County System and in September of that year, recommended both a long ranged plan involving the construction of two new high schools and the so-called Interim Plan using the existing facilities."
+                            },
+                            {
+                                "start": 568.216,
+                                "stop": 585.219,
+                                "byte_start": 2346716,
+                                "byte_stop": 2414634,
+                                "text": "And that Interim Plan is depicted on the next foldout map at page 8B of this appendix."
+                            },
+                            {
+                                "start": 585.219,
+                                "stop": 621.208,
+                                "byte_start": 2414634,
+                                "byte_stop": 2558621,
+                                "text": "It provided for assignments on the basis of four geographic zones, this is numbered districts divided by broken lines with the -- a pairing of grades between some of the schools including Scotland Neck\u2019s School and Brawley School, the schools in the immediate vicinity of the town of Scotland Neck, less than a mile apart from each other, these two school buildings."
+                            },
+                            {
+                                "start": 621.208,
+                                "stop": 643.791,
+                                "byte_start": 2558621,
+                                "byte_stop": 2649005,
+                                "text": "Under this Interim Plan, some white students would have been assigned to each of the formerly all-black school and none of the four traditionally white schools would have a like majority assigned to it."
+                            },
+                            {
+                                "start": 643.791,
+                                "stop": 667.779,
+                                "byte_start": 2649005,
+                                "byte_stop": 2744926,
+                                "text": "The County School Board did not adopt the Interim Plan and in February of 1969 it also repudiated its agreement with the Department of Justice to come forward with a plan for disestablishing the system by that fall and instead voted to return to freedom of choice as the assignment method."
+                            },
+                            {
+                                "start": 667.779,
+                                "stop": 691.575,
+                                "byte_start": 2744926,
+                                "byte_stop": 2840116,
+                                "text": "And shortly thereafter in March of 1969, the North Carolina Legislature enacted a local law, Chapter 31 of the 1969 Session Laws of North Carolina, providing for a new school district to be bounded by the corporate limits of the town of Scotland Neck."
+                            },
+                            {
+                                "start": 691.575,
+                                "stop": 705.702,
+                                "byte_start": 2840116,
+                                "byte_stop": 2896645,
+                                "text": "And for a supplemental tax assessment to finance the schools there upon approval by the towns voters who did approve in a special election conducted in April of 1969."
+                            },
+                            {
+                                "start": 705.702,
+                                "stop": 710.516,
+                                "byte_start": 2896645,
+                                "byte_stop": 2915871,
+                                "text": "The complaint in the present suit was then filed in June."
+                            },
+                            {
+                                "start": 710.516,
+                                "stop": 731.389,
+                                "byte_start": 2915871,
+                                "byte_stop": 2999359,
+                                "text": "If implemented, Chapter 31 would have carved out of the county system which had 10,655 students as I mentioned, a small enclave in which 695 resided."
+                            },
+                            {
+                                "start": 731.389,
+                                "stop": 754.054,
+                                "byte_start": 2999359,
+                                "byte_stop": 3090056,
+                                "text": "Of this 695 students, 57% were white and 43% black in contrast to the county systems overall student population which was 22% white and 77% black, 1% Indian."
+                            },
+                            {
+                                "start": 754.054,
+                                "stop": 773.972,
+                                "byte_start": 3090056,
+                                "byte_stop": 3169677,
+                                "text": "The Court of Appeals deemed it significant that the removal of the 695 students from the county system would shift the overall ratio by only three points to 80% black and 19% white."
+                            },
+                            {
+                                "start": 773.972,
+                                "stop": 808.86,
+                                "byte_start": 3169677,
+                                "byte_stop": 3309276,
+                                "text": "But this seems to us an unrealistic way to look at the effect of Chapter 31 because it is a pairing from the map before us, that in most of the County, Districts 2, 3, and 4, there would be no effect of Chapter 31 or only a very negligible effect and the Chapter 31\u2019s impact would be concentrated in District 1 and in that district would touch mostly the Scotland Neck and Brawley Schools."
+                            },
+                            {
+                                "start": 808.86,
+                                "stop": 827.273,
+                                "byte_start": 3309276,
+                                "byte_stop": 3382836,
+                                "text": "And that impact is shown on the next map that appears to which I will turn tomorrow when the argument is resumed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

@@ -1,0 +1,81 @@
+{
+    "id": 19319,
+    "title": "Opinion Announcement - January 18, 1984",
+    "transcript": {
+        "title": "McDonough Power Equipment, Inc. v. Greenwood",
+        "duration": 4.479,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 4.479,
+                "byte_start": 103568,
+                "byte_stop": 121436,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 4.479,
+                        "byte_start": 103568,
+                        "byte_stop": 121436,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.479,
+                                "byte_start": 103568,
+                                "byte_stop": 121436,
+                                "text": "The judgment and opinion of the Court in McDonough Power Equipment ---"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47762,
+            "mime": "audio\/mpeg",
+            "size": 121645,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1983\/82-958\/19840118o_82-958.delivery.mp3"
+        },
+        {
+            "id": 69586,
+            "mime": "audio\/ogg",
+            "size": 48727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1983\/82-958\/19840118o_82-958.ogg"
+        },
+        {
+            "id": 69587,
+            "mime": "application\/x-mpegURL",
+            "size": 197,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1983\/82-958\/19840118o_82-958.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

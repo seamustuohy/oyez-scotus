@@ -1,0 +1,351 @@
+{
+    "ID": 62310,
+    "name": "Foster v. Chatman",
+    "href": "https:\/\/api.oyez.org\/cases\/2015\/14-8349",
+    "docket_number": "14-8349",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Timothy Tyrone Foster",
+    "second_party": "Bruce Chatman, Warden",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1432616400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52780"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1446444000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52805"
+        }
+    ],
+    "lower_court": {
+        "ID": 77,
+        "name": "State trial court",
+        "href": "https:\/\/api.oyez.org\/courts\/state_trial_court"
+    },
+    "facts_of_the_case": "\u003Cp\u003EIn 1986, Timothy Tyrone Foster, an 18-year-old black man, was charged with murdering Queen White, an elderly white woman. At the trial, the prosecution used peremptory strikes against all four of the qualified black jurors. Pursuant to the Supreme Court\u2019s decision in \u003Cem\u003EBatson v. Kentucky\u003C\/em\u003E, which prohibits the use of peremptory strikes on the basis of race, the defense objected to those strikes, and the burden shifted to the prosecution to prove that there were race-neutral explanation for the strikes. The prosecution provided reasons, and the trial court held that the reasons were sufficient. An all-white jury convicted Foster of murder and imposed the death penalty.\u003C\/p\u003E\n\u003Cp\u003EFoster filed a motion for post-judgment discovery regarding the prosecution\u2019s notes during jury selection and a motion for a new trial, both of which the trial court denied. The Georgia Supreme Court affirmed the trial court\u2019s decisions, and the U.S. Supreme Court denied certiorari. Foster \u00a0petitioned for a writ of habeas corpus in Butts County Superior Court and submitted a new \u003Cem\u003EBatson\u003C\/em\u003E challenge based on the prosecutor\u0027s notes obtained through the Georgia Open Records Act. The court denied Foster\u0027s petition. The Georgia Supreme Court affirmed the denial of the writ. The U.S. Supreme Court granted certiorari.\u00a0\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EWas there race-based discrimination of the type \u003Cem\u003EBatson v. Kentucky\u003C\/em\u003E prohibits in the jury selection process of Foster\u2019s trial?\u003C\/p\u003E\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 40972,
+                "name": "Stephen B. Bright",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_b_bright",
+                "last_name": "Bright",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "stephen_b_bright"
+            },
+            "advocate_description": "for the petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21404"
+        },
+        {
+            "advocate": {
+                "ID": 62605,
+                "name": "Beth A. Burton",
+                "href": "https:\/\/api.oyez.org\/people\/beth_a_burton",
+                "last_name": "Burton",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "beth_a_burton"
+            },
+            "advocate_description": "for the respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21405"
+        }
+    ],
+    "oral_argument_audio": [
+        {
+            "id": 24008,
+            "title": "Oral Argument - November 02, 2015",
+            "public_note": null,
+            "unavailable": null,
+            "href": "https:\/\/api.oyez.org\/case_media\/oral_argument_audio\/24008"
+        }
+    ],
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27112"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15151,
+            "name": "Roberts Court (2010-     )",
+            "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+            "members": [
+                {
+                    "ID": 15086,
+                    "name": "John G. Roberts, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "last_name": "Roberts",
+                    "roles": [
+                        {
+                            "id": 2730,
+                            "type": "scotus_justice",
+                            "date_start": 1127970000,
+                            "date_end": 0,
+                            "appointing_president": "George W. Bush",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32683,
+                        "mime": "image\/png",
+                        "size": 52305,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    },
+                    "length_of_service": 3702,
+                    "identifier": "john_g_roberts_jr"
+                },
+                {
+                    "ID": 15049,
+                    "name": "Antonin Scalia",
+                    "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "last_name": "Scalia",
+                    "roles": [
+                        {
+                            "id": 2693,
+                            "type": "scotus_justice",
+                            "date_start": 528094800,
+                            "date_end": 0,
+                            "appointing_president": "Ronald Reagan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32678,
+                        "mime": "image\/png",
+                        "size": 58944,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    },
+                    "length_of_service": 10699,
+                    "identifier": "antonin_scalia"
+                },
+                {
+                    "ID": 15113,
+                    "name": "Anthony M. Kennedy",
+                    "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "last_name": "Kennedy",
+                    "roles": [
+                        {
+                            "id": 2757,
+                            "type": "scotus_justice",
+                            "date_start": 572162400,
+                            "date_end": 0,
+                            "appointing_president": "Ronald Reagan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32679,
+                        "mime": "image\/png",
+                        "size": 47100,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    },
+                    "length_of_service": 10147,
+                    "identifier": "anthony_m_kennedy"
+                },
+                {
+                    "ID": 15100,
+                    "name": "Clarence Thomas",
+                    "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "last_name": "Thomas",
+                    "roles": [
+                        {
+                            "id": 2744,
+                            "type": "scotus_justice",
+                            "date_start": 688194000,
+                            "date_end": 0,
+                            "appointing_president": "George H. W. Bush",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32680,
+                        "mime": "image\/png",
+                        "size": 49064,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    },
+                    "length_of_service": 8870,
+                    "identifier": "clarence_thomas"
+                },
+                {
+                    "ID": 15084,
+                    "name": "Ruth Bader Ginsburg",
+                    "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "last_name": "Ginsburg",
+                    "roles": [
+                        {
+                            "id": 2728,
+                            "type": "scotus_justice",
+                            "date_start": 744958800,
+                            "date_end": 0,
+                            "appointing_president": "Bill Clinton",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32681,
+                        "mime": "image\/png",
+                        "size": 45030,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    },
+                    "length_of_service": 8135,
+                    "identifier": "ruth_bader_ginsburg"
+                },
+                {
+                    "ID": 15139,
+                    "name": "Stephen G. Breyer",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "last_name": "Breyer",
+                    "roles": [
+                        {
+                            "id": 2785,
+                            "type": "scotus_justice",
+                            "date_start": 775890000,
+                            "date_end": 0,
+                            "appointing_president": "Bill Clinton",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32682,
+                        "mime": "image\/png",
+                        "size": 49908,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    },
+                    "length_of_service": 7777,
+                    "identifier": "stephen_g_breyer"
+                },
+                {
+                    "ID": 15068,
+                    "name": "Samuel A. Alito, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "last_name": "Alito",
+                    "roles": [
+                        {
+                            "id": 2712,
+                            "type": "scotus_justice",
+                            "date_start": 1138687200,
+                            "date_end": 0,
+                            "appointing_president": "George W. Bush",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32684,
+                        "mime": "image\/png",
+                        "size": 44799,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    },
+                    "length_of_service": 3531,
+                    "identifier": "samuel_alito_jr"
+                },
+                {
+                    "ID": 15131,
+                    "name": "Sonia Sotomayor",
+                    "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                    "last_name": "Sotomayor",
+                    "roles": [
+                        {
+                            "id": 2776,
+                            "type": "scotus_justice",
+                            "date_start": 1249707600,
+                            "date_end": 0,
+                            "appointing_president": null,
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2776"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32685,
+                        "mime": "image\/png",
+                        "size": 50379,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                    },
+                    "length_of_service": 2293,
+                    "identifier": "sonia_sotomayor"
+                },
+                {
+                    "ID": 15094,
+                    "name": "Elena Kagan",
+                    "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                    "last_name": "Kagan",
+                    "roles": [
+                        {
+                            "id": 2738,
+                            "type": "scotus_justice",
+                            "date_start": 1281157200,
+                            "date_end": 0,
+                            "appointing_president": "Barack Obama",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2738"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32690,
+                        "mime": "image\/png",
+                        "size": 44456,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                    },
+                    "length_of_service": 1931,
+                    "identifier": "elena_kagan"
+                }
+            ],
+            "court_start": 1281157200,
+            "images": [
+                {
+                    "id": 12235,
+                    "mime": "image\/jpeg",
+                    "size": 359998,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                }
+            ],
+            "identifier": "roberts6"
+        }
+    ],
+    "decided_by": null,
+    "term": "2015",
+    "location": {
+        "latitude": 34.255616,
+        "longitude": -85.172054,
+        "name": "Superior Court of Floyd County, Georgia",
+        "street": "3 Government Plaza",
+        "city": "Rome",
+        "province": "GA",
+        "postal_code": null,
+        "province_name": "Georgia"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will determine whether there was race-based discrimination of the type that Batson v. Kentucky prohibits in the jury selection of Foster\u2019s trial.",
+    "written_opinion": null,
+    "related_cases": null
+}

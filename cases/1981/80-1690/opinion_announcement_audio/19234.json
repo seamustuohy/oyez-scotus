@@ -1,0 +1,143 @@
+{
+    "id": 19234,
+    "title": "Opinion Announcement - March 23, 1982",
+    "transcript": {
+        "title": "American Medical Assn. v. FTC",
+        "duration": 37.056,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.056,
+                "byte_start": 77450,
+                "byte_stop": 225617,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 30.353,
+                        "byte_start": 77450,
+                        "byte_stop": 198867,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.739,
+                                "byte_start": 77450,
+                                "byte_stop": 156444,
+                                "text": "I have the disposition to announce in American Medical Association against the Federal Trade Commission and by way of a per curiam opinion filed with the clerk this morning, the judgment of the United States Court of Appeals for the Second Circuit is affirmed by an equally divided court."
+                            },
+                            {
+                                "start": 19.739,
+                                "stop": 22.815,
+                                "byte_start": 156444,
+                                "byte_stop": 168774,
+                                "text": "We\u0027ll hear arguments first this morning."
+                            },
+                            {
+                                "start": 22.815,
+                                "stop": 30.353,
+                                "byte_start": 168774,
+                                "byte_stop": 198867,
+                                "text": "I should add that Justice Blackmun took no part in the consideration or decision or disposition of this case."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 30.353,
+                        "stop": 37.056,
+                        "byte_start": 198867,
+                        "byte_stop": 225617,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 30.353,
+                                "stop": 34.694,
+                                "byte_start": 198867,
+                                "byte_stop": 216317,
+                                "text": "(Inaudible) Justice Blackmun was also a dissenter in -- in the last case."
+                            },
+                            {
+                                "start": 34.694,
+                                "stop": 37.056,
+                                "byte_start": 216317,
+                                "byte_stop": 225617,
+                                "text": "I failed to announce that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47592,
+            "mime": "audio\/mpeg",
+            "size": 225826,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/80-1690\/19820323o_80-1690.delivery.mp3"
+        },
+        {
+            "id": 69418,
+            "mime": "audio\/ogg",
+            "size": 382688,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/80-1690\/19820323o_80-1690.ogg"
+        },
+        {
+            "id": 69419,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/80-1690\/19820323o_80-1690.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

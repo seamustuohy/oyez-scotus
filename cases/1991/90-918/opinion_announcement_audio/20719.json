@@ -1,0 +1,139 @@
+{
+    "id": 20719,
+    "title": "Opinion Announcement - February 26, 1992",
+    "transcript": {
+        "title": "Franklin v. Gwinnett County Public Schools",
+        "duration": 34.403,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.403,
+                "byte_start": 90865,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.815,
+                        "byte_start": 90865,
+                        "byte_stop": 130153,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.815,
+                                "byte_start": 90865,
+                                "byte_stop": 130153,
+                                "text": "The opinion of the Court in No. 90-918, Franklin versus Gwinnett County Public Schools will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.815,
+                        "stop": 34.403,
+                        "byte_start": 130153,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.815,
+                                "stop": 26.07,
+                                "byte_start": 130153,
+                                "byte_stop": 195146,
+                                "text": "For the reasons stated in an opinion on file with the Clerk, the judgment of the Court of Appeals for the Eleventh Circuit is reversed and the case is remanded for further proceedings, and this opinion is not unanimous."
+                            },
+                            {
+                                "start": 26.07,
+                                "stop": 34.403,
+                                "byte_start": 195146,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed a concurring opinion and is joined by the Chief Justice and Justice Thomas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50562,
+            "mime": "audio\/mpeg",
+            "size": 228478,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-918\/19920226o_90-918.delivery.mp3"
+        },
+        {
+            "id": 72350,
+            "mime": "audio\/ogg",
+            "size": 337921,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-918\/19920226o_90-918.ogg"
+        },
+        {
+            "id": 72351,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-918\/19920226o_90-918.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

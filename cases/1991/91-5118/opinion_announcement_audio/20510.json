@@ -1,0 +1,95 @@
+{
+    "id": 20510,
+    "title": "Opinion Announcement - June 15, 1992",
+    "transcript": {
+        "title": "Morgan v. Illinois",
+        "duration": 20.167,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.167,
+                "byte_start": 90845,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.167,
+                        "byte_start": 90845,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.554,
+                                "byte_start": 90845,
+                                "byte_stop": 121147,
+                                "text": "The second case is Morgan against Illinois, No.91-5118."
+                            },
+                            {
+                                "start": 7.554,
+                                "stop": 13.022,
+                                "byte_start": 121147,
+                                "byte_stop": 142985,
+                                "text": "The judgment of the Supreme Court of Illinois is reversed in this case."
+                            },
+                            {
+                                "start": 13.022,
+                                "stop": 20.167,
+                                "byte_start": 142985,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed a dissenting opinion and he is joined by the Chief Justice and Justice Thomas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50144,
+            "mime": "audio\/mpeg",
+            "size": 171198,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/91-5118\/19920615o_91-5118.delivery.mp3"
+        },
+        {
+            "id": 71934,
+            "mime": "audio\/ogg",
+            "size": 198984,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/91-5118\/19920615o_91-5118.ogg"
+        },
+        {
+            "id": 71935,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/91-5118\/19920615o_91-5118.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 21366,
+    "title": "Opinion Announcement - May 21, 2007",
+    "transcript": {
+        "title": "Roper v. Weaver",
+        "duration": 18.024,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 18.024,
+                "byte_start": 89851,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 18.024,
+                        "byte_start": 89851,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.173,
+                                "byte_start": 89851,
+                                "byte_stop": 130602,
+                                "text": "In case 06-313, Roper versus Weaver the court has dismissed the writ of certiorari as improvidently granted."
+                            },
+                            {
+                                "start": 10.173,
+                                "stop": 12.682,
+                                "byte_start": 130602,
+                                "byte_stop": 140633,
+                                "text": "I have concurred separately in that result."
+                            },
+                            {
+                                "start": 12.682,
+                                "stop": 18.024,
+                                "byte_start": 140633,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed a dissent joined by Justices Thomas and Alito."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51856,
+            "mime": "audio\/mpeg",
+            "size": 161635,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2006\/06-313\/20070521o_06-313.delivery.mp3"
+        },
+        {
+            "id": 73628,
+            "mime": "audio\/ogg",
+            "size": 183777,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2006\/06-313\/20070521o_06-313.ogg"
+        },
+        {
+            "id": 73629,
+            "mime": "application\/x-mpegURL",
+            "size": 412,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2006\/06-313\/20070521o_06-313.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

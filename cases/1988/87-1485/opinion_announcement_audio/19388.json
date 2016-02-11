@@ -1,0 +1,146 @@
+{
+    "id": 19388,
+    "title": "Opinion Announcement - February 21, 1989",
+    "transcript": {
+        "title": "Blanchard v. Bergeron",
+        "duration": 26.906,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 26.906,
+                "byte_start": 86546,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 6.669,
+                        "byte_start": 86546,
+                        "byte_stop": 113295,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.669,
+                                "byte_start": 86546,
+                                "byte_stop": 113295,
+                                "text": "The opinions of the Court in two cases will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 6.669,
+                        "stop": 26.906,
+                        "byte_start": 113295,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 6.669,
+                                "stop": 12.742,
+                                "byte_start": 113295,
+                                "byte_stop": 137537,
+                                "text": "One of these cases is from the Fifth Circuit, Blanchard against Bergeron."
+                            },
+                            {
+                                "start": 12.742,
+                                "stop": 21.92,
+                                "byte_start": 137537,
+                                "byte_stop": 174317,
+                                "text": "For the reasons stated in the opinion on file with the clerk, we reverse the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 21.92,
+                                "stop": 26.906,
+                                "byte_start": 174317,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed an opinion concurring in part and concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47900,
+            "mime": "audio\/mpeg",
+            "size": 194170,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-1485\/19890221o_87-1485.delivery.mp3"
+        },
+        {
+            "id": 69724,
+            "mime": "audio\/ogg",
+            "size": 270553,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-1485\/19890221o_87-1485.ogg"
+        },
+        {
+            "id": 69725,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-1485\/19890221o_87-1485.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

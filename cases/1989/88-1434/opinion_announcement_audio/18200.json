@@ -1,0 +1,123 @@
+{
+    "id": 18200,
+    "title": "Opinion Announcement - February 21, 1990",
+    "transcript": {
+        "title": "Dole v. United Steelworkers of America",
+        "duration": 81.972,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 81.972,
+                "byte_start": 87142,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 81.972,
+                        "byte_start": 87142,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.774,
+                                "byte_start": 87142,
+                                "byte_stop": 122251,
+                                "text": "The other case is 88-143, Dole verus the United Steel Workers."
+                            },
+                            {
+                                "start": 8.774,
+                                "stop": 14.8,
+                                "byte_start": 122251,
+                                "byte_stop": 146388,
+                                "text": "The case is here on certiorari to the Court of Appeals for the Third Circuit."
+                            },
+                            {
+                                "start": 14.8,
+                                "stop": 31.219,
+                                "byte_start": 146388,
+                                "byte_stop": 212112,
+                                "text": "Among the regulatory tools available to government agencies charged with protecting public health and safety are rules which require regulated entities and disclose information directly to employees, consumers, or others."
+                            },
+                            {
+                                "start": 31.219,
+                                "stop": 40.816,
+                                "byte_start": 212112,
+                                "byte_stop": 250460,
+                                "text": "The disclosure rules protect by providing access to information about what dangers exist, and how these dangers can be avoided."
+                            },
+                            {
+                                "start": 40.816,
+                                "stop": 54.401,
+                                "byte_start": 250460,
+                                "byte_stop": 304794,
+                                "text": "Today we decide whether the Office of Management and Budget has the authority under the Paperwork Reduction Act of 1980 to review such regulations."
+                            },
+                            {
+                                "start": 54.401,
+                                "stop": 75.595,
+                                "byte_start": 304794,
+                                "byte_stop": 389535,
+                                "text": "We hold that the Paperwork Reduction Act does not give the Office of Management and Budget the authority to review and control agency regulations mandating disclosure by regulated entities directly to third parties and therefore, affirm the Court of Appeals."
+                            },
+                            {
+                                "start": 75.595,
+                                "stop": 81.972,
+                                "byte_start": 389535,
+                                "byte_stop": 0,
+                                "text": "Justice White dissents and has filed a dissenting opinion in which the Chief Justice has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45522,
+            "mime": "audio\/mpeg",
+            "size": 415031,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-1434\/19900221o_88-1434.delivery.mp3"
+        },
+        {
+            "id": 67372,
+            "mime": "audio\/ogg",
+            "size": 840735,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-1434\/19900221o_88-1434.ogg"
+        },
+        {
+            "id": 67373,
+            "mime": "application\/x-mpegURL",
+            "size": 1343,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-1434\/19900221o_88-1434.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

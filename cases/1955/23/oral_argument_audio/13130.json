@@ -1,0 +1,835 @@
+{
+    "id": 13130,
+    "title": "Oral Argument - October 18, 1955",
+    "media_file": [
+        {
+            "id": 35380,
+            "mime": "audio\/mpeg",
+            "size": 1993498,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1955\/23\/19551018a_23.delivery.mp3"
+        },
+        {
+            "id": 57437,
+            "mime": "audio\/ogg",
+            "size": 4511834,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1955\/23\/19551018a_23.ogg"
+        },
+        {
+            "id": 57438,
+            "mime": "application\/x-mpegURL",
+            "size": 6507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1955\/23\/19551018a_23.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Slochower v. Board of Higher Education of New York City",
+        "duration": 491.13,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 491.13,
+                "byte_start": 28672,
+                "byte_stop": 1993185,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 58.293,
+                        "byte_start": 28672,
+                        "byte_stop": 261893,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 51.421,
+                                "byte_start": 28672,
+                                "byte_stop": 234412,
+                                "text": "Number 23, Harry Slochower versus The Board of Higher Education of the City of New York."
+                            },
+                            {
+                                "start": 51.421,
+                                "stop": 58.293,
+                                "byte_start": 234412,
+                                "byte_stop": 261893,
+                                "text": "Mr. London."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 58.293,
+                        "stop": 130.265,
+                        "byte_start": 261893,
+                        "byte_stop": 549763,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 58.293,
+                                "stop": 66.188,
+                                "byte_start": 261893,
+                                "byte_stop": 293449,
+                                "text": "This case is an appeal from the -- the decision of the New York Court of Appeals."
+                            },
+                            {
+                                "start": 66.188,
+                                "stop": 81.188,
+                                "byte_start": 293449,
+                                "byte_stop": 353426,
+                                "text": "It involves the constitutionality of New York City Charter Section 903, that\u0027s the same statute that was considered by the Court in the Regan case."
+                            },
+                            {
+                                "start": 81.188,
+                                "stop": 95.361,
+                                "byte_start": 353426,
+                                "byte_stop": 410164,
+                                "text": "The Court did not pass on the constitutionality of the statute in that case or at least the problems that are here presented were not presented in the Regan case."
+                            },
+                            {
+                                "start": 95.361,
+                                "stop": 130.265,
+                                "byte_start": 410164,
+                                "byte_stop": 549763,
+                                "text": "The question before the Court is simply whether a State can pass a law forbidding its employees to invoke a constitutional right in a federal proceeding or whether it can pass a law providing for the discharge of public employees who invoke the Fifth Amendment right against self-incrimination in a federal proceeding."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 130.265,
+                        "stop": 134.764,
+                        "byte_start": 549763,
+                        "byte_stop": 567735,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 130.265,
+                                "stop": 134.764,
+                                "byte_start": 549763,
+                                "byte_stop": 567735,
+                                "text": "The matter -- what the matter is the question is narrowed on that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 134.764,
+                        "stop": 136.493,
+                        "byte_start": 567735,
+                        "byte_stop": 574736,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 134.764,
+                                "stop": 136.493,
+                                "byte_start": 567735,
+                                "byte_stop": 574736,
+                                "text": "I don\u0027t think it is, Your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 136.493,
+                        "stop": 140.767,
+                        "byte_start": 574736,
+                        "byte_stop": 591768,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 136.493,
+                                "stop": 140.767,
+                                "byte_start": 574736,
+                                "byte_stop": 591768,
+                                "text": "Well, you just suggest employees in the abstract, all sorts of employees?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 140.767,
+                        "stop": 143.627,
+                        "byte_start": 591768,
+                        "byte_stop": 603261,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 140.767,
+                                "stop": 143.627,
+                                "byte_start": 591768,
+                                "byte_stop": 603261,
+                                "text": "We have -- we have a specific employee, Your Honor, a --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 143.627,
+                        "stop": 149.169,
+                        "byte_start": 603261,
+                        "byte_stop": 625413,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 143.627,
+                                "stop": 149.169,
+                                "byte_start": 603261,
+                                "byte_stop": 625413,
+                                "text": "A specific class of the employee, (Inaudible) that it\u0027s all teachers."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 149.169,
+                        "stop": 150.561,
+                        "byte_start": 625413,
+                        "byte_stop": 630951,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 149.169,
+                                "stop": 150.561,
+                                "byte_start": 625413,
+                                "byte_stop": 630951,
+                                "text": "This is one teacher."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 150.561,
+                        "stop": 151.279,
+                        "byte_start": 630951,
+                        "byte_stop": 633877,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 150.561,
+                                "stop": 151.279,
+                                "byte_start": 630951,
+                                "byte_stop": 633877,
+                                "text": "One teacher?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 151.279,
+                        "stop": 152.008,
+                        "byte_start": 633877,
+                        "byte_stop": 636803,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 151.279,
+                                "stop": 152.008,
+                                "byte_start": 633877,
+                                "byte_stop": 636803,
+                                "text": "Yes, Your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 152.008,
+                        "stop": 155.521,
+                        "byte_start": 636803,
+                        "byte_stop": 650804,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 152.008,
+                                "stop": 155.521,
+                                "byte_start": 636803,
+                                "byte_stop": 650804,
+                                "text": "Only one (Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 155.521,
+                        "stop": 157.926,
+                        "byte_start": 650804,
+                        "byte_stop": 660417,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 155.521,
+                                "stop": 157.926,
+                                "byte_start": 650804,
+                                "byte_stop": 660417,
+                                "text": "I haven\u0027t raised the question of academic freedom --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 157.926,
+                        "stop": 158.092,
+                        "byte_start": 660417,
+                        "byte_stop": 661044,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 157.926,
+                                "stop": 158.092,
+                                "byte_start": 660417,
+                                "byte_stop": 661044,
+                                "text": "All right."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 158.092,
+                        "stop": 217.648,
+                        "byte_start": 661044,
+                        "byte_stop": 899281,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 158.092,
+                                "stop": 158.913,
+                                "byte_start": 661044,
+                                "byte_stop": 664388,
+                                "text": "-- on this appeal."
+                            },
+                            {
+                                "start": 158.913,
+                                "stop": 185.897,
+                                "byte_start": 664388,
+                                "byte_stop": 772326,
+                                "text": "I don\u0027t think it\u0027s necessary that the -- the statute provides, suffice its relative to the issues in this case that if any employee of the city before any legislative committee refuses to testify regarding official conduct on the ground that his answer would tend to incriminate him, his term or tenure of office would terminate."
+                            },
+                            {
+                                "start": 185.897,
+                                "stop": 198.205,
+                                "byte_start": 772326,
+                                "byte_stop": 821541,
+                                "text": "Then the statute goes on and say that he shall not be eligible to election or appointment but any other office or employment under the city or any other agency."
+                            },
+                            {
+                                "start": 198.205,
+                                "stop": 217.648,
+                                "byte_start": 821541,
+                                "byte_stop": 899281,
+                                "text": "In short, where the federal employee invokes his constitutional right in a federal proceeding, he is not only dismissed but he cannot thereafter hold city office either elective or appointive."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 217.648,
+                        "stop": 223.797,
+                        "byte_start": 899281,
+                        "byte_stop": 923941,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 217.648,
+                                "stop": 223.797,
+                                "byte_start": 899281,
+                                "byte_stop": 923941,
+                                "text": "Have they passed on (Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 223.797,
+                        "stop": 237.424,
+                        "byte_start": 923941,
+                        "byte_stop": 978380,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 223.797,
+                                "stop": 225.139,
+                                "byte_start": 923941,
+                                "byte_stop": 929270,
+                                "text": "I didn\u0027t answer that, Your Honor."
+                            },
+                            {
+                                "start": 225.139,
+                                "stop": 237.424,
+                                "byte_start": 929270,
+                                "byte_stop": 978380,
+                                "text": "I think in the reply brief and that I -- I think it completely answered it if the one -- one short answer to that is that the court below considered it to pass on the question."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 237.424,
+                        "stop": 239.271,
+                        "byte_start": 978380,
+                        "byte_stop": 985799,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 237.424,
+                                "stop": 239.271,
+                                "byte_start": 978380,
+                                "byte_stop": 985799,
+                                "text": "Could define and what for?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 239.271,
+                        "stop": 319.105,
+                        "byte_start": 985799,
+                        "byte_stop": 1305119,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 239.271,
+                                "stop": 264.588,
+                                "byte_start": 985799,
+                                "byte_stop": 1087049,
+                                "text": "If I may read, Your Honor, I\u0027m reading now from the decision of the Appellate Division that\u0027s on the record at page 50 and the Court there says, \u0022The Charter provision does not abridge the constitutional privilege against self-incrimination\u0022."
+                            },
+                            {
+                                "start": 264.588,
+                                "stop": 275.477,
+                                "byte_start": 1087049,
+                                "byte_stop": 1130621,
+                                "text": "Now, going on to the Court of Appeals, the minority opinion, I\u0027m reading now from page 61.\u0022"
+                            },
+                            {
+                                "start": 275.477,
+                                "stop": 290.785,
+                                "byte_start": 1130621,
+                                "byte_stop": 1191852,
+                                "text": "All sides concede that aside from the supposed applicability of Section 903, the teachers could not be deprived of there positions the exercising their Fifth Amendment right citing matter of grave.\u0022"
+                            },
+                            {
+                                "start": 290.785,
+                                "stop": 294.421,
+                                "byte_start": 1191852,
+                                "byte_stop": 1206376,
+                                "text": "I\u0027d like to come back to that citation in just a moment."
+                            },
+                            {
+                                "start": 294.421,
+                                "stop": 301.934,
+                                "byte_start": 1206376,
+                                "byte_stop": 1236470,
+                                "text": "Now, going back to the majority opinion in the Court of Appeals and I\u0027m reading from page 56 of the record."
+                            },
+                            {
+                                "start": 301.934,
+                                "stop": 319.105,
+                                "byte_start": 1236470,
+                                "byte_stop": 1305119,
+                                "text": "The Court in discussing the opinion below said that of the Appellate Division found and now I\u0027m quoting, \u0022That the Charter provisions did not abridge the constitutional privilege against self-incrimination.\u0022"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 319.105,
+                        "stop": 325.037,
+                        "byte_start": 1305119,
+                        "byte_stop": 1328839,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 319.105,
+                                "stop": 325.037,
+                                "byte_start": 1305119,
+                                "byte_stop": 1328839,
+                                "text": "Where is the Court (Inaudible)"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 325.037,
+                        "stop": 478.646,
+                        "byte_start": 1328839,
+                        "byte_stop": 1943343,
+                        "speaker": {
+                            "ID": 22695,
+                            "name": "Ephraim London",
+                            "href": "https:\/\/api.oyez.org\/people\/ephraim_london",
+                            "last_name": "London",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "ephraim_london"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 325.037,
+                                "stop": 346.247,
+                                "byte_start": 1328839,
+                                "byte_stop": 1413684,
+                                "text": "Well, if Your Honor please, on the -- on the questions that were raised on the motion to amend the remittitur, I think the -- the counsel for the city took the position that if these questions had been passed upon by the Court, there was now a necessity for the amendment of the remittitur."
+                            },
+                            {
+                                "start": 346.247,
+                                "stop": 348.436,
+                                "byte_start": 1413684,
+                                "byte_stop": 1422461,
+                                "text": "And I believe the Court adopted that position."
+                            },
+                            {
+                                "start": 348.436,
+                                "stop": 367.536,
+                                "byte_start": 1422461,
+                                "byte_stop": 1498843,
+                                "text": "I think it was perfectly correct, if I may say, and has nothing to do with the issue before the Court, I oppose the -- or I was -- I advise against the making of a motion to amend the remittitur because I thought that the record was quite clear."
+                            },
+                            {
+                                "start": 367.536,
+                                "stop": 386.19,
+                                "byte_start": 1498843,
+                                "byte_stop": 1573449,
+                                "text": "If I may proceed with the argument or rather what the facts of this particular case, before September 1952, Professor Slochower had been a teacher or professor of literature and of German at Brooklyn College."
+                            },
+                            {
+                                "start": 386.19,
+                                "stop": 392.162,
+                                "byte_start": 1573449,
+                                "byte_stop": 1597377,
+                                "text": "He had been teaching there for some 27 years."
+                            },
+                            {
+                                "start": 392.162,
+                                "stop": 398.947,
+                                "byte_start": 1597377,
+                                "byte_stop": 1624545,
+                                "text": "In September of 1952, he was called before United States Senate Subcommittee."
+                            },
+                            {
+                                "start": 398.947,
+                                "stop": 420.567,
+                                "byte_start": 1624545,
+                                "byte_stop": 1710958,
+                                "text": "The Subcommittee was investigating the Internal Security Act and at the very outset, Senator Ferguson, who was the Chairman of the Committee, made it clear that he was not investigating the public educational system but only the internal security problems that affected the nation."
+                            },
+                            {
+                                "start": 420.567,
+                                "stop": 432.013,
+                                "byte_start": 1710958,
+                                "byte_stop": 1756829,
+                                "text": "There was some later qualification of that statement by another member of the Committee but I think that the opening statement of the Chairman stood as the purpose of the -- as the purpose of the hearing."
+                            },
+                            {
+                                "start": 432.013,
+                                "stop": 450.425,
+                                "byte_start": 1756829,
+                                "byte_stop": 1830390,
+                                "text": "Dr. Slochower came before the Senate Subcommittee and testified freely on the question of present membership in the Communist Party, even not that he was a member of the Communist Party at the time of the inquiry."
+                            },
+                            {
+                                "start": 450.425,
+                                "stop": 460.607,
+                                "byte_start": 1830390,
+                                "byte_stop": 1871141,
+                                "text": "He stated, he had not been a member of the Communist Party for the years following 1941."
+                            },
+                            {
+                                "start": 460.607,
+                                "stop": 470.411,
+                                "byte_start": 1871141,
+                                "byte_stop": 1910324,
+                                "text": "He invoked his privilege against self-incrimination only with respect to questions relating to the years 1940 and 1941."
+                            },
+                            {
+                                "start": 470.411,
+                                "stop": 478.646,
+                                "byte_start": 1910324,
+                                "byte_stop": 1943343,
+                                "text": "He said he would answer any other question that the Committee asked and he did."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 478.646,
+                        "stop": 491.13,
+                        "byte_start": 1943343,
+                        "byte_stop": 1993185,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 478.646,
+                                "stop": 491.13,
+                                "byte_start": 1943343,
+                                "byte_stop": 1993185,
+                                "text": "We\u0027ll -- we\u0027ll recess now Mr. -- Mr. London this (Inaudible)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

@@ -1,0 +1,360 @@
+{
+    "id": 22580,
+    "title": "Opinion Announcement - April 30, 2007",
+    "transcript": {
+        "title": "Microsoft Corporation v. AT\u0026T Corp.",
+        "duration": 440.738,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 440.738,
+                "byte_start": 89919,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 11.773,
+                        "byte_start": 89919,
+                        "byte_stop": 137044,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.773,
+                                "byte_start": 89919,
+                                "byte_stop": 137044,
+                                "text": "We begin this morning with Justice Ginsburg who has the opinion for the court in the case 05-1056; Microsoft v. AT\u0026T."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 11.773,
+                        "stop": 440.738,
+                        "byte_start": 137044,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15084,
+                            "name": "Ruth Bader Ginsburg",
+                            "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                            "last_name": "Ginsburg",
+                            "roles": [
+                                {
+                                    "id": 2728,
+                                    "type": "scotus_justice",
+                                    "date_start": 744958800,
+                                    "date_end": 0,
+                                    "appointing_president": "Bill Clinton",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32681,
+                                "mime": "image\/png",
+                                "size": 45030,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            },
+                            "length_of_service": 8135,
+                            "identifier": "ruth_bader_ginsburg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 11.773,
+                                "stop": 24.787,
+                                "byte_start": 137044,
+                                "byte_stop": 189080,
+                                "text": "It is a general rule on the United States patent law that \u201cno infringement occurs when a patented product is made and sold in another country.\u201d"
+                            },
+                            {
+                                "start": 24.787,
+                                "stop": 45.914,
+                                "byte_start": 189080,
+                                "byte_stop": 273612,
+                                "text": "There is an exception, Section 271(f) of the Patent Act, adopted in 1984, provides that infringement does occur when one supplies from the United States for combination abroad, a patented invention\u2019s components."
+                            },
+                            {
+                                "start": 45.914,
+                                "stop": 69.632,
+                                "byte_start": 273612,
+                                "byte_stop": 368489,
+                                "text": "The question presented, does the exception stated in 271(f) applied to computer software, first sent from the United States to a foreign manufacturer on a master disk via electronic transmission, then copied by the foreign recipient and installed on computers made and sold abroad."
+                            },
+                            {
+                                "start": 69.632,
+                                "stop": 82.595,
+                                "byte_start": 368489,
+                                "byte_stop": 420316,
+                                "text": "Our answer is no, the concrete case AT\u0026T holds a patent on a computer capable of digitally encoding and compressing recorded speech."
+                            },
+                            {
+                                "start": 82.595,
+                                "stop": 99.954,
+                                "byte_start": 420316,
+                                "byte_stop": 489801,
+                                "text": "Microsoft\u2019s Windows operating system has the potential to infringe that patent because Windows incorporates software that when installed, enables a computer to process speech in the manner claimed by the patent."
+                            },
+                            {
+                                "start": 99.954,
+                                "stop": 108.242,
+                                "byte_start": 489801,
+                                "byte_stop": 522925,
+                                "text": "The instant litigation concerns Microsoft\u2019s sales of Windows to foreign computer manufacturers."
+                            },
+                            {
+                                "start": 108.242,
+                                "stop": 122.544,
+                                "byte_start": 522925,
+                                "byte_stop": 580185,
+                                "text": "Typically, Microsoft sends its foreign customers a master version of Windows either on a disk or via an encrypted electronic transmission, which the foreign manufacturer uses to generate copies."
+                            },
+                            {
+                                "start": 122.544,
+                                "stop": 135.622,
+                                "byte_start": 580185,
+                                "byte_stop": 632430,
+                                "text": "Those copies, not the master sent by Microsoft, are installed on the foreign manufacturer\u2019s computers the computers are then sold to users abroad."
+                            },
+                            {
+                                "start": 135.622,
+                                "stop": 144.233,
+                                "byte_start": 632430,
+                                "byte_stop": 666912,
+                                "text": "AT\u0026T filed suit charging Microsoft with infringement based on the foreign installations of Windows."
+                            },
+                            {
+                                "start": 144.233,
+                                "stop": 163.681,
+                                "byte_start": 666912,
+                                "byte_stop": 744652,
+                                "text": "By sending Windows to foreign manufacturers, AT\u0026T urged Microsoft in Section 271(f)\u2019s words, supplied from the United States for combination abroad components of AT\u0026T\u2019s patent in speech processing computer."
+                            },
+                            {
+                                "start": 163.681,
+                                "stop": 172.993,
+                                "byte_start": 744652,
+                                "byte_stop": 781955,
+                                "text": "The district court agreed with AT\u0026T and a divided panel of the Federal Circuit affirmed; we now reverse."
+                            },
+                            {
+                                "start": 172.993,
+                                "stop": 181.178,
+                                "byte_start": 781955,
+                                "byte_stop": 814660,
+                                "text": "Microsoft does not export from the United States the copies of Windows actually installed on the foreign-made computers in question."
+                            },
+                            {
+                                "start": 181.178,
+                                "stop": 191.314,
+                                "byte_start": 814660,
+                                "byte_stop": 855202,
+                                "text": "Therefore, Microsoft does not supply from the United States components of those computers and has not rendered an infringer by 271(f)."
+                            },
+                            {
+                                "start": 191.314,
+                                "stop": 201.517,
+                                "byte_start": 855202,
+                                "byte_stop": 896058,
+                                "text": "We take up first what 271(f) encompasses as a component combined abroad to form a patented invention."
+                            },
+                            {
+                                "start": 201.517,
+                                "stop": 212.736,
+                                "byte_start": 896058,
+                                "byte_stop": 940884,
+                                "text": "Until expressed as a computer readable copy, Windows indeed any software detached from an activating medium remains un-combinable."
+                            },
+                            {
+                                "start": 212.736,
+                                "stop": 218.275,
+                                "byte_start": 940884,
+                                "byte_stop": 963036,
+                                "text": "It cannot be inserted into a CD-ROM drive or downloaded from the Internet."
+                            },
+                            {
+                                "start": 218.275,
+                                "stop": 222.241,
+                                "byte_start": 963036,
+                                "byte_stop": 978918,
+                                "text": "It cannot be installed or executed on a computer."
+                            },
+                            {
+                                "start": 222.241,
+                                "stop": 235.35,
+                                "byte_start": 978918,
+                                "byte_stop": 1031372,
+                                "text": "Abstract Software Code is an idea without physical embodiment and as such it does not match 271(f)\u2019s categorization, components amenable to combination."
+                            },
+                            {
+                                "start": 235.35,
+                                "stop": 243.373,
+                                "byte_start": 1031372,
+                                "byte_stop": 1063450,
+                                "text": "Installable copies of Windows in contrast would fit 271(f)\u2019s usage of the word component."
+                            },
+                            {
+                                "start": 243.373,
+                                "stop": 252.644,
+                                "byte_start": 1063450,
+                                "byte_stop": 1100544,
+                                "text": "But Microsoft did not supply from the United States the foreign-made copies of Windows installed on the computers here involved."
+                            },
+                            {
+                                "start": 252.644,
+                                "stop": 257.25,
+                                "byte_start": 1100544,
+                                "byte_stop": 1118935,
+                                "text": "Those copies were supplied from outside the United States."
+                            },
+                            {
+                                "start": 257.25,
+                                "stop": 263.966,
+                                "byte_start": 1118935,
+                                "byte_stop": 1145788,
+                                "text": "The Federal Circuit majority observed, however, that software components are not like machine parts."
+                            },
+                            {
+                                "start": 263.966,
+                                "stop": 279.628,
+                                "byte_start": 1145788,
+                                "byte_stop": 1208482,
+                                "text": "Given the character of the technology, the majority concluded \u201csending a single copy of software abroad with the intent that it would be replicated should trigger 271(f) liability for the foreign-made copies."
+                            },
+                            {
+                                "start": 279.628,
+                                "stop": 285.47,
+                                "byte_start": 1208482,
+                                "byte_stop": 1231888,
+                                "text": "We resist the Federal Circuit majority\u2019s dynamic reading of 271(f)."
+                            },
+                            {
+                                "start": 285.47,
+                                "stop": 307.594,
+                                "byte_start": 1231888,
+                                "byte_stop": 1320391,
+                                "text": "The statute\u2019s text and the problem to which Congress responded in 1984, lead us to conclude that under 271(f) only components supplied from the United States and not foreign-made copies thereof can trigger liability when combined abroad to form the patented invention at issue."
+                            },
+                            {
+                                "start": 307.594,
+                                "stop": 328.678,
+                                "byte_start": 1320391,
+                                "byte_stop": 1404714,
+                                "text": "Two, copying software abroad is both easy and inexpensive, Section 271(f), however, contains no instruction to gauge when duplication is easy and cheap enough to deem a copy in fact made abroad nevertheless supplied from the United States."
+                            },
+                            {
+                                "start": 328.678,
+                                "stop": 338.704,
+                                "byte_start": 1404714,
+                                "byte_stop": 1444838,
+                                "text": "Any doubt that Microsoft\u2019s conduct falls outside 271(f)\u2019s compass would be resolved by the presumption against extraterritoriality."
+                            },
+                            {
+                                "start": 338.704,
+                                "stop": 353.654,
+                                "byte_start": 1444838,
+                                "byte_stop": 1504606,
+                                "text": "Foreign conduct is generally the domain of foreign law and in the patent area that law may embody policy judgments different from our own about the relative right of inventors, competitors, and the public."
+                            },
+                            {
+                                "start": 353.654,
+                                "stop": 377.688,
+                                "byte_start": 1504606,
+                                "byte_stop": 1600737,
+                                "text": "Applied to this case, the presumption tugs strongly against construing 271(f) to accomplish as a component, not only a physical copy of software but also software\u2019s intangible code and to render supply from the United States, not only exported copies of software but also duplicates made abroad."
+                            },
+                            {
+                                "start": 377.688,
+                                "stop": 388.074,
+                                "byte_start": 1600737,
+                                "byte_stop": 1642219,
+                                "text": "If AT\u0026T desires to prevent copying abroad, its remedy today lies in obtaining and enforcing foreign patent."
+                            },
+                            {
+                                "start": 388.074,
+                                "stop": 398.331,
+                                "byte_start": 1642219,
+                                "byte_stop": 1683284,
+                                "text": "We recognize that reading 271(f) to exclude from coverage foreign-made copies of software may create a loophole favoring software makers."
+                            },
+                            {
+                                "start": 398.331,
+                                "stop": 421.219,
+                                "byte_start": 1683284,
+                                "byte_stop": 1774817,
+                                "text": "We are un-persuaded however that dynamic judicial interpretation of 271(f) is in order to software\u2019s specific loophole, AT\u0026T and the Federal Circuit majority have identified is in our judgment properly left for Congress to consider and to close if it finds such action warranted."
+                            },
+                            {
+                                "start": 421.219,
+                                "stop": 430.871,
+                                "byte_start": 1774817,
+                                "byte_stop": 1813478,
+                                "text": "Justice Alito has filed an opinion concurring as to all but footnote 14, in which Justices Thomas and Breyer joined."
+                            },
+                            {
+                                "start": 430.871,
+                                "stop": 434.54,
+                                "byte_start": 1813478,
+                                "byte_stop": 1828107,
+                                "text": "Justice Stevens has filed a dissenting opinion."
+                            },
+                            {
+                                "start": 434.54,
+                                "stop": 440.738,
+                                "byte_start": 1828107,
+                                "byte_stop": 0,
+                                "text": "The chief justice took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 54282,
+            "mime": "audio\/mpeg",
+            "size": 1852871,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2006\/05-1056\/20070430o_05-1056.delivery.mp3"
+        },
+        {
+            "id": 76022,
+            "mime": "audio\/ogg",
+            "size": 4394342,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2006\/05-1056\/20070430o_05-1056.ogg"
+        },
+        {
+            "id": 76023,
+            "mime": "application\/x-mpegURL",
+            "size": 6579,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2006\/05-1056\/20070430o_05-1056.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,153 @@
+{
+    "id": 18529,
+    "title": "Opinion Announcement - February 24, 1987",
+    "transcript": {
+        "title": "Burlington Northern Railroad Company v. Woods",
+        "duration": 55.118,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 55.118,
+                "byte_start": 91788,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 14.556,
+                        "byte_start": 91788,
+                        "byte_stop": 150093,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.556,
+                                "byte_start": 91788,
+                                "byte_stop": 150093,
+                                "text": "The opinions of the Court in No. 85-1088, Burlington Northern Railroad Company against Woods, and 85-1589, Iowa Mutual Insurance Company against Laplante will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 14.556,
+                        "stop": 55.118,
+                        "byte_start": 150093,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 14.556,
+                                "stop": 28.057,
+                                "byte_start": 150093,
+                                "byte_stop": 204115,
+                                "text": "In the Burlington Northern Railroad Company versus Woods case, the United States Court of Appeals for the Eleventh Circuit awarded respondent as successor appellees."
+                            },
+                            {
+                                "start": 28.057,
+                                "stop": 36.634,
+                                "byte_start": 204115,
+                                "byte_stop": 238387,
+                                "text": "10% additional damages pursuant to Alabama\u0027s affirmance penalty statute."
+                            },
+                            {
+                                "start": 36.634,
+                                "stop": 52.146,
+                                "byte_start": 238387,
+                                "byte_stop": 300454,
+                                "text": "We hold that this statute conflicts with Rule 38 of the Federal Rules of Appellate Procedure, and therefore has no application to judgment entered by a Federal Courts sitting in diversity cases."
+                            },
+                            {
+                                "start": 52.146,
+                                "stop": 55.118,
+                                "byte_start": 300454,
+                                "byte_stop": 0,
+                                "text": "We thefore reverse the judgment below."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46180,
+            "mime": "audio\/mpeg",
+            "size": 312261,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-1088\/19870224o_85-1088.delivery.mp3"
+        },
+        {
+            "id": 68020,
+            "mime": "audio\/ogg",
+            "size": 525180,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-1088\/19870224o_85-1088.ogg"
+        },
+        {
+            "id": 68021,
+            "mime": "application\/x-mpegURL",
+            "size": 947,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-1088\/19870224o_85-1088.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

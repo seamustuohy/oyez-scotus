@@ -1,0 +1,147 @@
+{
+    "id": 17542,
+    "title": "Opinion Announcement - March 18, 1975",
+    "transcript": {
+        "title": "Huffman v. Pursue, Ltd.",
+        "duration": 101.493,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 101.493,
+                "byte_start": 28672,
+                "byte_stop": 434615,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 101.493,
+                        "byte_start": 28672,
+                        "byte_stop": 434615,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.034,
+                                "byte_start": 28672,
+                                "byte_stop": 68901,
+                                "text": "In Huffman against Pursue, 73-296, we have a case that comes to us from a three-judge district court in Ohio."
+                            },
+                            {
+                                "start": 10.034,
+                                "stop": 18.313,
+                                "byte_start": 68901,
+                                "byte_stop": 102024,
+                                "text": "Appellee is a movie exhibitor whose theater was ordered closed by a state court under the Ohio civil nuisance statute."
+                            },
+                            {
+                                "start": 18.313,
+                                "stop": 29.551,
+                                "byte_start": 102024,
+                                "byte_stop": 146954,
+                                "text": "Rather than appeal the state court judgment in the Ohio appellate system, the appellee immediately filed this civil rights action or Section 1983 in the Federal District Court."
+                            },
+                            {
+                                "start": 29.551,
+                                "stop": 41.484,
+                                "byte_start": 146954,
+                                "byte_stop": 194706,
+                                "text": "And the three-judge district court concluded that an Ohio nuisance statute was a prior restraint on First Amendment activities and enjoined execution of the state court judgment."
+                            },
+                            {
+                                "start": 41.484,
+                                "stop": 57.342,
+                                "byte_start": 194706,
+                                "byte_stop": 258132,
+                                "text": "On this appeal we dont reach the merits of the First Amendment issues because we have concluded that the District Court should not have asserted jurisdiction over this case absent a showing of the extraordinary circumstances recognized in Younger against Harris."
+                            },
+                            {
+                                "start": 57.342,
+                                "stop": 74.266,
+                                "byte_start": 258132,
+                                "byte_stop": 325841,
+                                "text": "For reasons set out at length in our opinion, we conclude that the notions of committee comity and federalism which underlie Younger are applicable when a federal court is asked to interfere with a state civil proceeding to which the state is a party and which is in aid of its criminal law."
+                            },
+                            {
+                                "start": 74.266,
+                                "stop": 87.91,
+                                "byte_start": 325841,
+                                "byte_stop": 380385,
+                                "text": "We also conclude that these same considerations require that a state litigant exhaust his state appellate remedies before being relieved of Youngers restrictions on interference with state proceedings which have already been initiated."
+                            },
+                            {
+                                "start": 87.91,
+                                "stop": 93.059,
+                                "byte_start": 380385,
+                                "byte_stop": 400969,
+                                "text": "We therefore vacate the judgment of the District Court and remand for further proceedings."
+                            },
+                            {
+                                "start": 93.059,
+                                "stop": 101.493,
+                                "byte_start": 400969,
+                                "byte_stop": 434615,
+                                "text": "Mr. Justice Brennan has filed a dissenting opinion in which Mr. Justice Douglas and Mr. Justice Marshall joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44206,
+            "mime": "audio\/mpeg",
+            "size": 434928,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-296\/19750318o_73-296.delivery.mp3"
+        },
+        {
+            "id": 66066,
+            "mime": "audio\/ogg",
+            "size": 1042212,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-296\/19750318o_73-296.ogg"
+        },
+        {
+            "id": 66067,
+            "mime": "application\/x-mpegURL",
+            "size": 1573,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-296\/19750318o_73-296.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

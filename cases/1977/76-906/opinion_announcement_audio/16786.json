@@ -1,0 +1,102 @@
+{
+    "id": 16786,
+    "title": "Opinion Announcement - December 12, 1977",
+    "transcript": {
+        "title": "United Air Lines, Inc. v. McMann",
+        "duration": 38.697,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.697,
+                "byte_start": 79993,
+                "byte_stop": 234742,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 38.697,
+                        "byte_start": 79993,
+                        "byte_stop": 234742,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.521,
+                                "byte_start": 79993,
+                                "byte_stop": 170168,
+                                "text": "I have the judgment and opinion for the Court to announce in 76-906, United Airlines against McMahon and for reasons stated in an opinion of the Court, filed with clerk this morning, the judgment of the United States Court of Appeals for the Fourth Circuit is reversed and the case is remanded to that court for further proceeding consistent with our opinion."
+                            },
+                            {
+                                "start": 22.521,
+                                "stop": 27.163,
+                                "byte_start": 170168,
+                                "byte_stop": 188662,
+                                "text": "Mr. Justice Stewart filed a separate opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 27.163,
+                                "stop": 32.269,
+                                "byte_start": 188662,
+                                "byte_stop": 209142,
+                                "text": "Mr. Justice White also filed an opinion, separate opinion, concurring in the judgment."
+                            },
+                            {
+                                "start": 32.269,
+                                "stop": 38.697,
+                                "byte_start": 209142,
+                                "byte_stop": 234742,
+                                "text": "Mr. Justice Marshall with whom Mr. Justice Brennan joined, filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42694,
+            "mime": "audio\/mpeg",
+            "size": 234951,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-906\/19771212o_76-906.delivery.mp3"
+        },
+        {
+            "id": 64604,
+            "mime": "audio\/ogg",
+            "size": 416232,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-906\/19771212o_76-906.ogg"
+        },
+        {
+            "id": 64605,
+            "mime": "application\/x-mpegURL",
+            "size": 670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-906\/19771212o_76-906.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

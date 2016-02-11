@@ -1,0 +1,102 @@
+{
+    "id": 17834,
+    "title": "Opinion Announcement - June 30, 1975",
+    "transcript": {
+        "title": "White v. Regester",
+        "duration": 42.89,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 42.89,
+                "byte_start": 28672,
+                "byte_stop": 200140,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 42.89,
+                        "byte_start": 28672,
+                        "byte_stop": 200140,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.98,
+                                "byte_start": 28672,
+                                "byte_stop": 68692,
+                                "text": "I have the judgment and opinion of the Court to announce in No. 73-1462, White against Regester."
+                            },
+                            {
+                                "start": 9.98,
+                                "stop": 18.125,
+                                "byte_start": 68692,
+                                "byte_stop": 101188,
+                                "text": "And for reasons stated in an opinion for the Court filed this morning, the judgment of the District Court is vacated."
+                            },
+                            {
+                                "start": 18.125,
+                                "stop": 35.291,
+                                "byte_start": 101188,
+                                "byte_stop": 169838,
+                                "text": "And the case is remanded to that Court for reconsideration in light of the recent Texas reapportionment legislation and for dismissal of the case if the case if the is or becomes moot."
+                            },
+                            {
+                                "start": 35.291,
+                                "stop": 42.89,
+                                "byte_start": 169838,
+                                "byte_stop": 200140,
+                                "text": "Mr. Justice Douglas took no part in the consideration or the decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44790,
+            "mime": "audio\/mpeg",
+            "size": 200453,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1462\/19750630o_73-1462.delivery.mp3"
+        },
+        {
+            "id": 66646,
+            "mime": "audio\/ogg",
+            "size": 435170,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1462\/19750630o_73-1462.ogg"
+        },
+        {
+            "id": 66647,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1462\/19750630o_73-1462.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

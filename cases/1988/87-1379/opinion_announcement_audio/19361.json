@@ -1,0 +1,123 @@
+{
+    "id": 19361,
+    "title": "Opinion Announcement - March 22, 1989",
+    "transcript": {
+        "title": "Department of Justice v. Reporters Committee for Freedom of the Press",
+        "duration": 84.085,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 84.085,
+                "byte_start": 86743,
+                "byte_stop": 422991,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 84.085,
+                        "byte_start": 86743,
+                        "byte_stop": 422991,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.688,
+                                "byte_start": 86743,
+                                "byte_stop": 141496,
+                                "text": "The second case, United States Department of Justice against Reporters Committee for Freedom of the Press, is a case that comes to us from the United States Court of Appeals for the District of Columbia Circuit."
+                            },
+                            {
+                                "start": 13.688,
+                                "stop": 27.745,
+                                "byte_start": 141496,
+                                "byte_stop": 197816,
+                                "text": "The respondents, a CBS news correspondent and the Reporters Committee for Freedom of the Press, seek disclosure of criminal history information about certain private individuals contained in FBI wrap sheets."
+                            },
+                            {
+                                "start": 27.745,
+                                "stop": 47.53,
+                                "byte_start": 197816,
+                                "byte_stop": 276914,
+                                "text": "Exemption 7(c) of the Freedom of Information Act exempts from disclosure records or information compiled for law enforcement purposes to the extent that the production of such materials could reasonably be expected to constitute an unwarranted invasion of personal property."
+                            },
+                            {
+                                "start": 47.53,
+                                "stop": 61.957,
+                                "byte_start": 276914,
+                                "byte_stop": 334593,
+                                "text": "In an opinion filed with the clerk, we hold that the interest of a private citizen in non-disclosure of a wrap sheet is the sort of personal privacy interest that congress intended exemption 7(c) to protect."
+                            },
+                            {
+                                "start": 61.957,
+                                "stop": 75.129,
+                                "byte_start": 334593,
+                                "byte_stop": 387360,
+                                "text": "We further hold that such an invasion of privacy is not warranted under the Act when the request seeks no official information about a government agency that merely records that the government happens to be storing."
+                            },
+                            {
+                                "start": 75.129,
+                                "stop": 78.505,
+                                "byte_start": 387360,
+                                "byte_stop": 400839,
+                                "text": "The judgment below is accordingly reversed."
+                            },
+                            {
+                                "start": 78.505,
+                                "stop": 84.085,
+                                "byte_start": 400839,
+                                "byte_stop": 422991,
+                                "text": "Justice Blakcmun has filed an opinion concurring the judgment in which Justice Brennan has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47846,
+            "mime": "audio\/mpeg",
+            "size": 423200,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-1379\/19890322o_87-1379.delivery.mp3"
+        },
+        {
+            "id": 69670,
+            "mime": "audio\/ogg",
+            "size": 839095,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-1379\/19890322o_87-1379.ogg"
+        },
+        {
+            "id": 69671,
+            "mime": "application\/x-mpegURL",
+            "size": 1387,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-1379\/19890322o_87-1379.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

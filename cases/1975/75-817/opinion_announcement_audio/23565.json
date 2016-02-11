@@ -1,0 +1,109 @@
+{
+    "id": 23565,
+    "title": "Opinion Announcement - June 30, 1976",
+    "transcript": {
+        "title": "Nebraska Press Assoc. v. Stuart",
+        "duration": 46.853,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.853,
+                "byte_start": 73739,
+                "byte_stop": 261089,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 46.853,
+                        "byte_start": 73739,
+                        "byte_stop": 261089,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.945,
+                                "byte_start": 73739,
+                                "byte_stop": 117520,
+                                "text": "I have the judgment and opinion of the Court to announce in number 75-817, Nebraska Press Association against Stuart."
+                            },
+                            {
+                                "start": 10.945,
+                                "stop": 22.056,
+                                "byte_start": 117520,
+                                "byte_stop": 162033,
+                                "text": "And for reasons stated in an opinion filed with the clerk this morning, the judgment of the Supreme Court of Nebraska is reversed."
+                            },
+                            {
+                                "start": 22.056,
+                                "stop": 31.345,
+                                "byte_start": 162033,
+                                "byte_stop": 199127,
+                                "text": "Mr. Justice White and Mr. Justice Powell while joining in the opinion, have filed concurring opinions."
+                            },
+                            {
+                                "start": 31.345,
+                                "stop": 40.839,
+                                "byte_start": 199127,
+                                "byte_stop": 237161,
+                                "text": "Mr. Justice Brennan joined by Mr. Justice Stewart and Mr. Justice Marshal filed an opinion concurring in the Judgment."
+                            },
+                            {
+                                "start": 40.839,
+                                "stop": 46.853,
+                                "byte_start": 237161,
+                                "byte_stop": 261089,
+                                "text": "Mr. Justice Stevens filed a separate opinion also concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56248,
+            "mime": "audio\/mpeg",
+            "size": 261298,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-817\/19760630o_75-817.delivery.mp3"
+        },
+        {
+            "id": 77950,
+            "mime": "audio\/ogg",
+            "size": 493020,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-817\/19760630o_75-817.ogg"
+        },
+        {
+            "id": 77951,
+            "mime": "application\/x-mpegURL",
+            "size": 799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-817\/19760630o_75-817.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

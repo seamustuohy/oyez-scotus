@@ -1,0 +1,552 @@
+{
+    "ID": 62371,
+    "name": "United States v. Reese",
+    "href": "https:\/\/api.oyez.org\/cases\/1850-1900\/92us214",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "United States",
+    "second_party": "Hiram Reese and Matthew Foushee",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -2996848800,
+                -2996762400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52903"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -2958919200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52904"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EIn January 1873, two election inspectors, Hiram Reese and Matthew Foushee, refused to allow William Garner, an African-American, to vote in a municipal election in Lexington, Kentucky. Reese and Foushee claimed Garner had failed to pay a tax of $1.50, but Garner had attempted to pay the tax and was refused by a tax collector. The Enforcement Act of 1870, which defined penalties associated with violations of voting rights under the Fifteenth Amendment, stipulated that if an official refused to permit a citizen to perform an action required for voting, the citizen could present an affidavit that would qualify him. Reese and Foushee refused to accept Garner\u0027s affidavit. Reese and Foushee were charged with violating the Enforcement Act. On appeal, the Circuit Court of the United States for the District of Kentucky found the relevant sections of the Enforcement Act too broad, exceeding the bounds of the Fifteenth Amendment, and dismissed the indictments.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EWas the Enforcement Act of 1870 a valid exercise of Congress\u0027s power to enforce the Fifteenth Amendment?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003ENo. In an 8-1 decision authored by Chief Justice Morrison Waite, the Court concluded that the relevant sections of the Enforcement Act lacked the necessary, limiting language to qualify as enforcement of the Fifteenth Amendment. The Chief Justice first stated that the Fifteenth Amendment \u0022does not confer the right of suffrage upon any one,\u0022 but \u0022prevents the States, or the United States, however, from giving preference\u2026to one citizen of the United States over another on account of race, color, or previous condition of servitude.\u0022 In examining the language of the Enforcement Act, the Court noted that, while the first two sections of the act explicitly referred to race in criminalizing interference with the right to vote, the relevant third and fourth sections refer only to the \u0022aforesaid\u0022 offense. According to the Court, this language does not sufficiently tailor the law to qualify as \u0022appropriate legislation\u0022 under the Enforcement Clause of the Fifteenth Amendment.\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "92",
+        "page": "214",
+        "year": "1876",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27173"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15181,
+            "name": "Waite Court (1874-1877)",
+            "href": "https:\/\/api.oyez.org\/courts\/waite1",
+            "members": [
+                {
+                    "ID": 15101,
+                    "name": "Morrison R. Waite",
+                    "href": "https:\/\/api.oyez.org\/people\/morrison_r_waite",
+                    "last_name": "Waite",
+                    "roles": [
+                        {
+                            "id": 2745,
+                            "type": "scotus_justice",
+                            "date_start": -3024064800,
+                            "date_end": -2580573600,
+                            "appointing_president": "Ulysses S. Grant",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2745"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32743,
+                        "mime": "image\/png",
+                        "size": 58958,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/morrison_waite.png"
+                    },
+                    "length_of_service": 5133,
+                    "identifier": "morrison_r_waite"
+                },
+                {
+                    "ID": 15072,
+                    "name": "Nathan Clifford",
+                    "href": "https:\/\/api.oyez.org\/people\/nathan_clifford",
+                    "last_name": "Clifford",
+                    "roles": [
+                        {
+                            "id": 2716,
+                            "type": "scotus_justice",
+                            "date_start": -3532615200,
+                            "date_end": -2790784800,
+                            "appointing_president": "James Buchanan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2716"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32744,
+                        "mime": "image\/png",
+                        "size": 51252,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/nathan_clifford.png"
+                    },
+                    "length_of_service": 8586,
+                    "identifier": "nathan_clifford"
+                },
+                {
+                    "ID": 15096,
+                    "name": "Noah Swayne",
+                    "href": "https:\/\/api.oyez.org\/people\/noah_swayne",
+                    "last_name": "Swayne",
+                    "roles": [
+                        {
+                            "id": 2740,
+                            "type": "scotus_justice",
+                            "date_start": -3405866400,
+                            "date_end": -2806509600,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2740"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32745,
+                        "mime": "image\/png",
+                        "size": 61407,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/noah_swayne.png"
+                    },
+                    "length_of_service": 6937,
+                    "identifier": "noah_swayne"
+                },
+                {
+                    "ID": 15103,
+                    "name": "Samuel F. Miller",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                    "last_name": "Miller",
+                    "roles": [
+                        {
+                            "id": 2747,
+                            "type": "scotus_justice",
+                            "date_start": -3390746400,
+                            "date_end": -2499876000,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32760,
+                        "mime": "image\/png",
+                        "size": 59082,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                    },
+                    "length_of_service": 10311,
+                    "identifier": "samuel_f_miller"
+                },
+                {
+                    "ID": 15124,
+                    "name": "David Davis",
+                    "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                    "last_name": "Davis",
+                    "roles": [
+                        {
+                            "id": 2769,
+                            "type": "scotus_justice",
+                            "date_start": -3378477600,
+                            "date_end": -2929370400,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32701,
+                        "mime": "image\/png",
+                        "size": 68309,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                    },
+                    "length_of_service": 5198,
+                    "identifier": "david_davis"
+                },
+                {
+                    "ID": 15122,
+                    "name": "Stephen J. Field",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                    "last_name": "Field",
+                    "roles": [
+                        {
+                            "id": 2767,
+                            "type": "scotus_justice",
+                            "date_start": -3364567200,
+                            "date_end": -2274717600,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32767,
+                        "mime": "image\/png",
+                        "size": 54586,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                    },
+                    "length_of_service": 12614,
+                    "identifier": "stephen_j_field"
+                },
+                {
+                    "ID": 15040,
+                    "name": "William Strong",
+                    "href": "https:\/\/api.oyez.org\/people\/william_strong",
+                    "last_name": "Strong",
+                    "roles": [
+                        {
+                            "id": 2684,
+                            "type": "scotus_justice",
+                            "date_start": -3149431200,
+                            "date_end": -2810052000,
+                            "appointing_president": "Ulysses S. Grant",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2684"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32784,
+                        "mime": "image\/png",
+                        "size": 52693,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_strong.png"
+                    },
+                    "length_of_service": 3928,
+                    "identifier": "william_strong"
+                },
+                {
+                    "ID": 15081,
+                    "name": "Joseph P. Bradley",
+                    "href": "https:\/\/api.oyez.org\/people\/joseph_p_bradley",
+                    "last_name": "Bradley",
+                    "roles": [
+                        {
+                            "id": 2725,
+                            "type": "scotus_justice",
+                            "date_start": -3148740000,
+                            "date_end": -2459700000,
+                            "appointing_president": "Ulysses S. Grant",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2725"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32734,
+                        "mime": "image\/png",
+                        "size": 58686,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_bradley.png"
+                    },
+                    "length_of_service": 7975,
+                    "identifier": "joseph_p_bradley"
+                },
+                {
+                    "ID": 15057,
+                    "name": "Ward Hunt",
+                    "href": "https:\/\/api.oyez.org\/people\/ward_hunt",
+                    "last_name": "Hunt",
+                    "roles": [
+                        {
+                            "id": 2701,
+                            "type": "scotus_justice",
+                            "date_start": -3060266400,
+                            "date_end": -2774714400,
+                            "appointing_president": "Ulysses S. Grant",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2701"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32772,
+                        "mime": "image\/png",
+                        "size": 50866,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ward_hunt.png"
+                    },
+                    "length_of_service": 3305,
+                    "identifier": "ward_hunt"
+                }
+            ],
+            "court_start": -3024064800,
+            "images": [
+                {
+                    "id": 78534,
+                    "mime": "image\/jpeg",
+                    "size": 986033,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/wait1_photograph.jpg"
+                }
+            ],
+            "identifier": "waite1"
+        }
+    ],
+    "decided_by": {
+        "ID": 15181,
+        "name": "Waite Court (1874-1877)",
+        "href": "https:\/\/api.oyez.org\/courts\/waite1",
+        "members": [
+            {
+                "ID": 15101,
+                "name": "Morrison R. Waite",
+                "href": "https:\/\/api.oyez.org\/people\/morrison_r_waite",
+                "last_name": "Waite",
+                "roles": [
+                    {
+                        "id": 2745,
+                        "type": "scotus_justice",
+                        "date_start": -3024064800,
+                        "date_end": -2580573600,
+                        "appointing_president": "Ulysses S. Grant",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2745"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32743,
+                    "mime": "image\/png",
+                    "size": 58958,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/morrison_waite.png"
+                },
+                "length_of_service": 5133,
+                "identifier": "morrison_r_waite"
+            },
+            {
+                "ID": 15072,
+                "name": "Nathan Clifford",
+                "href": "https:\/\/api.oyez.org\/people\/nathan_clifford",
+                "last_name": "Clifford",
+                "roles": [
+                    {
+                        "id": 2716,
+                        "type": "scotus_justice",
+                        "date_start": -3532615200,
+                        "date_end": -2790784800,
+                        "appointing_president": "James Buchanan",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2716"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32744,
+                    "mime": "image\/png",
+                    "size": 51252,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/nathan_clifford.png"
+                },
+                "length_of_service": 8586,
+                "identifier": "nathan_clifford"
+            },
+            {
+                "ID": 15096,
+                "name": "Noah Swayne",
+                "href": "https:\/\/api.oyez.org\/people\/noah_swayne",
+                "last_name": "Swayne",
+                "roles": [
+                    {
+                        "id": 2740,
+                        "type": "scotus_justice",
+                        "date_start": -3405866400,
+                        "date_end": -2806509600,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2740"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32745,
+                    "mime": "image\/png",
+                    "size": 61407,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/noah_swayne.png"
+                },
+                "length_of_service": 6937,
+                "identifier": "noah_swayne"
+            },
+            {
+                "ID": 15103,
+                "name": "Samuel F. Miller",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                "last_name": "Miller",
+                "roles": [
+                    {
+                        "id": 2747,
+                        "type": "scotus_justice",
+                        "date_start": -3390746400,
+                        "date_end": -2499876000,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32760,
+                    "mime": "image\/png",
+                    "size": 59082,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                },
+                "length_of_service": 10311,
+                "identifier": "samuel_f_miller"
+            },
+            {
+                "ID": 15124,
+                "name": "David Davis",
+                "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                "last_name": "Davis",
+                "roles": [
+                    {
+                        "id": 2769,
+                        "type": "scotus_justice",
+                        "date_start": -3378477600,
+                        "date_end": -2929370400,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32701,
+                    "mime": "image\/png",
+                    "size": 68309,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                },
+                "length_of_service": 5198,
+                "identifier": "david_davis"
+            },
+            {
+                "ID": 15122,
+                "name": "Stephen J. Field",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                "last_name": "Field",
+                "roles": [
+                    {
+                        "id": 2767,
+                        "type": "scotus_justice",
+                        "date_start": -3364567200,
+                        "date_end": -2274717600,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32767,
+                    "mime": "image\/png",
+                    "size": 54586,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                },
+                "length_of_service": 12614,
+                "identifier": "stephen_j_field"
+            },
+            {
+                "ID": 15040,
+                "name": "William Strong",
+                "href": "https:\/\/api.oyez.org\/people\/william_strong",
+                "last_name": "Strong",
+                "roles": [
+                    {
+                        "id": 2684,
+                        "type": "scotus_justice",
+                        "date_start": -3149431200,
+                        "date_end": -2810052000,
+                        "appointing_president": "Ulysses S. Grant",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2684"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32784,
+                    "mime": "image\/png",
+                    "size": 52693,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_strong.png"
+                },
+                "length_of_service": 3928,
+                "identifier": "william_strong"
+            },
+            {
+                "ID": 15081,
+                "name": "Joseph P. Bradley",
+                "href": "https:\/\/api.oyez.org\/people\/joseph_p_bradley",
+                "last_name": "Bradley",
+                "roles": [
+                    {
+                        "id": 2725,
+                        "type": "scotus_justice",
+                        "date_start": -3148740000,
+                        "date_end": -2459700000,
+                        "appointing_president": "Ulysses S. Grant",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2725"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32734,
+                    "mime": "image\/png",
+                    "size": 58686,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_bradley.png"
+                },
+                "length_of_service": 7975,
+                "identifier": "joseph_p_bradley"
+            },
+            {
+                "ID": 15057,
+                "name": "Ward Hunt",
+                "href": "https:\/\/api.oyez.org\/people\/ward_hunt",
+                "last_name": "Hunt",
+                "roles": [
+                    {
+                        "id": 2701,
+                        "type": "scotus_justice",
+                        "date_start": -3060266400,
+                        "date_end": -2774714400,
+                        "appointing_president": "Ulysses S. Grant",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2701"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32772,
+                    "mime": "image\/png",
+                    "size": 50866,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ward_hunt.png"
+                },
+                "length_of_service": 3305,
+                "identifier": "ward_hunt"
+            }
+        ],
+        "court_start": -3024064800,
+        "images": [
+            {
+                "id": 78534,
+                "mime": "image\/jpeg",
+                "size": 986033,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/wait1_photograph.jpg"
+            }
+        ],
+        "identifier": "waite1"
+    },
+    "term": "1850-1900",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

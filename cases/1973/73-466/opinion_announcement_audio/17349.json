@@ -1,0 +1,157 @@
+{
+    "id": 17349,
+    "title": "Opinion Announcement - May 20, 1974",
+    "transcript": {
+        "title": "William E. Arnold Company v. Carpenters District Council of Jacksonville and Vicinity",
+        "duration": 88.61,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 88.61,
+                "byte_start": 76800,
+                "byte_stop": 431229,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 87.166,
+                        "byte_start": 76800,
+                        "byte_stop": 425482,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.807,
+                                "byte_start": 76800,
+                                "byte_stop": 116088,
+                                "text": "The second case, 73-466, Arnold Company versus the Carpenters Union."
+                            },
+                            {
+                                "start": 9.807,
+                                "stop": 29.184,
+                                "byte_start": 116088,
+                                "byte_stop": 193620,
+                                "text": "In this case the Florida Supreme Court held that the Florida Courts were not empowered to exercise jurisdiction and a suit by an employer to enjoin a strike by a union over a grievance that was arbitrable under the terms of a collective bargaining agreement."
+                            },
+                            {
+                                "start": 29.184,
+                                "stop": 49.558,
+                                "byte_start": 193620,
+                                "byte_stop": 275122,
+                                "text": "The strike, the Supreme Court of Florida said, was arguably also an unfair labor practice under the National Labor Relations Act and therefore the State Supreme Court held it in that circumstance remedy for the breach was exclusively a matter for decision of the National Labor Relations Board."
+                            },
+                            {
+                                "start": 49.558,
+                                "stop": 51.243,
+                                "byte_start": 275122,
+                                "byte_stop": 281809,
+                                "text": "We disagree."
+                            },
+                            {
+                                "start": 51.243,
+                                "stop": 81.289,
+                                "byte_start": 281809,
+                                "byte_stop": 401972,
+                                "text": "In a long series of cases we had emphasized that the Congress in enacting Section 301 of the part of the amendments intended that state and federal courts have jurisdiction to enforce collective bargaining contracts providing for arbitration to grievances and to enjoin strikes over such grievances, even if the strikes, by arguably, also constitute unfair labor practice."
+                            },
+                            {
+                                "start": 81.289,
+                                "stop": 87.166,
+                                "byte_start": 401972,
+                                "byte_stop": 425482,
+                                "text": "We, therefore, unanimously reverse the judgment of the Florida Supreme Court."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 87.166,
+                        "stop": 88.61,
+                        "byte_start": 425482,
+                        "byte_stop": 431229,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 87.166,
+                                "stop": 88.61,
+                                "byte_start": 425482,
+                                "byte_stop": 431229,
+                                "text": "Thank you Mr. Justice Brennan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43820,
+            "mime": "audio\/mpeg",
+            "size": 431438,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-466\/19740520o_73-466.delivery.mp3"
+        },
+        {
+            "id": 65696,
+            "mime": "audio\/ogg",
+            "size": 844890,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-466\/19740520o_73-466.ogg"
+        },
+        {
+            "id": 65697,
+            "mime": "application\/x-mpegURL",
+            "size": 1401,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-466\/19740520o_73-466.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

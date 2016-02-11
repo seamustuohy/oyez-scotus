@@ -1,0 +1,153 @@
+{
+    "id": 20980,
+    "title": "Opinion Announcement - December 04, 1991",
+    "transcript": {
+        "title": "Southwest Marine, Inc. v Gizoni",
+        "duration": 32.758,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.758,
+                "byte_start": 90854,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 4.544,
+                        "byte_start": 90854,
+                        "byte_stop": 109035,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.544,
+                                "byte_start": 90854,
+                                "byte_stop": 109035,
+                                "text": "The opinions of the Court in two cases will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 4.544,
+                        "stop": 32.758,
+                        "byte_start": 109035,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 4.544,
+                                "stop": 11.718,
+                                "byte_start": 109035,
+                                "byte_stop": 137770,
+                                "text": "The first of these is Southwest Marine Incorporated against Gizoni."
+                            },
+                            {
+                                "start": 11.718,
+                                "stop": 14.97,
+                                "byte_start": 137770,
+                                "byte_stop": 150831,
+                                "text": "It is No. 90-584."
+                            },
+                            {
+                                "start": 14.97,
+                                "stop": 23.328,
+                                "byte_start": 150831,
+                                "byte_stop": 184268,
+                                "text": "For the reasons stated in an opinion on file with the Court, the judgment of the Court of Appeals for the Ninth Circuit is affirmed."
+                            },
+                            {
+                                "start": 23.328,
+                                "stop": 32.758,
+                                "byte_start": 184268,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas took no part in the consideration or decision of that case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51084,
+            "mime": "audio\/mpeg",
+            "size": 221884,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-584\/19911204o_90-584.delivery.mp3"
+        },
+        {
+            "id": 72860,
+            "mime": "audio\/ogg",
+            "size": 313329,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-584\/19911204o_90-584.ogg"
+        },
+        {
+            "id": 72861,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-584\/19911204o_90-584.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

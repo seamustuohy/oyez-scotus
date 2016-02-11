@@ -1,0 +1,167 @@
+{
+    "id": 20740,
+    "title": "Opinion Announcement - January 15, 1992",
+    "transcript": {
+        "title": "Dewsnup v. Timm",
+        "duration": 58.384,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 58.384,
+                "byte_start": 90838,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.633,
+                        "byte_start": 90838,
+                        "byte_stop": 125424,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.633,
+                                "byte_start": 90838,
+                                "byte_stop": 125424,
+                                "text": "The opinion of the Court in No. 90-741, Dewsnup against Timm will be announced by Justice Blackmun."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.633,
+                        "stop": 58.384,
+                        "byte_start": 125424,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15045,
+                            "name": "Harry A. Blackmun",
+                            "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "last_name": "Blackmun",
+                            "roles": [
+                                {
+                                    "id": 2689,
+                                    "type": "scotus_justice",
+                                    "date_start": 13755600,
+                                    "date_end": 775890000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2689"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32712,
+                                "mime": "image\/png",
+                                "size": 50281,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            },
+                            "length_of_service": 8821,
+                            "identifier": "harry_a_blackmun"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.633,
+                                "stop": 14.171,
+                                "byte_start": 125424,
+                                "byte_stop": 147576,
+                                "text": "Well, this is a bankruptcy case coming to us from the Tenth Circuit."
+                            },
+                            {
+                                "start": 14.171,
+                                "stop": 30.799,
+                                "byte_start": 147576,
+                                "byte_stop": 214136,
+                                "text": "The petitioner, a Chapter 7 debtor, filed an adversary proceeding asserting the right to strip down, as they called, the respondent\u0027s lien on a certain land to the judicially determined value of the collateral."
+                            },
+                            {
+                                "start": 30.799,
+                                "stop": 37.529,
+                                "byte_start": 214136,
+                                "byte_stop": 240990,
+                                "text": "The Bankruptcy Court entered a judgment of dismissal and the District Court and the Court of Appeals affirmed."
+                            },
+                            {
+                                "start": 37.529,
+                                "stop": 49.343,
+                                "byte_start": 240990,
+                                "byte_stop": 288219,
+                                "text": "This is not a case that lends itself to announcement from the bench and suffices to say that in an opinion filed with the clerk today, we too affirm the judgment of the courts below."
+                            },
+                            {
+                                "start": 49.343,
+                                "stop": 53.985,
+                                "byte_start": 288219,
+                                "byte_stop": 306818,
+                                "text": "Justice Scalia has filed a dissenting opinion in which Justice Souter joins."
+                            },
+                            {
+                                "start": 53.985,
+                                "stop": 58.384,
+                                "byte_start": 306818,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50604,
+            "mime": "audio\/mpeg",
+            "size": 324373,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-741\/19920115o_90-741.delivery.mp3"
+        },
+        {
+            "id": 72392,
+            "mime": "audio\/ogg",
+            "size": 563479,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-741\/19920115o_90-741.ogg"
+        },
+        {
+            "id": 72393,
+            "mime": "application\/x-mpegURL",
+            "size": 971,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-741\/19920115o_90-741.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

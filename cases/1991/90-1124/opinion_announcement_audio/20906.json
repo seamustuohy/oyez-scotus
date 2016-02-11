@@ -1,0 +1,105 @@
+{
+    "id": 20906,
+    "title": "Opinion Announcement - April 06, 1992",
+    "transcript": {
+        "title": "Jacobson v. United States",
+        "duration": 24.294,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.294,
+                "byte_start": 90852,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.294,
+                        "byte_start": 90852,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.863,
+                                "byte_start": 90852,
+                                "byte_stop": 122408,
+                                "text": "I have the opinion for the Court to announce in No. 90-1124, Jacobson against the United States."
+                            },
+                            {
+                                "start": 7.863,
+                                "stop": 15.415,
+                                "byte_start": 122408,
+                                "byte_stop": 152605,
+                                "text": "For the reason stated in an opinion filed with the Clerk today, the judgment of the Court of Appeals for the Eighth Circuit is reversed."
+                            },
+                            {
+                                "start": 15.415,
+                                "stop": 24.294,
+                                "byte_start": 152605,
+                                "byte_stop": 0,
+                                "text": "Justice O\u0027Connor has filed a dissenting opinion in which I, Justice Kennedy joined, and in which Justice Scalia joined except as to part two."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50936,
+            "mime": "audio\/mpeg",
+            "size": 188028,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-1124\/19920406o_90-1124.delivery.mp3"
+        },
+        {
+            "id": 72714,
+            "mime": "audio\/ogg",
+            "size": 243678,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-1124\/19920406o_90-1124.ogg"
+        },
+        {
+            "id": 72715,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-1124\/19920406o_90-1124.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

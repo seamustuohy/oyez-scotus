@@ -1,0 +1,133 @@
+{
+    "id": 23485,
+    "title": "Opinion Announcement - May 03, 2004",
+    "transcript": {
+        "title": "Johnson v. California",
+        "duration": 73.239,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 73.239,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 73.239,
+                        "byte_start": 28672,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.228,
+                                "byte_start": 28672,
+                                "byte_stop": 57616,
+                                "text": "I have the opinion of the Court to announce in No. 03-6539 Johnson against California."
+                            },
+                            {
+                                "start": 7.228,
+                                "stop": 16.433,
+                                "byte_start": 57616,
+                                "byte_stop": 94501,
+                                "text": "We granted certiorari in this case to review a decision of the Supreme Court of California interpreting Batson against Kentucky, a challenge as to jurors."
+                            },
+                            {
+                                "start": 16.433,
+                                "stop": 26.798,
+                                "byte_start": 94501,
+                                "byte_stop": 135879,
+                                "text": "The case was briefed and argued but we now conclude that we are without jurisdiction in the matter because the opinion of the California Supreme Court was not final."
+                            },
+                            {
+                                "start": 26.798,
+                                "stop": 40.946,
+                                "byte_start": 135879,
+                                "byte_stop": 192512,
+                                "text": "We conclude this opinion in these words, \u0022It behooves counsel for both petitioner and respondent to assure themselves that the decision for which review was sought is indeed a final judgment under Section 1257."
+                            },
+                            {
+                                "start": 40.946,
+                                "stop": 51.556,
+                                "byte_start": 192512,
+                                "byte_stop": 234935,
+                                "text": "Such attention is mandated by our rules and will avoid the expenditure of resources of both counsel and of this Court on an abortive proceeding such as the present one.\u0022"
+                            },
+                            {
+                                "start": 51.556,
+                                "stop": 53.895,
+                                "byte_start": 234935,
+                                "byte_stop": 244339,
+                                "text": "We dismiss the case for want of jurisdiction."
+                            },
+                            {
+                                "start": 53.895,
+                                "stop": 73.239,
+                                "byte_start": 244339,
+                                "byte_stop": 0,
+                                "text": "The Per Curiam opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56092,
+            "mime": "audio\/mpeg",
+            "size": 254683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2003\/03-6539\/20040503o_03-6539.delivery.mp3"
+        },
+        {
+            "id": 77800,
+            "mime": "audio\/ogg",
+            "size": 563070,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2003\/03-6539\/20040503o_03-6539.ogg"
+        },
+        {
+            "id": 77801,
+            "mime": "application\/x-mpegURL",
+            "size": 947,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2003\/03-6539\/20040503o_03-6539.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

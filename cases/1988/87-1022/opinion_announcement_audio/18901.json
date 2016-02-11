@@ -1,0 +1,146 @@
+{
+    "id": 18901,
+    "title": "Opinion Announcement - March 22, 1989",
+    "transcript": {
+        "title": "Board of Estimate of City of New York v. Morris",
+        "duration": 36.127,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 36.127,
+                "byte_start": 86564,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.606,
+                        "byte_start": 86564,
+                        "byte_stop": 125016,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.606,
+                                "byte_start": 86564,
+                                "byte_stop": 125016,
+                                "text": "The opinion of the Court in No. 87-1022, New York Board of Estimate versus Morris and a related case will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.606,
+                        "stop": 36.127,
+                        "byte_start": 125016,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.606,
+                                "stop": 20.09,
+                                "byte_start": 125016,
+                                "byte_stop": 167021,
+                                "text": "The judgments of the Court of Appeals for the Second Circuit in these two cases are affirmed."
+                            },
+                            {
+                                "start": 20.09,
+                                "stop": 25.212,
+                                "byte_start": 167021,
+                                "byte_stop": 187501,
+                                "text": "An opinion to that effect is on file with the Clerk."
+                            },
+                            {
+                                "start": 25.212,
+                                "stop": 36.127,
+                                "byte_start": 187501,
+                                "byte_stop": 0,
+                                "text": "Justice Brennan, joined by Justice Stevens, has filed a separate concurring opinion; Justice Blackmun has filed an opinion concurring in part and concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46925,
+            "mime": "audio\/mpeg",
+            "size": 231073,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-1022\/19890322o_87-1022.delivery.mp3"
+        },
+        {
+            "id": 68756,
+            "mime": "audio\/ogg",
+            "size": 374038,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-1022\/19890322o_87-1022.ogg"
+        },
+        {
+            "id": 68757,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-1022\/19890322o_87-1022.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

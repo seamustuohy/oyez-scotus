@@ -1,0 +1,81 @@
+{
+    "id": 18524,
+    "title": "Opinion Announcement - January 17, 1984",
+    "transcript": {
+        "title": "Sony Corporation of America v. Universal City Studios, Inc.",
+        "duration": 9.535,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 9.535,
+                "byte_start": 92471,
+                "byte_stop": 130610,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.535,
+                        "byte_start": 92471,
+                        "byte_stop": 130610,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.535,
+                                "byte_start": 92471,
+                                "byte_stop": 130610,
+                                "text": "The judgment and opinion of the Court in Sony Corporation of America against Universal Studios will be announced by Justice Stevens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46170,
+            "mime": "audio\/mpeg",
+            "size": 130819,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1982\/81-1687\/19840117o_81-1687.delivery.mp3"
+        },
+        {
+            "id": 68010,
+            "mime": "audio\/ogg",
+            "size": 99493,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1982\/81-1687\/19840117o_81-1687.ogg"
+        },
+        {
+            "id": 68011,
+            "mime": "application\/x-mpegURL",
+            "size": 287,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1982\/81-1687\/19840117o_81-1687.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

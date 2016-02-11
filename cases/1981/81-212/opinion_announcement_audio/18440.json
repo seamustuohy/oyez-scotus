@@ -1,0 +1,116 @@
+{
+    "id": 18440,
+    "title": "Opinion Announcement - April 20, 1982",
+    "transcript": {
+        "title": "Schweiker v. McClure",
+        "duration": 40.677,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.677,
+                "byte_start": 77436,
+                "byte_stop": 240127,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.677,
+                        "byte_start": 77436,
+                        "byte_stop": 240127,
+                        "speaker": {
+                            "ID": 15119,
+                            "name": "Lewis F. Powell, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "last_name": "Powell",
+                            "roles": [
+                                {
+                                    "id": 2764,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 551682000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2764"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32738,
+                                "mime": "image\/png",
+                                "size": 53543,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                            },
+                            "length_of_service": 5649,
+                            "identifier": "lewis_f_powell_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.505,
+                                "byte_start": 77436,
+                                "byte_stop": 107529,
+                                "text": "In the second of these Medicare cases, Schweiker against McClure."
+                            },
+                            {
+                                "start": 7.505,
+                                "stop": 15.601,
+                                "byte_start": 107529,
+                                "byte_stop": 139921,
+                                "text": "It is here on direct appeal from the United States District Court for the Northern District of California."
+                            },
+                            {
+                                "start": 15.601,
+                                "stop": 28.257,
+                                "byte_start": 139921,
+                                "byte_stop": 190494,
+                                "text": "That Court held that hearing procedures with respect to claims filed under Part B of the Medicare program violated due process."
+                            },
+                            {
+                                "start": 28.257,
+                                "stop": 31.241,
+                                "byte_start": 190494,
+                                "byte_stop": 202406,
+                                "text": "We conclude that the procedures were valid."
+                            },
+                            {
+                                "start": 31.241,
+                                "stop": 35.587,
+                                "byte_start": 202406,
+                                "byte_stop": 219856,
+                                "text": "Accordingly, we reverse the judgment of the District Court."
+                            },
+                            {
+                                "start": 35.587,
+                                "stop": 40.677,
+                                "byte_start": 219856,
+                                "byte_stop": 240127,
+                                "text": "The opinions of this Court were unanimous in both of these cases."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46002,
+            "mime": "audio\/mpeg",
+            "size": 240336,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/81-212\/19820420o_81-212.delivery.mp3"
+        },
+        {
+            "id": 67844,
+            "mime": "audio\/ogg",
+            "size": 398366,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/81-212\/19820420o_81-212.ogg"
+        },
+        {
+            "id": 67845,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/81-212\/19820420o_81-212.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

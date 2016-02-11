@@ -1,0 +1,88 @@
+{
+    "id": 15703,
+    "title": "Opinion Announcement - May 23, 1977",
+    "transcript": {
+        "title": "United States v. Washington",
+        "duration": 28.6,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.6,
+                "byte_start": 100541,
+                "byte_stop": 214853,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.6,
+                        "byte_start": 100541,
+                        "byte_stop": 214853,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 21.345,
+                                "byte_start": 100541,
+                                "byte_stop": 186014,
+                                "text": "In 74-1106, United States against Washington for a reason stated in the opinion of the Court filed this morning, the judgment of the District of Columbia Court of Appeals is reversed and the cases remanded for further proceedings not inconsistent with this opinion."
+                            },
+                            {
+                                "start": 21.345,
+                                "stop": 28.6,
+                                "byte_start": 186014,
+                                "byte_stop": 214853,
+                                "text": "In this case, Mr. Justice Brennan and Mr. Justice Marshall, joining him, had filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40528,
+            "mime": "audio\/mpeg",
+            "size": 215062,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/74-1106\/19770523o_74-1106.delivery.mp3"
+        },
+        {
+            "id": 62472,
+            "mime": "audio\/ogg",
+            "size": 301633,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/74-1106\/19770523o_74-1106.ogg"
+        },
+        {
+            "id": 62473,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/74-1106\/19770523o_74-1106.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

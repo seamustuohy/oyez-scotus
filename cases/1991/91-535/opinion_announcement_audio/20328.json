@@ -1,0 +1,112 @@
+{
+    "id": 20328,
+    "title": "Opinion Announcement - June 08, 1992",
+    "transcript": {
+        "title": "Burdick v. Takushi",
+        "duration": 31.268,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 31.268,
+                "byte_start": 90874,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 31.268,
+                        "byte_start": 90874,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.025,
+                                "byte_start": 90874,
+                                "byte_stop": 127027,
+                                "text": "I have the opinion of the Court to announce in No. 91-535 Burdick against Takushi."
+                            },
+                            {
+                                "start": 9.025,
+                                "stop": 14.49,
+                                "byte_start": 127027,
+                                "byte_stop": 148866,
+                                "text": "This case involves Hawaii\u0027s prohibition against Write-in voting and its primaries."
+                            },
+                            {
+                                "start": 14.49,
+                                "stop": 25.108,
+                                "byte_start": 148866,
+                                "byte_stop": 191393,
+                                "text": "In an opinion authored by Justice White, we hold that this provision does not infringe on petitioner\u0027s rights to vote under the First or Fourteenth Amendments."
+                            },
+                            {
+                                "start": 25.108,
+                                "stop": 31.268,
+                                "byte_start": 191393,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy has filed a dissenting opinion in which Justice Blackmun and Justice Stevens concur."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49780,
+            "mime": "audio\/mpeg",
+            "size": 215948,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/91-535\/19920608o_91-535.delivery.mp3"
+        },
+        {
+            "id": 71576,
+            "mime": "audio\/ogg",
+            "size": 312620,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/91-535\/19920608o_91-535.ogg"
+        },
+        {
+            "id": 71577,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/91-535\/19920608o_91-535.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

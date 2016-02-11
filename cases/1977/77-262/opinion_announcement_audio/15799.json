@@ -1,0 +1,102 @@
+{
+    "id": 15799,
+    "title": "Opinion Announcement - June 26, 1978",
+    "transcript": {
+        "title": "Duke Power Company v. Carolina Environmental Study Group, Inc.",
+        "duration": 85.564,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 85.564,
+                "byte_start": 80005,
+                "byte_stop": 422209,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 85.564,
+                        "byte_start": 80005,
+                        "byte_stop": 422209,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 50.247,
+                                "byte_start": 80005,
+                                "byte_stop": 281043,
+                                "text": "In number 77-262 Duke Power Company against Carolina Environmental Study Group and the companion consolidated case United States Nuclear Regulatory Commission against the same group for -- I should say this case relates to the licensing of private companies to develop electric energy, under a license from the United States by nuclear power, nuclear energy and to develop it under an Act of Congress which limits the liability of the producers in case of any nuclear accident."
+                            },
+                            {
+                                "start": 50.247,
+                                "stop": 66.845,
+                                "byte_start": 281043,
+                                "byte_stop": 347394,
+                                "text": "For reasons stated in opinion with the court, filed with the clerk today, the judgment of the United States District Court for the Western District of North Carolina is reversed and the case is reminded to that court for procedures consistent with this opinion."
+                            },
+                            {
+                                "start": 66.845,
+                                "stop": 70.847,
+                                "byte_start": 347394,
+                                "byte_stop": 363486,
+                                "text": "Mr. Justice Stewart filed an opinion concurring the judgment."
+                            },
+                            {
+                                "start": 70.847,
+                                "stop": 85.564,
+                                "byte_start": 363486,
+                                "byte_stop": 422209,
+                                "text": "Mr. Justice Rehnquist with whom Mr. Justice Stevens joined filed an opinion also concurring with the judgment and Mr. Justice Stevens filed a separate opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40720,
+            "mime": "audio\/mpeg",
+            "size": 422418,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/77-262\/19780626o_77-262.delivery.mp3"
+        },
+        {
+            "id": 62664,
+            "mime": "audio\/ogg",
+            "size": 894232,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/77-262\/19780626o_77-262.ogg"
+        },
+        {
+            "id": 62665,
+            "mime": "application\/x-mpegURL",
+            "size": 1358,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/77-262\/19780626o_77-262.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

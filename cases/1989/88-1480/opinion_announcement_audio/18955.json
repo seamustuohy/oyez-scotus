@@ -1,0 +1,153 @@
+{
+    "id": 18955,
+    "title": "Opinion Announcement - February 21, 1990",
+    "transcript": {
+        "title": "Reves v. Ernst \u0026 Young",
+        "duration": 48.17,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 48.17,
+                "byte_start": 87125,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.201,
+                        "byte_start": 87125,
+                        "byte_stop": 119935,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.201,
+                                "byte_start": 87125,
+                                "byte_stop": 119935,
+                                "text": "The opinion of the Court in No. 88-1480, Reves against Ernst \u0026 Young will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.201,
+                        "stop": 48.17,
+                        "byte_start": 119935,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.201,
+                                "stop": 21.205,
+                                "byte_start": 119935,
+                                "byte_stop": 171971,
+                                "text": "In this case, we hold that certain promissory notes payable on demand and securities within the meaning of this Securities Act of 1934."
+                            },
+                            {
+                                "start": 21.205,
+                                "stop": 29.138,
+                                "byte_start": 171971,
+                                "byte_stop": 203736,
+                                "text": "The Act\u2019s exclusion for certain short-term notes does not apply in this type of case."
+                            },
+                            {
+                                "start": 29.138,
+                                "stop": 32.607,
+                                "byte_start": 203736,
+                                "byte_stop": 217633,
+                                "text": "The judgment of the Court of Appeals is therefore reversed."
+                            },
+                            {
+                                "start": 32.607,
+                                "stop": 48.17,
+                                "byte_start": 217633,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed a concurring opinion; the Chief Justice has filed an opinion concurring in part and dissenting in part in which Justice White, Justice O\u2019Connor, and Justice Scalia have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47034,
+            "mime": "audio\/mpeg",
+            "size": 279804,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-1480\/19900221o_88-1480.delivery.mp3"
+        },
+        {
+            "id": 68862,
+            "mime": "audio\/ogg",
+            "size": 470038,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-1480\/19900221o_88-1480.ogg"
+        },
+        {
+            "id": 68863,
+            "mime": "application\/x-mpegURL",
+            "size": 859,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-1480\/19900221o_88-1480.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

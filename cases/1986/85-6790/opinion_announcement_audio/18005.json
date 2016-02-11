@@ -1,0 +1,130 @@
+{
+    "id": 18005,
+    "title": "Opinion Announcement - April 21, 1987",
+    "transcript": {
+        "title": "Granberry v. Greer",
+        "duration": 85.943,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 85.943,
+                "byte_start": 91771,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 85.943,
+                        "byte_start": 91771,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.422,
+                                "byte_start": 91771,
+                                "byte_stop": 117475,
+                                "text": "The second case involves a question under the habeas corpus statute."
+                            },
+                            {
+                                "start": 6.422,
+                                "stop": 16.359,
+                                "byte_start": 117475,
+                                "byte_stop": 157286,
+                                "text": "An Illinois prisoner filed a habeas corpus petition in the Federal District Court and the District Court dismissed it on the merits."
+                            },
+                            {
+                                "start": 16.359,
+                                "stop": 27.398,
+                                "byte_start": 157286,
+                                "byte_stop": 201381,
+                                "text": "In the Court of Appeals, one of the petitioner appealed, the state, for the first time, raised the defense that there had been no exhaustion of state remedies."
+                            },
+                            {
+                                "start": 27.398,
+                                "stop": 47.94,
+                                "byte_start": 201381,
+                                "byte_stop": 283614,
+                                "text": "The petitioner claimed that defense had been waived since it had not been raised in the District Court but the Court of Appeals thought that it was tantamount to a jurisdictional defense although not strict jurisdictional and thought that had no alternative but to send the case back to the District Court with instructions that it would be dismissed so the petitioner could exhaust the state remedies."
+                            },
+                            {
+                                "start": 47.94,
+                                "stop": 63.259,
+                                "byte_start": 283614,
+                                "byte_stop": 344845,
+                                "text": "The petitioner has come here, urging that that defense was waived and we take the middle course, we do not hold that the failure to raise the matter was jurisdictional nor do we hold that there is a total waiver of defense by the state\u0027s omission."
+                            },
+                            {
+                                "start": 63.259,
+                                "stop": 78.182,
+                                "byte_start": 344845,
+                                "byte_stop": 404509,
+                                "text": "Rather we hold that this is a factor that the Court of Appeals may take into consideration in deciding whether the administration of justice would be better served by going forward and addressing the merits or by requiring exhaustion in a number of different factors would affect the decisions."
+                            },
+                            {
+                                "start": 78.182,
+                                "stop": 84.259,
+                                "byte_start": 404509,
+                                "byte_stop": 428855,
+                                "text": "So we send the case back to the Seventh Circuit to reconsider the issue in the light of our opinion."
+                            },
+                            {
+                                "start": 84.259,
+                                "stop": 85.943,
+                                "byte_start": 428855,
+                                "byte_stop": 0,
+                                "text": "The opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45132,
+            "mime": "audio\/mpeg",
+            "size": 435542,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-6790\/19870421o_85-6790.delivery.mp3"
+        },
+        {
+            "id": 66984,
+            "mime": "audio\/ogg",
+            "size": 881118,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-6790\/19870421o_85-6790.ogg"
+        },
+        {
+            "id": 66985,
+            "mime": "application\/x-mpegURL",
+            "size": 1387,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-6790\/19870421o_85-6790.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

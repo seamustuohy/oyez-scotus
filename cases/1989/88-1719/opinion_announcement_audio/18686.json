@@ -1,0 +1,95 @@
+{
+    "id": 18686,
+    "title": "Opinion Announcement - March 20, 1990",
+    "transcript": {
+        "title": "Chauffeurs, Teamsters and Helpers Local No. 391 v. Terry",
+        "duration": 49.45,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 49.45,
+                "byte_start": 87121,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 49.45,
+                        "byte_start": 87121,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.603,
+                                "byte_start": 87121,
+                                "byte_stop": 177609,
+                                "text": "In the other case, Teamsters and Helpers Local No. 391, we hold that an employee who seeks relief in the form of backpay for a union\u2019s alleged breach of its duty of fair representation is entitled under the Seventh Amendment to a jury trial."
+                            },
+                            {
+                                "start": 22.603,
+                                "stop": 26.146,
+                                "byte_start": 177609,
+                                "byte_stop": 191715,
+                                "text": "We therefore, affirm the judgment of the Fourth Circuit."
+                            },
+                            {
+                                "start": 26.146,
+                                "stop": 49.45,
+                                "byte_start": 191715,
+                                "byte_stop": 0,
+                                "text": "Justice Brennan has filed an opinion concurring in part in 1, 2, 3B, and 4, and concurring in the judgment; Justice Stevens has filed an opinion concurring in all but part 3A and concurring in the judgment; Justice Kennedy has filed a dissenting opinion in which Justices O\u2019Connor and Scalia have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46495,
+            "mime": "audio\/mpeg",
+            "size": 284920,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-1719\/19900320o_88-1719.delivery.mp3"
+        },
+        {
+            "id": 68332,
+            "mime": "audio\/ogg",
+            "size": 479592,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-1719\/19900320o_88-1719.ogg"
+        },
+        {
+            "id": 68333,
+            "mime": "application\/x-mpegURL",
+            "size": 859,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-1719\/19900320o_88-1719.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

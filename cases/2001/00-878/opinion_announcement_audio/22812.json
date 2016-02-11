@@ -1,0 +1,126 @@
+{
+    "id": 22812,
+    "title": "Opinion Announcement - May 20, 2002",
+    "transcript": {
+        "title": "Mathias v. WorldCom Technologies, Inc.",
+        "duration": 41.822,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 41.822,
+                "byte_start": 86991,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 41.822,
+                        "byte_start": 86991,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.374,
+                                "byte_start": 86991,
+                                "byte_stop": 124503,
+                                "text": "The second case which I have to announce is No. 00-878, Mathias versus WorldCom Technologies, Inc."
+                            },
+                            {
+                                "start": 9.374,
+                                "stop": 15.13,
+                                "byte_start": 124503,
+                                "byte_stop": 147595,
+                                "text": "In this case we granted certiorari to the Court of Appeals for the Seventh Circuit to consider three questions."
+                            },
+                            {
+                                "start": 15.13,
+                                "stop": 29.991,
+                                "byte_start": 147595,
+                                "byte_stop": 207050,
+                                "text": "We later granted certiorari to the Fourth Circuit in Verizon Maryland versus Public Service Commission of Maryland and United States versus Public Service Commission of Maryland to review the same questions arising in the same factual contest."
+                            },
+                            {
+                                "start": 29.991,
+                                "stop": 33.933,
+                                "byte_start": 207050,
+                                "byte_stop": 222828,
+                                "text": "Our decision in those cases has just been announced by Justice Scalia."
+                            },
+                            {
+                                "start": 33.933,
+                                "stop": 37.763,
+                                "byte_start": 222828,
+                                "byte_stop": 238083,
+                                "text": "We therefore dismiss the writ in this case as improvidently granted."
+                            },
+                            {
+                                "start": 37.763,
+                                "stop": 41.822,
+                                "byte_start": 238083,
+                                "byte_stop": 0,
+                                "text": "Justice O\u2019Connor took no part in the consideration of decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 54746,
+            "mime": "audio\/mpeg",
+            "size": 254279,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2001\/00-878\/20020520o_00-878.delivery.mp3"
+        },
+        {
+            "id": 76486,
+            "mime": "audio\/ogg",
+            "size": 424955,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2001\/00-878\/20020520o_00-878.ogg"
+        },
+        {
+            "id": 76487,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2001\/00-878\/20020520o_00-878.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

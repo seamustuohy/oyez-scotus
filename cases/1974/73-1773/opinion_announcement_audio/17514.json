@@ -1,0 +1,95 @@
+{
+    "id": 17514,
+    "title": "Opinion Announcement - February 18, 1975",
+    "transcript": {
+        "title": "Foster v. Dravo Corporation",
+        "duration": 24.165,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.165,
+                "byte_start": 28672,
+                "byte_stop": 125325,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.165,
+                        "byte_start": 28672,
+                        "byte_stop": 125325,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.565,
+                                "byte_start": 28672,
+                                "byte_stop": 58974,
+                                "text": "The -- I have three opinions to announce for Mr. Justice Marshall."
+                            },
+                            {
+                                "start": 7.565,
+                                "stop": 14.572,
+                                "byte_start": 58974,
+                                "byte_stop": 86977,
+                                "text": "In 73-1773, Foster against Dravo Corporation."
+                            },
+                            {
+                                "start": 14.572,
+                                "stop": 24.165,
+                                "byte_start": 86977,
+                                "byte_stop": 125325,
+                                "text": "For reasons stated in an opinion written by Mr. Justice Marshall and filed this morning, the judgment of the Court of Appeals is affirmed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44150,
+            "mime": "audio\/mpeg",
+            "size": 125639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1773\/19750218o_73-1773.delivery.mp3"
+        },
+        {
+            "id": 66012,
+            "mime": "audio\/ogg",
+            "size": 235802,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1773\/19750218o_73-1773.ogg"
+        },
+        {
+            "id": 66013,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1773\/19750218o_73-1773.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

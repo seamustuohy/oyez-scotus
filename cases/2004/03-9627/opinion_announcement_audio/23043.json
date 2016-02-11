@@ -1,0 +1,140 @@
+{
+    "id": 23043,
+    "title": "Opinion Announcement - April 27, 2005",
+    "transcript": {
+        "title": "Pace v. DiGuglielmo",
+        "duration": 96.22,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 96.22,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 96.22,
+                        "byte_start": 28672,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.409,
+                                "byte_start": 28672,
+                                "byte_stop": 54376,
+                                "text": "I have the judgment of the Court to announce in Pace versus DiGuglielmo."
+                            },
+                            {
+                                "start": 6.409,
+                                "stop": 19.707,
+                                "byte_start": 54376,
+                                "byte_stop": 107562,
+                                "text": "The Antiterrorism and the Effective Death Penalty Act establishes a one-year statute of limitations for filing a Federal habeas corpus petition."
+                            },
+                            {
+                                "start": 19.707,
+                                "stop": 30.334,
+                                "byte_start": 107562,
+                                "byte_stop": 150089,
+                                "text": "But it tolled the limitation period while a properly filed application for state conviction relief is pending."
+                            },
+                            {
+                                "start": 30.334,
+                                "stop": 44.28,
+                                "byte_start": 150089,
+                                "byte_stop": 205887,
+                                "text": "Petitioner John Pace filed his federal habeas petition outside the one-year limit but argued that he was entitled to a statutory and equitable tolling."
+                            },
+                            {
+                                "start": 44.28,
+                                "stop": 52.611,
+                                "byte_start": 205887,
+                                "byte_stop": 239219,
+                                "text": "We now affirm the Court of Appeals for the Third Circuit\u2019s rejection of petitioner\u2019s contentions."
+                            },
+                            {
+                                "start": 52.611,
+                                "stop": 67.338,
+                                "byte_start": 239219,
+                                "byte_stop": 298047,
+                                "text": "Petitioner\u2019s untimely state of postconviction petition was not properly filed and therefore did not toll the limitation period, and petitioner was not entitled to equitable tolling."
+                            },
+                            {
+                                "start": 67.338,
+                                "stop": 70.878,
+                                "byte_start": 298047,
+                                "byte_stop": 312257,
+                                "text": "The judgment of the Court of Appeals is affirmed."
+                            },
+                            {
+                                "start": 70.878,
+                                "stop": 96.22,
+                                "byte_start": 312257,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed a dissenting opinion, in which Justices Souter, Ginsburg, and Breyer have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55208,
+            "mime": "audio\/mpeg",
+            "size": 347784,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2004\/03-9627\/20050427o_03-9627.delivery.mp3"
+        },
+        {
+            "id": 76948,
+            "mime": "audio\/ogg",
+            "size": 744239,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2004\/03-9627\/20050427o_03-9627.ogg"
+        },
+        {
+            "id": 76949,
+            "mime": "application\/x-mpegURL",
+            "size": 1299,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2004\/03-9627\/20050427o_03-9627.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

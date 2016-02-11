@@ -1,0 +1,143 @@
+{
+    "id": 23334,
+    "title": "Opinion Announcement - January 20, 1988",
+    "transcript": {
+        "title": "Carneigie-Mellon Univ. v. Cohill",
+        "duration": 50.939,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 50.939,
+                "byte_start": 80929,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.413,
+                        "byte_start": 80929,
+                        "byte_stop": 114679,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.413,
+                                "byte_start": 80929,
+                                "byte_stop": 114679,
+                                "text": "The opinion of the Court in No. 86-1021, Carnegie-Mellon University versus Cohill will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.413,
+                        "stop": 50.939,
+                        "byte_start": 114679,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.413,
+                                "stop": 14.117,
+                                "byte_start": 114679,
+                                "byte_stop": 137458,
+                                "text": "This case is here on certiorari to the Court of Appeals to the Third Circuit."
+                            },
+                            {
+                                "start": 14.117,
+                                "stop": 35.607,
+                                "byte_start": 137458,
+                                "byte_stop": 223453,
+                                "text": "Here we hold that a Federal District Court has discretion under the doctrine of pendant jurisdiction to remand and remove the case to a State court when all federal-law claims in the action have been eliminated and only state law claims remain."
+                            },
+                            {
+                                "start": 35.607,
+                                "stop": 43.601,
+                                "byte_start": 223453,
+                                "byte_stop": 255427,
+                                "text": "Accordingly, we affirm the order of the Third Circuit denying petitioners\u0027 application for a writ of mandamus."
+                            },
+                            {
+                                "start": 43.601,
+                                "stop": 50.939,
+                                "byte_start": 255427,
+                                "byte_stop": 0,
+                                "text": "Justice White has filed a dissenting opinion in which the Chief Justice and Justice Scalia have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55790,
+            "mime": "audio\/mpeg",
+            "size": 283744,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1021\/19880120o_86-1021.delivery.mp3"
+        },
+        {
+            "id": 77504,
+            "mime": "audio\/ogg",
+            "size": 487547,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1021\/19880120o_86-1021.ogg"
+        },
+        {
+            "id": 77505,
+            "mime": "application\/x-mpegURL",
+            "size": 859,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1021\/19880120o_86-1021.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

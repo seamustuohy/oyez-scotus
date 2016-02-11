@@ -1,0 +1,146 @@
+{
+    "id": 19341,
+    "title": "Opinion Announcement - February 24, 1988",
+    "transcript": {
+        "title": "Peralta v. Heights Medical Center, Inc.",
+        "duration": 27.559,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.559,
+                "byte_start": 80937,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.188,
+                        "byte_start": 80937,
+                        "byte_stop": 113747,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.188,
+                                "byte_start": 80937,
+                                "byte_stop": 113747,
+                                "text": "The opinion of the Court in No. 86-1430, Peralta versus Heights Medical Center will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.188,
+                        "stop": 27.559,
+                        "byte_start": 113747,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.188,
+                                "stop": 22.089,
+                                "byte_start": 113747,
+                                "byte_stop": 169335,
+                                "text": "This case is here from the Court of Appeals of Texas, and for the reasons stated in an opinion on file with the Clerk, we affirm the judgment of that court."
+                            },
+                            {
+                                "start": 22.089,
+                                "stop": 24.179,
+                                "byte_start": 169335,
+                                "byte_stop": 177695,
+                                "text": "The opinion is unanimous."
+                            },
+                            {
+                                "start": 24.179,
+                                "stop": 27.559,
+                                "byte_start": 177695,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy took no part in the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47806,
+            "mime": "audio\/mpeg",
+            "size": 190756,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1430\/19880224o_86-1430.delivery.mp3"
+        },
+        {
+            "id": 69630,
+            "mime": "audio\/ogg",
+            "size": 274241,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1430\/19880224o_86-1430.ogg"
+        },
+        {
+            "id": 69631,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1430\/19880224o_86-1430.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

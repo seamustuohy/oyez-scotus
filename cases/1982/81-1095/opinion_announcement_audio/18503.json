@@ -1,0 +1,102 @@
+{
+    "id": 18503,
+    "title": "Opinion Announcement - April 20, 1983",
+    "transcript": {
+        "title": "Morris v. Slappy",
+        "duration": 37.839,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.839,
+                "byte_start": 92289,
+                "byte_stop": 243590,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 37.839,
+                        "byte_start": 92289,
+                        "byte_stop": 243590,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.789,
+                                "byte_start": 92289,
+                                "byte_stop": 155505,
+                                "text": "I have the judgment and opinion of the Court to announce in Morris against Slappy and for reason stated in the opinion the Court filed with the clerk this morning, the judgment of the Court of Appeals of the Ninth Circuit is reversed."
+                            },
+                            {
+                                "start": 15.789,
+                                "stop": 22.823,
+                                "byte_start": 155505,
+                                "byte_stop": 183613,
+                                "text": "And the case is remanded to that Court with directions to reinstate the judgment of the District Court."
+                            },
+                            {
+                                "start": 22.823,
+                                "stop": 30.923,
+                                "byte_start": 183613,
+                                "byte_stop": 216005,
+                                "text": "Justice Brennan has filed a separate opinion concurring in the judgment in which Justice Marshall has joined."
+                            },
+                            {
+                                "start": 30.923,
+                                "stop": 37.839,
+                                "byte_start": 216005,
+                                "byte_stop": 243590,
+                                "text": "And Justice Blackmun has filed a separate opinion concurring the judgment in which Justice Stevens has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46128,
+            "mime": "audio\/mpeg",
+            "size": 243799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1982\/81-1095\/19830420o_81-1095.delivery.mp3"
+        },
+        {
+            "id": 67968,
+            "mime": "audio\/ogg",
+            "size": 390369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1982\/81-1095\/19830420o_81-1095.ogg"
+        },
+        {
+            "id": 67969,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1982\/81-1095\/19830420o_81-1095.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

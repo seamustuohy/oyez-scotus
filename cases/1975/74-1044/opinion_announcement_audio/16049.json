@@ -1,0 +1,95 @@
+{
+    "id": 16049,
+    "title": "Opinion Announcement - June 25, 1976",
+    "transcript": {
+        "title": "Massachusetts Board of Retirement v. Murgia",
+        "duration": 25.458,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 25.458,
+                "byte_start": 73772,
+                "byte_stop": 175545,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 25.458,
+                        "byte_start": 73772,
+                        "byte_stop": 175545,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 16.174,
+                                "byte_start": 73772,
+                                "byte_stop": 138556,
+                                "text": "In 74-1044, Massachusetts Board of Retirement against Murgia, for reasons stated in an opinion filed with the clerk this morning, the judgment of the United States District Court for the District of Massachusetts is reversed."
+                            },
+                            {
+                                "start": 16.174,
+                                "stop": 19.403,
+                                "byte_start": 138556,
+                                "byte_stop": 151408,
+                                "text": "Mr. Justice Marshall filed a dissenting opinion."
+                            },
+                            {
+                                "start": 19.403,
+                                "stop": 25.458,
+                                "byte_start": 151408,
+                                "byte_stop": 175545,
+                                "text": "Mr. Justice Stevens took no part in the consideration or the decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41220,
+            "mime": "audio\/mpeg",
+            "size": 175754,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-1044\/19760625o_74-1044.delivery.mp3"
+        },
+        {
+            "id": 63162,
+            "mime": "audio\/ogg",
+            "size": 265015,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-1044\/19760625o_74-1044.ogg"
+        },
+        {
+            "id": 63163,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-1044\/19760625o_74-1044.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

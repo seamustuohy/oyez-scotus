@@ -1,0 +1,88 @@
+{
+    "id": 16180,
+    "title": "Opinion Announcement - May 01, 1978",
+    "transcript": {
+        "title": "Landmark Communications, Inc. v. Virginia",
+        "duration": 38.344,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.344,
+                "byte_start": 80007,
+                "byte_stop": 233294,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 38.344,
+                        "byte_start": 80007,
+                        "byte_stop": 233294,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 26.659,
+                                "byte_start": 80007,
+                                "byte_stop": 186691,
+                                "text": "I have the judgment and opinion of the court to announce in Landmark Communications Inc. against The State of Virginia and for reasons stated in an opinion filed, an opinion of the court filed with the clerk this morning, the judgment of the Supreme Court of Virginia is reversed and the case is remanded to that court for further proceedings, not inconsistent with our opinion."
+                            },
+                            {
+                                "start": 26.659,
+                                "stop": 38.344,
+                                "byte_start": 186691,
+                                "byte_stop": 233294,
+                                "text": "Mr. Justice Stewart filed an opinion concurring in the judgment, Mr. Justice Brennan and Mr. Justice Powell took no part in either the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41482,
+            "mime": "audio\/mpeg",
+            "size": 233503,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-1450\/19780501o_76-1450.delivery.mp3"
+        },
+        {
+            "id": 63420,
+            "mime": "audio\/ogg",
+            "size": 400378,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-1450\/19780501o_76-1450.ogg"
+        },
+        {
+            "id": 63421,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-1450\/19780501o_76-1450.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

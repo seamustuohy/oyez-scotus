@@ -1,0 +1,109 @@
+{
+    "id": 16221,
+    "title": "Opinion Announcement - May 23, 1978",
+    "transcript": {
+        "title": "Pinkus v. United States",
+        "duration": 42.378,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 42.378,
+                "byte_start": 79979,
+                "byte_stop": 249461,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 42.378,
+                        "byte_start": 79979,
+                        "byte_stop": 249461,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.735,
+                                "byte_start": 79979,
+                                "byte_stop": 118954,
+                                "text": "I have the judgment and opinion for the court to announce in Pinkus, this is Rosslyn News against United States."
+                            },
+                            {
+                                "start": 9.735,
+                                "stop": 26.967,
+                                "byte_start": 118954,
+                                "byte_stop": 187917,
+                                "text": "And for reasons stated in an opinion of the court filed with the clerk this morning, the judgment of the United States Court of Appeals for the Ninth Circuit is reversed and the case is remanded to that court for further consideration consistent with the opinion which we have filed today."
+                            },
+                            {
+                                "start": 26.967,
+                                "stop": 31.67,
+                                "byte_start": 187917,
+                                "byte_stop": 206725,
+                                "text": "Mr. Justice Stevens filed a concurring opinion while joining."
+                            },
+                            {
+                                "start": 31.67,
+                                "stop": 39.493,
+                                "byte_start": 206725,
+                                "byte_stop": 237968,
+                                "text": "Mr. Justice Brennan with Mr. Stewart and Mr. Justice Marshall joined filed an opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 39.493,
+                                "stop": 42.378,
+                                "byte_start": 237968,
+                                "byte_stop": 249461,
+                                "text": "Mr. Justice Powell filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41564,
+            "mime": "audio\/mpeg",
+            "size": 249670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/77-39\/19780523o_77-39.delivery.mp3"
+        },
+        {
+            "id": 63496,
+            "mime": "audio\/ogg",
+            "size": 447791,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/77-39\/19780523o_77-39.ogg"
+        },
+        {
+            "id": 63497,
+            "mime": "application\/x-mpegURL",
+            "size": 741,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/77-39\/19780523o_77-39.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

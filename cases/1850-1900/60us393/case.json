@@ -1,0 +1,1115 @@
+{
+    "ID": 62357,
+    "name": "Dred Scott v. Sandford",
+    "href": "https:\/\/api.oyez.org\/cases\/1850-1900\/60us393",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Other",
+    "first_party": "Dred Scott",
+    "second_party": "John F. A. Sandford",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -3593959200,
+                -3593872800,
+                -3593786400,
+                -3593700000,
+                -3567348000,
+                -3567261600,
+                -3567175200,
+                -3567088800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52876"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -3560349600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52877"
+        }
+    ],
+    "lower_court": {
+        "ID": 3,
+        "name": "Circuit courts of appeals",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/3"
+    },
+    "facts_of_the_case": "\u003Cp\u003EDred Scott was a slave in Missouri. From 1833 to 1843, he resided in Illinois (a free state) and in an area of the Louisiana Territory, where slavery was forbidden by the Missouri Compromise of 1820. After returning to Missouri, Scott sued unsuccessfully in the Missouri courts for his freedom, claiming that his residence in free territory made him a free man. Scott then brought a new suit in federal court. Scott\u0027s master maintained that no pure-blooded Negro of African descent and the descendant of slaves could be a citizen in the sense of Article III of the Constitution.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EWas Dred Scott free or slave?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EDred Scott was a slave. Under Articles III and IV, argued Taney, no one but a citizen of the United States could be a citizen of a state, and that only Congress could confer national citizenship. Taney reached the conclusion that no person descended from an American slave had ever been a citizen for Article III purposes. The Court then held the Missouri Compromise unconstitutional, hoping to end the slavery question once and for all.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 35443,
+                "name": "Montgomery Blair",
+                "href": "https:\/\/api.oyez.org\/people\/montgomery_blair",
+                "last_name": "Blair",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "montgomery_blair"
+            },
+            "advocate_description": "for Dred Scott",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21175"
+        },
+        {
+            "advocate": {
+                "ID": 25127,
+                "name": "George Ticknor Curtis",
+                "href": "https:\/\/api.oyez.org\/people\/george_t_curtis",
+                "last_name": "Curtis",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "george_t_curtis"
+            },
+            "advocate_description": "for Dred Scott",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21176"
+        },
+        {
+            "advocate": null,
+            "advocate_description": "for Sandford",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21177"
+        },
+        {
+            "advocate": {
+                "ID": 62560,
+                "name": "Henry S. Geyer",
+                "href": "https:\/\/api.oyez.org\/people\/henry_s_geyer",
+                "last_name": "Geyer",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "henry_s_geyer"
+            },
+            "advocate_description": "for Sandford",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21178"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "60",
+        "page": "393",
+        "year": "1857",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27159"
+    },
+    "decisions": [
+        {
+            "description": "Held portions of the Missouri Compromise unconstitutional in violation of the Fifth Amendment, treating Scott as property, not as a person.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15054,
+                        "name": "Roger B. Taney",
+                        "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                        "last_name": "Taney",
+                        "roles": [
+                            {
+                                "id": 2698,
+                                "type": "scotus_justice",
+                                "date_start": -4221136800,
+                                "date_end": -3320416800,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32756,
+                            "mime": "image\/png",
+                            "size": 53107,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                        },
+                        "length_of_service": 10425,
+                        "identifier": "roger_b_taney"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205546"
+                },
+                {
+                    "member": {
+                        "ID": 15087,
+                        "name": "James M. Wayne",
+                        "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+                        "last_name": "Wayne",
+                        "roles": [
+                            {
+                                "id": 2731,
+                                "type": "scotus_justice",
+                                "date_start": -4259066400,
+                                "date_end": -3234362400,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2731"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32722,
+                            "mime": "image\/png",
+                            "size": 55773,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                        },
+                        "length_of_service": 11860,
+                        "identifier": "james_m_wayne"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15054,
+                            "name": "Roger B. Taney",
+                            "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                            "last_name": "Taney",
+                            "roles": [
+                                {
+                                    "id": 2698,
+                                    "type": "scotus_justice",
+                                    "date_start": -4221136800,
+                                    "date_end": -3320416800,
+                                    "appointing_president": "Andrew Jackson",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32756,
+                                "mime": "image\/png",
+                                "size": 53107,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                            },
+                            "length_of_service": 10425,
+                            "identifier": "roger_b_taney"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205547"
+                },
+                {
+                    "member": {
+                        "ID": 15136,
+                        "name": "Samuel Nelson",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                        "last_name": "Nelson",
+                        "roles": [
+                            {
+                                "id": 2782,
+                                "type": "scotus_justice",
+                                "date_start": -3939645600,
+                                "date_end": -3063895200,
+                                "appointing_president": "John Tyler",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32761,
+                            "mime": "image\/png",
+                            "size": 61017,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                        },
+                        "length_of_service": 10136,
+                        "identifier": "samuel_nelson"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15054,
+                            "name": "Roger B. Taney",
+                            "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                            "last_name": "Taney",
+                            "roles": [
+                                {
+                                    "id": 2698,
+                                    "type": "scotus_justice",
+                                    "date_start": -4221136800,
+                                    "date_end": -3320416800,
+                                    "appointing_president": "Andrew Jackson",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32756,
+                                "mime": "image\/png",
+                                "size": 53107,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                            },
+                            "length_of_service": 10425,
+                            "identifier": "roger_b_taney"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205548"
+                },
+                {
+                    "member": {
+                        "ID": 15110,
+                        "name": "Robert C. Grier",
+                        "href": "https:\/\/api.oyez.org\/people\/robert_c_grier",
+                        "last_name": "Grier",
+                        "roles": [
+                            {
+                                "id": 2754,
+                                "type": "scotus_justice",
+                                "date_start": -3893940000,
+                                "date_end": -3153060000,
+                                "appointing_president": "James K. Polk",
+                                "role_title": "Associate Justice",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2754"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32753,
+                            "mime": "image\/png",
+                            "size": 50617,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_grier.png"
+                        },
+                        "length_of_service": 8575,
+                        "identifier": "robert_c_grier"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15054,
+                            "name": "Roger B. Taney",
+                            "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                            "last_name": "Taney",
+                            "roles": [
+                                {
+                                    "id": 2698,
+                                    "type": "scotus_justice",
+                                    "date_start": -4221136800,
+                                    "date_end": -3320416800,
+                                    "appointing_president": "Andrew Jackson",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32756,
+                                "mime": "image\/png",
+                                "size": 53107,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                            },
+                            "length_of_service": 10425,
+                            "identifier": "roger_b_taney"
+                        },
+                        {
+                            "ID": 15136,
+                            "name": "Samuel Nelson",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                            "last_name": "Nelson",
+                            "roles": [
+                                {
+                                    "id": 2782,
+                                    "type": "scotus_justice",
+                                    "date_start": -3939645600,
+                                    "date_end": -3063895200,
+                                    "appointing_president": "John Tyler",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32761,
+                                "mime": "image\/png",
+                                "size": 61017,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                            },
+                            "length_of_service": 10136,
+                            "identifier": "samuel_nelson"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205549"
+                },
+                {
+                    "member": {
+                        "ID": 15051,
+                        "name": "John Catron",
+                        "href": "https:\/\/api.oyez.org\/people\/john_catron",
+                        "last_name": "Catron",
+                        "roles": [
+                            {
+                                "id": 2695,
+                                "type": "scotus_justice",
+                                "date_start": -4186663200,
+                                "date_end": -3300544800,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2695"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32726,
+                            "mime": "image\/png",
+                            "size": 56456,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_catron.png"
+                        },
+                        "length_of_service": 10256,
+                        "identifier": "john_catron"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15054,
+                            "name": "Roger B. Taney",
+                            "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                            "last_name": "Taney",
+                            "roles": [
+                                {
+                                    "id": 2698,
+                                    "type": "scotus_justice",
+                                    "date_start": -4221136800,
+                                    "date_end": -3320416800,
+                                    "appointing_president": "Andrew Jackson",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32756,
+                                "mime": "image\/png",
+                                "size": 53107,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                            },
+                            "length_of_service": 10425,
+                            "identifier": "roger_b_taney"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205550"
+                },
+                {
+                    "member": {
+                        "ID": 15116,
+                        "name": "Peter V. Daniel",
+                        "href": "https:\/\/api.oyez.org\/people\/peter_v_daniel",
+                        "last_name": "Daniel",
+                        "roles": [
+                            {
+                                "id": 2760,
+                                "type": "scotus_justice",
+                                "date_start": -4038487200,
+                                "date_end": -3458224800,
+                                "appointing_president": "Martin Van Buren",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2760"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32749,
+                            "mime": "image\/png",
+                            "size": 52366,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/peter_v_daniel.png"
+                        },
+                        "length_of_service": 6716,
+                        "identifier": "peter_v_daniel"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15054,
+                            "name": "Roger B. Taney",
+                            "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                            "last_name": "Taney",
+                            "roles": [
+                                {
+                                    "id": 2698,
+                                    "type": "scotus_justice",
+                                    "date_start": -4221136800,
+                                    "date_end": -3320416800,
+                                    "appointing_president": "Andrew Jackson",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32756,
+                                "mime": "image\/png",
+                                "size": 53107,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                            },
+                            "length_of_service": 10425,
+                            "identifier": "roger_b_taney"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205551"
+                },
+                {
+                    "member": {
+                        "ID": 15074,
+                        "name": "John A. Campbell",
+                        "href": "https:\/\/api.oyez.org\/people\/john_a_campbell",
+                        "last_name": "Campbell",
+                        "roles": [
+                            {
+                                "id": 2718,
+                                "type": "scotus_justice",
+                                "date_start": -3683469600,
+                                "date_end": -3429367200,
+                                "appointing_president": "Franklin Pierce",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2718"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32724,
+                            "mime": "image\/png",
+                            "size": 50612,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_a_campbell.png"
+                        },
+                        "length_of_service": 2941,
+                        "identifier": "john_a_campbell"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": [
+                        {
+                            "ID": 15054,
+                            "name": "Roger B. Taney",
+                            "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                            "last_name": "Taney",
+                            "roles": [
+                                {
+                                    "id": 2698,
+                                    "type": "scotus_justice",
+                                    "date_start": -4221136800,
+                                    "date_end": -3320416800,
+                                    "appointing_president": "Andrew Jackson",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32756,
+                                "mime": "image\/png",
+                                "size": 53107,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                            },
+                            "length_of_service": 10425,
+                            "identifier": "roger_b_taney"
+                        }
+                    ],
+                    "seniority": 9,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205552"
+                },
+                {
+                    "member": {
+                        "ID": 15078,
+                        "name": "Benjamin R. Curtis",
+                        "href": "https:\/\/api.oyez.org\/people\/benjamin_r_curtis",
+                        "last_name": "Curtis",
+                        "roles": [
+                            {
+                                "id": 2722,
+                                "type": "scotus_justice",
+                                "date_start": -3730903200,
+                                "date_end": -3542378400,
+                                "appointing_president": "Millard Fillmore",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2722"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32697,
+                            "mime": "image\/png",
+                            "size": 53955,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/benjamin_r_curtis.png"
+                        },
+                        "length_of_service": 2182,
+                        "identifier": "benjamin_r_curtis"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 8,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205553"
+                },
+                {
+                    "member": {
+                        "ID": 15112,
+                        "name": "John McLean",
+                        "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+                        "last_name": "McLean",
+                        "roles": [
+                            {
+                                "id": 2756,
+                                "type": "scotus_justice",
+                                "date_start": -4411908000,
+                                "date_end": -3431613600,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2756"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32731,
+                            "mime": "image\/png",
+                            "size": 38658,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                        },
+                        "length_of_service": 11346,
+                        "identifier": "john_mclean"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205554"
+                }
+            ],
+            "majority_vote": 7,
+            "minority_vote": 2,
+            "winning_party": "Sandford",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16389"
+        }
+    ],
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15216,
+            "name": "Taney Court (1853-1857)",
+            "href": "https:\/\/api.oyez.org\/courts\/taney16",
+            "members": [
+                {
+                    "ID": 15054,
+                    "name": "Roger B. Taney",
+                    "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                    "last_name": "Taney",
+                    "roles": [
+                        {
+                            "id": 2698,
+                            "type": "scotus_justice",
+                            "date_start": -4221136800,
+                            "date_end": -3320416800,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32756,
+                        "mime": "image\/png",
+                        "size": 53107,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                    },
+                    "length_of_service": 10425,
+                    "identifier": "roger_b_taney"
+                },
+                {
+                    "ID": 15112,
+                    "name": "John McLean",
+                    "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+                    "last_name": "McLean",
+                    "roles": [
+                        {
+                            "id": 2756,
+                            "type": "scotus_justice",
+                            "date_start": -4411908000,
+                            "date_end": -3431613600,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2756"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32731,
+                        "mime": "image\/png",
+                        "size": 38658,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                    },
+                    "length_of_service": 11346,
+                    "identifier": "john_mclean"
+                },
+                {
+                    "ID": 15087,
+                    "name": "James M. Wayne",
+                    "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+                    "last_name": "Wayne",
+                    "roles": [
+                        {
+                            "id": 2731,
+                            "type": "scotus_justice",
+                            "date_start": -4259066400,
+                            "date_end": -3234362400,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2731"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32722,
+                        "mime": "image\/png",
+                        "size": 55773,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                    },
+                    "length_of_service": 11860,
+                    "identifier": "james_m_wayne"
+                },
+                {
+                    "ID": 15051,
+                    "name": "John Catron",
+                    "href": "https:\/\/api.oyez.org\/people\/john_catron",
+                    "last_name": "Catron",
+                    "roles": [
+                        {
+                            "id": 2695,
+                            "type": "scotus_justice",
+                            "date_start": -4186663200,
+                            "date_end": -3300544800,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2695"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32726,
+                        "mime": "image\/png",
+                        "size": 56456,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_catron.png"
+                    },
+                    "length_of_service": 10256,
+                    "identifier": "john_catron"
+                },
+                {
+                    "ID": 15116,
+                    "name": "Peter V. Daniel",
+                    "href": "https:\/\/api.oyez.org\/people\/peter_v_daniel",
+                    "last_name": "Daniel",
+                    "roles": [
+                        {
+                            "id": 2760,
+                            "type": "scotus_justice",
+                            "date_start": -4038487200,
+                            "date_end": -3458224800,
+                            "appointing_president": "Martin Van Buren",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2760"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32749,
+                        "mime": "image\/png",
+                        "size": 52366,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/peter_v_daniel.png"
+                    },
+                    "length_of_service": 6716,
+                    "identifier": "peter_v_daniel"
+                },
+                {
+                    "ID": 15136,
+                    "name": "Samuel Nelson",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                    "last_name": "Nelson",
+                    "roles": [
+                        {
+                            "id": 2782,
+                            "type": "scotus_justice",
+                            "date_start": -3939645600,
+                            "date_end": -3063895200,
+                            "appointing_president": "John Tyler",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32761,
+                        "mime": "image\/png",
+                        "size": 61017,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                    },
+                    "length_of_service": 10136,
+                    "identifier": "samuel_nelson"
+                },
+                {
+                    "ID": 15110,
+                    "name": "Robert C. Grier",
+                    "href": "https:\/\/api.oyez.org\/people\/robert_c_grier",
+                    "last_name": "Grier",
+                    "roles": [
+                        {
+                            "id": 2754,
+                            "type": "scotus_justice",
+                            "date_start": -3893940000,
+                            "date_end": -3153060000,
+                            "appointing_president": "James K. Polk",
+                            "role_title": "Associate Justice",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2754"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32753,
+                        "mime": "image\/png",
+                        "size": 50617,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_grier.png"
+                    },
+                    "length_of_service": 8575,
+                    "identifier": "robert_c_grier"
+                },
+                {
+                    "ID": 15078,
+                    "name": "Benjamin R. Curtis",
+                    "href": "https:\/\/api.oyez.org\/people\/benjamin_r_curtis",
+                    "last_name": "Curtis",
+                    "roles": [
+                        {
+                            "id": 2722,
+                            "type": "scotus_justice",
+                            "date_start": -3730903200,
+                            "date_end": -3542378400,
+                            "appointing_president": "Millard Fillmore",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2722"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32697,
+                        "mime": "image\/png",
+                        "size": 53955,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/benjamin_r_curtis.png"
+                    },
+                    "length_of_service": 2182,
+                    "identifier": "benjamin_r_curtis"
+                },
+                {
+                    "ID": 15074,
+                    "name": "John A. Campbell",
+                    "href": "https:\/\/api.oyez.org\/people\/john_a_campbell",
+                    "last_name": "Campbell",
+                    "roles": [
+                        {
+                            "id": 2718,
+                            "type": "scotus_justice",
+                            "date_start": -3683469600,
+                            "date_end": -3429367200,
+                            "appointing_president": "Franklin Pierce",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2718"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32724,
+                        "mime": "image\/png",
+                        "size": 50612,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_a_campbell.png"
+                    },
+                    "length_of_service": 2941,
+                    "identifier": "john_a_campbell"
+                }
+            ],
+            "court_start": -3683469600,
+            "images": [
+                {
+                    "id": 56739,
+                    "mime": "image\/jpeg",
+                    "size": 3274208,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_1.jpg"
+                }
+            ],
+            "identifier": "taney16"
+        }
+    ],
+    "decided_by": {
+        "ID": 15216,
+        "name": "Taney Court (1853-1857)",
+        "href": "https:\/\/api.oyez.org\/courts\/taney16",
+        "members": [
+            {
+                "ID": 15054,
+                "name": "Roger B. Taney",
+                "href": "https:\/\/api.oyez.org\/people\/roger_b_taney",
+                "last_name": "Taney",
+                "roles": [
+                    {
+                        "id": 2698,
+                        "type": "scotus_justice",
+                        "date_start": -4221136800,
+                        "date_end": -3320416800,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2698"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32756,
+                    "mime": "image\/png",
+                    "size": 53107,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/roger_b_taney.png"
+                },
+                "length_of_service": 10425,
+                "identifier": "roger_b_taney"
+            },
+            {
+                "ID": 15112,
+                "name": "John McLean",
+                "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+                "last_name": "McLean",
+                "roles": [
+                    {
+                        "id": 2756,
+                        "type": "scotus_justice",
+                        "date_start": -4411908000,
+                        "date_end": -3431613600,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2756"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32731,
+                    "mime": "image\/png",
+                    "size": 38658,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                },
+                "length_of_service": 11346,
+                "identifier": "john_mclean"
+            },
+            {
+                "ID": 15087,
+                "name": "James M. Wayne",
+                "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+                "last_name": "Wayne",
+                "roles": [
+                    {
+                        "id": 2731,
+                        "type": "scotus_justice",
+                        "date_start": -4259066400,
+                        "date_end": -3234362400,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2731"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32722,
+                    "mime": "image\/png",
+                    "size": 55773,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                },
+                "length_of_service": 11860,
+                "identifier": "james_m_wayne"
+            },
+            {
+                "ID": 15051,
+                "name": "John Catron",
+                "href": "https:\/\/api.oyez.org\/people\/john_catron",
+                "last_name": "Catron",
+                "roles": [
+                    {
+                        "id": 2695,
+                        "type": "scotus_justice",
+                        "date_start": -4186663200,
+                        "date_end": -3300544800,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2695"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32726,
+                    "mime": "image\/png",
+                    "size": 56456,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_catron.png"
+                },
+                "length_of_service": 10256,
+                "identifier": "john_catron"
+            },
+            {
+                "ID": 15116,
+                "name": "Peter V. Daniel",
+                "href": "https:\/\/api.oyez.org\/people\/peter_v_daniel",
+                "last_name": "Daniel",
+                "roles": [
+                    {
+                        "id": 2760,
+                        "type": "scotus_justice",
+                        "date_start": -4038487200,
+                        "date_end": -3458224800,
+                        "appointing_president": "Martin Van Buren",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2760"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32749,
+                    "mime": "image\/png",
+                    "size": 52366,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/peter_v_daniel.png"
+                },
+                "length_of_service": 6716,
+                "identifier": "peter_v_daniel"
+            },
+            {
+                "ID": 15136,
+                "name": "Samuel Nelson",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                "last_name": "Nelson",
+                "roles": [
+                    {
+                        "id": 2782,
+                        "type": "scotus_justice",
+                        "date_start": -3939645600,
+                        "date_end": -3063895200,
+                        "appointing_president": "John Tyler",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32761,
+                    "mime": "image\/png",
+                    "size": 61017,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                },
+                "length_of_service": 10136,
+                "identifier": "samuel_nelson"
+            },
+            {
+                "ID": 15110,
+                "name": "Robert C. Grier",
+                "href": "https:\/\/api.oyez.org\/people\/robert_c_grier",
+                "last_name": "Grier",
+                "roles": [
+                    {
+                        "id": 2754,
+                        "type": "scotus_justice",
+                        "date_start": -3893940000,
+                        "date_end": -3153060000,
+                        "appointing_president": "James K. Polk",
+                        "role_title": "Associate Justice",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2754"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32753,
+                    "mime": "image\/png",
+                    "size": 50617,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_grier.png"
+                },
+                "length_of_service": 8575,
+                "identifier": "robert_c_grier"
+            },
+            {
+                "ID": 15078,
+                "name": "Benjamin R. Curtis",
+                "href": "https:\/\/api.oyez.org\/people\/benjamin_r_curtis",
+                "last_name": "Curtis",
+                "roles": [
+                    {
+                        "id": 2722,
+                        "type": "scotus_justice",
+                        "date_start": -3730903200,
+                        "date_end": -3542378400,
+                        "appointing_president": "Millard Fillmore",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2722"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32697,
+                    "mime": "image\/png",
+                    "size": 53955,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/benjamin_r_curtis.png"
+                },
+                "length_of_service": 2182,
+                "identifier": "benjamin_r_curtis"
+            },
+            {
+                "ID": 15074,
+                "name": "John A. Campbell",
+                "href": "https:\/\/api.oyez.org\/people\/john_a_campbell",
+                "last_name": "Campbell",
+                "roles": [
+                    {
+                        "id": 2718,
+                        "type": "scotus_justice",
+                        "date_start": -3683469600,
+                        "date_end": -3429367200,
+                        "appointing_president": "Franklin Pierce",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2718"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32724,
+                    "mime": "image\/png",
+                    "size": 50612,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_a_campbell.png"
+                },
+                "length_of_service": 2941,
+                "identifier": "john_a_campbell"
+            }
+        ],
+        "court_start": -3683469600,
+        "images": [
+            {
+                "id": 56739,
+                "mime": "image\/jpeg",
+                "size": 3274208,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_1.jpg"
+            }
+        ],
+        "identifier": "taney16"
+    },
+    "term": "1850-1900",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court decided that slaves who were descendants of American slaves were not citizens of the United States under Article III of the Constitution. The Court also used the decision to strike down the Missouri Compromise.",
+    "written_opinion": null,
+    "related_cases": null
+}

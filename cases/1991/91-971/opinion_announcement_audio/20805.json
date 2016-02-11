@@ -1,0 +1,102 @@
+{
+    "id": 20805,
+    "title": "Opinion Announcement - June 26, 1992",
+    "transcript": {
+        "title": "Two Pesos, Inc. v. Taco Cabana, Inc.",
+        "duration": 21.525,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 21.525,
+                "byte_start": 90859,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 21.525,
+                        "byte_start": 90859,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.969,
+                                "byte_start": 90859,
+                                "byte_stop": 130774,
+                                "text": "The second case is 91-971 Two Pesos against Taco Cabana International."
+                            },
+                            {
+                                "start": 9.969,
+                                "stop": 12.829,
+                                "byte_start": 130774,
+                                "byte_stop": 142268,
+                                "text": "The judgment of the Fifth Circuit in this case is affirmed."
+                            },
+                            {
+                                "start": 12.829,
+                                "stop": 15.454,
+                                "byte_start": 142268,
+                                "byte_stop": 152717,
+                                "text": "Justice Scalia has filed a concurring opinion."
+                            },
+                            {
+                                "start": 15.454,
+                                "stop": 21.525,
+                                "byte_start": 152717,
+                                "byte_stop": 0,
+                                "text": "Justices Stevens and Thomas have filed opinions concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50734,
+            "mime": "audio\/mpeg",
+            "size": 176645,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/91-971\/19920626o_91-971.delivery.mp3"
+        },
+        {
+            "id": 72518,
+            "mime": "audio\/ogg",
+            "size": 217233,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/91-971\/19920626o_91-971.ogg"
+        },
+        {
+            "id": 72519,
+            "mime": "application\/x-mpegURL",
+            "size": 455,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/91-971\/19920626o_91-971.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,157 @@
+{
+    "id": 22014,
+    "title": "Opinion Announcement - February 20, 2013",
+    "transcript": {
+        "title": "Johnson v. Williams",
+        "duration": 50.568,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 50.568,
+                "byte_start": 107520,
+                "byte_stop": 309708,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 6.13,
+                        "byte_start": 107520,
+                        "byte_stop": 132075,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.13,
+                                "byte_start": 107520,
+                                "byte_stop": 132075,
+                                "text": "And Justice Alito has our opinion in Case No. 11-465, Johnson vs. Williams."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 6.13,
+                        "stop": 50.568,
+                        "byte_start": 132075,
+                        "byte_stop": 309708,
+                        "speaker": {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            },
+                            "length_of_service": 3531,
+                            "identifier": "samuel_alito_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 6.13,
+                                "stop": 13.454,
+                                "byte_start": 132075,
+                                "byte_stop": 161437,
+                                "text": "The question in this case concerns the meaning of the phrase \u201cadjudicated on the merits and the provision of the federal habeas statute\u201d."
+                            },
+                            {
+                                "start": 13.454,
+                                "stop": 28.605,
+                                "byte_start": 161437,
+                                "byte_stop": 222041,
+                                "text": "This question, which implicates the standard of review in federal habeas proceedings, arises when a state court is arguably presented with a federal claim but does not address that claim in an opinion that, while denying relief, discusses other claims."
+                            },
+                            {
+                                "start": 28.605,
+                                "stop": 38.986,
+                                "byte_start": 222041,
+                                "byte_stop": 263523,
+                                "text": "Applying our decision in Harrington versus Richter, we hold that in these circumstances, there is a strong but rebuttable presumption that the federal claim was adjudicated on the merits."
+                            },
+                            {
+                                "start": 38.986,
+                                "stop": 43.438,
+                                "byte_start": 263523,
+                                "byte_stop": 281287,
+                                "text": "We further hold that this presumption was not rebutted in the present case."
+                            },
+                            {
+                                "start": 43.438,
+                                "stop": 46.947,
+                                "byte_start": 281287,
+                                "byte_stop": 295393,
+                                "text": "Therefore, the decision of the Ninth Circuit is reversed."
+                            },
+                            {
+                                "start": 46.947,
+                                "stop": 50.568,
+                                "byte_start": 295393,
+                                "byte_stop": 309708,
+                                "text": "Justice Scalia has filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53150,
+            "mime": "audio\/mpeg",
+            "size": 309917,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2012\/11-465\/20130220o_11-465.delivery.mp3"
+        },
+        {
+            "id": 74898,
+            "mime": "audio\/ogg",
+            "size": 520731,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2012\/11-465\/20130220o_11-465.ogg"
+        },
+        {
+            "id": 74899,
+            "mime": "application\/x-mpegURL",
+            "size": 842,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2012\/11-465\/20130220o_11-465.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

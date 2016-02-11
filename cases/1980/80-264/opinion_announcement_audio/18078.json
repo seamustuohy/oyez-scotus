@@ -1,0 +1,88 @@
+{
+    "id": 18078,
+    "title": "Opinion Announcement - April 29, 1981",
+    "transcript": {
+        "title": "Staats v. Bristol Laboratories Div. of Bristol-Myers Co.",
+        "duration": 27.786,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 27.786,
+                "byte_start": 92075,
+                "byte_stop": 203148,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 27.786,
+                        "byte_start": 92075,
+                        "byte_stop": 203148,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.181,
+                                "byte_start": 92075,
+                                "byte_stop": 148813,
+                                "text": "The disposition of 80-264, Staats, the Comptroller General of United States against Bristol Laboratories and by a per curiam opinion filed with the clerk this morning."
+                            },
+                            {
+                                "start": 14.181,
+                                "stop": 27.786,
+                                "byte_start": 148813,
+                                "byte_stop": 203148,
+                                "text": "The judgment of the United States Court of Appeals for the Second Circuit is affirmed by an equally divided court and Justice Stewart took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45278,
+            "mime": "audio\/mpeg",
+            "size": 203357,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/80-264\/19810429o_80-264.delivery.mp3"
+        },
+        {
+            "id": 67130,
+            "mime": "audio\/ogg",
+            "size": 285598,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/80-264\/19810429o_80-264.ogg"
+        },
+        {
+            "id": 67131,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/80-264\/19810429o_80-264.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

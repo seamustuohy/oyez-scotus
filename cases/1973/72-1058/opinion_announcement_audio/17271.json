@@ -1,0 +1,102 @@
+{
+    "id": 17271,
+    "title": "Opinion Announcement - January 16, 1974",
+    "transcript": {
+        "title": "O\u0027Brien v. Skinner",
+        "duration": 47.782,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 47.782,
+                "byte_start": 76800,
+                "byte_stop": 267912,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 47.782,
+                        "byte_start": 76800,
+                        "byte_stop": 267912,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.984,
+                                "byte_start": 76800,
+                                "byte_stop": 116820,
+                                "text": "Mr. Justice Stewart, I have the opinion and judgment of the Court to announce in number 72-1058, O\u0027brien against Skinner."
+                            },
+                            {
+                                "start": 9.984,
+                                "stop": 14.35,
+                                "byte_start": 116820,
+                                "byte_stop": 134269,
+                                "text": "This is an appeal from a judgment of the New York Court of Appeals."
+                            },
+                            {
+                                "start": 14.35,
+                                "stop": 31.749,
+                                "byte_start": 134269,
+                                "byte_stop": 203860,
+                                "text": "It involves the right of citizens to register and vote by mail, when they are detained in a jail, either awaiting trial or confined on misdemeanor convictions, but in either case not subject to any voting disability."
+                            },
+                            {
+                                "start": 31.749,
+                                "stop": 47.782,
+                                "byte_start": 203860,
+                                "byte_stop": 267912,
+                                "text": "For reasons stated in opinion filed this morning, the judgment of the New York Court of Appeals is reversed and the case is remanded for further proceedings, not inconsistent with our opinion of today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43664,
+            "mime": "audio\/mpeg",
+            "size": 268121,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-1058\/19740116o_72-1058.delivery.mp3"
+        },
+        {
+            "id": 65548,
+            "mime": "audio\/ogg",
+            "size": 491163,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-1058\/19740116o_72-1058.ogg"
+        },
+        {
+            "id": 65549,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-1058\/19740116o_72-1058.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,83 @@
+{
+    "id": 16935,
+    "title": "Opinion Announcement - June 17, 1976",
+    "transcript": {
+        "title": "Pennsylvania v. New Jersey",
+        "duration": 40.93,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.93,
+                "byte_start": 73677,
+                "byte_stop": 237308,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.93,
+                        "byte_start": 73677,
+                        "byte_stop": 237308,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 21.102,
+                                "byte_start": 73677,
+                                "byte_stop": 158105,
+                                "text": "In 68 Original and 69 Original, 68 is Pennsylvania against New Jersey; 69, Maine against New Hampshire, the motions of each of the states for leave to file bills of complaint in these original jurisdiction cases are denied."
+                            },
+                            {
+                                "start": 21.102,
+                                "stop": 31.342,
+                                "byte_start": 158105,
+                                "byte_stop": 199065,
+                                "text": "Mr. Justice Blackmun filed a concurring opinion; Mr. Justice Brennan and Mr. Justice White would grant leave to file close bills of complaint."
+                            },
+                            {
+                                "start": 31.342,
+                                "stop": 40.93,
+                                "byte_start": 199065,
+                                "byte_stop": 237308,
+                                "text": "Mr. Justice Powell and Mr. Justice Stevens took no part in either the consideration or the decisions of these cases."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42992,
+            "mime": "audio\/mpeg",
+            "size": 237517,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/68%20ORIG\/19760617o_68orig.delivery.mp3"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,105 @@
+{
+    "id": 23667,
+    "title": "Opinion Announcement - April 04, 1994",
+    "transcript": {
+        "title": "Ticor Title Insurance Company v. Brown",
+        "duration": 21.238,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 21.238,
+                "byte_start": 91010,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 21.238,
+                        "byte_start": 91010,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.796,
+                                "byte_start": 91010,
+                                "byte_stop": 122252,
+                                "text": "I have the opinion of the Court to announce in No. 93-1988, Ticor Title Insurance Company versus Brown."
+                            },
+                            {
+                                "start": 7.796,
+                                "stop": 15.488,
+                                "byte_start": 122252,
+                                "byte_stop": 152972,
+                                "text": "In a Per Curiam opinion filed with the Clerk this morning, it is ordered that the writ be dismissed as improvidently granted."
+                            },
+                            {
+                                "start": 15.488,
+                                "stop": 21.238,
+                                "byte_start": 152972,
+                                "byte_stop": 0,
+                                "text": "Justice O\u0027Connor has filed a dissenting opinion in which I and Justice Kennedy have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56452,
+            "mime": "audio\/mpeg",
+            "size": 175647,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1993\/92-1988\/19940404o_92-1988.delivery.mp3"
+        },
+        {
+            "id": 78140,
+            "mime": "audio\/ogg",
+            "size": 198986,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1993\/92-1988\/19940404o_92-1988.ogg"
+        },
+        {
+            "id": 78141,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1993\/92-1988\/19940404o_92-1988.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 23017,
+    "title": "Opinion Announcement - December 16, 2002",
+    "transcript": {
+        "title": "Borden Ranch Partnership v. Army Corps of Engineers",
+        "duration": 19.304,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 19.304,
+                "byte_start": 84709,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 19.304,
+                        "byte_start": 84709,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.086,
+                                "byte_start": 84709,
+                                "byte_stop": 117101,
+                                "text": "01-1243, Borden Ranch Partnership against the United States Army Corps of Engineers."
+                            },
+                            {
+                                "start": 8.086,
+                                "stop": 14.11,
+                                "byte_start": 117101,
+                                "byte_stop": 141238,
+                                "text": "The judgment of the Court of Appeals for the Ninth Circuit is affirmed by an equally divided court."
+                            },
+                            {
+                                "start": 14.11,
+                                "stop": 19.304,
+                                "byte_start": 141238,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55156,
+            "mime": "audio\/mpeg",
+            "size": 161613,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/01-1243\/20021216o_01-1243.delivery.mp3"
+        },
+        {
+            "id": 76896,
+            "mime": "audio\/ogg",
+            "size": 196921,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/01-1243\/20021216o_01-1243.ogg"
+        },
+        {
+            "id": 76897,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/01-1243\/20021216o_01-1243.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

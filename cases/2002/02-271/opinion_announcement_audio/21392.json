@@ -1,0 +1,112 @@
+{
+    "id": 21392,
+    "title": "Opinion Announcement - June 09, 2003",
+    "transcript": {
+        "title": "Dow Chemical Company v. Stephenson",
+        "duration": 47.412,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 47.412,
+                "byte_start": 84942,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 47.412,
+                        "byte_start": 84942,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.963,
+                                "byte_start": 84942,
+                                "byte_stop": 120886,
+                                "text": "I also have the opinion of the Court to announce in No. 02-271, Dow Chemical Company versus Daniel Raymond Stephenson."
+                            },
+                            {
+                                "start": 8.963,
+                                "stop": 30.108,
+                                "byte_start": 120886,
+                                "byte_stop": 205419,
+                                "text": "With respect to respondents Joe Isaacson and Phyllis Liza Isaacson, the judgment of the Court of Appeals for the Second Circuit is vacated and the case is remanded for further consideration in the light of our opinion last fall in Syngenta Crop Protection Inc. versus Henson."
+                            },
+                            {
+                                "start": 30.108,
+                                "stop": 42.591,
+                                "byte_start": 205419,
+                                "byte_stop": 255365,
+                                "text": "With respect to respondents, Daniel Raymond Stephenson, Susan Stephenson, Daniel Anthony Stephenson, and Emily Elizabeth Stephenson, the judgment is affirmed by an equally divided court."
+                            },
+                            {
+                                "start": 42.591,
+                                "stop": 47.412,
+                                "byte_start": 255365,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51908,
+            "mime": "audio\/mpeg",
+            "size": 274591,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/02-271\/20030609o_02-271.delivery.mp3"
+        },
+        {
+            "id": 73678,
+            "mime": "audio\/ogg",
+            "size": 498024,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/02-271\/20030609o_02-271.ogg"
+        },
+        {
+            "id": 73679,
+            "mime": "application\/x-mpegURL",
+            "size": 799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/02-271\/20030609o_02-271.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,88 @@
+{
+    "id": 17641,
+    "title": "Opinion Announcement - November 15, 1976",
+    "transcript": {
+        "title": "Moody v. Daggett",
+        "duration": 24.871,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.871,
+                "byte_start": 100530,
+                "byte_stop": 200004,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.871,
+                        "byte_start": 100530,
+                        "byte_stop": 200004,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 18.218,
+                                "byte_start": 100530,
+                                "byte_stop": 173464,
+                                "text": "I have the opinion -- judgment and opinion of the Court to announce Number 74-6632, Moody against Daggett and for reasons stated in an opinion filed with the Clerk this morning, the judgment of the United States Court of Appeals for the Tenth Circuit is affirmed."
+                            },
+                            {
+                                "start": 18.218,
+                                "stop": 24.871,
+                                "byte_start": 173464,
+                                "byte_stop": 200004,
+                                "text": "Mr. Justice Stevens with whom Mr. Justice Brennan joined, filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44404,
+            "mime": "audio\/mpeg",
+            "size": 200213,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/74-6632\/19761115o_74-6632.delivery.mp3"
+        },
+        {
+            "id": 66264,
+            "mime": "audio\/ogg",
+            "size": 268426,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/74-6632\/19761115o_74-6632.ogg"
+        },
+        {
+            "id": 66265,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/74-6632\/19761115o_74-6632.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

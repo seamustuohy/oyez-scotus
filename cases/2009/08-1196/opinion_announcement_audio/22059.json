@@ -1,0 +1,88 @@
+{
+    "id": 22059,
+    "title": "Opinion Announcement - June 24, 2010",
+    "transcript": {
+        "title": "Weyhrauch v. United States",
+        "duration": 24.215,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.215,
+                "byte_start": 106496,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.215,
+                        "byte_start": 106496,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15084,
+                            "name": "Ruth Bader Ginsburg",
+                            "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                            "last_name": "Ginsburg",
+                            "roles": [
+                                {
+                                    "id": 2728,
+                                    "type": "scotus_justice",
+                                    "date_start": 744958800,
+                                    "date_end": 0,
+                                    "appointing_president": "Bill Clinton",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32681,
+                                "mime": "image\/png",
+                                "size": 45030,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            },
+                            "length_of_service": 8135,
+                            "identifier": "ruth_bader_ginsburg"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.359,
+                                "byte_start": 106496,
+                                "byte_stop": 135962,
+                                "text": "Finally, I announced the decisions in numbers 08-1196 Weyhrauch v. United States."
+                            },
+                            {
+                                "start": 7.359,
+                                "stop": 24.215,
+                                "byte_start": 135962,
+                                "byte_stop": 0,
+                                "text": "In this case the court states unanimously and per curium, the judgment is vacated and the case is remanded to the United States, Court of Appeals for the Ninth Circuit for further consideration in light of Skilling v. United States."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53240,
+            "mime": "audio\/mpeg",
+            "size": 203358,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2009\/08-1196\/20100624o_08-1196.delivery.mp3"
+        },
+        {
+            "id": 74988,
+            "mime": "audio\/ogg",
+            "size": 242126,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2009\/08-1196\/20100624o_08-1196.ogg"
+        },
+        {
+            "id": 74989,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2009\/08-1196\/20100624o_08-1196.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

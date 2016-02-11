@@ -1,0 +1,95 @@
+{
+    "id": 21819,
+    "title": "Opinion Announcement - May 17, 2010",
+    "transcript": {
+        "title": "Sullivan v. Florida",
+        "duration": 22.152,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 22.152,
+                "byte_start": 104448,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 22.152,
+                        "byte_start": 104448,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 3.76,
+                                "byte_start": 104448,
+                                "byte_stop": 119495,
+                                "text": "The Third case is Sullivan Versus Florida."
+                            },
+                            {
+                                "start": 3.76,
+                                "stop": 14.33,
+                                "byte_start": 119495,
+                                "byte_stop": 161813,
+                                "text": "This case was argued -- and case number 08-7621, Sullivan Versus Florida was argued on the same day as Graham."
+                            },
+                            {
+                                "start": 14.33,
+                                "stop": 22.152,
+                                "byte_start": 161813,
+                                "byte_stop": 0,
+                                "text": "In this case, the Court has issued a unanimous per-curium opinion and it states, the writ of certiorari is dismissed, is improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 52761,
+            "mime": "audio\/mpeg",
+            "size": 192742,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2009\/08-7621\/20100517o_08-7621.delivery.mp3"
+        },
+        {
+            "id": 74514,
+            "mime": "audio\/ogg",
+            "size": 229137,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2009\/08-7621\/20100517o_08-7621.ogg"
+        },
+        {
+            "id": 74515,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2009\/08-7621\/20100517o_08-7621.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

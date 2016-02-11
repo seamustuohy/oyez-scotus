@@ -1,0 +1,146 @@
+{
+    "id": 21117,
+    "title": "Opinion Announcement - June 15, 1992",
+    "transcript": {
+        "title": "Ankenbrandt v. Richards",
+        "duration": 41.169,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 41.169,
+                "byte_start": 90882,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.948,
+                        "byte_start": 90882,
+                        "byte_stop": 122751,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.948,
+                                "byte_start": 90882,
+                                "byte_stop": 122751,
+                                "text": "The opinions of the Court in two cases will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.948,
+                        "stop": 41.169,
+                        "byte_start": 122751,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.948,
+                                "stop": 20.653,
+                                "byte_start": 122751,
+                                "byte_stop": 173533,
+                                "text": "The first case is Carol Ankenbrandt on behalf of her two children against Richards, No. 91-367."
+                            },
+                            {
+                                "start": 20.653,
+                                "stop": 29.458,
+                                "byte_start": 173533,
+                                "byte_stop": 208746,
+                                "text": "The judgment of the Court of Appeals for the Fifth Circuit in this case is affirmed for the reasons stated in an opinion filed with the Clerk."
+                            },
+                            {
+                                "start": 29.458,
+                                "stop": 41.169,
+                                "byte_start": 208746,
+                                "byte_stop": 0,
+                                "text": "Justices Blackmun and Stevens have each filed an opinion concurring in the judgment; Justice Thomas has joined Justice Stevens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51358,
+            "mime": "audio\/mpeg",
+            "size": 255558,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/91-367\/19920615o_91-367.delivery.mp3"
+        },
+        {
+            "id": 73134,
+            "mime": "audio\/ogg",
+            "size": 402630,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/91-367\/19920615o_91-367.ogg"
+        },
+        {
+            "id": 73135,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/91-367\/19920615o_91-367.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

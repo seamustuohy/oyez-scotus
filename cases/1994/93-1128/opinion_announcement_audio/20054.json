@@ -1,0 +1,147 @@
+{
+    "id": 20054,
+    "title": "Opinion Announcement - December 12, 1994",
+    "transcript": {
+        "title": "Brown v. Gardner",
+        "duration": 95.425,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 95.425,
+                "byte_start": 87378,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 95.425,
+                        "byte_start": 87378,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.939,
+                                "byte_start": 87378,
+                                "byte_stop": 115172,
+                                "text": "I have the opinion of the court to announce in number 93-1128, Brown v. Gardner."
+                            },
+                            {
+                                "start": 6.939,
+                                "stop": 18.418,
+                                "byte_start": 115172,
+                                "byte_stop": 161148,
+                                "text": "After having back surgery at Veterans Administration facility the respondent Gardner who is a veteran of Korean War experienced pain and weakness in his left leg."
+                            },
+                            {
+                                "start": 18.418,
+                                "stop": 33.097,
+                                "byte_start": 161148,
+                                "byte_stop": 219767,
+                                "text": "He claimed disability benefits under the statute which requires the Veterans Administration to compensate veterans for an injury or an aggravation of an injury that occurs as the result of a Veterans Administration treatment."
+                            },
+                            {
+                                "start": 33.097,
+                                "stop": 37.997,
+                                "byte_start": 219767,
+                                "byte_stop": 239411,
+                                "text": "The VA and the board of Veterans Appeals denied Gardner\u0027s claim."
+                            },
+                            {
+                                "start": 37.997,
+                                "stop": 46.033,
+                                "byte_start": 239411,
+                                "byte_stop": 271594,
+                                "text": "On the ground that Subsection 1151 which is one of the sections of that law as interpreted by a VA regulation."
+                            },
+                            {
+                                "start": 46.033,
+                                "stop": 53.694,
+                                "byte_start": 271594,
+                                "byte_stop": 302209,
+                                "text": "Only covers in injury if it resulted from negligent treatment by the VA or an accident occurring during treatment."
+                            },
+                            {
+                                "start": 53.694,
+                                "stop": 67.639,
+                                "byte_start": 302209,
+                                "byte_stop": 358007,
+                                "text": "The Court of Veterans Appeals reversed holding that section 1151 neither imposes nor authorizes the adoption of the fault or accident requirement and the Court of Appeals for the Federal Circuit affirmed that decision."
+                            },
+                            {
+                                "start": 67.639,
+                                "stop": 76.395,
+                                "byte_start": 358007,
+                                "byte_stop": 393011,
+                                "text": "In the unanimous opinion authored by Justice Souter and filed today with the clerk of the court, we affirm the judgment of Federal Circuit."
+                            },
+                            {
+                                "start": 76.395,
+                                "stop": 95.425,
+                                "byte_start": 393011,
+                                "byte_stop": 0,
+                                "text": "The statute refer solely to a claimant\u0027s fault in not permitting compensation to those whose disabilities are the result of their own willful misconduct and without some mention of a VA\u0027s fault, it will be unreasonable to read the statute as imposing on the Veteran claimant the burden of demonstrating it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49232,
+            "mime": "audio\/mpeg",
+            "size": 469079,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1994\/93-1128\/19941212o_93-1128.delivery.mp3"
+        },
+        {
+            "id": 71038,
+            "mime": "audio\/ogg",
+            "size": 926740,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1994\/93-1128\/19941212o_93-1128.ogg"
+        },
+        {
+            "id": 71039,
+            "mime": "application\/x-mpegURL",
+            "size": 1519,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1994\/93-1128\/19941212o_93-1128.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

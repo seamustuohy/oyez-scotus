@@ -1,0 +1,88 @@
+{
+    "id": 17561,
+    "title": "Opinion Announcement - February 28, 1979",
+    "transcript": {
+        "title": "Aronson v. Quick Point Pencil Company",
+        "duration": 23.234,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 23.234,
+                "byte_start": 28672,
+                "byte_stop": 121563,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 23.234,
+                        "byte_start": 28672,
+                        "byte_stop": 121563,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.169,
+                                "byte_start": 28672,
+                                "byte_stop": 105368,
+                                "text": "I have for announcement the disposition of Number 1413, Aronson against Quick Point Pencil Company and for reasons stated in an opinion for the Court filed with the clerk this morning and the judgment of the United States Court of Appeals for the Eighth Circuit is reversed."
+                            },
+                            {
+                                "start": 19.169,
+                                "stop": 23.234,
+                                "byte_start": 105368,
+                                "byte_stop": 121563,
+                                "text": "Mr. Justice Blackmun filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44244,
+            "mime": "audio\/mpeg",
+            "size": 121877,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1978\/77-1413\/19790228o_77-1413.delivery.mp3"
+        },
+        {
+            "id": 66104,
+            "mime": "audio\/ogg",
+            "size": 231349,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1978\/77-1413\/19790228o_77-1413.ogg"
+        },
+        {
+            "id": 66105,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1978\/77-1413\/19790228o_77-1413.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

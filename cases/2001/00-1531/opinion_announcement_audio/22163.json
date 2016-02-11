@@ -1,0 +1,314 @@
+{
+    "id": 22163,
+    "title": "Opinion Announcement - May 20, 2002",
+    "transcript": {
+        "title": "Verizon Maryland, Inc. v. Public Service Commission of Maryland",
+        "duration": 419.997,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 419.997,
+                "byte_start": 87497,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 13.922,
+                        "byte_start": 87497,
+                        "byte_stop": 143190,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.922,
+                                "byte_start": 87497,
+                                "byte_stop": 143190,
+                                "text": "The opinion of the Court in No. 00-1531, Verizon Maryland, Inc. versus Public Service Commission of Maryland and the companion case will be announced by Justice Scalia."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 13.922,
+                        "stop": 419.997,
+                        "byte_start": 143190,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 13.922,
+                                "stop": 27.594,
+                                "byte_start": 143190,
+                                "byte_stop": 197943,
+                                "text": "Thees cases 00-1531 and 00-1711, United States versus Public Service Commission of Maryland come to us on writs of certiorari to the United States Court of Appeals for the Fourth Circuit."
+                            },
+                            {
+                                "start": 27.594,
+                                "stop": 52.551,
+                                "byte_start": 197943,
+                                "byte_stop": 297730,
+                                "text": "The Telecommunications Act of 1996 requires that incumbent localexchange carriers, the local telephone companies, general for simplification but good enough, provide interconnection with their existing networks when the new entrant seeks access to the local telecommunications market."
+                            },
+                            {
+                                "start": 52.551,
+                                "stop": 73.759,
+                                "byte_start": 297730,
+                                "byte_stop": 382576,
+                                "text": "The Act requires that the carriers\u2019 established reciprocal compensation arrangements for transporting and terminating the calls of each other\u2019s customers and that they submit these interconnection agreements to state utility commission for approval."
+                            },
+                            {
+                                "start": 73.759,
+                                "stop": 91.195,
+                                "byte_start": 382576,
+                                "byte_stop": 452375,
+                                "text": "Petitioner Verizon Maryland, the incumbent localexchange carrier in the State of Maryland negotiated an interconnection agreement with a competitor later acquired by respondent, MCI WorldCom, and the Maryland Public Service Commission approved that agreement."
+                            },
+                            {
+                                "start": 91.195,
+                                "stop": 106.397,
+                                "byte_start": 452375,
+                                "byte_stop": 513188,
+                                "text": "Soon afterwards however, Verizon informed WorldCom that it would no longer pay reciprocal compensation for calls made by Verizon\u2019s customers to the local access numbers of internet service providers."
+                            },
+                            {
+                                "start": 106.397,
+                                "stop": 118.5,
+                                "byte_start": 513188,
+                                "byte_stop": 561567,
+                                "text": "Verizon took the position that ISP traffic, internet service provide traffic, was not local traffic subject to the reciprocal compensation agreement."
+                            },
+                            {
+                                "start": 118.5,
+                                "stop": 124.737,
+                                "byte_start": 561567,
+                                "byte_stop": 586540,
+                                "text": "WorldCom filed a complaint with the Commission and the Commission ordered Verizon to pay reciprocal compensation."
+                            },
+                            {
+                                "start": 124.737,
+                                "stop": 147.776,
+                                "byte_start": 586540,
+                                "byte_stop": 678700,
+                                "text": "Verizon then filed an action in Federal District Court citing as the basis of jurisdiction Section 252(e)(6) of the 1996 Act as well as 28 U.S.C. Section 1331, and naming as defendants the Commission, its individual members in their official capacities, WorldCom, and other competing carriers."
+                            },
+                            {
+                                "start": 147.776,
+                                "stop": 162.512,
+                                "byte_start": 678700,
+                                "byte_stop": 737633,
+                                "text": "In its complaint, Verizon alleged that the Commission\u2019s determination that Verizon must pay reciprocal compensation for ISP traffic violated the 1996 Act and a Federal Communications Commission Ruling."
+                            },
+                            {
+                                "start": 162.512,
+                                "stop": 173.361,
+                                "byte_start": 737633,
+                                "byte_stop": 780996,
+                                "text": "The complaint sought a declaratory judgment that the order was unlawful, the order of the Maryland Commission, and an injunction prohibiting enforcement of the order."
+                            },
+                            {
+                                "start": 173.361,
+                                "stop": 200.751,
+                                "byte_start": 780996,
+                                "byte_stop": 890606,
+                                "text": "The District Court dismissed the action and the Fourth Circuit affirmed holding that the commission had not waived its Eleventh Amendment immunity from suit that the Doctrine of Ex parte young does not permit suit against the individual commissioner\u2019s in their official capacities and that neither 252(e)(6) nor Section 1331 provides a basis for jurisdiction over Verizon\u2019s claims against the private defendants."
+                            },
+                            {
+                                "start": 200.751,
+                                "stop": 209.863,
+                                "byte_start": 890606,
+                                "byte_stop": 926968,
+                                "text": "Verizon and the United States which had intervened in the suit sought certiorari which we granted, we now vacate and remand."
+                            },
+                            {
+                                "start": 209.863,
+                                "stop": 217.861,
+                                "byte_start": 926968,
+                                "byte_stop": 958942,
+                                "text": "Section 1331 provides jurisdiction over Verizon\u2019s claim that the Commission\u2019s order is preempted by federal law."
+                            },
+                            {
+                                "start": 217.861,
+                                "stop": 234.227,
+                                "byte_start": 958942,
+                                "byte_stop": 1024457,
+                                "text": "Federal Courts have jurisdiction under Section 1331 where the petitioner\u2019s right to recover will be sustained if federal law has given one construction and will be defeated if it is given another unless the claim appears to be insubstantial and frivolous."
+                            },
+                            {
+                                "start": 234.227,
+                                "stop": 247.486,
+                                "byte_start": 1024457,
+                                "byte_stop": 1077538,
+                                "text": "Here, resolution of Verizon\u2019s claim turns on whether the Act or an FCC ruling precludes the commission from ordering payment of reciprocal compensation and there is no suggestion that this claim is frivolous."
+                            },
+                            {
+                                "start": 247.486,
+                                "stop": 261.579,
+                                "byte_start": 1077538,
+                                "byte_stop": 1133858,
+                                "text": "Even if Section 252(e)(6) of the Act, which of the 1996 Act, which provides for federal review of an agreement when a State Commission makes a determination under Section 252."
+                            },
+                            {
+                                "start": 261.579,
+                                "stop": 275.432,
+                                "byte_start": 1133858,
+                                "byte_stop": 1189237,
+                                "text": "Even if that provision does not confer jurisdiction over Verizon\u2019s claim, a question we need not decide in this case, that Section at least does not divest the District Courts of their authority under Section 1331."
+                            },
+                            {
+                                "start": 275.432,
+                                "stop": 300.885,
+                                "byte_start": 1189237,
+                                "byte_stop": 1291115,
+                                "text": "Section 252(e)(6) does not establish any distinctive review mechanism for the Commission actions that it covers and it does not distinctively limit the substance to relief available, nor do any of the 1996 Acts other provisions events any intent to preclude federal review of a Commission determination under plain old 28 U.S.C. Section 1331."
+                            },
+                            {
+                                "start": 300.885,
+                                "stop": 320.154,
+                                "byte_start": 1291115,
+                                "byte_stop": 1368124,
+                                "text": "We need not decide whether the commission waived its immunity from suit by voluntarily participating in the regulatory regime established by the 1996 Act because in our view the Doctrine of Ex parte young permits Verizon suit to go forward against the State Commissioners in their official capacities."
+                            },
+                            {
+                                "start": 320.154,
+                                "stop": 337.15,
+                                "byte_start": 1368124,
+                                "byte_stop": 1436147,
+                                "text": "In determining whether the Ex parte Young Doctrine voids and Eleventh Amendment bar the suit, a court need only conduct a straightforward inquiry into whether the complaint alleges an ongoing violation of federal law and seeks relief properly characterized as prospective."
+                            },
+                            {
+                                "start": 337.15,
+                                "stop": 348.955,
+                                "byte_start": 1436147,
+                                "byte_stop": 1483376,
+                                "text": "Here, Verizon\u2019s prayer for injunctive relief that State official be restrained from enforcing an order in contravention of federal law, clearly satisfies our straightforward inquiry."
+                            },
+                            {
+                                "start": 348.955,
+                                "stop": 363.707,
+                                "byte_start": 1483376,
+                                "byte_stop": 1542413,
+                                "text": "As to Verizon\u2019s prayer for declaratory relief, even though Verizon\u2019s seeks a declaration of the past as well as the future in effectiveness of the Commission\u2019s action so the private party\u2019s past financial liability may be affected."
+                            },
+                            {
+                                "start": 363.707,
+                                "stop": 368.694,
+                                "byte_start": 1542413,
+                                "byte_stop": 1562370,
+                                "text": "No past liability of the State or of any of its Commissioners is an issue."
+                            },
+                            {
+                                "start": 368.694,
+                                "stop": 385.448,
+                                "byte_start": 1562370,
+                                "byte_stop": 1629348,
+                                "text": "The Fourth Circuit suggested that Verizon\u2019s claims could not be brought under Ex parte Young because the Commission\u2019s order was probably not inconsistent with federal law at all, but the inquiry into whether suit lies under Ex parte Young does not include an analysis of the merits of the claim."
+                            },
+                            {
+                                "start": 385.448,
+                                "stop": 402.724,
+                                "byte_start": 1629348,
+                                "byte_stop": 1698416,
+                                "text": "Nor finally is there any merits of the Commission\u2019s argument that Section 252(e)(6) constitutes a detailed and exclusive remedial steam like the one held in Seminole Tribe of Florida to implicitly exclude Ex parte Young actions."
+                            },
+                            {
+                                "start": 402.724,
+                                "stop": 410.253,
+                                "byte_start": 1698416,
+                                "byte_stop": 1728614,
+                                "text": "The Court\u2019s decision is unanimous except that Justice O\u2019Connor took no part in the consideration or decision of these cases."
+                            },
+                            {
+                                "start": 410.253,
+                                "stop": 419.997,
+                                "byte_start": 1728614,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy has filed a concurring opinion and Justice Souter has filed a concurring opinion in which Justice Breyer and Justice Ginsburg join."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53448,
+            "mime": "audio\/mpeg",
+            "size": 1767484,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2001\/00-1531\/20020520o_00-1531.delivery.mp3"
+        },
+        {
+            "id": 75192,
+            "mime": "audio\/ogg",
+            "size": 4377406,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2001\/00-1531\/20020520o_00-1531.ogg"
+        },
+        {
+            "id": 75193,
+            "mime": "application\/x-mpegURL",
+            "size": 6315,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2001\/00-1531\/20020520o_00-1531.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

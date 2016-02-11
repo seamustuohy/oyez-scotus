@@ -1,0 +1,109 @@
+{
+    "id": 23349,
+    "title": "Opinion Announcement - June 06, 1988",
+    "transcript": {
+        "title": "Meyer v. Grant",
+        "duration": 46.36,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.36,
+                "byte_start": 28672,
+                "byte_stop": 214037,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 46.36,
+                        "byte_start": 28672,
+                        "byte_stop": 214037,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.479,
+                                "byte_start": 28672,
+                                "byte_stop": 54690,
+                                "text": "The second cases, Meyer against Colorado comes to us from the United States that our opinion is unanimous in that case."
+                            },
+                            {
+                                "start": 6.479,
+                                "stop": 10.963,
+                                "byte_start": 54690,
+                                "byte_stop": 72558,
+                                "text": "And in Meyer against Grant we also have unanimous opinion."
+                            },
+                            {
+                                "start": 10.963,
+                                "stop": 26.502,
+                                "byte_start": 72558,
+                                "byte_stop": 134729,
+                                "text": "The case involves a Colorado statute which provides that a proposed constitutional amendment can be placed on the general election ballot if enough signatures -- as -- are obtained supporting the amendment."
+                            },
+                            {
+                                "start": 26.502,
+                                "stop": 32.985,
+                                "byte_start": 134729,
+                                "byte_stop": 160643,
+                                "text": "The statute however provides that it\u0027s a felony to pay people to help circulate petitions."
+                            },
+                            {
+                                "start": 32.985,
+                                "stop": 46.36,
+                                "byte_start": 160643,
+                                "byte_stop": 214037,
+                                "text": "And the Court of Appeals with the Tenth Circuit held that this provision violated the First Amendment and we agree unanimously and affirm its judgment holding that this statute violates the First Amendment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55820,
+            "mime": "audio\/mpeg",
+            "size": 214350,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-920\/19880606o_87-920.delivery.mp3"
+        },
+        {
+            "id": 77534,
+            "mime": "audio\/ogg",
+            "size": 483284,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-920\/19880606o_87-920.ogg"
+        },
+        {
+            "id": 77535,
+            "mime": "application\/x-mpegURL",
+            "size": 799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-920\/19880606o_87-920.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

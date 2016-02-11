@@ -1,0 +1,81 @@
+{
+    "id": 18293,
+    "title": "Opinion Announcement - December 13, 1982",
+    "transcript": {
+        "title": "Burlington Northern Inc. v. United States",
+        "duration": 20.546,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.546,
+                "byte_start": 92314,
+                "byte_stop": 174443,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.546,
+                        "byte_start": 92314,
+                        "byte_stop": 174443,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 20.546,
+                                "byte_start": 92314,
+                                "byte_stop": 174443,
+                                "text": "In Burlington Northern Incorporated and others against the United States for reasons stated in an opinion, a unanimous opinion of the Court filed with the Court this morning the judgment of the Court of Appeals of the District of Columbia Circuit is reversed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45708,
+            "mime": "audio\/mpeg",
+            "size": 174652,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1982\/81-1008\/19821213o_81-1008.delivery.mp3"
+        },
+        {
+            "id": 67552,
+            "mime": "audio\/ogg",
+            "size": 217106,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1982\/81-1008\/19821213o_81-1008.ogg"
+        },
+        {
+            "id": 67553,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1982\/81-1008\/19821213o_81-1008.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

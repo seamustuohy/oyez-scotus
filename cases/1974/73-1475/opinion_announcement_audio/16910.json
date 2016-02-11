@@ -1,0 +1,102 @@
+{
+    "id": 16910,
+    "title": "Opinion Announcement - February 18, 1975",
+    "transcript": {
+        "title": "Harris County Comm\u0027rs Court v. Moore",
+        "duration": 33.205,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 33.205,
+                "byte_start": 28672,
+                "byte_stop": 161479,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 33.205,
+                        "byte_start": 28672,
+                        "byte_stop": 161479,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.717,
+                                "byte_start": 28672,
+                                "byte_stop": 59601,
+                                "text": "In 73-1475, Harris County Commissioners against Moore."
+                            },
+                            {
+                                "start": 7.717,
+                                "stop": 18.763,
+                                "byte_start": 59601,
+                                "byte_stop": 103800,
+                                "text": "For reasons stated in an opinion written by Mr. Justice Marshall, the judgment of the United States District Court -- a three-judge court is reversed and the case is remanded for further proceedings."
+                            },
+                            {
+                                "start": 18.763,
+                                "stop": 25.616,
+                                "byte_start": 103800,
+                                "byte_stop": 131176,
+                                "text": "Mr. Justice Douglas took no part in the consideration of the (Inaudible) case."
+                            },
+                            {
+                                "start": 25.616,
+                                "stop": 33.205,
+                                "byte_start": 131176,
+                                "byte_stop": 161479,
+                                "text": "Mr. Justice Douglas has filed a dissenting opinion in Harris County Commissioners."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42942,
+            "mime": "audio\/mpeg",
+            "size": 161792,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1475\/19750218o_73-1475.delivery.mp3"
+        },
+        {
+            "id": 64846,
+            "mime": "audio\/ogg",
+            "size": 328711,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1475\/19750218o_73-1475.ogg"
+        },
+        {
+            "id": 64847,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1475\/19750218o_73-1475.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

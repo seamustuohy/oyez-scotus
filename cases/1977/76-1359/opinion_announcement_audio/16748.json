@@ -1,0 +1,88 @@
+{
+    "id": 16748,
+    "title": "Opinion Announcement - March 28, 1978",
+    "transcript": {
+        "title": "Bankers Trust Company v. Mallis",
+        "duration": 23.586,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 23.586,
+                "byte_start": 79993,
+                "byte_stop": 174243,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 23.586,
+                        "byte_start": 79993,
+                        "byte_stop": 174243,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 18.522,
+                                "byte_start": 79993,
+                                "byte_stop": 154181,
+                                "text": "I have the disposition to announce the Bankers Trust Company against Mallis for reasons stated in the opinion for the court filed with the clerk this morning, the writ of Certiorari to the United States Court of Appeals for the Second Circuit is dismissed as having been improvidently granted."
+                            },
+                            {
+                                "start": 18.522,
+                                "stop": 23.586,
+                                "byte_start": 154181,
+                                "byte_stop": 174243,
+                                "text": "Mr. Justice Blackmun took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42618,
+            "mime": "audio\/mpeg",
+            "size": 174452,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-1359\/19780328o_76-1359.delivery.mp3"
+        },
+        {
+            "id": 64528,
+            "mime": "audio\/ogg",
+            "size": 249517,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-1359\/19780328o_76-1359.ogg"
+        },
+        {
+            "id": 64529,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-1359\/19780328o_76-1359.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

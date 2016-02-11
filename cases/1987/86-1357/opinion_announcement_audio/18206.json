@@ -1,0 +1,140 @@
+{
+    "id": 18206,
+    "title": "Opinion Announcement - May 16, 1988",
+    "transcript": {
+        "title": "United States Department of Justice v. Julian",
+        "duration": 57.955,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 57.955,
+                "byte_start": 28672,
+                "byte_stop": 260430,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 57.955,
+                        "byte_start": 28672,
+                        "byte_stop": 260430,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.307,
+                                "byte_start": 28672,
+                                "byte_stop": 53959,
+                                "text": "In No. 86-1357, United States Department of Justice versus Julian."
+                            },
+                            {
+                                "start": 6.307,
+                                "stop": 15.799,
+                                "byte_start": 53959,
+                                "byte_stop": 91888,
+                                "text": "The respondents in this case are prison inmates who sued the Government under the FOIA, Freedom of Information Act for disclosure of their presentence investigation reports."
+                            },
+                            {
+                                "start": 15.799,
+                                "stop": 18.463,
+                                "byte_start": 91888,
+                                "byte_stop": 102546,
+                                "text": "These reports are prepared by a probation officer."
+                            },
+                            {
+                                "start": 18.463,
+                                "stop": 25.893,
+                                "byte_start": 102546,
+                                "byte_stop": 132326,
+                                "text": "They are then used by the District Court for sentencing and transmitted to the Parole Commission and the Bureau of Prisons."
+                            },
+                            {
+                                "start": 25.893,
+                                "stop": 39.456,
+                                "byte_start": 132326,
+                                "byte_stop": 186556,
+                                "text": "The issue raised by this case is whether the FOIA requires that these presentence investigation reports be disclosed to the person who is the subject of the report or whether the reports instead fall under one of the Act\u0027s statutory exemption."
+                            },
+                            {
+                                "start": 39.456,
+                                "stop": 48.807,
+                                "byte_start": 186556,
+                                "byte_stop": 223963,
+                                "text": "For the reason stated in an opinion filed with the clerk today, we conclude that the reports are not exempted from disclosure by either Exemption 3 or Exemption 5 of the FOIA."
+                            },
+                            {
+                                "start": 48.807,
+                                "stop": 52.382,
+                                "byte_start": 223963,
+                                "byte_stop": 238279,
+                                "text": "And accordingly, they must be disclosed to the respondents."
+                            },
+                            {
+                                "start": 52.382,
+                                "stop": 57.955,
+                                "byte_start": 238279,
+                                "byte_stop": 260430,
+                                "text": "Justice Scalia has filed a dissenting opinion in which Justice White and Justice O\u0027Connor have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45534,
+            "mime": "audio\/mpeg",
+            "size": 260744,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1357\/19880516o_86-1357.delivery.mp3"
+        },
+        {
+            "id": 67384,
+            "mime": "audio\/ogg",
+            "size": 564525,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1357\/19880516o_86-1357.ogg"
+        },
+        {
+            "id": 67385,
+            "mime": "application\/x-mpegURL",
+            "size": 991,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1357\/19880516o_86-1357.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

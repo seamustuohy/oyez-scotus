@@ -1,0 +1,143 @@
+{
+    "id": 16966,
+    "title": "Opinion Announcement - January 15, 1974",
+    "transcript": {
+        "title": "Spomer v. Littleton",
+        "duration": 47.841,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 47.841,
+                "byte_start": 76800,
+                "byte_stop": 268121,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 43.318,
+                        "byte_start": 76800,
+                        "byte_stop": 250149,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.953,
+                                "byte_start": 76800,
+                                "byte_stop": 128627,
+                                "text": "In the Spomer case, it appears that after the judgment of the Court of Appeals was filed, the prosecuting attorney named in the complaint was succeeded by another as a result of the 1972 elections."
+                            },
+                            {
+                                "start": 12.953,
+                                "stop": 23.584,
+                                "byte_start": 128627,
+                                "byte_stop": 171154,
+                                "text": "We accordingly vacate the judgment and amend the case to the Court of Appeals to determine in the light of this fact whether there\u2019s still a live controversy in this case."
+                            },
+                            {
+                                "start": 23.584,
+                                "stop": 35.004,
+                                "byte_start": 171154,
+                                "byte_stop": 216921,
+                                "text": "In the O\u0027Shea case, Mr. Justice Blackmun has filed an opinion concurring in the judgment and in part one of the court\u2019s opinion."
+                            },
+                            {
+                                "start": 35.004,
+                                "stop": 43.318,
+                                "byte_start": 216921,
+                                "byte_stop": 250149,
+                                "text": "Mr. Justice Douglas has filed a dissenting opinion, in which Justices Brennan and Marshall have joined."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 43.318,
+                        "stop": 47.841,
+                        "byte_start": 250149,
+                        "byte_stop": 268121,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 43.318,
+                                "stop": 47.841,
+                                "byte_start": 250149,
+                                "byte_stop": 268121,
+                                "text": "Thank you, Mr. Justice White."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43054,
+            "mime": "audio\/mpeg",
+            "size": 268330,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-955\/19740115o_72-955.delivery.mp3"
+        },
+        {
+            "id": 64952,
+            "mime": "audio\/ogg",
+            "size": 488277,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-955\/19740115o_72-955.ogg"
+        },
+        {
+            "id": 64953,
+            "mime": "application\/x-mpegURL",
+            "size": 799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-955\/19740115o_72-955.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

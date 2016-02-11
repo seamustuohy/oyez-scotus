@@ -1,0 +1,160 @@
+{
+    "id": 23444,
+    "title": "Opinion Announcement - June 20, 1988",
+    "transcript": {
+        "title": "Stewart Organization, Inc. v. Ricoh Corporation",
+        "duration": 46.529,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.529,
+                "byte_start": 28672,
+                "byte_stop": 214768,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.361,
+                        "byte_start": 28672,
+                        "byte_stop": 66184,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.361,
+                                "byte_start": 28672,
+                                "byte_stop": 66184,
+                                "text": "The opinion of the Court in No. 86-1908, Stewart Organization versus Ricoh Corporation will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.361,
+                        "stop": 46.529,
+                        "byte_start": 66184,
+                        "byte_stop": 214768,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.361,
+                                "stop": 15.36,
+                                "byte_start": 66184,
+                                "byte_stop": 90216,
+                                "text": "This case is here on certiorari to the United States Court of Appeals for the Eleventh Circuit."
+                            },
+                            {
+                                "start": 15.36,
+                                "stop": 33.871,
+                                "byte_start": 90216,
+                                "byte_stop": 164195,
+                                "text": "We hold here that this federal statute designated as 28 U.S.C. 1404(a), governs the enforceability of a contractual forum, the selection of that forum in diversity actions."
+                            },
+                            {
+                                "start": 33.871,
+                                "stop": 37.455,
+                                "byte_start": 164195,
+                                "byte_stop": 178510,
+                                "text": "We therefore affirm the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 37.455,
+                                "stop": 42.505,
+                                "byte_start": 178510,
+                                "byte_stop": 198781,
+                                "text": "Justice Kennedy has filed a concurring opinion in which Justice O\u0027Connor joined."
+                            },
+                            {
+                                "start": 42.505,
+                                "stop": 46.529,
+                                "byte_start": 198781,
+                                "byte_stop": 214768,
+                                "text": "Also, Justice Scalia has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56010,
+            "mime": "audio\/mpeg",
+            "size": 215082,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1908\/19880620o_86-1908.delivery.mp3"
+        },
+        {
+            "id": 77718,
+            "mime": "audio\/ogg",
+            "size": 432237,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1908\/19880620o_86-1908.ogg"
+        },
+        {
+            "id": 77719,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1908\/19880620o_86-1908.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

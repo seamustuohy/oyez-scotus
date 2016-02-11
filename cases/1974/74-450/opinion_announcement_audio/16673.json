@@ -1,0 +1,102 @@
+{
+    "id": 16673,
+    "title": "Opinion Announcement - June 24, 1975",
+    "transcript": {
+        "title": "Administrator, Federal Aviation Administration v. Robertson",
+        "duration": 33.514,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 33.514,
+                "byte_start": 28672,
+                "byte_stop": 162628,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 33.514,
+                        "byte_start": 28672,
+                        "byte_stop": 162628,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.748,
+                                "byte_start": 28672,
+                                "byte_stop": 71722,
+                                "text": "I have the judgment and opinion of the Court to announce in No. 74-450, the Administrator of the Federal Aviation Administration against Robertson."
+                            },
+                            {
+                                "start": 10.748,
+                                "stop": 20.913,
+                                "byte_start": 71722,
+                                "byte_stop": 112368,
+                                "text": "And for reason stated in an opinion filed today with the clerk the judgment of the Court of Appeals for the District of Columbia Circuit is reversed."
+                            },
+                            {
+                                "start": 20.913,
+                                "stop": 27.453,
+                                "byte_start": 112368,
+                                "byte_stop": 138491,
+                                "text": "Mr. Justice Stewart, with whom Mr. Justice Marshall joined, filed an opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 27.453,
+                                "stop": 33.514,
+                                "byte_start": 138491,
+                                "byte_stop": 162628,
+                                "text": "Mr. Justice Douglas and Mr. Justice Brennan filed a dissenting statement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42468,
+            "mime": "audio\/mpeg",
+            "size": 162941,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/74-450\/19750624o_74-450.delivery.mp3"
+        },
+        {
+            "id": 64382,
+            "mime": "audio\/ogg",
+            "size": 339016,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/74-450\/19750624o_74-450.ogg"
+        },
+        {
+            "id": 64383,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/74-450\/19750624o_74-450.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

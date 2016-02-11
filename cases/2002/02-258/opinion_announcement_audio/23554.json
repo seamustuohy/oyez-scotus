@@ -1,0 +1,153 @@
+{
+    "id": 23554,
+    "title": "Opinion Announcement - April 22, 2003",
+    "transcript": {
+        "title": "Jinks v. Richland County, South Carolina",
+        "duration": 32.627,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.627,
+                "byte_start": 85451,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.464,
+                        "byte_start": 85451,
+                        "byte_stop": 123381,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.464,
+                                "byte_start": 85451,
+                                "byte_stop": 123381,
+                                "text": "The opinion of the court number 02-258, Jinks against Richland County will be announced by Justice Scalia."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.464,
+                        "stop": 32.627,
+                        "byte_start": 123381,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.464,
+                                "stop": 14.931,
+                                "byte_start": 123381,
+                                "byte_stop": 145219,
+                                "text": "This case is here on certiorari to the Supreme Court of South Carolina."
+                            },
+                            {
+                                "start": 14.931,
+                                "stop": 27.733,
+                                "byte_start": 145219,
+                                "byte_stop": 196419,
+                                "text": "For the reasons set forth in an opinion filed with the Clerk of the Court today, we reverse the judgment of the Supreme Court of South Carolina and remand for proceedings not inconsistent with our opinion."
+                            },
+                            {
+                                "start": 27.733,
+                                "stop": 29.818,
+                                "byte_start": 196419,
+                                "byte_stop": 204778,
+                                "text": "The Court\u0027s decision is unanimous."
+                            },
+                            {
+                                "start": 29.818,
+                                "stop": 32.627,
+                                "byte_start": 204778,
+                                "byte_stop": 0,
+                                "text": "Justice Souter has filed a concurring opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56226,
+            "mime": "audio\/mpeg",
+            "size": 215959,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/02-258\/20030422o_02-258.delivery.mp3"
+        },
+        {
+            "id": 77930,
+            "mime": "audio\/ogg",
+            "size": 333330,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/02-258\/20030422o_02-258.ogg"
+        },
+        {
+            "id": 77931,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/02-258\/20030422o_02-258.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,1109 @@
+{
+    "ID": 62394,
+    "name": "Plessy v. Ferguson",
+    "href": "https:\/\/api.oyez.org\/cases\/1850-1900\/163us537",
+    "docket_number": "210",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Homer Adoph Plessy",
+    "second_party": "John Ferguson",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -2326298400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52947"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -2323274400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52948"
+        }
+    ],
+    "lower_court": {
+        "ID": 39,
+        "name": "Louisiana Supreme Court",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/39"
+    },
+    "facts_of_the_case": "\u003Cp\u003EThe state of Louisiana enacted a law that required separate railway cars for blacks and whites. In 1892, Homer Adolph Plessy--who was seven-eighths Caucasian--took a seat in a \u0022whites only\u0022 car of a Louisiana train. He refused to move to the car reserved for blacks and was arrested.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EIs Louisiana\u0027s law mandating racial segregation on its trains an unconstitutional infringement on both the privileges and immunities and the equal protection clauses of the Fourteenth Amendment?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003ENo, the state law is within constitutional boundaries. The majority, in an opinion authored by Justice Henry Billings Brown, upheld state-imposed racial segregation. The justices based their decision on the separate-but-equal doctrine, that separate facilities for blacks and whites satisfied the Fourteenth Amendment so long as they were equal. (The phrase, \u0022separate but equal\u0022 was not part of the opinion.) Justice Brown conceded that the 14th amendment intended to establish absolute equality for the races before the law. But Brown noted that \u0022in the nature of things it could not have been intended to abolish distinctions based upon color, or to enforce social, as distinguished from political equality, or a commingling of the two races unsatisfactory to either.\u0022 In short, segregation does not in itself constitute unlawful discrimination.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 17128,
+                "name": "A. W. Tourgee",
+                "href": "https:\/\/api.oyez.org\/people\/a_w_tourgee",
+                "last_name": "Tourgee",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "a_w_tourgee"
+            },
+            "advocate_description": "for Plessy",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21158"
+        },
+        {
+            "advocate": {
+                "ID": 41901,
+                "name": "Samuel Field Phillips",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_f_phillips",
+                "last_name": "Phillips",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "samuel_f_phillips"
+            },
+            "advocate_description": "for Plessy",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21159"
+        },
+        {
+            "advocate": {
+                "ID": 16554,
+                "name": "Alexander Porter Morse",
+                "href": "https:\/\/api.oyez.org\/people\/alexander_porter_morse",
+                "last_name": "Morse",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "alexander_porter_morse"
+            },
+            "advocate_description": "for Ferguson",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21160"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "163",
+        "page": "537",
+        "year": "1896",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27196"
+    },
+    "decisions": [
+        {
+            "description": "Equal but separate accommodations for whites and blacks  imposed by Louisiana do not violate the the Equal Protection Clause of the Fourteenth Amendment",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15079,
+                        "name": "Henry B. Brown",
+                        "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                        "last_name": "Brown",
+                        "roles": [
+                            {
+                                "id": 2723,
+                                "type": "scotus_justice",
+                                "date_start": -2492618400,
+                                "date_end": -2006964000,
+                                "appointing_president": "Benjamin Harrison",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32715,
+                            "mime": "image\/png",
+                            "size": 61672,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                        },
+                        "length_of_service": 5621,
+                        "identifier": "henry_b_brown"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205488"
+                },
+                {
+                    "member": {
+                        "ID": 15052,
+                        "name": "Melville W. Fuller",
+                        "href": "https:\/\/api.oyez.org\/people\/melville_w_fuller",
+                        "last_name": "Fuller",
+                        "roles": [
+                            {
+                                "id": 2696,
+                                "type": "scotus_justice",
+                                "date_start": -2563380000,
+                                "date_end": -1877536800,
+                                "appointing_president": "Grover Cleveland",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2696"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32742,
+                            "mime": "image\/png",
+                            "size": 63952,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/melville_fuller.png"
+                        },
+                        "length_of_service": 7938,
+                        "identifier": "melville_w_fuller"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15079,
+                            "name": "Henry B. Brown",
+                            "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                            "last_name": "Brown",
+                            "roles": [
+                                {
+                                    "id": 2723,
+                                    "type": "scotus_justice",
+                                    "date_start": -2492618400,
+                                    "date_end": -2006964000,
+                                    "appointing_president": "Benjamin Harrison",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32715,
+                                "mime": "image\/png",
+                                "size": 61672,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                            },
+                            "length_of_service": 5621,
+                            "identifier": "henry_b_brown"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205489"
+                },
+                {
+                    "member": {
+                        "ID": 15122,
+                        "name": "Stephen J. Field",
+                        "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                        "last_name": "Field",
+                        "roles": [
+                            {
+                                "id": 2767,
+                                "type": "scotus_justice",
+                                "date_start": -3364567200,
+                                "date_end": -2274717600,
+                                "appointing_president": "Abraham Lincoln",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32767,
+                            "mime": "image\/png",
+                            "size": 54586,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                        },
+                        "length_of_service": 12614,
+                        "identifier": "stephen_j_field"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15079,
+                            "name": "Henry B. Brown",
+                            "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                            "last_name": "Brown",
+                            "roles": [
+                                {
+                                    "id": 2723,
+                                    "type": "scotus_justice",
+                                    "date_start": -2492618400,
+                                    "date_end": -2006964000,
+                                    "appointing_president": "Benjamin Harrison",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32715,
+                                "mime": "image\/png",
+                                "size": 61672,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                            },
+                            "length_of_service": 5621,
+                            "identifier": "henry_b_brown"
+                        }
+                    ],
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205490"
+                },
+                {
+                    "member": {
+                        "ID": 15080,
+                        "name": "Horace Gray",
+                        "href": "https:\/\/api.oyez.org\/people\/horace_gray",
+                        "last_name": "Gray",
+                        "roles": [
+                            {
+                                "id": 2724,
+                                "type": "scotus_justice",
+                                "date_start": -2776269600,
+                                "date_end": -2123690400,
+                                "appointing_president": "Chester A. Arthur",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2724"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32716,
+                            "mime": "image\/png",
+                            "size": 50853,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/horace_gray.png"
+                        },
+                        "length_of_service": 7553,
+                        "identifier": "horace_gray"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15079,
+                            "name": "Henry B. Brown",
+                            "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                            "last_name": "Brown",
+                            "roles": [
+                                {
+                                    "id": 2723,
+                                    "type": "scotus_justice",
+                                    "date_start": -2492618400,
+                                    "date_end": -2006964000,
+                                    "appointing_president": "Benjamin Harrison",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32715,
+                                "mime": "image\/png",
+                                "size": 61672,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                            },
+                            "length_of_service": 5621,
+                            "identifier": "henry_b_brown"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205491"
+                },
+                {
+                    "member": {
+                        "ID": 15047,
+                        "name": "George Shiras, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/george_shiras_jr",
+                        "last_name": "Shiras",
+                        "roles": [
+                            {
+                                "id": 2691,
+                                "type": "scotus_justice",
+                                "date_start": -2436976800,
+                                "date_end": -2109780000,
+                                "appointing_president": "Benjamin Harrison",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2691"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32710,
+                            "mime": "image\/png",
+                            "size": 51834,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/george_shiras.png"
+                        },
+                        "length_of_service": 3787,
+                        "identifier": "george_shiras_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15079,
+                            "name": "Henry B. Brown",
+                            "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                            "last_name": "Brown",
+                            "roles": [
+                                {
+                                    "id": 2723,
+                                    "type": "scotus_justice",
+                                    "date_start": -2492618400,
+                                    "date_end": -2006964000,
+                                    "appointing_president": "Benjamin Harrison",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32715,
+                                "mime": "image\/png",
+                                "size": 61672,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                            },
+                            "length_of_service": 5621,
+                            "identifier": "henry_b_brown"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205492"
+                },
+                {
+                    "member": {
+                        "ID": 15144,
+                        "name": "Edward D. White",
+                        "href": "https:\/\/api.oyez.org\/people\/edward_d_white",
+                        "last_name": "White",
+                        "roles": [
+                            {
+                                "id": 2791,
+                                "type": "scotus_justice",
+                                "date_start": -2392221600,
+                                "date_end": -1863108000,
+                                "appointing_president": "Grover Cleveland",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2791"
+                            },
+                            {
+                                "id": 2792,
+                                "type": "scotus_justice",
+                                "date_start": -1863021600,
+                                "date_end": -1534359600,
+                                "appointing_president": null,
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2792"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32789,
+                            "mime": "image\/png",
+                            "size": 53055,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_d_white.png"
+                        },
+                        "length_of_service": 9928,
+                        "identifier": "edward_d_white"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15079,
+                            "name": "Henry B. Brown",
+                            "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                            "last_name": "Brown",
+                            "roles": [
+                                {
+                                    "id": 2723,
+                                    "type": "scotus_justice",
+                                    "date_start": -2492618400,
+                                    "date_end": -2006964000,
+                                    "appointing_president": "Benjamin Harrison",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32715,
+                                "mime": "image\/png",
+                                "size": 61672,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                            },
+                            "length_of_service": 5621,
+                            "identifier": "henry_b_brown"
+                        }
+                    ],
+                    "seniority": 8,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205493"
+                },
+                {
+                    "member": {
+                        "ID": 15115,
+                        "name": "Rufus Peckham",
+                        "href": "https:\/\/api.oyez.org\/people\/rufus_peckham",
+                        "last_name": "Peckham",
+                        "roles": [
+                            {
+                                "id": 2759,
+                                "type": "scotus_justice",
+                                "date_start": -2334765600,
+                                "date_end": -1899396000,
+                                "appointing_president": "Grover Cleveland",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2759"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32757,
+                            "mime": "image\/png",
+                            "size": 51588,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/rufus_peckham.png"
+                        },
+                        "length_of_service": 5039,
+                        "identifier": "rufus_peckham"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15079,
+                            "name": "Henry B. Brown",
+                            "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                            "last_name": "Brown",
+                            "roles": [
+                                {
+                                    "id": 2723,
+                                    "type": "scotus_justice",
+                                    "date_start": -2492618400,
+                                    "date_end": -2006964000,
+                                    "appointing_president": "Benjamin Harrison",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32715,
+                                "mime": "image\/png",
+                                "size": 61672,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                            },
+                            "length_of_service": 5621,
+                            "identifier": "henry_b_brown"
+                        }
+                    ],
+                    "seniority": 9,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205494"
+                },
+                {
+                    "member": {
+                        "ID": 15137,
+                        "name": "John M. Harlan",
+                        "href": "https:\/\/api.oyez.org\/people\/john_m_harlan",
+                        "last_name": "Harlan",
+                        "roles": [
+                            {
+                                "id": 2783,
+                                "type": "scotus_justice",
+                                "date_start": -2904314400,
+                                "date_end": -1837188000,
+                                "appointing_president": "Rutherford B. Hayes",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2783"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32727,
+                            "mime": "image\/png",
+                            "size": 59106,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_m_harlan_i_0.png"
+                        },
+                        "length_of_service": 12351,
+                        "identifier": "john_m_harlan"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205495"
+                },
+                {
+                    "member": {
+                        "ID": 15114,
+                        "name": "David J. Brewer",
+                        "href": "https:\/\/api.oyez.org\/people\/david_j_brewer",
+                        "last_name": "Brewer",
+                        "roles": [
+                            {
+                                "id": 2758,
+                                "type": "scotus_justice",
+                                "date_start": -2524068000,
+                                "date_end": -1886004000,
+                                "appointing_president": "Benjamin Harrison",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2758"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32702,
+                            "mime": "image\/png",
+                            "size": 54815,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_j_brewer.png"
+                        },
+                        "length_of_service": 7385,
+                        "identifier": "david_j_brewer"
+                    },
+                    "vote": "none",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205496"
+                }
+            ],
+            "majority_vote": 7,
+            "minority_vote": 1,
+            "winning_party": "Ferguson",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16382"
+        }
+    ],
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15171,
+            "name": "Fuller Court (1896-1897)",
+            "href": "https:\/\/api.oyez.org\/courts\/fuller13",
+            "members": [
+                {
+                    "ID": 15052,
+                    "name": "Melville W. Fuller",
+                    "href": "https:\/\/api.oyez.org\/people\/melville_w_fuller",
+                    "last_name": "Fuller",
+                    "roles": [
+                        {
+                            "id": 2696,
+                            "type": "scotus_justice",
+                            "date_start": -2563380000,
+                            "date_end": -1877536800,
+                            "appointing_president": "Grover Cleveland",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2696"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32742,
+                        "mime": "image\/png",
+                        "size": 63952,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/melville_fuller.png"
+                    },
+                    "length_of_service": 7938,
+                    "identifier": "melville_w_fuller"
+                },
+                {
+                    "ID": 15122,
+                    "name": "Stephen J. Field",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                    "last_name": "Field",
+                    "roles": [
+                        {
+                            "id": 2767,
+                            "type": "scotus_justice",
+                            "date_start": -3364567200,
+                            "date_end": -2274717600,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32767,
+                        "mime": "image\/png",
+                        "size": 54586,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                    },
+                    "length_of_service": 12614,
+                    "identifier": "stephen_j_field"
+                },
+                {
+                    "ID": 15137,
+                    "name": "John M. Harlan",
+                    "href": "https:\/\/api.oyez.org\/people\/john_m_harlan",
+                    "last_name": "Harlan",
+                    "roles": [
+                        {
+                            "id": 2783,
+                            "type": "scotus_justice",
+                            "date_start": -2904314400,
+                            "date_end": -1837188000,
+                            "appointing_president": "Rutherford B. Hayes",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2783"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32727,
+                        "mime": "image\/png",
+                        "size": 59106,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_m_harlan_i_0.png"
+                    },
+                    "length_of_service": 12351,
+                    "identifier": "john_m_harlan"
+                },
+                {
+                    "ID": 15080,
+                    "name": "Horace Gray",
+                    "href": "https:\/\/api.oyez.org\/people\/horace_gray",
+                    "last_name": "Gray",
+                    "roles": [
+                        {
+                            "id": 2724,
+                            "type": "scotus_justice",
+                            "date_start": -2776269600,
+                            "date_end": -2123690400,
+                            "appointing_president": "Chester A. Arthur",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2724"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32716,
+                        "mime": "image\/png",
+                        "size": 50853,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/horace_gray.png"
+                    },
+                    "length_of_service": 7553,
+                    "identifier": "horace_gray"
+                },
+                {
+                    "ID": 15114,
+                    "name": "David J. Brewer",
+                    "href": "https:\/\/api.oyez.org\/people\/david_j_brewer",
+                    "last_name": "Brewer",
+                    "roles": [
+                        {
+                            "id": 2758,
+                            "type": "scotus_justice",
+                            "date_start": -2524068000,
+                            "date_end": -1886004000,
+                            "appointing_president": "Benjamin Harrison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2758"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32702,
+                        "mime": "image\/png",
+                        "size": 54815,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_j_brewer.png"
+                    },
+                    "length_of_service": 7385,
+                    "identifier": "david_j_brewer"
+                },
+                {
+                    "ID": 15079,
+                    "name": "Henry B. Brown",
+                    "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                    "last_name": "Brown",
+                    "roles": [
+                        {
+                            "id": 2723,
+                            "type": "scotus_justice",
+                            "date_start": -2492618400,
+                            "date_end": -2006964000,
+                            "appointing_president": "Benjamin Harrison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32715,
+                        "mime": "image\/png",
+                        "size": 61672,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                    },
+                    "length_of_service": 5621,
+                    "identifier": "henry_b_brown"
+                },
+                {
+                    "ID": 15047,
+                    "name": "George Shiras, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/george_shiras_jr",
+                    "last_name": "Shiras",
+                    "roles": [
+                        {
+                            "id": 2691,
+                            "type": "scotus_justice",
+                            "date_start": -2436976800,
+                            "date_end": -2109780000,
+                            "appointing_president": "Benjamin Harrison",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2691"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32710,
+                        "mime": "image\/png",
+                        "size": 51834,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/george_shiras.png"
+                    },
+                    "length_of_service": 3787,
+                    "identifier": "george_shiras_jr"
+                },
+                {
+                    "ID": 15144,
+                    "name": "Edward D. White",
+                    "href": "https:\/\/api.oyez.org\/people\/edward_d_white",
+                    "last_name": "White",
+                    "roles": [
+                        {
+                            "id": 2791,
+                            "type": "scotus_justice",
+                            "date_start": -2392221600,
+                            "date_end": -1863108000,
+                            "appointing_president": "Grover Cleveland",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2791"
+                        },
+                        {
+                            "id": 2792,
+                            "type": "scotus_justice",
+                            "date_start": -1863021600,
+                            "date_end": -1534359600,
+                            "appointing_president": null,
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2792"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32789,
+                        "mime": "image\/png",
+                        "size": 53055,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_d_white.png"
+                    },
+                    "length_of_service": 9928,
+                    "identifier": "edward_d_white"
+                },
+                {
+                    "ID": 15115,
+                    "name": "Rufus Peckham",
+                    "href": "https:\/\/api.oyez.org\/people\/rufus_peckham",
+                    "last_name": "Peckham",
+                    "roles": [
+                        {
+                            "id": 2759,
+                            "type": "scotus_justice",
+                            "date_start": -2334765600,
+                            "date_end": -1899396000,
+                            "appointing_president": "Grover Cleveland",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2759"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32757,
+                        "mime": "image\/png",
+                        "size": 51588,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/rufus_peckham.png"
+                    },
+                    "length_of_service": 5039,
+                    "identifier": "rufus_peckham"
+                }
+            ],
+            "court_start": -2334765600,
+            "images": [
+                {
+                    "id": 56697,
+                    "mime": "image\/jpeg",
+                    "size": 234616,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/2002-035-13_20.JPG"
+                }
+            ],
+            "identifier": "fuller13"
+        }
+    ],
+    "decided_by": {
+        "ID": 15171,
+        "name": "Fuller Court (1896-1897)",
+        "href": "https:\/\/api.oyez.org\/courts\/fuller13",
+        "members": [
+            {
+                "ID": 15052,
+                "name": "Melville W. Fuller",
+                "href": "https:\/\/api.oyez.org\/people\/melville_w_fuller",
+                "last_name": "Fuller",
+                "roles": [
+                    {
+                        "id": 2696,
+                        "type": "scotus_justice",
+                        "date_start": -2563380000,
+                        "date_end": -1877536800,
+                        "appointing_president": "Grover Cleveland",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2696"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32742,
+                    "mime": "image\/png",
+                    "size": 63952,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/melville_fuller.png"
+                },
+                "length_of_service": 7938,
+                "identifier": "melville_w_fuller"
+            },
+            {
+                "ID": 15122,
+                "name": "Stephen J. Field",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                "last_name": "Field",
+                "roles": [
+                    {
+                        "id": 2767,
+                        "type": "scotus_justice",
+                        "date_start": -3364567200,
+                        "date_end": -2274717600,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32767,
+                    "mime": "image\/png",
+                    "size": 54586,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                },
+                "length_of_service": 12614,
+                "identifier": "stephen_j_field"
+            },
+            {
+                "ID": 15137,
+                "name": "John M. Harlan",
+                "href": "https:\/\/api.oyez.org\/people\/john_m_harlan",
+                "last_name": "Harlan",
+                "roles": [
+                    {
+                        "id": 2783,
+                        "type": "scotus_justice",
+                        "date_start": -2904314400,
+                        "date_end": -1837188000,
+                        "appointing_president": "Rutherford B. Hayes",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2783"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32727,
+                    "mime": "image\/png",
+                    "size": 59106,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_m_harlan_i_0.png"
+                },
+                "length_of_service": 12351,
+                "identifier": "john_m_harlan"
+            },
+            {
+                "ID": 15080,
+                "name": "Horace Gray",
+                "href": "https:\/\/api.oyez.org\/people\/horace_gray",
+                "last_name": "Gray",
+                "roles": [
+                    {
+                        "id": 2724,
+                        "type": "scotus_justice",
+                        "date_start": -2776269600,
+                        "date_end": -2123690400,
+                        "appointing_president": "Chester A. Arthur",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2724"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32716,
+                    "mime": "image\/png",
+                    "size": 50853,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/horace_gray.png"
+                },
+                "length_of_service": 7553,
+                "identifier": "horace_gray"
+            },
+            {
+                "ID": 15114,
+                "name": "David J. Brewer",
+                "href": "https:\/\/api.oyez.org\/people\/david_j_brewer",
+                "last_name": "Brewer",
+                "roles": [
+                    {
+                        "id": 2758,
+                        "type": "scotus_justice",
+                        "date_start": -2524068000,
+                        "date_end": -1886004000,
+                        "appointing_president": "Benjamin Harrison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2758"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32702,
+                    "mime": "image\/png",
+                    "size": 54815,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_j_brewer.png"
+                },
+                "length_of_service": 7385,
+                "identifier": "david_j_brewer"
+            },
+            {
+                "ID": 15079,
+                "name": "Henry B. Brown",
+                "href": "https:\/\/api.oyez.org\/people\/henry_b_brown",
+                "last_name": "Brown",
+                "roles": [
+                    {
+                        "id": 2723,
+                        "type": "scotus_justice",
+                        "date_start": -2492618400,
+                        "date_end": -2006964000,
+                        "appointing_president": "Benjamin Harrison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2723"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32715,
+                    "mime": "image\/png",
+                    "size": 61672,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_brown.png"
+                },
+                "length_of_service": 5621,
+                "identifier": "henry_b_brown"
+            },
+            {
+                "ID": 15047,
+                "name": "George Shiras, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/george_shiras_jr",
+                "last_name": "Shiras",
+                "roles": [
+                    {
+                        "id": 2691,
+                        "type": "scotus_justice",
+                        "date_start": -2436976800,
+                        "date_end": -2109780000,
+                        "appointing_president": "Benjamin Harrison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2691"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32710,
+                    "mime": "image\/png",
+                    "size": 51834,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/george_shiras.png"
+                },
+                "length_of_service": 3787,
+                "identifier": "george_shiras_jr"
+            },
+            {
+                "ID": 15144,
+                "name": "Edward D. White",
+                "href": "https:\/\/api.oyez.org\/people\/edward_d_white",
+                "last_name": "White",
+                "roles": [
+                    {
+                        "id": 2791,
+                        "type": "scotus_justice",
+                        "date_start": -2392221600,
+                        "date_end": -1863108000,
+                        "appointing_president": "Grover Cleveland",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2791"
+                    },
+                    {
+                        "id": 2792,
+                        "type": "scotus_justice",
+                        "date_start": -1863021600,
+                        "date_end": -1534359600,
+                        "appointing_president": null,
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2792"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32789,
+                    "mime": "image\/png",
+                    "size": 53055,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_d_white.png"
+                },
+                "length_of_service": 9928,
+                "identifier": "edward_d_white"
+            },
+            {
+                "ID": 15115,
+                "name": "Rufus Peckham",
+                "href": "https:\/\/api.oyez.org\/people\/rufus_peckham",
+                "last_name": "Peckham",
+                "roles": [
+                    {
+                        "id": 2759,
+                        "type": "scotus_justice",
+                        "date_start": -2334765600,
+                        "date_end": -1899396000,
+                        "appointing_president": "Grover Cleveland",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2759"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32757,
+                    "mime": "image\/png",
+                    "size": 51588,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/rufus_peckham.png"
+                },
+                "length_of_service": 5039,
+                "identifier": "rufus_peckham"
+            }
+        ],
+        "court_start": -2334765600,
+        "images": [
+            {
+                "id": 56697,
+                "mime": "image\/jpeg",
+                "size": 234616,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/2002-035-13_20.JPG"
+            }
+        ],
+        "identifier": "fuller13"
+    },
+    "term": "1850-1900",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court held that state-mandated segregation laws did not violate the equal protection clause of the Fourteenth Amendment.",
+    "written_opinion": null,
+    "related_cases": [
+        null
+    ]
+}

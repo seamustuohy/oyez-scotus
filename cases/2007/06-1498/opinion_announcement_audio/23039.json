@@ -1,0 +1,81 @@
+{
+    "id": 23039,
+    "title": "Opinion Announcement - March 03, 2008",
+    "transcript": {
+        "title": "Warner-Lambert Co. v. Kent",
+        "duration": 9.3,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 9.3,
+                "byte_start": 104679,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.3,
+                        "byte_start": 104679,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.3,
+                                "byte_start": 104679,
+                                "byte_stop": 0,
+                                "text": "In case 06-1498 Warner-Lambert versus Kent, the judgment is affirmed by an equally divided Court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55200,
+            "mime": "audio\/mpeg",
+            "size": 141773,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2007\/06-1498\/20080303o_06-1498.delivery.mp3"
+        },
+        {
+            "id": 76940,
+            "mime": "audio\/ogg",
+            "size": 97264,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2007\/06-1498\/20080303o_06-1498.ogg"
+        },
+        {
+            "id": 76941,
+            "mime": "application\/x-mpegURL",
+            "size": 287,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2007\/06-1498\/20080303o_06-1498.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

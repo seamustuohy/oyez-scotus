@@ -1,0 +1,119 @@
+{
+    "id": 21107,
+    "title": "Opinion Announcement - November 30, 1993",
+    "transcript": {
+        "title": "Izumi Seimitsu Kogyo Kabushiki Kaisha v. U. S. Philips Corp.",
+        "duration": 71.628,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 71.628,
+                "byte_start": 91036,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 71.628,
+                        "byte_start": 91036,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.423,
+                                "byte_start": 91036,
+                                "byte_stop": 108799,
+                                "text": "I have the opinions of the Court to announce in two cases."
+                            },
+                            {
+                                "start": 4.423,
+                                "stop": 36,
+                                "byte_start": 108799,
+                                "byte_stop": 235127,
+                                "text": "The first is No. 92-1123, Izumi Seimitsu Kogyo Kabushiki Kaisha versus the Philips Corporation, and this case was argued in October and the question presented in the petition for certiorari was a challenge to the practice of the Court of Appeals for the Federal Circuit in ordering the lower Court judgment dismissed where the parties it settled the case on appeal."
+                            },
+                            {
+                                "start": 36,
+                                "stop": 63.075,
+                                "byte_start": 235127,
+                                "byte_stop": 343379,
+                                "text": "After argument and we decided that in order to reach that question, we would first have to reach a question which was not presented in the petition for certiorari and that was whether or not the Federal Court had properly denied the motion of Izumi to intervene at the appellate stage and having so concluded, I am declining to reach that question, which was not presented."
+                            },
+                            {
+                                "start": 63.075,
+                                "stop": 67.194,
+                                "byte_start": 343379,
+                                "byte_stop": 359888,
+                                "text": "The writ of certiorari has dismissed as improvingly granted."
+                            },
+                            {
+                                "start": 67.194,
+                                "stop": 71.628,
+                                "byte_start": 359888,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed the dissenting opinion which Justice Blackmun joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51338,
+            "mime": "audio\/mpeg",
+            "size": 377547,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1993\/92-1123\/19931130o_92-1123.delivery.mp3"
+        },
+        {
+            "id": 73114,
+            "mime": "audio\/ogg",
+            "size": 719429,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1993\/92-1123\/19931130o_92-1123.ogg"
+        },
+        {
+            "id": 73115,
+            "mime": "application\/x-mpegURL",
+            "size": 1167,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1993\/92-1123\/19931130o_92-1123.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

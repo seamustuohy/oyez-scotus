@@ -1,0 +1,122 @@
+{
+    "id": 19225,
+    "title": "Opinion Announcement - January 11, 1984",
+    "transcript": {
+        "title": "Secretary of the Interior v. California",
+        "duration": 13.415,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 13.415,
+                "byte_start": 103564,
+                "byte_stop": 157167,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 12.575,
+                        "byte_start": 103564,
+                        "byte_stop": 153928,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.575,
+                                "byte_start": 103564,
+                                "byte_stop": 153928,
+                                "text": "The judgment and opinion of the Court in Secretary of Interior against California and consolidated cases will be announced by Justice O\u0027Connor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 12.575,
+                        "stop": 13.415,
+                        "byte_start": 153928,
+                        "byte_stop": 157167,
+                        "speaker": {
+                            "ID": 15092,
+                            "name": "Sandra Day O\u0027Connor",
+                            "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
+                            "last_name": "O\u0027Connor",
+                            "roles": [
+                                {
+                                    "id": 2736,
+                                    "type": "scotus_justice",
+                                    "date_start": 370242000,
+                                    "date_end": 1138687200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2736"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32763,
+                                "mime": "image\/png",
+                                "size": 49563,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            },
+                            "length_of_service": 8894,
+                            "identifier": "sandra_day_oconnor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 12.575,
+                                "stop": 13.415,
+                                "byte_start": 153928,
+                                "byte_stop": 157167,
+                                "text": "This case comes --"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47574,
+            "mime": "audio\/mpeg",
+            "size": 157376,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1983\/82-1326\/19840111o_82-1326.delivery.mp3"
+        },
+        {
+            "id": 69400,
+            "mime": "audio\/ogg",
+            "size": 137241,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1983\/82-1326\/19840111o_82-1326.ogg"
+        },
+        {
+            "id": 69401,
+            "mime": "application\/x-mpegURL",
+            "size": 331,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1983\/82-1326\/19840111o_82-1326.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

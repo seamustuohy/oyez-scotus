@@ -1,0 +1,102 @@
+{
+    "id": 16382,
+    "title": "Opinion Announcement - April 24, 1974",
+    "transcript": {
+        "title": "Kahn v. Shevin",
+        "duration": 70.1,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 70.1,
+                "byte_start": 76800,
+                "byte_stop": 357146,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 70.1,
+                        "byte_start": 76800,
+                        "byte_stop": 357146,
+                        "speaker": {
+                            "ID": 15107,
+                            "name": "William O. Douglas",
+                            "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                            "last_name": "Douglas",
+                            "roles": [
+                                {
+                                    "id": 2751,
+                                    "type": "scotus_justice",
+                                    "date_start": -969127200,
+                                    "date_end": 185004000,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32781,
+                                "mime": "image\/png",
+                                "size": 56651,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                            },
+                            "length_of_service": 13358,
+                            "identifier": "william_o_douglas"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.359,
+                                "byte_start": 76800,
+                                "byte_stop": 122253,
+                                "text": "I have number 73-78, Kahn versus Shevin here on certiorari to the Supreme Court of Florida."
+                            },
+                            {
+                                "start": 11.359,
+                                "stop": 43.67,
+                                "byte_start": 122253,
+                                "byte_stop": 251507,
+                                "text": "Florida has a statute that grants windows an annual $500 property tax exemption, but it does not extend that exemption to widowers and the appellant is a widower who brought the suit asking for a declaratory judgment and from the Florida Court saying that the statute violates the Equal Protection Clause of the Fourteenth Amendment."
+                            },
+                            {
+                                "start": 43.67,
+                                "stop": 55.005,
+                                "byte_start": 251507,
+                                "byte_stop": 296856,
+                                "text": "The Court held contrary to the claim of the widower and we affirm that judgment finding no invidious discrimination."
+                            },
+                            {
+                                "start": 55.005,
+                                "stop": 70.1,
+                                "byte_start": 296856,
+                                "byte_stop": 357146,
+                                "text": "Mr. Justice Brennan has filed a dissenting opinion in which Mr. Justice Marshall has joined and Mr. Justice White has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41886,
+            "mime": "audio\/mpeg",
+            "size": 357355,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-78\/19740424o_73-78.delivery.mp3"
+        },
+        {
+            "id": 63814,
+            "mime": "audio\/ogg",
+            "size": 692973,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-78\/19740424o_73-78.ogg"
+        },
+        {
+            "id": 63815,
+            "mime": "application\/x-mpegURL",
+            "size": 1119,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-78\/19740424o_73-78.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 17645,
+    "title": "Opinion Announcement - June 09, 1975",
+    "transcript": {
+        "title": "Edwards v. Healy",
+        "duration": 31.235,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 31.235,
+                "byte_start": 28672,
+                "byte_stop": 153537,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 31.235,
+                        "byte_start": 28672,
+                        "byte_stop": 153537,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.189,
+                                "byte_start": 28672,
+                                "byte_stop": 57511,
+                                "text": "I have the disposition in No. 73-759, Edwards against Healy."
+                            },
+                            {
+                                "start": 7.189,
+                                "stop": 19.34,
+                                "byte_start": 57511,
+                                "byte_stop": 106099,
+                                "text": "And for reasons stated in an opinion for the Court, the judgment of the District Court is vacated and the case is remanded to that Court to consider possible mootness in that case."
+                            },
+                            {
+                                "start": 19.34,
+                                "stop": 31.235,
+                                "byte_start": 106099,
+                                "byte_stop": 153537,
+                                "text": "Mr. Justice Douglas took no part in the decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44412,
+            "mime": "audio\/mpeg",
+            "size": 153851,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-759\/19750609o_73-759.delivery.mp3"
+        },
+        {
+            "id": 66272,
+            "mime": "audio\/ogg",
+            "size": 313449,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-759\/19750609o_73-759.ogg"
+        },
+        {
+            "id": 66273,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-759\/19750609o_73-759.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

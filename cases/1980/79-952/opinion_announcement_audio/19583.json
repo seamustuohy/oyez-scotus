@@ -1,0 +1,95 @@
+{
+    "id": 19583,
+    "title": "Opinion Announcement - April 06, 1981",
+    "transcript": {
+        "title": "Thomas v. Review Board of the Indiana Employment Security Division",
+        "duration": 32.618,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.618,
+                "byte_start": 92084,
+                "byte_stop": 222487,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 32.618,
+                        "byte_start": 92084,
+                        "byte_stop": 222487,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.578,
+                                "byte_start": 92084,
+                                "byte_stop": 182468,
+                                "text": "I have the judgment and opinion of the Court to announce in Thomas against the Review Board of the Indiana Employment Security Division and for reasons stated in the opinion for the Court filed with the clerk this morning, the judgment of the Supreme Court of Indiana is reversed."
+                            },
+                            {
+                                "start": 22.578,
+                                "stop": 29.452,
+                                "byte_start": 182468,
+                                "byte_stop": 209948,
+                                "text": "Justice Blackmun filed a statement concurring in part and concurring in the judgments."
+                            },
+                            {
+                                "start": 29.452,
+                                "stop": 32.618,
+                                "byte_start": 209948,
+                                "byte_stop": 222487,
+                                "text": "Justice Rehnquist filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48290,
+            "mime": "audio\/mpeg",
+            "size": 222696,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/79-952\/19810406o_79-952.delivery.mp3"
+        },
+        {
+            "id": 70110,
+            "mime": "audio\/ogg",
+            "size": 344877,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/79-952\/19810406o_79-952.ogg"
+        },
+        {
+            "id": 70111,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/79-952\/19810406o_79-952.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

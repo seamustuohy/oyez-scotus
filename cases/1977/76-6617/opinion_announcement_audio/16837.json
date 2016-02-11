@@ -1,0 +1,95 @@
+{
+    "id": 16837,
+    "title": "Opinion Announcement - June 14, 1978",
+    "transcript": {
+        "title": "Greene v. Massey",
+        "duration": 44.816,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 44.816,
+                "byte_start": 79982,
+                "byte_stop": 259182,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 44.816,
+                        "byte_start": 79982,
+                        "byte_stop": 259182,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.829,
+                                "byte_start": 79982,
+                                "byte_stop": 115300,
+                                "text": "In Greene against Massey, which as I indicated is also another Double Jeopardy case."
+                            },
+                            {
+                                "start": 8.829,
+                                "stop": 30.693,
+                                "byte_start": 115300,
+                                "byte_stop": 202758,
+                                "text": "For reasons stated in the opinion that\u0027s filed with the clerk this morning, the judgment of the United States Court of Appeals for the Fifth Circuit, is reversed and the case is remanded to that court for reconsideration in light of this opinion that is Greene against Massey and Burks against United States."
+                            },
+                            {
+                                "start": 30.693,
+                                "stop": 44.816,
+                                "byte_start": 202758,
+                                "byte_stop": 259182,
+                                "text": "Mr. Justice Powell filed a concurring opinion, Mr. Justice Rehnquist filed an opinion concurring in the judgments, Mr. Justice Blackmun took no part in either the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42796,
+            "mime": "audio\/mpeg",
+            "size": 259391,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-6617\/19780614o_76-6617.delivery.mp3"
+        },
+        {
+            "id": 64704,
+            "mime": "audio\/ogg",
+            "size": 480069,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-6617\/19780614o_76-6617.ogg"
+        },
+        {
+            "id": 64705,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-6617\/19780614o_76-6617.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

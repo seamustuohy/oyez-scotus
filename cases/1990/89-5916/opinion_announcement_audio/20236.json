@@ -1,0 +1,154 @@
+{
+    "id": 20236,
+    "title": "Opinion Announcement - January 08, 1991",
+    "transcript": {
+        "title": "Demarest v. Manspeaker",
+        "duration": 91.35,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 91.35,
+                "byte_start": 73964,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 91.35,
+                        "byte_start": 73964,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.814,
+                                "byte_start": 73964,
+                                "byte_stop": 105311,
+                                "text": "I have the opinion of the Court to announce in Demarest versus Manspeaker in No. 89-5916."
+                            },
+                            {
+                                "start": 7.814,
+                                "stop": 24.538,
+                                "byte_start": 105311,
+                                "byte_stop": 172184,
+                                "text": "The petitioner in this case was an inmate in a state prison, who testified in a Federal Criminal Trial pursuant to a writ of habeas corpus ad testificandum, which is the Latin meaning for a writ that you use to get a prisoner to testify."
+                            },
+                            {
+                                "start": 24.538,
+                                "stop": 29.349,
+                                "byte_start": 172184,
+                                "byte_stop": 191411,
+                                "text": "Ordinarily, you just issue a subpoena for person that is in civilian life, so to speak."
+                            },
+                            {
+                                "start": 29.349,
+                                "stop": 36.911,
+                                "byte_start": 191411,
+                                "byte_stop": 221713,
+                                "text": "But for a prisoner, you have to get a writ of habeas corpus ad testificandum that is directed to the warden of the prison."
+                            },
+                            {
+                                "start": 36.911,
+                                "stop": 51.734,
+                                "byte_start": 221713,
+                                "byte_stop": 280958,
+                                "text": "The petitioner testified and he requested witness fees for his testimony in accordance with Section 1821 of the judicial code, which entitles witnesses in attendance of a federal trial to receive $30 a day for their services."
+                            },
+                            {
+                                "start": 51.734,
+                                "stop": 63.308,
+                                "byte_start": 280958,
+                                "byte_stop": 327247,
+                                "text": "The District Court and the Court of Appeals for the 10th Circuit denied petitioner\u0027s request for a fees on a ground that Section 1821 did not authorize the payment of witness fees to prisoners."
+                            },
+                            {
+                                "start": 63.308,
+                                "stop": 72.339,
+                                "byte_start": 327247,
+                                "byte_stop": 363401,
+                                "text": "The language of 1821, however, contains no exception for prisoners who testify pursuant to a writ of habeas corpus ad testificandum."
+                            },
+                            {
+                                "start": 72.339,
+                                "stop": 78.254,
+                                "byte_start": 363401,
+                                "byte_stop": 387015,
+                                "text": "By its terms, a provision applies to all witnesses in attendance except for detained alien."
+                            },
+                            {
+                                "start": 78.254,
+                                "stop": 86.753,
+                                "byte_start": 387015,
+                                "byte_stop": 421079,
+                                "text": "Because congresses language is clear, the fact that administrative agencies have not paid witness fees to prisoners in the past is not controlling."
+                            },
+                            {
+                                "start": 86.753,
+                                "stop": 91.35,
+                                "byte_start": 421079,
+                                "byte_stop": 0,
+                                "text": "We therefore, reverse the judgment of the Court of Appeals, our opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49596,
+            "mime": "audio\/mpeg",
+            "size": 439365,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-5916\/19910108o_89-5916.delivery.mp3"
+        },
+        {
+            "id": 71394,
+            "mime": "audio\/ogg",
+            "size": 900574,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-5916\/19910108o_89-5916.ogg"
+        },
+        {
+            "id": 71395,
+            "mime": "application\/x-mpegURL",
+            "size": 1475,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-5916\/19910108o_89-5916.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

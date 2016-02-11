@@ -1,0 +1,109 @@
+{
+    "id": 20573,
+    "title": "Opinion Announcement - January 08, 1991",
+    "transcript": {
+        "title": "Cheek v. United States",
+        "duration": 28.16,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.16,
+                "byte_start": 73960,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.16,
+                        "byte_start": 73960,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 3.156,
+                                "byte_start": 73960,
+                                "byte_stop": 86603,
+                                "text": "The other case is Cheek against United States."
+                            },
+                            {
+                                "start": 3.156,
+                                "stop": 13.64,
+                                "byte_start": 86603,
+                                "byte_stop": 128608,
+                                "text": "Here, we vacate the decision of the Court of Appeals for the Seventh Circuit and remand the case for further consideration."
+                            },
+                            {
+                                "start": 13.64,
+                                "stop": 17.937,
+                                "byte_start": 128608,
+                                "byte_stop": 145744,
+                                "text": "Justice Scalia has filed an opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 17.937,
+                                "stop": 22.328,
+                                "byte_start": 145744,
+                                "byte_stop": 163299,
+                                "text": "Justice Blackmun, joined by Justice Marshall, dissents."
+                            },
+                            {
+                                "start": 22.328,
+                                "stop": 28.16,
+                                "byte_start": 163299,
+                                "byte_stop": 0,
+                                "text": "Justice Souter took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50270,
+            "mime": "audio\/mpeg",
+            "size": 186600,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-658\/19910108o_89-658.delivery.mp3"
+        },
+        {
+            "id": 72058,
+            "mime": "audio\/ogg",
+            "size": 276874,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-658\/19910108o_89-658.ogg"
+        },
+        {
+            "id": 72059,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-658\/19910108o_89-658.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

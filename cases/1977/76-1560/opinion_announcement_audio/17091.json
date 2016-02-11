@@ -1,0 +1,102 @@
+{
+    "id": 17091,
+    "title": "Opinion Announcement - June 29, 1978",
+    "transcript": {
+        "title": "United States v. United States Gypsum Company",
+        "duration": 42.928,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 42.928,
+                "byte_start": 80007,
+                "byte_stop": 251684,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 42.928,
+                        "byte_start": 80007,
+                        "byte_stop": 251684,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.817,
+                                "byte_start": 80007,
+                                "byte_stop": 159315,
+                                "text": "I have the judgment and opinion to announce in 76-1560, United States against the United States Gypsum Co. and for reasons stated in an opinion filed with clerk this morning, the judgment of the United States Court of Appeals for the Third Circuit is affirmed."
+                            },
+                            {
+                                "start": 19.817,
+                                "stop": 25.105,
+                                "byte_start": 159315,
+                                "byte_stop": 180526,
+                                "text": "Mr. Justice Stewart joins in all, but part 4 of the opinion."
+                            },
+                            {
+                                "start": 25.105,
+                                "stop": 36.664,
+                                "byte_start": 180526,
+                                "byte_stop": 226711,
+                                "text": "Mr. Justice Powell filed a separate opinion concurring in part, Mr. Justice Rehnquist and Mr. Justice Stevens, each filed an opinion which concurs in part and dissents in part."
+                            },
+                            {
+                                "start": 36.664,
+                                "stop": 42.928,
+                                "byte_start": 226711,
+                                "byte_stop": 251684,
+                                "text": "Mr. Justice Blackmun took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43304,
+            "mime": "audio\/mpeg",
+            "size": 251893,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-1560\/19780629o_76-1560.delivery.mp3"
+        },
+        {
+            "id": 65198,
+            "mime": "audio\/ogg",
+            "size": 445548,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-1560\/19780629o_76-1560.ogg"
+        },
+        {
+            "id": 65199,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-1560\/19780629o_76-1560.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

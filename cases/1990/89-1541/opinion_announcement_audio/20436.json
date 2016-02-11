@@ -1,0 +1,167 @@
+{
+    "id": 20436,
+    "title": "Opinion Announcement - March 20, 1991",
+    "transcript": {
+        "title": "Martin v. Occupational Safety and Health Review Commission",
+        "duration": 67.474,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 67.474,
+                "byte_start": 73957,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 6.432,
+                        "byte_start": 73957,
+                        "byte_stop": 99766,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.432,
+                                "byte_start": 73957,
+                                "byte_stop": 99766,
+                                "text": "The opinion of the Court in two cases will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 6.432,
+                        "stop": 67.474,
+                        "byte_start": 99766,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 6.432,
+                                "stop": 15.75,
+                                "byte_start": 99766,
+                                "byte_stop": 136964,
+                                "text": "This case is Martin versus Occupational Safety and Health Review Commission, No. 89-1541."
+                            },
+                            {
+                                "start": 15.75,
+                                "stop": 22.504,
+                                "byte_start": 136964,
+                                "byte_stop": 164027,
+                                "text": "That case is here on certiorari to the United States Court of Appeals for the Tenth Circuit."
+                            },
+                            {
+                                "start": 22.504,
+                                "stop": 36.643,
+                                "byte_start": 164027,
+                                "byte_stop": 220556,
+                                "text": "The Occupational Safety and Health Act authorizes a Secretary of Labor to prosecute civil penalty actions before the Occupational Safety and Health Review Commission."
+                            },
+                            {
+                                "start": 36.643,
+                                "stop": 54.341,
+                                "byte_start": 220556,
+                                "byte_stop": 291400,
+                                "text": "The question here in this case is whether a reviewing court should defer to the Secretary or to the Commission when these two actions act or disagree on the interpretation of a regulation."
+                            },
+                            {
+                                "start": 54.341,
+                                "stop": 63.451,
+                                "byte_start": 291400,
+                                "byte_stop": 327763,
+                                "text": "In an opinion filed with the Clerk today, we hold that a court must divert to the Secretary under the circumstances."
+                            },
+                            {
+                                "start": 63.451,
+                                "stop": 67.474,
+                                "byte_start": 327763,
+                                "byte_stop": 0,
+                                "text": "We, therefore, reverse the judgment of the Tenth Circuit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49996,
+            "mime": "audio\/mpeg",
+            "size": 343854,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-1541\/19910320o_89-1541.delivery.mp3"
+        },
+        {
+            "id": 71786,
+            "mime": "audio\/ogg",
+            "size": 631998,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-1541\/19910320o_89-1541.ogg"
+        },
+        {
+            "id": 71787,
+            "mime": "application\/x-mpegURL",
+            "size": 1123,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-1541\/19910320o_89-1541.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

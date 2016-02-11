@@ -1,0 +1,102 @@
+{
+    "id": 17204,
+    "title": "Opinion Announcement - April 21, 1976",
+    "transcript": {
+        "title": "Beckwith v. United States",
+        "duration": 31.746,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 31.746,
+                "byte_start": 73676,
+                "byte_stop": 200631,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 31.746,
+                        "byte_start": 73676,
+                        "byte_stop": 200631,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.163,
+                                "byte_start": 73676,
+                                "byte_stop": 150372,
+                                "text": "I have the judgment and opinion to announce in 74-1243, Beckwith against the United States, and for reasons stated in the opinion filed with the clerk this morning, the judgment of the United States Court of Appeals for the District of Columbia Circuit is affirmed."
+                            },
+                            {
+                                "start": 19.163,
+                                "stop": 22.967,
+                                "byte_start": 150372,
+                                "byte_stop": 165627,
+                                "text": "Mr. Justice Marshall filed an opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 22.967,
+                                "stop": 26.278,
+                                "byte_start": 165627,
+                                "byte_stop": 178793,
+                                "text": "Mr. Justice Brennan filed a dissenting opinion."
+                            },
+                            {
+                                "start": 26.278,
+                                "stop": 31.746,
+                                "byte_start": 178793,
+                                "byte_stop": 200631,
+                                "text": "Mr. Justice Stevens took no part in either the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43530,
+            "mime": "audio\/mpeg",
+            "size": 200840,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-1243\/19760421o_74-1243.delivery.mp3"
+        },
+        {
+            "id": 65418,
+            "mime": "audio\/ogg",
+            "size": 323551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-1243\/19760421o_74-1243.ogg"
+        },
+        {
+            "id": 65419,
+            "mime": "application\/x-mpegURL",
+            "size": 595,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-1243\/19760421o_74-1243.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

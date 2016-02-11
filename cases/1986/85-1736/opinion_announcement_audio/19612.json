@@ -1,0 +1,140 @@
+{
+    "id": 19612,
+    "title": "Opinion Announcement - January 20, 1987",
+    "transcript": {
+        "title": "Jersey Shore State Bank v. United States",
+        "duration": 87.171,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 87.171,
+                "byte_start": 91793,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 87.171,
+                        "byte_start": 91793,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.26,
+                                "byte_start": 91793,
+                                "byte_stop": 124916,
+                                "text": "I have the opinion of the Court to announce the No. 85-1736, Jersey Shore State Bank versus United States."
+                            },
+                            {
+                                "start": 8.26,
+                                "stop": 31.547,
+                                "byte_start": 124916,
+                                "byte_stop": 218017,
+                                "text": "This case involves the provision of the Internal Revenue Code which requires an employer to withhold income and social security taxes from the wages of its employees and to pay over those taxes to the government, but in some instances, a person other than the employers such as one who lends money to the employer, may indirectly or directly pay the employees wages."
+                            },
+                            {
+                                "start": 31.547,
+                                "stop": 41.75,
+                                "byte_start": 218017,
+                                "byte_stop": 258872,
+                                "text": "If the taxes required to be withheld from the employees wages are not paid, the statute makes such a lender liable for a sum equal to the unpaid taxes."
+                            },
+                            {
+                                "start": 41.75,
+                                "stop": 58.223,
+                                "byte_start": 258872,
+                                "byte_stop": 324701,
+                                "text": "In this case, the government brought suit against the Jersey Shore State Bank which is located in Central Pennsylvania, alleging that Jersey Shore was a lender liable for amounts reflecting unpaid withholding taxes owned by the employer."
+                            },
+                            {
+                                "start": 58.223,
+                                "stop": 62.301,
+                                "byte_start": 324701,
+                                "byte_stop": 341001,
+                                "text": "The District Court ruled in favor of the bank."
+                            },
+                            {
+                                "start": 62.301,
+                                "stop": 66.361,
+                                "byte_start": 341001,
+                                "byte_stop": 357302,
+                                "text": "The Third Circuit held that the bank was liable to the government."
+                            },
+                            {
+                                "start": 66.361,
+                                "stop": 81.701,
+                                "byte_start": 357302,
+                                "byte_stop": 418637,
+                                "text": "As explained in a unanimous opinion filed today, we agree with the conclusion of the Court of Appeals that Congress did not intend the notice requirement of the Internal Revenue Code to apply where the government seeks to collect unpaid withholding taxes from a third party lender."
+                            },
+                            {
+                                "start": 81.701,
+                                "stop": 87.171,
+                                "byte_start": 418637,
+                                "byte_stop": 0,
+                                "text": "So, the judgment of the Court of Appeals is therefore affirmed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48348,
+            "mime": "audio\/mpeg",
+            "size": 440475,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-1736\/19870120o_85-1736.delivery.mp3"
+        },
+        {
+            "id": 70168,
+            "mime": "audio\/ogg",
+            "size": 864676,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-1736\/19870120o_85-1736.ogg"
+        },
+        {
+            "id": 70169,
+            "mime": "application\/x-mpegURL",
+            "size": 1431,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-1736\/19870120o_85-1736.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

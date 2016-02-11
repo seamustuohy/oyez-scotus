@@ -1,0 +1,2885 @@
+{
+    "id": 13213,
+    "title": "Oral Argument - October 08, 1956 (Part 1)",
+    "media_file": [
+        {
+            "id": 35546,
+            "mime": "audio\/mpeg",
+            "size": 9059453,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1956\/4\/19561008a_4_part1.delivery.mp3"
+        },
+        {
+            "id": 57603,
+            "mime": "audio\/ogg",
+            "size": 21373682,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1956\/4\/19561008a_4_part1.ogg"
+        },
+        {
+            "id": 57604,
+            "mime": "application\/x-mpegURL",
+            "size": 32979,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1956\/4\/19561008a_4_part1.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "National Labor Relations Board v. Lion Oil Company",
+        "duration": 2238.942,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 1600.678,
+                "byte_start": 103424,
+                "byte_stop": 6506141,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 48.606,
+                        "byte_start": 103424,
+                        "byte_stop": 297880,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 41.664,
+                                "byte_start": 103424,
+                                "byte_stop": 270085,
+                                "text": "Number 4, National Labor Relations Board versus Lion Oil Company and Monsanto Chemical Company."
+                            },
+                            {
+                                "start": 41.664,
+                                "stop": 48.606,
+                                "byte_start": 270085,
+                                "byte_stop": 297880,
+                                "text": "Mr. Kammholz."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 48.606,
+                        "stop": 571.964,
+                        "byte_start": 297880,
+                        "byte_stop": 2391333,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 48.606,
+                                "stop": 50.928,
+                                "byte_start": 297880,
+                                "byte_stop": 307179,
+                                "text": "May it please the Court."
+                            },
+                            {
+                                "start": 50.928,
+                                "stop": 56.069,
+                                "byte_start": 307179,
+                                "byte_stop": 327764,
+                                "text": "This case is here on a writ of certiorari to the Eighth Circuit."
+                            },
+                            {
+                                "start": 56.069,
+                                "stop": 69.626,
+                                "byte_start": 327764,
+                                "byte_stop": 381994,
+                                "text": "The question presented arises out of a strike by the Oil Workers International Union against Lion Oil Company at its El Dorado, Arkansas Chemical Plant."
+                            },
+                            {
+                                "start": 69.626,
+                                "stop": 84.226,
+                                "byte_start": 381994,
+                                "byte_stop": 440404,
+                                "text": "That question is whether the strike which occurred in 1952 was outlawed under the sixty-day cooling-off requirement of Section 8 (d) of the National Labor Relations Act as amended."
+                            },
+                            {
+                                "start": 84.226,
+                                "stop": 92.189,
+                                "byte_start": 440404,
+                                "byte_stop": 472273,
+                                "text": "The facts, if I may summarize them briefly in the frame of reference of the Board\u0027s findings in this case were as follows."
+                            },
+                            {
+                                "start": 92.189,
+                                "stop": 102.61,
+                                "byte_start": 472273,
+                                "byte_stop": 513964,
+                                "text": "Since 1944, the union and the company had engaged in collective bargaining and had entered into successive contracts."
+                            },
+                            {
+                                "start": 102.61,
+                                "stop": 108.846,
+                                "byte_start": 513964,
+                                "byte_stop": 538833,
+                                "text": "The contract here involved was executed on October 23rd, 1950."
+                            },
+                            {
+                                "start": 108.846,
+                                "stop": 116.539,
+                                "byte_start": 538833,
+                                "byte_stop": 569657,
+                                "text": "It provided that its duration was one year and thereafter unless terminated by notice of the parties, of either party."
+                            },
+                            {
+                                "start": 116.539,
+                                "stop": 138.585,
+                                "byte_start": 569657,
+                                "byte_stop": 657847,
+                                "text": "It further provided that if either party desired modifications, a sixty-day notice should be given and thereupon there would be bargaining and such a notice was given by the union on the first date under the provisions of the contract when it might be given to it August 24, 1951."
+                            },
+                            {
+                                "start": 138.585,
+                                "stop": 162.848,
+                                "byte_start": 657847,
+                                "byte_stop": 754918,
+                                "text": "Attach to its notice to -- of desire to modify was a list of contract proposals, concurrently with the notice, the union also sent to modification to the Federal Mediation and Conciliation Service and to the Arkansas Commissioner of Labor as is required under Section 3 (d) of the statute."
+                            },
+                            {
+                                "start": 162.848,
+                                "stop": 182.239,
+                                "byte_start": 754918,
+                                "byte_stop": 832449,
+                                "text": "Numerous bargaining sessions ensued, progress was made with a view to contract changes but by February 14, 1952, when it appeared to the union that the bargaining had bugged down, it took a strike vote."
+                            },
+                            {
+                                "start": 182.239,
+                                "stop": 188.645,
+                                "byte_start": 832449,
+                                "byte_stop": 858049,
+                                "text": "The strike date was subsequently set, it was postponed three times."
+                            },
+                            {
+                                "start": 188.645,
+                                "stop": 195.116,
+                                "byte_start": 858049,
+                                "byte_stop": 883963,
+                                "text": "And finally on April 30, 1952, a strike was called."
+                            },
+                            {
+                                "start": 195.116,
+                                "stop": 203.467,
+                                "byte_start": 883963,
+                                "byte_stop": 917295,
+                                "text": "It was engaged in by all of the production and maintenance employees of the companies some 600 in number within the bargaining unit."
+                            },
+                            {
+                                "start": 203.467,
+                                "stop": 206.34,
+                                "byte_start": 917295,
+                                "byte_stop": 928789,
+                                "text": "The plant was not fully shut down."
+                            },
+                            {
+                                "start": 206.34,
+                                "stop": 212.35,
+                                "byte_start": 928789,
+                                "byte_stop": 952926,
+                                "text": "It continued in operation with supervisory clerical, technical personnel."
+                            },
+                            {
+                                "start": 212.35,
+                                "stop": 218.567,
+                                "byte_start": 952926,
+                                "byte_stop": 977795,
+                                "text": "No replacements were hired by the company and bargaining continued."
+                            },
+                            {
+                                "start": 218.567,
+                                "stop": 253.514,
+                                "byte_start": 977795,
+                                "byte_stop": 1117497,
+                                "text": "After a lapse of nearly two months with the strike in progress, with some production going on, specifically on June 21st, 1952, any bargaining session the spokesman for the union advised that the union was offering to return to work unconditionally all the employees who were out on strike and wanted to know what return to work schedule would be worked out by the company."
+                            },
+                            {
+                                "start": 253.514,
+                                "stop": 280.258,
+                                "byte_start": 1117497,
+                                "byte_stop": 1224495,
+                                "text": "At that point, the company negotiators stated to the union representatives that the plant would not be reopened and these employees would not be returned to work until its contractual demands were met specifically until the contract was executed for a duration of at least one year with a firm no-strike clause in it."
+                            },
+                            {
+                                "start": 280.258,
+                                "stop": 293.717,
+                                "byte_start": 1224495,
+                                "byte_stop": 1278307,
+                                "text": "This, the union refused to do and thereupon employees, strikers, individually and in groups presented themselves for employment at the company\u0027s employment office."
+                            },
+                            {
+                                "start": 293.717,
+                                "stop": 315.752,
+                                "byte_start": 1278307,
+                                "byte_stop": 1366497,
+                                "text": "Some were hired from time to time but each who was hired was taken back on the express condition that he would continue to work so long as the strike continued and would cross any picket line which might be in existence before the company\u0027s plant."
+                            },
+                            {
+                                "start": 315.752,
+                                "stop": 318.258,
+                                "byte_start": 1366497,
+                                "byte_stop": 1376528,
+                                "text": "Bargaining still continued."
+                            },
+                            {
+                                "start": 318.258,
+                                "stop": 327.131,
+                                "byte_start": 1376528,
+                                "byte_stop": 1411950,
+                                "text": "And by July, pretty substantial agreement had been reached on a new contract."
+                            },
+                            {
+                                "start": 327.131,
+                                "stop": 349.316,
+                                "byte_start": 1411950,
+                                "byte_stop": 1500766,
+                                "text": "At that time for the first time, the company advised that a new contract was conditioned upon the union\u0027s withdrawing the unfair labor practice charges against the company which in the meantime had been filed and which are the basis of this proceeding before the Court."
+                            },
+                            {
+                                "start": 349.316,
+                                "stop": 367.869,
+                                "byte_start": 1500766,
+                                "byte_stop": 1574954,
+                                "text": "Discussion sued on that point and finally on the 31st of July, the company withdrew from that position, and on August 3, a new contract was executed and the employees, the strikers were returned to their jobs."
+                            },
+                            {
+                                "start": 367.869,
+                                "stop": 385.162,
+                                "byte_start": 1574954,
+                                "byte_stop": 1644126,
+                                "text": "On the foregoing facts, the Board concluded that the company\u0027s position that a new contract should be executed with a firm no-strike clause for a term of one year."
+                            },
+                            {
+                                "start": 385.162,
+                                "stop": 393.429,
+                                "byte_start": 1644126,
+                                "byte_stop": 1677145,
+                                "text": "In other words, insistence on its bargaining position after the union had offered to return strikers to work unconditionally."
+                            },
+                            {
+                                "start": 393.429,
+                                "stop": 417.368,
+                                "byte_start": 1677145,
+                                "byte_stop": 1772962,
+                                "text": "It was in derogation of the union\u0027s bargaining position as exclusive bargaining representative that the requirement that strikers take it places that were not to go out on strike again and to cross the picket line was discriminatory under Section 8 (a) (1) and (3) of the Act, discriminatory also as to those who were working."
+                            },
+                            {
+                                "start": 417.368,
+                                "stop": 436.799,
+                                "byte_start": 1772962,
+                                "byte_stop": 1850702,
+                                "text": "And finally, that the company\u0027s insistence during July 1952 upon a withdrawal of unfair labor practice charges then pending was a refusal to bargain in violative of the provisions of 8 (a) (5) of the Act."
+                            },
+                            {
+                                "start": 436.799,
+                                "stop": 452.454,
+                                "byte_start": 1850702,
+                                "byte_stop": 1913292,
+                                "text": "In reaching these conclusions, the Board rejected the company contention that this strike was unprotected under the Act in that the strikers lost their status of employees."
+                            },
+                            {
+                                "start": 452.454,
+                                "stop": 476.704,
+                                "byte_start": 1913292,
+                                "byte_stop": 2010258,
+                                "text": "The company had insisted that because these negotiations related to modification of a contract and concededly went on before the contract had expired that under a literal reading of the provisions of 8 (d) (4) of the Act, the strikers lost their status as employees."
+                            },
+                            {
+                                "start": 476.704,
+                                "stop": 481.709,
+                                "byte_start": 2010258,
+                                "byte_stop": 2030320,
+                                "text": "The pertinent language of 8 (d) (4) is this."
+                            },
+                            {
+                                "start": 481.709,
+                                "stop": 495.973,
+                                "byte_start": 2030320,
+                                "byte_stop": 2087372,
+                                "text": "After the proviso reference to modification or termination and the notice requirements, the sixty-day notice requirements prior to modification or termination 8 (d) (4) reads as follows."
+                            },
+                            {
+                                "start": 495.973,
+                                "stop": 515.058,
+                                "byte_start": 2087372,
+                                "byte_stop": 2163754,
+                                "text": "That the party who seeks changes continues in full force and effect without resorting to strike or lock-out, all the terms and conditions of the existing contract for a period of sixty days after such notice is given or until the expiration date of such contract which ever occurs later."
+                            },
+                            {
+                                "start": 515.058,
+                                "stop": 534.94,
+                                "byte_start": 2163754,
+                                "byte_stop": 2243271,
+                                "text": "The Board said that the last three words which ever occurs later encompassed not only the termination date of a contract but covered also intermediate dates in an agreement where the parties had said in their document that they would or might seek modification"
+                            },
+                            {
+                                "start": 534.94,
+                                "stop": 538.349,
+                                "byte_start": 2243271,
+                                "byte_stop": 2256854,
+                                "text": "The court below rejected that view."
+                            },
+                            {
+                                "start": 538.349,
+                                "stop": 571.964,
+                                "byte_start": 2256854,
+                                "byte_stop": 2391333,
+                                "text": "It asserted that a clear literal reading of the language of 8 (d) (4) pointed to the proposition that such a -- that a strike might be called only in the sixty-day period prior to a termination of a contract and that in effect, this statute does not permit a strike by a union in support of contract modification demands at anytime other than the final termination date of the agreement."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 571.964,
+                        "stop": 583.134,
+                        "byte_start": 2391333,
+                        "byte_stop": 2436054,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 571.964,
+                                "stop": 583.134,
+                                "byte_start": 2391333,
+                                "byte_stop": 2436054,
+                                "text": "That instruction I take it in effect imports into every labor contract, a no-strike clause in respect to what the contract provides for this."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 583.134,
+                        "stop": 589.663,
+                        "byte_start": 2436054,
+                        "byte_stop": 2462177,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 583.134,
+                                "stop": 589.663,
+                                "byte_start": 2436054,
+                                "byte_stop": 2462177,
+                                "text": "Yes, I think that is the effect of the decision below."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 589.663,
+                        "stop": 597.659,
+                        "byte_start": 2462177,
+                        "byte_stop": 2494151,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 589.663,
+                                "stop": 597.659,
+                                "byte_start": 2462177,
+                                "byte_stop": 2494151,
+                                "text": "Is this -- is the clause in this contract a normal clause which terminated the modification?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 597.659,
+                        "stop": 654.644,
+                        "byte_start": 2494151,
+                        "byte_stop": 2722043,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 597.659,
+                                "stop": 598.412,
+                                "byte_start": 2494151,
+                                "byte_stop": 2497076,
+                                "text": "No, Your Honor."
+                            },
+                            {
+                                "start": 598.412,
+                                "stop": 602.537,
+                                "byte_start": 2497076,
+                                "byte_stop": 2513586,
+                                "text": "The -- the clause in this contract is a bit unusual."
+                            },
+                            {
+                                "start": 602.537,
+                                "stop": 616.91,
+                                "byte_start": 2513586,
+                                "byte_stop": 2571160,
+                                "text": "It provided for a term of one year and a continuation of the agreement thereafter until canceled in the manner thereafter provided, and the manner thereafter provided was this."
+                            },
+                            {
+                                "start": 616.91,
+                                "stop": 633.347,
+                                "byte_start": 2571160,
+                                "byte_stop": 2636884,
+                                "text": "First, that either party might give to the other a notification of its desire to amend the terms of this agreement, a requirement then that the parties bargain on those modification demands for sixty days."
+                            },
+                            {
+                                "start": 633.347,
+                                "stop": 645.636,
+                                "byte_start": 2636884,
+                                "byte_stop": 2685994,
+                                "text": "A further proviso that if they did not have reached agreement within that sixty-day period that then a sixty-day termination notice might be given, in other words a second notice."
+                            },
+                            {
+                                "start": 645.636,
+                                "stop": 654.644,
+                                "byte_start": 2685994,
+                                "byte_stop": 2722043,
+                                "text": "This contract really has a two sixty-day clause as contrasted with the single sixty that one finds in most agreements."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 654.644,
+                        "stop": 658.062,
+                        "byte_start": 2722043,
+                        "byte_stop": 2735731,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 654.644,
+                                "stop": 658.062,
+                                "byte_start": 2722043,
+                                "byte_stop": 2735731,
+                                "text": "Maybe confirmed what I suppose which is the very unusual clause."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 658.062,
+                        "stop": 659.759,
+                        "byte_start": 2735731,
+                        "byte_stop": 2742523,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 658.062,
+                                "stop": 659.759,
+                                "byte_start": 2735731,
+                                "byte_stop": 2742523,
+                                "text": "It\u0027s unusual, yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 659.759,
+                        "stop": 670.152,
+                        "byte_start": 2742523,
+                        "byte_stop": 2784110,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 659.759,
+                                "stop": 670.152,
+                                "byte_start": 2742523,
+                                "byte_stop": 2784110,
+                                "text": "-- question of what is implied if a contract was terminated because they couldn\u0027t agree on amendment and modification, is that right?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 670.152,
+                        "stop": 677.216,
+                        "byte_start": 2784110,
+                        "byte_stop": 2812322,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 670.152,
+                                "stop": 677.216,
+                                "byte_start": 2784110,
+                                "byte_stop": 2812322,
+                                "text": "It is a clearly typical problem, Your Honor in terms of the decision of the court below."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 677.216,
+                        "stop": 683.743,
+                        "byte_start": 2812322,
+                        "byte_stop": 2838444,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 677.216,
+                                "stop": 683.743,
+                                "byte_start": 2812322,
+                                "byte_stop": 2838444,
+                                "text": "But you must have each term the decision of the court below or have a specific court before you?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 683.743,
+                        "stop": 686.192,
+                        "byte_start": 2838444,
+                        "byte_stop": 2848266,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 683.743,
+                                "stop": 686.192,
+                                "byte_start": 2838444,
+                                "byte_stop": 2848266,
+                                "text": "I think in the context of this case, yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 686.192,
+                        "stop": 694.824,
+                        "byte_start": 2848266,
+                        "byte_stop": 2882748,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 686.192,
+                                "stop": 688.318,
+                                "byte_start": 2848266,
+                                "byte_stop": 2856730,
+                                "text": "What do you mean by that in the context of this case?"
+                            },
+                            {
+                                "start": 688.318,
+                                "stop": 694.824,
+                                "byte_start": 2856730,
+                                "byte_stop": 2882748,
+                                "text": "Why should I adopt the issue as it\u0027s seen in the court below and that is the proviso that\u0027s been issued?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 694.824,
+                        "stop": 715.63,
+                        "byte_start": 2882748,
+                        "byte_stop": 2966026,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 694.824,
+                                "stop": 715.63,
+                                "byte_start": 2882748,
+                                "byte_stop": 2966026,
+                                "text": "There was here a provision for talk about amendment and either that gave to the union the right to exert its economic strength in connection with amendment talk to strike if it so elected to do or if one may characterize it this way to bargain with its hands tied behind its back."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 715.63,
+                        "stop": 730.873,
+                        "byte_start": 2966026,
+                        "byte_stop": 3026944,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 715.63,
+                                "stop": 730.873,
+                                "byte_start": 2966026,
+                                "byte_stop": 3026944,
+                                "text": "Well but suppose -- suppose there had been a specific provision in this contract that there shall be no strike until there is a termination which is within the power or either party, would the Board hold that back?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 730.873,
+                        "stop": 732.953,
+                        "byte_start": 3026944,
+                        "byte_stop": 3035303,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 730.873,
+                                "stop": 732.953,
+                                "byte_start": 3026944,
+                                "byte_stop": 3035303,
+                                "text": "Under this contract or under any contract?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 732.953,
+                        "stop": 736.918,
+                        "byte_start": 3035303,
+                        "byte_stop": 3051186,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 732.953,
+                                "stop": 736.918,
+                                "byte_start": 3035303,
+                                "byte_stop": 3051186,
+                                "text": "No, I\u0027m assuming a specific no-strike clause."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 736.918,
+                        "stop": 744.326,
+                        "byte_start": 3051186,
+                        "byte_stop": 3080756,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 736.918,
+                                "stop": 744.326,
+                                "byte_start": 3051186,
+                                "byte_stop": 3080756,
+                                "text": "Oh, I think a specific no-strike clause always gives a contractual right to both parties to the agreement."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 744.326,
+                        "stop": 798.27,
+                        "byte_start": 3080756,
+                        "byte_stop": 3296528,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 744.326,
+                                "stop": 785.709,
+                                "byte_start": 3080756,
+                                "byte_stop": 3246268,
+                                "text": "If I had a clause that I have hear very different with the ordinary labeled clauses in which the remedy for termination, the remedy lies entirely within the hands of the Party, the union gets (Inaudible) put an end to it which is the normal situation where there is a fixed time and period though within that period, there is provision for renegotiation but nothing is there as it said here whereby as the provisions for terminating and the provision for terminating is within the power of either party by its own will."
+                            },
+                            {
+                                "start": 785.709,
+                                "stop": 792.821,
+                                "byte_start": 3246268,
+                                "byte_stop": 3274794,
+                                "text": "Why is an implication of no-strike during the period which they can terminate whenever they choose?"
+                            },
+                            {
+                                "start": 792.821,
+                                "stop": 798.27,
+                                "byte_start": 3274794,
+                                "byte_stop": 3296528,
+                                "text": "There are different propositions from what the Court of Appeals is talking about the law to what you are bringing here."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 798.27,
+                        "stop": 811.321,
+                        "byte_start": 3296528,
+                        "byte_stop": 3348773,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 798.27,
+                                "stop": 806.579,
+                                "byte_start": 3296528,
+                                "byte_stop": 3329755,
+                                "text": "Both the Board and the Court of Appeals talked about the requirements of 8 (d), that\u0027s what the Board decided the case on."
+                            },
+                            {
+                                "start": 806.579,
+                                "stop": 811.321,
+                                "byte_start": 3329755,
+                                "byte_stop": 3348773,
+                                "text": "That was the defense, the line of defense that the company asserted."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 811.321,
+                        "stop": 854.507,
+                        "byte_start": 3348773,
+                        "byte_stop": 3521494,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 811.321,
+                                "stop": 854.507,
+                                "byte_start": 3348773,
+                                "byte_stop": 3521494,
+                                "text": "But neither nobody has talked about the fact that we haven\u0027t got here a case of whether the right to strike when there is a fixed period and that has terminated and has not resulted in an amendment of the outstanding agreement whether then the union\u0027s hands aren\u0027t tied if it has to continue to strike, if it has to continue not to strike while there is no agreement because that may drag on and we all know it does often drag on very long but if they themselves can put an end to it, if I say, this comes to an end, you have, I submit, you have a very different consideration."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 854.507,
+                        "stop": 865.712,
+                        "byte_start": 3521494,
+                        "byte_stop": 3566320,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 854.507,
+                                "stop": 865.712,
+                                "byte_start": 3521494,
+                                "byte_stop": 3566320,
+                                "text": "The court below never reached the question of the unfair labor practices involved here because it asserted that this strike was violative of the law in derogation of the requirements of 8 (d) (4)."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 865.712,
+                        "stop": 896.322,
+                        "byte_start": 3566320,
+                        "byte_stop": 3688782,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 865.712,
+                                "stop": 873.925,
+                                "byte_start": 3566320,
+                                "byte_stop": 3599130,
+                                "text": "I -- I -- my suggestion to you is that is an issue which the court below tenders to which I for one reject."
+                            },
+                            {
+                                "start": 873.925,
+                                "stop": 880.364,
+                                "byte_start": 3599130,
+                                "byte_stop": 3624939,
+                                "text": "That is not the issue presented by the record in this case on this contract."
+                            },
+                            {
+                                "start": 880.364,
+                                "stop": 889.008,
+                                "byte_start": 3624939,
+                                "byte_stop": 3659525,
+                                "text": "And the court below discussed the question which I think is very important and as to which they could admire they have the greatest doubts that the court below is right."
+                            },
+                            {
+                                "start": 889.008,
+                                "stop": 896.322,
+                                "byte_start": 3659525,
+                                "byte_stop": 3688782,
+                                "text": "If I got a record here with a specific labor clause, I can\u0027t expect it to go to some other labor board."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 896.322,
+                        "stop": 916.787,
+                        "byte_start": 3688782,
+                        "byte_stop": 3770598,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 896.322,
+                                "stop": 915.158,
+                                "byte_start": 3688782,
+                                "byte_stop": 3764120,
+                                "text": "Well I submit Your Honor that the language of this agreement before the Court in this case does reach out and touch upon the precise question which I have been talking about and which is the question that has been disturbing parties in this field since the enactment of Taft-Hartley in 1947."
+                            },
+                            {
+                                "start": 915.158,
+                                "stop": 916.787,
+                                "byte_start": 3764120,
+                                "byte_stop": 3770598,
+                                "text": "As a matter of fact, Your Honor --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 916.787,
+                        "stop": 932.824,
+                        "byte_start": 3770598,
+                        "byte_stop": 3834755,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 916.787,
+                                "stop": 932.824,
+                                "byte_start": 3770598,
+                                "byte_stop": 3834755,
+                                "text": "-- that -- I understand that and that is because those are clauses in which the contract automatically terminates unless there is a modification and nothing you said about its continuance subject to the will of the parties."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 932.824,
+                        "stop": 936.578,
+                        "byte_start": 3834755,
+                        "byte_stop": 3849801,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 932.824,
+                                "stop": 936.578,
+                                "byte_start": 3834755,
+                                "byte_stop": 3849801,
+                                "text": "Precisely, the same problem is presented here I submit."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 936.578,
+                        "stop": 936.814,
+                        "byte_start": 3849801,
+                        "byte_stop": 3850742,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 936.578,
+                                "stop": 936.814,
+                                "byte_start": 3849801,
+                                "byte_stop": 3850742,
+                                "text": "Mr. Kammholz."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 936.814,
+                        "stop": 939.759,
+                        "byte_start": 3850742,
+                        "byte_stop": 3862549,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 936.814,
+                                "stop": 939.759,
+                                "byte_start": 3850742,
+                                "byte_stop": 3862549,
+                                "text": "Do you give -- do you -- excuse me."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 939.759,
+                        "stop": 940.511,
+                        "byte_start": 3862549,
+                        "byte_stop": 3865475,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 939.759,
+                                "stop": 940.511,
+                                "byte_start": 3862549,
+                                "byte_stop": 3865475,
+                                "text": "Mr. Kammholz --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 940.511,
+                        "stop": 940.936,
+                        "byte_start": 3865475,
+                        "byte_stop": 3867251,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 940.511,
+                                "stop": 940.936,
+                                "byte_start": 3865475,
+                                "byte_stop": 3867251,
+                                "text": "Yes, Your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 940.936,
+                        "stop": 945.236,
+                        "byte_start": 3867251,
+                        "byte_stop": 3884387,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 940.936,
+                                "stop": 945.236,
+                                "byte_start": 3867251,
+                                "byte_stop": 3884387,
+                                "text": "Well, it is clear, is it not the strike took place before the contract terminated."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 945.236,
+                        "stop": 946.182,
+                        "byte_start": 3884387,
+                        "byte_stop": 3888253,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 945.236,
+                                "stop": 946.182,
+                                "byte_start": 3884387,
+                                "byte_stop": 3888253,
+                                "text": "It is so clear."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 946.182,
+                        "stop": 952.977,
+                        "byte_start": 3888253,
+                        "byte_stop": 3915421,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 946.182,
+                                "stop": 952.977,
+                                "byte_start": 3888253,
+                                "byte_stop": 3915421,
+                                "text": "Therefore, you do have the same issue as you would have it for the fix two-year term contract, the strike comes before the termination."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 952.977,
+                        "stop": 954.595,
+                        "byte_start": 3915421,
+                        "byte_stop": 3921899,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 952.977,
+                                "stop": 954.595,
+                                "byte_start": 3915421,
+                                "byte_stop": 3921899,
+                                "text": "That is the point I --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 954.595,
+                        "stop": 958.468,
+                        "byte_start": 3921899,
+                        "byte_stop": 3937364,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 954.595,
+                                "stop": 958.468,
+                                "byte_start": 3921899,
+                                "byte_stop": 3937364,
+                                "text": "Therefore whether it\u0027s flexible or fixed, the issue is the same on this point."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 958.468,
+                        "stop": 959.336,
+                        "byte_start": 3937364,
+                        "byte_stop": 3940812,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 958.468,
+                                "stop": 959.336,
+                                "byte_start": 3937364,
+                                "byte_stop": 3940812,
+                                "text": "I think it is."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 959.336,
+                        "stop": 1003.196,
+                        "byte_start": 3940812,
+                        "byte_stop": 4116250,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 959.336,
+                                "stop": 981.235,
+                                "byte_start": 3940812,
+                                "byte_stop": 4028374,
+                                "text": "But it makes all the difference in the word whether you imply a restriction against striking if the contract terminates by full force and then there\u0027s a question renegotiation and the argument that you imply during the possible renegotiation."
+                            },
+                            {
+                                "start": 981.235,
+                                "stop": 1000.466,
+                                "byte_start": 4028374,
+                                "byte_stop": 4105383,
+                                "text": "Or whether you have a continuing contract which -- which put an end to anybody, will of the party with which it has not been put an end by the remedy which is provided by the contract and to which it is to lean on difficult to imply during its existence, the Taft-Hartley Act does apply."
+                            },
+                            {
+                                "start": 1000.466,
+                                "stop": 1003.196,
+                                "byte_start": 4105383,
+                                "byte_stop": 4116250,
+                                "text": "It was a very thing."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1003.196,
+                        "stop": 1030.172,
+                        "byte_start": 4116250,
+                        "byte_stop": 4224188,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1003.196,
+                                "stop": 1007.358,
+                                "byte_start": 4116250,
+                                "byte_stop": 4132864,
+                                "text": "Could I ask you this question following up what Justice Frankfurter suggested."
+                            },
+                            {
+                                "start": 1007.358,
+                                "stop": 1020.543,
+                                "byte_start": 4132864,
+                                "byte_stop": 4185631,
+                                "text": "Supposing this contract had an express no-strike clause in it, sixty-day notice had been given to modification and the strike had not taken place until after the expiration of the sixty-day notice."
+                            },
+                            {
+                                "start": 1020.543,
+                                "stop": 1030.172,
+                                "byte_start": 4185631,
+                                "byte_stop": 4224188,
+                                "text": "Do you think a strike in violation of the contract provision would have been also a violation of Section 8 (d)?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1030.172,
+                        "stop": 1031.473,
+                        "byte_start": 4224188,
+                        "byte_stop": 4229413,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1030.172,
+                                "stop": 1031.473,
+                                "byte_start": 4224188,
+                                "byte_stop": 4229413,
+                                "text": "I think not, Your Honor."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1031.473,
+                        "stop": 1032.237,
+                        "byte_start": 4229413,
+                        "byte_stop": 4232443,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1031.473,
+                                "stop": 1032.237,
+                                "byte_start": 4229413,
+                                "byte_stop": 4232443,
+                                "text": "Do you think not."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1032.237,
+                        "stop": 1062.75,
+                        "byte_start": 4232443,
+                        "byte_stop": 4354487,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1032.237,
+                                "stop": 1034.473,
+                                "byte_start": 4232443,
+                                "byte_stop": 4241324,
+                                "text": "I think not."
+                            },
+                            {
+                                "start": 1034.473,
+                                "stop": 1055.256,
+                                "byte_start": 4241324,
+                                "byte_stop": 4324498,
+                                "text": "I say that in view of the -- of the context of the entire Section and in view of the legislative history and finally in view of some authoritative laws that has been thrown upon this problem since the enactment of Taft-Hartley in 1947."
+                            },
+                            {
+                                "start": 1055.256,
+                                "stop": 1058.076,
+                                "byte_start": 4324498,
+                                "byte_stop": 4335783,
+                                "text": "The -- the problem here is not an easy one."
+                            },
+                            {
+                                "start": 1058.076,
+                                "stop": 1062.75,
+                                "byte_start": 4335783,
+                                "byte_stop": 4354487,
+                                "text": "I readily concede it\u0027s an extremely difficult one of statutory construction."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1062.75,
+                        "stop": 1070.605,
+                        "byte_start": 4354487,
+                        "byte_stop": 4385938,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1062.75,
+                                "stop": 1070.605,
+                                "byte_start": 4354487,
+                                "byte_stop": 4385938,
+                                "text": "The point of my question is to discriminate the nature of the problem and not to assimilate it to the normal use of contracts."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1070.605,
+                        "stop": 1071.992,
+                        "byte_start": 4385938,
+                        "byte_stop": 4391476,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1070.605,
+                                "stop": 1071.992,
+                                "byte_start": 4385938,
+                                "byte_stop": 4391476,
+                                "text": "I understand."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1071.992,
+                        "stop": 1075.297,
+                        "byte_start": 4391476,
+                        "byte_stop": 4404642,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1071.992,
+                                "stop": 1075.297,
+                                "byte_start": 4391476,
+                                "byte_stop": 4404642,
+                                "text": "That\u0027s all my insistence is about and I think that\u0027s important."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1075.297,
+                        "stop": 1273.195,
+                        "byte_start": 4404642,
+                        "byte_stop": 5196257,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1075.297,
+                                "stop": 1076.414,
+                                "byte_start": 4404642,
+                                "byte_stop": 4409135,
+                                "text": "Precisely."
+                            },
+                            {
+                                "start": 1076.414,
+                                "stop": 1094.024,
+                                "byte_start": 4409135,
+                                "byte_stop": 4479561,
+                                "text": "In 1948, soon after the enactment of the Taft-Hartley amendments, a joint Senate labor committee on the Labor Management Relations Act was set up to study the effect of this law upon other legislation in the field."
+                            },
+                            {
+                                "start": 1094.024,
+                                "stop": 1099.32,
+                                "byte_start": 4479561,
+                                "byte_stop": 4500773,
+                                "text": "It was troubled by the identical question that\u0027s here before the Court."
+                            },
+                            {
+                                "start": 1099.32,
+                                "stop": 1116.251,
+                                "byte_start": 4500773,
+                                "byte_stop": 4568482,
+                                "text": "The committee of which Senator Taft was a member in its final report on December 31, 1948 said this and it\u0027s just two sentences so I should like to read it because I think it points out the totality of the problem here and I\u0027m quoting."
+                            },
+                            {
+                                "start": 1116.251,
+                                "stop": 1128.856,
+                                "byte_start": 4568482,
+                                "byte_stop": 4618951,
+                                "text": "\u201cReading Section 8 (d) as a whole seems to lead to the conclusion that the Act permits a strike after a sixty-day notice in the middle of a contract which authorizes a reopening on wages."
+                            },
+                            {
+                                "start": 1128.856,
+                                "stop": 1157.227,
+                                "byte_start": 4618951,
+                                "byte_stop": 4732426,
+                                "text": "Use of the words or modify and\/or modification in the proviso and use of or modification in Section 8 (d) (1), which is the notice requirement, and the statement in the final paragraph of the section that the parties are not required to agree to any modification effected before the contract maybe reopened under its terms all seem to contemplate the right of either party to insist on changes in the contract if they had so provided."
+                            },
+                            {
+                                "start": 1157.227,
+                                "stop": 1163.986,
+                                "byte_start": 4732426,
+                                "byte_stop": 4759385,
+                                "text": "The right of the union would be an empty one without the right to strike after a sixty-day notice."
+                            },
+                            {
+                                "start": 1163.986,
+                                "stop": 1179.835,
+                                "byte_start": 4759385,
+                                "byte_stop": 4822810,
+                                "text": "The report then went on to say that the problem was one of extreme importance to both management and labor and that clarifying language to make explicit the result it thought already contemplated by the Section would be appropriate."
+                            },
+                            {
+                                "start": 1179.835,
+                                "stop": 1201.803,
+                                "byte_start": 4822810,
+                                "byte_stop": 4910686,
+                                "text": "In that same day vain in 1949, Senator Taft introduced an amendment to 8 (d) which as he pointed out also, it was not designed to change the intendment of the law but because it was here that the existing language did not unambiguously expressed the intent of the Congress, it would be desirable to so provide."
+                            },
+                            {
+                                "start": 1201.803,
+                                "stop": 1207.067,
+                                "byte_start": 4910686,
+                                "byte_stop": 4931793,
+                                "text": "That legislation passed to Senate but never did become law."
+                            },
+                            {
+                                "start": 1207.067,
+                                "stop": 1236.574,
+                                "byte_start": 4931793,
+                                "byte_stop": 5049762,
+                                "text": "Now, again, the legislative history, if I may characterize it as such, the total reference to 8 (d) and the precise use of modify as well as terminate in the earlier sections, suggest to us that the reading given this section by the Board is the appropriate reading."
+                            },
+                            {
+                                "start": 1236.574,
+                                "stop": 1244.652,
+                                "byte_start": 5049762,
+                                "byte_stop": 5082049,
+                                "text": "It maybe of interest to note in passing that three members of the Board took the position that I have articulated here."
+                            },
+                            {
+                                "start": 1244.652,
+                                "stop": 1273.195,
+                                "byte_start": 5082049,
+                                "byte_stop": 5196257,
+                                "text": "There was a dissent by a one board member and the thrust of the dissent was essentially this that the language of 8 (d) is intended to apply only to the time around the termination date of a contract and not midterm, that it was not the intent of Congress to apply it at any midterm point."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1273.195,
+                        "stop": 1277.997,
+                        "byte_start": 5196257,
+                        "byte_stop": 5215483,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1273.195,
+                                "stop": 1277.997,
+                                "byte_start": 5196257,
+                                "byte_stop": 5215483,
+                                "text": "What -- what language do you find that points to the midterm point?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1277.997,
+                        "stop": 1319.752,
+                        "byte_start": 5215483,
+                        "byte_stop": 5382457,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1277.997,
+                                "stop": 1319.752,
+                                "byte_start": 5215483,
+                                "byte_stop": 5382457,
+                                "text": "The reference in the proviso, Your Honor, to -- in this reference, no party to such contract shall terminate or modify such contract unless the party desiring such termination or modification, and then subsection (1), serves a written notice upon the other to the contract of the proposed termination or modification, sixty days prior to the expiration date thereof or in the event the contract contains no expiration date, sixty days prior to the time it is proposed to make such termination."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1319.752,
+                        "stop": 1332.116,
+                        "byte_start": 5382457,
+                        "byte_stop": 5431986,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1319.752,
+                                "stop": 1332.116,
+                                "byte_start": 5382457,
+                                "byte_stop": 5431986,
+                                "text": "And he sets notice for termination, shall state the date upon which the termination of this agreement should be effective."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1332.116,
+                        "stop": 1382.548,
+                        "byte_start": 5431986,
+                        "byte_stop": 5633651,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1332.116,
+                                "stop": 1356.208,
+                                "byte_start": 5431986,
+                                "byte_stop": 5528325,
+                                "text": "Yes, and then finally, in the concluding language, you will note that it is provided that any employee who engages in the strike within the sixty-day period specified in this subsection and that relates directly to the 8 (d) (4) language here involved shall lose his status as an employee of the employer engaged in particular labor dispute unless reemployed."
+                            },
+                            {
+                                "start": 1356.208,
+                                "stop": 1382.548,
+                                "byte_start": 5528325,
+                                "byte_stop": 5633651,
+                                "text": "Now, following the literal reading of the court below and applying it to this sanction proviso of the statute would lead to the conclusion I supposed that strikers who struck within the sixty-day period lost their employee status but those who struck later or before would not which I submit it would be an incongruous result of the --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1382.548,
+                        "stop": 1384.706,
+                        "byte_start": 5633651,
+                        "byte_stop": 5642324,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1382.548,
+                                "stop": 1384.706,
+                                "byte_start": 5633651,
+                                "byte_stop": 5642324,
+                                "text": "Possible construction."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1384.706,
+                        "stop": 1385.237,
+                        "byte_start": 5642324,
+                        "byte_stop": 5644413,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1384.706,
+                                "stop": 1385.237,
+                                "byte_start": 5642324,
+                                "byte_stop": 5644413,
+                                "text": "Yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1385.237,
+                        "stop": 1388.548,
+                        "byte_start": 5644413,
+                        "byte_stop": 5657684,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1385.237,
+                                "stop": 1388.548,
+                                "byte_start": 5644413,
+                                "byte_stop": 5657684,
+                                "text": "And avoid some other troubles from the act to (Inaudible)."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1388.548,
+                        "stop": 1395.767,
+                        "byte_start": 5657684,
+                        "byte_stop": 5686523,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1388.548,
+                                "stop": 1395.767,
+                                "byte_start": 5657684,
+                                "byte_stop": 5686523,
+                                "text": "May I ask you whether -- when the strike got on the way, was the contract still alive?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1395.767,
+                        "stop": 1461.56,
+                        "byte_start": 5686523,
+                        "byte_stop": 5949733,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1395.767,
+                                "stop": 1402.81,
+                                "byte_start": 5686523,
+                                "byte_stop": 5714735,
+                                "text": "The contract was still alive."
+                            },
+                            {
+                                "start": 1402.81,
+                                "stop": 1426.077,
+                                "byte_start": 5714735,
+                                "byte_stop": 5807835,
+                                "text": "Now the point was made below by the company that this strike was in violation of contract and that accordingly the employees lost their status as employees."
+                            },
+                            {
+                                "start": 1426.077,
+                                "stop": 1442.852,
+                                "byte_start": 5807835,
+                                "byte_stop": 5874918,
+                                "text": "I think the company relies on the Sands case in which it was held here that a strike in repudiation of a collective bargaining agreement, properly entitles an employer to discharge."
+                            },
+                            {
+                                "start": 1442.852,
+                                "stop": 1459.052,
+                                "byte_start": 5874918,
+                                "byte_stop": 5939702,
+                                "text": "We submit that this is not a situation of repudiation of contract but rather a situation of strike in contemplation of the terms of that contract."
+                            },
+                            {
+                                "start": 1459.052,
+                                "stop": 1461.56,
+                                "byte_start": 5939702,
+                                "byte_stop": 5949733,
+                                "text": "Further, the --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1461.56,
+                        "stop": 1465.94,
+                        "byte_start": 5949733,
+                        "byte_stop": 5967287,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1461.56,
+                                "stop": 1465.94,
+                                "byte_start": 5949733,
+                                "byte_stop": 5967287,
+                                "text": "I -- I don\u0027t understand those words, a strike in contemplation?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1465.94,
+                        "stop": 1469.824,
+                        "byte_start": 5967287,
+                        "byte_stop": 5982751,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1465.94,
+                                "stop": 1469.824,
+                                "byte_start": 5967287,
+                                "byte_stop": 5982751,
+                                "text": "Yes, by virtue of the modification clause in the agreement."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1469.824,
+                        "stop": 1470.739,
+                        "byte_start": 5982751,
+                        "byte_stop": 5986408,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1469.824,
+                                "stop": 1470.739,
+                                "byte_start": 5982751,
+                                "byte_stop": 5986408,
+                                "text": "What\u0027s that?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1470.739,
+                        "stop": 1475.983,
+                        "byte_start": 5986408,
+                        "byte_stop": 6007411,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1470.739,
+                                "stop": 1475.983,
+                                "byte_start": 5986408,
+                                "byte_stop": 6007411,
+                                "text": "In this agreement, Your Honor, there was provision for modification as the Board found and when the -- yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1475.983,
+                        "stop": 1477.291,
+                        "byte_start": 6007411,
+                        "byte_stop": 6012635,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1475.983,
+                                "stop": 1477.291,
+                                "byte_start": 6007411,
+                                "byte_stop": 6012635,
+                                "text": "Sixty days notice."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1477.291,
+                        "stop": 1479.14,
+                        "byte_start": 6012635,
+                        "byte_stop": 6020054,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1477.291,
+                                "stop": 1479.14,
+                                "byte_start": 6012635,
+                                "byte_stop": 6020054,
+                                "text": "Yes, and when the employee struck --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1479.14,
+                        "stop": 1481.369,
+                        "byte_start": 6020054,
+                        "byte_stop": 6028936,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1479.14,
+                                "stop": 1481.369,
+                                "byte_start": 6020054,
+                                "byte_stop": 6028936,
+                                "text": "Termination in sixty days --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1481.369,
+                        "stop": 1481.888,
+                        "byte_start": 6028936,
+                        "byte_stop": 6031026,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1481.369,
+                                "stop": 1481.888,
+                                "byte_start": 6028936,
+                                "byte_stop": 6031026,
+                                "text": "I beg your pardon."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1481.888,
+                        "stop": 1483.35,
+                        "byte_start": 6031026,
+                        "byte_stop": 6036877,
+                        "speaker": null,
+                        "text_blocks": [
+                            {
+                                "start": 1481.888,
+                                "stop": 1483.35,
+                                "byte_start": 6031026,
+                                "byte_stop": 6036877,
+                                "text": "And also for termination in sixty days."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1483.35,
+                        "stop": 1593.645,
+                        "byte_start": 6036877,
+                        "byte_stop": 6478033,
+                        "speaker": {
+                            "ID": 42933,
+                            "name": "Theophil C. Kammholz",
+                            "href": "https:\/\/api.oyez.org\/people\/theophil_c_kammholz",
+                            "last_name": "Kammholz",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "theophil_c_kammholz"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1483.35,
+                                "stop": 1487.291,
+                                "byte_start": 6036877,
+                                "byte_stop": 6052655,
+                                "text": "And also for termination, yes."
+                            },
+                            {
+                                "start": 1487.291,
+                                "stop": 1499.831,
+                                "byte_start": 6052655,
+                                "byte_stop": 6102810,
+                                "text": "Now, the further findings of the Board as to the unfair labor practices by the company in connection with the -- the -- its relation to the union were not reached by the court below."
+                            },
+                            {
+                                "start": 1499.831,
+                                "stop": 1506.379,
+                                "byte_start": 6102810,
+                                "byte_stop": 6129037,
+                                "text": "I should like to make this brief observation with reference to them."
+                            },
+                            {
+                                "start": 1506.379,
+                                "stop": 1515.749,
+                                "byte_start": 6129037,
+                                "byte_stop": 6166444,
+                                "text": "We concede that upon a strike in repudiation of contract, the employer has the right to discharge."
+                            },
+                            {
+                                "start": 1515.749,
+                                "stop": 1567.451,
+                                "byte_start": 6166444,
+                                "byte_stop": 6373230,
+                                "text": "If he does not elect to exercise that right then and if he retains his employees as employees, he must treat them in accordance with the ex-provisions protecting the organizational rights of employees or to put it in other way, he may not then at a later date as happened here resurrect the -- the claims of strike and breach of contract and say in substance \u201cWell, we will take you back but only upon abandonment of your adherence to the union as collective bargaining representative and only upon your withdrawal -- and we will sign a contract only upon your withdrawal of pending unfair labor practice charges before the Board."
+                            },
+                            {
+                                "start": 1567.451,
+                                "stop": 1576.846,
+                                "byte_start": 6373230,
+                                "byte_stop": 6410846,
+                                "text": "Those -- that later conduct of course was wholly unrelated to whatever might have been the situation at the time the strike ensued."
+                            },
+                            {
+                                "start": 1576.846,
+                                "stop": 1587.964,
+                                "byte_start": 6410846,
+                                "byte_stop": 6455359,
+                                "text": "That point I say again was not reached by the court below but I think it is of significance in -- in the contractual frame of reference here."
+                            },
+                            {
+                                "start": 1587.964,
+                                "stop": 1593.645,
+                                "byte_start": 6455359,
+                                "byte_stop": 6478033,
+                                "text": "Thank you very much."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1593.645,
+                        "stop": 1600.678,
+                        "byte_start": 6478033,
+                        "byte_stop": 6506141,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1593.645,
+                                "stop": 1600.678,
+                                "byte_start": 6478033,
+                                "byte_stop": 6506141,
+                                "text": "Mr. Davis."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "start": 1600.678,
+                "stop": 2238.942,
+                "byte_start": 6506141,
+                "byte_stop": 9059140,
+                "turns": [
+                    {
+                        "start": 1600.678,
+                        "stop": 1947.576,
+                        "byte_start": 6506141,
+                        "byte_stop": 7893765,
+                        "speaker": {
+                            "ID": 29946,
+                            "name": "Jeff Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/jeff_davis",
+                            "last_name": "Davis",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jeff_davis"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1600.678,
+                                "stop": 1603.921,
+                                "byte_start": 6506141,
+                                "byte_stop": 6519202,
+                                "text": "If the Court please."
+                            },
+                            {
+                                "start": 1603.921,
+                                "stop": 1622.195,
+                                "byte_start": 6519202,
+                                "byte_stop": 6592240,
+                                "text": "We respectfully submit that the order of the Court of Appeals below is correct and should be affirmed on either or both of two grounds."
+                            },
+                            {
+                                "start": 1622.195,
+                                "stop": 1643.267,
+                                "byte_start": 6592240,
+                                "byte_stop": 6676564,
+                                "text": "First, the strike here involved being an economic strike in breach of contract was activity not protected by the National Labor -- by the Labor Relations -- Labor Management Relations Act."
+                            },
+                            {
+                                "start": 1643.267,
+                                "stop": 1684.429,
+                                "byte_start": 6676564,
+                                "byte_stop": 6841240,
+                                "text": "In 1939, this Court in National Labor Relations Board against Sands Manufacturing Company held that employees who went out on strike to force their employer to abandoned sectional seniority which were provided in the contract between the union and the company and substitute in lieu thereof plant seniority lost their status as employees and lost any protection under the National Labor Relation Act."
+                            },
+                            {
+                                "start": 1684.429,
+                                "stop": 1696.232,
+                                "byte_start": 6841240,
+                                "byte_stop": 6888364,
+                                "text": "In the opinion of the majority of the Court in that case which was rendered by Mr. Justice Roberts, this statement was made."
+                            },
+                            {
+                                "start": 1696.232,
+                                "stop": 1704.673,
+                                "byte_start": 6888364,
+                                "byte_stop": 6922219,
+                                "text": "Respondent rightly understood that the men were irrevocably committed not to work in accordance with our contract."
+                            },
+                            {
+                                "start": 1704.673,
+                                "stop": 1719.612,
+                                "byte_start": 6922219,
+                                "byte_stop": 6981883,
+                                "text": "It was at liberty to treat them as having severed their relations with the company because of their breach and to consummate their separation from the company\u0027s employ and hire others to take their places."
+                            },
+                            {
+                                "start": 1719.612,
+                                "stop": 1733.176,
+                                "byte_start": 6981883,
+                                "byte_stop": 7036217,
+                                "text": "The Act does not prohibit an affective discharge for repudiation by the employee of his agreement anymore than it prohibits such discharge for a tort committed against an employer."
+                            },
+                            {
+                                "start": 1733.176,
+                                "stop": 1744.943,
+                                "byte_start": 7036217,
+                                "byte_stop": 7083238,
+                                "text": "Later, in the opinion, the Court stated that after the strike began, the employer has no further obligation to negotiate with the union."
+                            },
+                            {
+                                "start": 1744.943,
+                                "stop": 1754.881,
+                                "byte_start": 7083238,
+                                "byte_stop": 7123048,
+                                "text": "And it was within its rights in making a contract with a nonunion or replacement employee."
+                            },
+                            {
+                                "start": 1754.881,
+                                "stop": 1763.387,
+                                "byte_start": 7123048,
+                                "byte_stop": 7157008,
+                                "text": "Mr. Justice Harlan, we submit that this Court had written a no-strike clause into every contract."
+                            },
+                            {
+                                "start": 1763.387,
+                                "stop": 1787.185,
+                                "byte_start": 7157008,
+                                "byte_stop": 7252198,
+                                "text": "Now, when the Taft-Hartley amendments came before the Senate for consideration, the decision of this Court in the Sands Manufacturing Company case had the most decisive effect not only upon the negotiations in Congress but upon the form in which the amendments were finally adopted."
+                            },
+                            {
+                                "start": 1787.185,
+                                "stop": 1812.809,
+                                "byte_start": 7252198,
+                                "byte_stop": 7354702,
+                                "text": "When the amendatory bill was first passed in the House, Section 7 of the House Bill included or added to Section 7 of the old act an expressed provision to the effect that a strike in violation of contract should not be within concerted activities protected by the Act."
+                            },
+                            {
+                                "start": 1812.809,
+                                "stop": 1818.933,
+                                "byte_start": 7354702,
+                                "byte_stop": 7379257,
+                                "text": "The Senate version of the bill did not include that provision in Section 7."
+                            },
+                            {
+                                "start": 1818.933,
+                                "stop": 1821.331,
+                                "byte_start": 7379257,
+                                "byte_stop": 7388766,
+                                "text": "The two bills went to conference."
+                            },
+                            {
+                                "start": 1821.331,
+                                "stop": 1826.633,
+                                "byte_start": 7388766,
+                                "byte_stop": 7409977,
+                                "text": "The conference accepted the Senate version."
+                            },
+                            {
+                                "start": 1826.633,
+                                "stop": 1864.42,
+                                "byte_start": 7409977,
+                                "byte_stop": 7561174,
+                                "text": "The members of the House Conference Committee in reporting the conference bill to the House, stated or heard the House to receive from its position of insistent that Section 7 of the amended act include the provision excluding a strike against -- in violation of contract from concerted activities protected by the Act stating that it was already established, that under Section 7 of the National Labor Relation Act, a strike in violation of contract was unprotected activity."
+                            },
+                            {
+                                "start": 1864.42,
+                                "stop": 1880.029,
+                                "byte_start": 7561174,
+                                "byte_stop": 7623555,
+                                "text": "The majority of the committee in the Senate to whom the amendatory of legislation was referred in reporting the Senate bill to the Senate made this statement."
+                            },
+                            {
+                                "start": 1880.029,
+                                "stop": 1890.778,
+                                "byte_start": 7623555,
+                                "byte_stop": 7666604,
+                                "text": "It should be noted that the Board has construed the present act as denying any remedy to employees striking for illegal objectives."
+                            },
+                            {
+                                "start": 1890.778,
+                                "stop": 1901.022,
+                                "byte_start": 7666604,
+                                "byte_stop": 7707564,
+                                "text": "See American News Company, 55 NLRB 1302, Thompson products 72 NLRB 150."
+                            },
+                            {
+                                "start": 1901.022,
+                                "stop": 1904.236,
+                                "byte_start": 7707564,
+                                "byte_stop": 7720417,
+                                "text": "The Supreme Court has interpreted the statute."
+                            },
+                            {
+                                "start": 1904.236,
+                                "stop": 1919.151,
+                                "byte_start": 7720417,
+                                "byte_stop": 7780080,
+                                "text": "It has not conferring protection upon employees who strike in breach of contract, National Labor Relations Board versus Sands Manufacturing Company, 306 U.S. 332, or in breach of some other federal law."
+                            },
+                            {
+                                "start": 1919.151,
+                                "stop": 1936.377,
+                                "byte_start": 7780080,
+                                "byte_stop": 7848939,
+                                "text": "Southern Steamship Company versus NLRB, 316 U.S. 31 or who engage in illegal acts while on strike, Fansteel Metallurgical Corporation versus NLRB, 306 U.S. 240."
+                            },
+                            {
+                                "start": 1936.377,
+                                "stop": 1940.314,
+                                "byte_start": 7848939,
+                                "byte_stop": 7864717,
+                                "text": "This bill is not intended to change an inner respect."
+                            },
+                            {
+                                "start": 1940.314,
+                                "stop": 1946.903,
+                                "byte_start": 7864717,
+                                "byte_stop": 7891048,
+                                "text": "The law has construed in these administrative and judicial decision."
+                            },
+                            {
+                                "start": 1946.903,
+                                "stop": 1947.576,
+                                "byte_start": 7891048,
+                                "byte_stop": 7893765,
+                                "text": "In our brief we call it --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1947.576,
+                        "stop": 1949.606,
+                        "byte_start": 7893765,
+                        "byte_stop": 7901915,
+                        "speaker": {
+                            "ID": 15089,
+                            "name": "Hugo L. Black",
+                            "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "last_name": "Black",
+                            "roles": [
+                                {
+                                    "id": 2733,
+                                    "type": "scotus_justice",
+                                    "date_start": -1021489200,
+                                    "date_end": 53931600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32719,
+                                "mime": "image\/png",
+                                "size": 51667,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                            },
+                            "length_of_service": 12447,
+                            "identifier": "hugo_l_black"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1947.576,
+                                "stop": 1949.606,
+                                "byte_start": 7893765,
+                                "byte_stop": 7901915,
+                                "text": "-- the court below didn\u0027t reach that point there?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1949.606,
+                        "stop": 1950.313,
+                        "byte_start": 7901915,
+                        "byte_stop": 7904737,
+                        "speaker": {
+                            "ID": 29946,
+                            "name": "Jeff Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/jeff_davis",
+                            "last_name": "Davis",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jeff_davis"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1949.606,
+                                "stop": 1950.313,
+                                "byte_start": 7901915,
+                                "byte_stop": 7904737,
+                                "text": "Sir?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1950.313,
+                        "stop": 1952.479,
+                        "byte_start": 7904737,
+                        "byte_stop": 7913409,
+                        "speaker": {
+                            "ID": 15089,
+                            "name": "Hugo L. Black",
+                            "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "last_name": "Black",
+                            "roles": [
+                                {
+                                    "id": 2733,
+                                    "type": "scotus_justice",
+                                    "date_start": -1021489200,
+                                    "date_end": 53931600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32719,
+                                "mime": "image\/png",
+                                "size": 51667,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                            },
+                            "length_of_service": 12447,
+                            "identifier": "hugo_l_black"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1950.313,
+                                "stop": 1952.479,
+                                "byte_start": 7904737,
+                                "byte_stop": 7913409,
+                                "text": "Did the court below reach that point?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 1952.479,
+                        "stop": 2236.765,
+                        "byte_start": 7913409,
+                        "byte_stop": 9050572,
+                        "speaker": {
+                            "ID": 29946,
+                            "name": "Jeff Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/jeff_davis",
+                            "last_name": "Davis",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "jeff_davis"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 1952.479,
+                                "stop": 1954.431,
+                                "byte_start": 7913409,
+                                "byte_stop": 7921246,
+                                "text": "No sir, if Your Honor please -- please."
+                            },
+                            {
+                                "start": 1954.431,
+                                "stop": 1971.456,
+                                "byte_start": 7921246,
+                                "byte_stop": 7989269,
+                                "text": "But we take the positions that if the conclusion which the Court reads is correct, the fact that a State has put his conclusion on an erroneous ground, would not call a reversal, the case is nevertheless -- to save the lower courts in their (Inaudible) affirmed."
+                            },
+                            {
+                                "start": 1971.456,
+                                "stop": 1974.344,
+                                "byte_start": 7989269,
+                                "byte_stop": 8000867,
+                                "text": "The lower court did not discuss that point."
+                            },
+                            {
+                                "start": 1974.344,
+                                "stop": 1983.075,
+                                "byte_start": 8000867,
+                                "byte_stop": 8035767,
+                                "text": "The lower court makes a decision solely upon the provisions of 8 (d) which we hope to be able to discuss just a little bit later."
+                            },
+                            {
+                                "start": 1983.075,
+                                "stop": 1993.056,
+                                "byte_start": 8035767,
+                                "byte_stop": 8075682,
+                                "text": "Other portions of the legislative history concerning the Taft-Hartley amendment are cited in our brief to the same effect."
+                            },
+                            {
+                                "start": 1993.056,
+                                "stop": 2002.733,
+                                "byte_start": 8075682,
+                                "byte_stop": 8114448,
+                                "text": "Now, let us look at the record to ascertain whether this strike was in breach of contract."
+                            },
+                            {
+                                "start": 2002.733,
+                                "stop": 2004.751,
+                                "byte_start": 8114448,
+                                "byte_stop": 8122493,
+                                "text": "Of course it was an economic strike."
+                            },
+                            {
+                                "start": 2004.751,
+                                "stop": 2006.873,
+                                "byte_start": 8122493,
+                                "byte_stop": 8130957,
+                                "text": "That is conceded."
+                            },
+                            {
+                                "start": 2006.873,
+                                "stop": 2017.752,
+                                "byte_start": 8130957,
+                                "byte_stop": 8174529,
+                                "text": "It is also conceded by distinguished counsel for the petitioner that the contract was in full force and effect when the strike began."
+                            },
+                            {
+                                "start": 2017.752,
+                                "stop": 2025.502,
+                                "byte_start": 8174529,
+                                "byte_stop": 8205458,
+                                "text": "The contract involved, appeared at the beginning -- at page 27 of the record."
+                            },
+                            {
+                                "start": 2025.502,
+                                "stop": 2042.26,
+                                "byte_start": 8205458,
+                                "byte_stop": 8272541,
+                                "text": "At page 67 of the record is shown a schedule of hourly wages to be paid to each man engage in each of the particular classifications of work therein enumerated."
+                            },
+                            {
+                                "start": 2042.26,
+                                "stop": 2043.873,
+                                "byte_start": 8272541,
+                                "byte_stop": 8279019,
+                                "text": "The hour rates of fairs specific."
+                            },
+                            {
+                                "start": 2043.873,
+                                "stop": 2048.275,
+                                "byte_start": 8279019,
+                                "byte_stop": 8296573,
+                                "text": "They\u0027re set out in dollars and cents."
+                            },
+                            {
+                                "start": 2048.275,
+                                "stop": 2078.826,
+                                "byte_start": 8296573,
+                                "byte_stop": 8418826,
+                                "text": "On the next page of the record, appears a provision that in addition to the hourly wage for each hour work as provided in the exhibit of hour wages to which I have referred, each man working on the evening shift should receive an addition 7 cents an hour and each man working on the graveyard shift shall receive an addition 6 cents an hour."
+                            },
+                            {
+                                "start": 2078.826,
+                                "stop": 2097.461,
+                                "byte_start": 8418826,
+                                "byte_stop": 8493328,
+                                "text": "If we look at page 36 of the record, we find the provision of the contract which provides that each year, each employee is to be permitted six holidays with pay."
+                            },
+                            {
+                                "start": 2097.461,
+                                "stop": 2134.205,
+                                "byte_start": 8493328,
+                                "byte_stop": 8640345,
+                                "text": "Now when this strike began, it was called by the union and was participated in by the strikers for the purpose of forcing the company immediately to increase each of those hourly wage rates by 22 cents and to increase shift differentials to 6 cents and 12 cents an hour and to grant to each man an additional holiday with pay."
+                            },
+                            {
+                                "start": 2134.205,
+                                "stop": 2158.341,
+                                "byte_start": 8640345,
+                                "byte_stop": 8736789,
+                                "text": "We say, if the Court please, that the union in calling the strike and causing the man to refuse to work in accordance with our contract, committed a total breach of the contract and a complete repudiation of it."
+                            },
+                            {
+                                "start": 2158.341,
+                                "stop": 2163.857,
+                                "byte_start": 8736789,
+                                "byte_stop": 8758941,
+                                "text": "That action is just exactly what this Court has held."
+                            },
+                            {
+                                "start": 2163.857,
+                                "stop": 2172.125,
+                                "byte_start": 8758941,
+                                "byte_stop": 8791960,
+                                "text": "Calls employer -- striking employees to lose the rights under the National Labor Relations Act when the strike is violation of contract."
+                            },
+                            {
+                                "start": 2172.125,
+                                "stop": 2175.892,
+                                "byte_start": 8791960,
+                                "byte_stop": 8807006,
+                                "text": "Now let me bear upon this point."
+                            },
+                            {
+                                "start": 2175.892,
+                                "stop": 2180.424,
+                                "byte_start": 8807006,
+                                "byte_stop": 8825187,
+                                "text": "There was no no-strike clause in this case."
+                            },
+                            {
+                                "start": 2180.424,
+                                "stop": 2213.564,
+                                "byte_start": 8825187,
+                                "byte_stop": 8957785,
+                                "text": "There is nothing in the opinion of the Court in the Sands Manufacturing Company case to indicate that there was a no-strike clause in that contract but to the contrary, Mr. Justice Roberts in his opinion makes particular point of the fact that in that contract there was a clause which as I read the statement, he considered to be a reservation of the right to strike on the part of the union if there was disagreement between the union and the company."
+                            },
+                            {
+                                "start": 2213.564,
+                                "stop": 2227.675,
+                                "byte_start": 8957785,
+                                "byte_stop": 9014209,
+                                "text": "This Court has stated time and time again that the purpose of the National Labor Relations Act and of the Labor Management Relations Act is to encourage industrial peace."
+                            },
+                            {
+                                "start": 2227.675,
+                                "stop": 2236.765,
+                                "byte_start": 9014209,
+                                "byte_stop": 9050572,
+                                "text": "What could be more contrary to industrial peace than to grant relief under this Act?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 2236.765,
+                        "stop": 2238.942,
+                        "byte_start": 9050572,
+                        "byte_stop": 9059140,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 2236.765,
+                                "stop": 2238.942,
+                                "byte_start": 9050572,
+                                "byte_stop": 9059140,
+                                "text": "We\u0027ll recess now, Mr. --"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

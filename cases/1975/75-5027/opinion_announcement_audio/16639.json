@@ -1,0 +1,143 @@
+{
+    "id": 16639,
+    "title": "Opinion Announcement - June 14, 1976",
+    "transcript": {
+        "title": "Bryan v. Itasca County",
+        "duration": 74.568,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 74.568,
+                "byte_start": 73673,
+                "byte_stop": 371887,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 5.503,
+                        "byte_start": 73673,
+                        "byte_stop": 95720,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 5.503,
+                                "byte_start": 73673,
+                                "byte_stop": 95720,
+                                "text": "Mr. Justice Brennan has the dispositions to announce in two cases."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 5.503,
+                        "stop": 74.568,
+                        "byte_start": 95720,
+                        "byte_stop": 371887,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 5.503,
+                                "stop": 14.073,
+                                "byte_start": 95720,
+                                "byte_stop": 129993,
+                                "text": "The first is 75-5027 which is here from the Supreme Court of Minnesota."
+                            },
+                            {
+                                "start": 14.073,
+                                "stop": 37.163,
+                                "byte_start": 129993,
+                                "byte_stop": 222362,
+                                "text": "This case was brought by a Chippewa Indian, protesting that the State of Minnesota had no jurisdiction to levy a property tax on his mobile home located on land held in by the United States in trust for members of the Chippewa tribe."
+                            },
+                            {
+                                "start": 37.163,
+                                "stop": 53.844,
+                                "byte_start": 222362,
+                                "byte_stop": 289131,
+                                "text": "The Minnesota courts held that, they did indeed, State did indeed have taxing authority that it had that authority accredited by an act of Congress Section 4 (a) of Public Law 280."
+                            },
+                            {
+                                "start": 53.844,
+                                "stop": 74.568,
+                                "byte_start": 289131,
+                                "byte_stop": 371887,
+                                "text": "We don\u0027t read Public Law 280 as did the Minnesota courts, and we therefore, reverse on the ground that the state did not have authority to impose a property tax on petitioner\u0027s on mobile home."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42400,
+            "mime": "audio\/mpeg",
+            "size": 372096,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-5027\/19760614o_75-5027.delivery.mp3"
+        },
+        {
+            "id": 64316,
+            "mime": "audio\/ogg",
+            "size": 768485,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-5027\/19760614o_75-5027.ogg"
+        },
+        {
+            "id": 64317,
+            "mime": "application\/x-mpegURL",
+            "size": 1211,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-5027\/19760614o_75-5027.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

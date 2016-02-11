@@ -1,0 +1,139 @@
+{
+    "id": 21156,
+    "title": "Opinion Announcement - January 12, 1993",
+    "transcript": {
+        "title": "Puerto Rico Aqueduct and Sewer Authority v. Metcalf \u0026 Eddy, Inc.",
+        "duration": 26.331,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 26.331,
+                "byte_start": 81816,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.93,
+                        "byte_start": 81816,
+                        "byte_stop": 121627,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.93,
+                                "byte_start": 81816,
+                                "byte_stop": 121627,
+                                "text": "The opinion of the Court No. 91-1010, Puerto Rico Aqueduct and Sewer Authority versus Metcalf \u0026 Eddy, Inc. will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.93,
+                        "stop": 26.331,
+                        "byte_start": 121627,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.93,
+                                "stop": 20.105,
+                                "byte_start": 121627,
+                                "byte_stop": 162273,
+                                "text": "For the reasons stated in an opinion on file with the Clerk, the judgment of the Court of Appeals for the First Circuit is reversed and the case is remanded for further proceedings."
+                            },
+                            {
+                                "start": 20.105,
+                                "stop": 26.331,
+                                "byte_start": 162273,
+                                "byte_stop": 0,
+                                "text": "Justice Blackmun has filed a concurring opinion; Justice Stevens has filed the dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51436,
+            "mime": "audio\/mpeg",
+            "size": 187142,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1992\/91-1010\/19930112o_91-1010.delivery.mp3"
+        },
+        {
+            "id": 73212,
+            "mime": "audio\/ogg",
+            "size": 269016,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1992\/91-1010\/19930112o_91-1010.ogg"
+        },
+        {
+            "id": 73213,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1992\/91-1010\/19930112o_91-1010.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

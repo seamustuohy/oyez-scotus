@@ -1,0 +1,95 @@
+{
+    "id": 17494,
+    "title": "Opinion Announcement - February 18, 1975",
+    "transcript": {
+        "title": "Train v. Campaign Clean Water, Inc.",
+        "duration": 35.213,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.213,
+                "byte_start": 28672,
+                "byte_stop": 169524,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.213,
+                        "byte_start": 28672,
+                        "byte_stop": 169524,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.324,
+                                "byte_start": 28672,
+                                "byte_stop": 70050,
+                                "text": "In a related case, 73-1378, Train against Campaign Clean Water Incorporated."
+                            },
+                            {
+                                "start": 10.324,
+                                "stop": 30.981,
+                                "byte_start": 70050,
+                                "byte_stop": 152597,
+                                "text": "I have the opinion to announce for the Court and for reasons stated in that opinion the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings consistent with this opinion and with the opinion in Train against the City of New York just announced by Mr. Justice White."
+                            },
+                            {
+                                "start": 30.981,
+                                "stop": 35.213,
+                                "byte_start": 152597,
+                                "byte_stop": 169524,
+                                "text": "In this case, Mr. Justice Douglas concurs in the result."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44110,
+            "mime": "audio\/mpeg",
+            "size": 169838,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1378\/19750218o_73-1378.delivery.mp3"
+        },
+        {
+            "id": 65974,
+            "mime": "audio\/ogg",
+            "size": 351157,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1378\/19750218o_73-1378.ogg"
+        },
+        {
+            "id": 65975,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1378\/19750218o_73-1378.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

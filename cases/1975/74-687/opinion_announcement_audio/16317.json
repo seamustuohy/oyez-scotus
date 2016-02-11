@@ -1,0 +1,81 @@
+{
+    "id": 16317,
+    "title": "Opinion Announcement - December 02, 1975",
+    "transcript": {
+        "title": "United States v. Moore",
+        "duration": 34.559,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.559,
+                "byte_start": 73668,
+                "byte_stop": 211804,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 34.559,
+                        "byte_start": 73668,
+                        "byte_stop": 211804,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 34.559,
+                                "byte_start": 73668,
+                                "byte_stop": 211804,
+                                "text": "I have the opinion court for the Court to announce in 74-687 United States against Moore and for reasons stated in an opinion, filed this morning with the clerk, the judgment is reversed and the case is remanded to the Court of Appeals for the Fifth Circuit for further proceedings consistent with our opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41756,
+            "mime": "audio\/mpeg",
+            "size": 212012,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-687\/19751202o_74-687.delivery.mp3"
+        },
+        {
+            "id": 63684,
+            "mime": "audio\/ogg",
+            "size": 348828,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-687\/19751202o_74-687.ogg"
+        },
+        {
+            "id": 63685,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-687\/19751202o_74-687.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

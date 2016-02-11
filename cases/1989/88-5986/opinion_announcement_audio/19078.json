@@ -1,0 +1,95 @@
+{
+    "id": 19078,
+    "title": "Opinion Announcement - April 18, 1990",
+    "transcript": {
+        "title": "Osborne v. Ohio",
+        "duration": 16.744,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.744,
+                "byte_start": 87855,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.744,
+                        "byte_start": 87855,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.959,
+                                "byte_start": 87855,
+                                "byte_stop": 123695,
+                                "text": "Fourth, in Osborne against Ohio, No. 88-5986, we reverse the judgment of the Ohio Supreme Court by a six-to-three vote."
+                            },
+                            {
+                                "start": 8.959,
+                                "stop": 13.912,
+                                "byte_start": 123695,
+                                "byte_stop": 143548,
+                                "text": "Justice Balckmun has filed a concurring opinion; Justice Brennan has filed a dissenting opinion."
+                            },
+                            {
+                                "start": 13.912,
+                                "stop": 16.744,
+                                "byte_start": 143548,
+                                "byte_stop": 0,
+                                "text": "He is joined by Justices Marshall and Stevens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47280,
+            "mime": "audio\/mpeg",
+            "size": 154519,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-5986\/19900418o_88-5986.delivery.mp3"
+        },
+        {
+            "id": 69106,
+            "mime": "audio\/ogg",
+            "size": 177836,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-5986\/19900418o_88-5986.ogg"
+        },
+        {
+            "id": 69107,
+            "mime": "application\/x-mpegURL",
+            "size": 375,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-5986\/19900418o_88-5986.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

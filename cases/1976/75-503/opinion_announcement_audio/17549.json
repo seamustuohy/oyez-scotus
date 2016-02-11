@@ -1,0 +1,88 @@
+{
+    "id": 17549,
+    "title": "Opinion Announcement - December 07, 1976",
+    "transcript": {
+        "title": "Cook v. Hudson",
+        "duration": 20.862,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.862,
+                "byte_start": 100524,
+                "byte_stop": 183907,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.862,
+                        "byte_start": 100524,
+                        "byte_stop": 183907,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.578,
+                                "byte_start": 100524,
+                                "byte_stop": 158934,
+                                "text": "I have disposition and several other matters to announce in 75-503 Cook and others against Hudson for reason stated in an opinion for the court filed with the clerk this morning."
+                            },
+                            {
+                                "start": 14.578,
+                                "stop": 20.862,
+                                "byte_start": 158934,
+                                "byte_stop": 183907,
+                                "text": "The writ of certiorari is dismissed because this having been improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44220,
+            "mime": "audio\/mpeg",
+            "size": 184116,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-503\/19761207o_75-503.delivery.mp3"
+        },
+        {
+            "id": 66080,
+            "mime": "audio\/ogg",
+            "size": 214377,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-503\/19761207o_75-503.ogg"
+        },
+        {
+            "id": 66081,
+            "mime": "application\/x-mpegURL",
+            "size": 412,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-503\/19761207o_75-503.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

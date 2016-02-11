@@ -1,0 +1,123 @@
+{
+    "id": 17344,
+    "title": "Opinion Announcement - May 13, 1974",
+    "transcript": {
+        "title": "United States v. Chavez",
+        "duration": 81.371,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 81.371,
+                "byte_start": 76800,
+                "byte_stop": 402181,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 81.371,
+                        "byte_start": 76800,
+                        "byte_stop": 402181,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 18.428,
+                                "byte_start": 76800,
+                                "byte_stop": 150570,
+                                "text": "In the Chavez case, the Attorney General himself approved the application, but the application mistakenly identified the officer who actually had approved the application."
+                            },
+                            {
+                                "start": 18.428,
+                                "stop": 31.305,
+                                "byte_start": 150570,
+                                "byte_stop": 202083,
+                                "text": "This procedure also did not comply with the act, but in this case, we think that the evidence obtained from a wiretap, under Section order, is admissible in evidence."
+                            },
+                            {
+                                "start": 31.305,
+                                "stop": 42.621,
+                                "byte_start": 202083,
+                                "byte_stop": 247327,
+                                "text": "Here, different from the Giordano case, the officer, required by the act to approve the application, actually did approve the application."
+                            },
+                            {
+                                "start": 42.621,
+                                "stop": 55,
+                                "byte_start": 247327,
+                                "byte_stop": 296856,
+                                "text": "And the mistake in identification was not the kind of a default which we think under the terms of the act requires the exclusion of the evidence."
+                            },
+                            {
+                                "start": 55,
+                                "stop": 64.558,
+                                "byte_start": 296856,
+                                "byte_stop": 335099,
+                                "text": "The Court of Appeals for the Ninth Circuit had arrived with the opposite conclusion in this respect, and so we reverse their judgment."
+                            },
+                            {
+                                "start": 64.558,
+                                "stop": 71.226,
+                                "byte_start": 335099,
+                                "byte_stop": 361744,
+                                "text": "There is another aspect of the judgment in which we agree with the Court of Appeals for the Ninth Circuit."
+                            },
+                            {
+                                "start": 71.226,
+                                "stop": 81.371,
+                                "byte_start": 361744,
+                                "byte_stop": 402181,
+                                "text": "Mr. Justice Douglas joined by Mr. Justice Brennan, Mr. Justice Stewart, and Mr. Justice Marshall has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43810,
+            "mime": "audio\/mpeg",
+            "size": 402390,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-1319\/19740513o_72-1319.delivery.mp3"
+        },
+        {
+            "id": 65686,
+            "mime": "audio\/ogg",
+            "size": 822266,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-1319\/19740513o_72-1319.ogg"
+        },
+        {
+            "id": 65687,
+            "mime": "application\/x-mpegURL",
+            "size": 1343,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-1319\/19740513o_72-1319.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

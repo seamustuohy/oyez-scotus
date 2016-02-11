@@ -1,0 +1,95 @@
+{
+    "id": 16380,
+    "title": "Opinion Announcement - April 17, 1974",
+    "transcript": {
+        "title": "Scheuer v. Rhodes",
+        "duration": 45.39,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 45.39,
+                "byte_start": 76800,
+                "byte_stop": 258299,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 45.39,
+                        "byte_start": 76800,
+                        "byte_stop": 258299,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.83,
+                                "byte_start": 76800,
+                                "byte_stop": 156212,
+                                "text": "I have the judgment and opinion for the Court to announce in number 72-914, Scheuer, Administratrix against Rhodes, and 72-1318, Krause as Administrator against Rhodes."
+                            },
+                            {
+                                "start": 19.83,
+                                "stop": 39.62,
+                                "byte_start": 156212,
+                                "byte_stop": 235311,
+                                "text": "For reasons stated in an opinion filed this morning, the judgment took the Court of Appeals of the Sixth Circuit is reversed, and the case is remanded to the District Courts for further proceedings."
+                            },
+                            {
+                                "start": 39.62,
+                                "stop": 45.39,
+                                "byte_start": 235311,
+                                "byte_stop": 258299,
+                                "text": "Mr. Justice Douglas took no part in the decision in this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41882,
+            "mime": "audio\/mpeg",
+            "size": 258508,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-914\/19740417o_72-914.delivery.mp3"
+        },
+        {
+            "id": 63810,
+            "mime": "audio\/ogg",
+            "size": 449550,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-914\/19740417o_72-914.ogg"
+        },
+        {
+            "id": 63811,
+            "mime": "application\/x-mpegURL",
+            "size": 799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-914\/19740417o_72-914.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

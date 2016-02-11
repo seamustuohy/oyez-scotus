@@ -1,0 +1,105 @@
+{
+    "id": 22496,
+    "title": "Opinion Announcement - May 23, 2005",
+    "transcript": {
+        "title": "Medell\u00edn v. Dretke",
+        "duration": 60.415,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 60.415,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 60.415,
+                        "byte_start": 28672,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6,
+                                "byte_start": 28672,
+                                "byte_stop": 52705,
+                                "text": "I have the opinion of the Court to announce in Medellin versus Dretke."
+                            },
+                            {
+                                "start": 6,
+                                "stop": 15,
+                                "byte_start": 52705,
+                                "byte_stop": 88754,
+                                "text": "For the reason stated in an opinion filed with the Clerk today, the writ of certiorari is dismissed as improvidently granted."
+                            },
+                            {
+                                "start": 15,
+                                "stop": 60.415,
+                                "byte_start": 88754,
+                                "byte_stop": 0,
+                                "text": "Justice Ginsburg has filed a concurring opinion in which Justice Scalia joins as to part two; Justice O\u0027Connor has filed a dissenting opinion in which Justices Stevens, Souter, and Breyer join; Justice Souter has filed a dissenting opinion; Justice Breyer has filed a dissenting opinion in which Justice Stevens joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 54114,
+            "mime": "audio\/mpeg",
+            "size": 204633,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2004\/04-5928\/20050523o_04-5928.delivery.mp3"
+        },
+        {
+            "id": 75854,
+            "mime": "audio\/ogg",
+            "size": 424396,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2004\/04-5928\/20050523o_04-5928.ogg"
+        },
+        {
+            "id": 75855,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2004\/04-5928\/20050523o_04-5928.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

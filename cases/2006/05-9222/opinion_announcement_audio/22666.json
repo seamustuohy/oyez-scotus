@@ -1,0 +1,137 @@
+{
+    "id": 22666,
+    "title": "Opinion Announcement - January 09, 2007",
+    "transcript": {
+        "title": "Burton v. Waddington",
+        "duration": 76.434,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 76.434,
+                "byte_start": 89866,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 76.434,
+                        "byte_start": 89866,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.158,
+                                "byte_start": 89866,
+                                "byte_stop": 126542,
+                                "text": "Today we also decide case No. 05-9222 Burton v. Stuart in a Per Curiam opinion."
+                            },
+                            {
+                                "start": 9.158,
+                                "stop": 24.707,
+                                "byte_start": 126542,
+                                "byte_stop": 188713,
+                                "text": "We granted certiorari in this case to determine whether our decision in 2004 in Blakely v. Washington announced a new rule and if so, whether it applies retroactively to prisoners seeking Federal Habeas Relief."
+                            },
+                            {
+                                "start": 24.707,
+                                "stop": 34.979,
+                                "byte_start": 188713,
+                                "byte_stop": 229882,
+                                "text": "We do not answer these questions however because we conclude that the petition in this case is a second or successive petition under the Federal Habeas Statute."
+                            },
+                            {
+                                "start": 34.979,
+                                "stop": 41.421,
+                                "byte_start": 229882,
+                                "byte_stop": 255587,
+                                "text": "The petition challenges the same custody imposed by the same judgment as an earlier petition."
+                            },
+                            {
+                                "start": 41.421,
+                                "stop": 52.871,
+                                "byte_start": 255587,
+                                "byte_stop": 301353,
+                                "text": "The Federal Habeas Statute requires a prisoner who wishes to file such a second or successive petition in District Court to first authorization from the Federal Court of Appeals."
+                            },
+                            {
+                                "start": 52.871,
+                                "stop": 57.708,
+                                "byte_start": 301353,
+                                "byte_stop": 320788,
+                                "text": "The petitioner here did not seek, much less obtained this authorization."
+                            },
+                            {
+                                "start": 57.708,
+                                "stop": 63.422,
+                                "byte_start": 320788,
+                                "byte_stop": 343567,
+                                "text": "Accordingly under the Federal Habeas Statute the District Court could not entertain the petition."
+                            },
+                            {
+                                "start": 63.422,
+                                "stop": 73.417,
+                                "byte_start": 343567,
+                                "byte_stop": 383587,
+                                "text": "We therefore vacate the judgment of the Court of Appeals and remand with instructions to direct the District Court to dismiss the Habeas Petition for lack of jurisdiction."
+                            },
+                            {
+                                "start": 73.417,
+                                "stop": 76.434,
+                                "byte_start": 383587,
+                                "byte_stop": 0,
+                                "text": "Our Per Curiam opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 54454,
+            "mime": "audio\/mpeg",
+            "size": 395603,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2006\/05-9222\/20070109o_05-9222.delivery.mp3"
+        },
+        {
+            "id": 76194,
+            "mime": "audio\/ogg",
+            "size": 772854,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2006\/05-9222\/20070109o_05-9222.ogg"
+        },
+        {
+            "id": 76195,
+            "mime": "application\/x-mpegURL",
+            "size": 1255,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2006\/05-9222\/20070109o_05-9222.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

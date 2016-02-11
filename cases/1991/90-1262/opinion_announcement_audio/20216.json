@@ -1,0 +1,123 @@
+{
+    "id": 20216,
+    "title": "Opinion Announcement - February 26, 1992",
+    "transcript": {
+        "title": "Arkansas v. Oklahoma",
+        "duration": 83.2,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 83.2,
+                "byte_start": 90847,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 83.2,
+                        "byte_start": 90847,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.49,
+                                "byte_start": 90847,
+                                "byte_stop": 140898,
+                                "text": "The second case is Arkansas against Oklahoma, and Environmental Protection Agency against Oklahoma, it is actually two separate cases covered in one opinion."
+                            },
+                            {
+                                "start": 12.49,
+                                "stop": 22.826,
+                                "byte_start": 140898,
+                                "byte_stop": 182171,
+                                "text": "Pursuant to the Clean Water Act, the Environmental Protection Agency issued a discharge permit to a new sewage treatment plant in Fayetteville, Arkansas."
+                            },
+                            {
+                                "start": 22.826,
+                                "stop": 34.934,
+                                "byte_start": 182171,
+                                "byte_stop": 230654,
+                                "text": "Under the permit, the plant was allowed to discharge part of its affluent into the Illinois River about 39 miles upstream from the Arkansas-Oklahoma State line."
+                            },
+                            {
+                                "start": 34.934,
+                                "stop": 45.587,
+                                "byte_start": 230654,
+                                "byte_stop": 273286,
+                                "text": "In support of the permit, the EPA made a finding that discharges from the plant would not cause a detectable violation of Oklahoma\u0027s water quality standards."
+                            },
+                            {
+                                "start": 45.587,
+                                "stop": 57.718,
+                                "byte_start": 273286,
+                                "byte_stop": 321769,
+                                "text": "Oklahoma challenged that decision and the Court of Appeals ruled that the EPA had erroneously concluded that the plant\u0027s discharge would not violate the Oklahoma\u0027s standards."
+                            },
+                            {
+                                "start": 57.718,
+                                "stop": 78.279,
+                                "byte_start": 321769,
+                                "byte_stop": 404003,
+                                "text": "Based on our interpretation of the statute, the regulations in the relevant precedents, we conclude that EPA\u0027s application and interpretation of the Oklahoma standard was proper, and that the EPA\u0027s issuance of the Fayetteville permit was consistent with its statutory authority, and we therefore reverse the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 78.279,
+                                "stop": 83.2,
+                                "byte_start": 404003,
+                                "byte_stop": 0,
+                                "text": "Our opinions in both cases I have announced are unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49556,
+            "mime": "audio\/mpeg",
+            "size": 423647,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-1262\/19920226o_90-1262.delivery.mp3"
+        },
+        {
+            "id": 71354,
+            "mime": "audio\/ogg",
+            "size": 806785,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-1262\/19920226o_90-1262.ogg"
+        },
+        {
+            "id": 71355,
+            "mime": "application\/x-mpegURL",
+            "size": 1343,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-1262\/19920226o_90-1262.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

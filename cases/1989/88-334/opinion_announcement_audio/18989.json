@@ -1,0 +1,146 @@
+{
+    "id": 18989,
+    "title": "Opinion Announcement - March 20, 1990",
+    "transcript": {
+        "title": "Lytle v. Household Manufacturing, Inc.",
+        "duration": 36.624,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 36.624,
+                "byte_start": 87128,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 4.62,
+                        "byte_start": 87128,
+                        "byte_stop": 105623,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.62,
+                                "byte_start": 87128,
+                                "byte_stop": 105623,
+                                "text": "The opinions of the Court in two cases will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 4.62,
+                        "stop": 36.624,
+                        "byte_start": 105623,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 4.62,
+                                "stop": 23.68,
+                                "byte_start": 105623,
+                                "byte_stop": 181900,
+                                "text": "In the first case, Lytle versus Household Manufacturing Company and in an opinion filed with the Clerk, we hold that the District Court\u2019s resolutions of the issue in the acts of a claim does not bar relitigation before a jury of the same issue and a legal claim."
+                            },
+                            {
+                                "start": 23.68,
+                                "stop": 30.915,
+                                "byte_start": 181900,
+                                "byte_stop": 210844,
+                                "text": "We, therefore, reverse the judgment of the Fourth Circuit and remand for proceedings consistent with this opinion."
+                            },
+                            {
+                                "start": 30.915,
+                                "stop": 36.624,
+                                "byte_start": 210844,
+                                "byte_stop": 0,
+                                "text": "Justice O\u2019Connor has filed a concurring opinion in which Justice Scalia joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47102,
+            "mime": "audio\/mpeg",
+            "size": 233623,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-334\/19900320o_88-334.delivery.mp3"
+        },
+        {
+            "id": 68928,
+            "mime": "audio\/ogg",
+            "size": 364818,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-334\/19900320o_88-334.ogg"
+        },
+        {
+            "id": 68929,
+            "mime": "application\/x-mpegURL",
+            "size": 670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-334\/19900320o_88-334.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

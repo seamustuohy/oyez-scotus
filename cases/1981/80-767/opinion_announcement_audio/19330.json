@@ -1,0 +1,95 @@
+{
+    "id": 19330,
+    "title": "Opinion Announcement - February 23, 1982",
+    "transcript": {
+        "title": "United States v. Lee",
+        "duration": 29.499,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.499,
+                "byte_start": 77436,
+                "byte_stop": 195405,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 29.499,
+                        "byte_start": 77436,
+                        "byte_stop": 195405,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.684,
+                                "byte_start": 77436,
+                                "byte_stop": 108260,
+                                "text": "I have two cases to announce in United States against Lee, No. 80-767."
+                            },
+                            {
+                                "start": 7.684,
+                                "stop": 24.017,
+                                "byte_start": 108260,
+                                "byte_stop": 173567,
+                                "text": "For reasons stated in the opinion for the court filed with the clerk this morning, the judgments of the United States District Court for the Western District of Pennsylvania is reversed and the case is remanded for further proceedings consistent with our opinion."
+                            },
+                            {
+                                "start": 24.017,
+                                "stop": 29.499,
+                                "byte_start": 173567,
+                                "byte_stop": 195405,
+                                "text": "Justice Stevens filed a statement concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47784,
+            "mime": "audio\/mpeg",
+            "size": 195614,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/80-767\/19820223o_80-767.delivery.mp3"
+        },
+        {
+            "id": 69608,
+            "mime": "audio\/ogg",
+            "size": 301201,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/80-767\/19820223o_80-767.ogg"
+        },
+        {
+            "id": 69609,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/80-767\/19820223o_80-767.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

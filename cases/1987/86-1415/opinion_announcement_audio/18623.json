@@ -1,0 +1,105 @@
+{
+    "id": 18623,
+    "title": "Opinion Announcement - January 13, 1988",
+    "transcript": {
+        "title": "Marino v. Ortiz",
+        "duration": 44.931,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 44.931,
+                "byte_start": 80913,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 44.931,
+                        "byte_start": 80913,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.069,
+                                "byte_start": 80913,
+                                "byte_stop": 117275,
+                                "text": "No. 86-1415, Marino versus Ortiz, the two consolidated cases."
+                            },
+                            {
+                                "start": 9.069,
+                                "stop": 27.826,
+                                "byte_start": 117275,
+                                "byte_stop": 192299,
+                                "text": "As to the issue raised in Marino namely whether a District Court may dismissed as an impermissible collateral attack, a lawsuit challenging a consent decree by non parties to the underlying litigation, we are equally divided, and therefore affirmed the judgment below on that basis."
+                            },
+                            {
+                                "start": 27.826,
+                                "stop": 44.931,
+                                "byte_start": 192299,
+                                "byte_stop": 0,
+                                "text": "As to the issue raised in Costello, we unanimously affirmed because petitioners were not parties to the underlying lawsuit and because the failed to intervene for purposes of appeal, they may not appeal from the consent decree approving that lawsuit settlement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46369,
+            "mime": "audio\/mpeg",
+            "size": 259800,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1415\/19880113o_86-1415.delivery.mp3"
+        },
+        {
+            "id": 68208,
+            "mime": "audio\/ogg",
+            "size": 451711,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1415\/19880113o_86-1415.ogg"
+        },
+        {
+            "id": 68209,
+            "mime": "application\/x-mpegURL",
+            "size": 771,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1415\/19880113o_86-1415.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

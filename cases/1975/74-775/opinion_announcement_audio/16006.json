@@ -1,0 +1,102 @@
+{
+    "id": 16006,
+    "title": "Opinion Announcement - June 25, 1976",
+    "transcript": {
+        "title": "City of New Orleans v. Dukes",
+        "duration": 35.279,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.279,
+                "byte_start": 73666,
+                "byte_stop": 214727,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.279,
+                        "byte_start": 73666,
+                        "byte_stop": 214727,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.207,
+                                "byte_start": 73666,
+                                "byte_stop": 110551,
+                                "text": "I have the opinion and judgment for the Court to announce in 74-775, City of New Orleans against Dukes."
+                            },
+                            {
+                                "start": 9.207,
+                                "stop": 26.33,
+                                "byte_start": 110551,
+                                "byte_stop": 178992,
+                                "text": "And for reasons stated in an opinion for the Court filed with the clerk this morning, the judgment of the United States Court of Appeals for the Fifth Circuit is reversed and the case is remanded to that Court for further proceedings consistent with this opinion."
+                            },
+                            {
+                                "start": 26.33,
+                                "stop": 29.981,
+                                "byte_start": 178992,
+                                "byte_stop": 193620,
+                                "text": "Mr. Justice Marshall joined in the judgment."
+                            },
+                            {
+                                "start": 29.981,
+                                "stop": 35.279,
+                                "byte_start": 193620,
+                                "byte_stop": 214727,
+                                "text": "Mr. Justice Stevens took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41134,
+            "mime": "audio\/mpeg",
+            "size": 214936,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-775\/19760625o_74-775.delivery.mp3"
+        },
+        {
+            "id": 63076,
+            "mime": "audio\/ogg",
+            "size": 367706,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-775\/19760625o_74-775.ogg"
+        },
+        {
+            "id": 63077,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-775\/19760625o_74-775.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 20076,
+    "title": "Opinion Announcement - June 06, 1991",
+    "transcript": {
+        "title": "Chambers v. NASCO, Inc.",
+        "duration": 16.013,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.013,
+                "byte_start": 73961,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.013,
+                        "byte_start": 73961,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.25,
+                                "byte_start": 73961,
+                                "byte_stop": 103009,
+                                "text": "In 90-256, Chambers against Nasco, Inc. we affirm the judgment of the Court of Appeals for the Fifth Circuit."
+                            },
+                            {
+                                "start": 7.25,
+                                "stop": 11.406,
+                                "byte_start": 103009,
+                                "byte_stop": 119623,
+                                "text": "Justice Scalia and Justice Kennedy have filed dissenting opinions."
+                            },
+                            {
+                                "start": 11.406,
+                                "stop": 16.013,
+                                "byte_start": 119623,
+                                "byte_stop": 0,
+                                "text": "The Chief Justice and Justice Souter have joined Justice Kennedy\u0027s opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49276,
+            "mime": "audio\/mpeg",
+            "size": 137804,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/90-256\/19910606o_90-256.delivery.mp3"
+        },
+        {
+            "id": 71080,
+            "mime": "audio\/ogg",
+            "size": 163224,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/90-256\/19910606o_90-256.ogg"
+        },
+        {
+            "id": 71081,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/90-256\/19910606o_90-256.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

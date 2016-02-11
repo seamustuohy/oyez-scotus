@@ -1,0 +1,88 @@
+{
+    "id": 21288,
+    "title": "Opinion Announcement - June 06, 1988",
+    "transcript": {
+        "title": "Maynard v. Cartwright",
+        "duration": 17.225,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 17.225,
+                "byte_start": 28672,
+                "byte_stop": 97531,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 17.225,
+                        "byte_start": 28672,
+                        "byte_stop": 97531,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.264,
+                                "byte_start": 28672,
+                                "byte_stop": 73812,
+                                "text": "In the Maynard case 87-519, we affirm unanimously a judgment of the Court of Appeals for the Tenth Circuit."
+                            },
+                            {
+                                "start": 11.264,
+                                "stop": 17.225,
+                                "byte_start": 73812,
+                                "byte_stop": 97531,
+                                "text": "Justice Brennan has filed a concurring opinion and Justice Marshall has joined that opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51700,
+            "mime": "audio\/mpeg",
+            "size": 97844,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-519\/19880606o_87-519.delivery.mp3"
+        },
+        {
+            "id": 73472,
+            "mime": "audio\/ogg",
+            "size": 182464,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-519\/19880606o_87-519.ogg"
+        },
+        {
+            "id": 73473,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-519\/19880606o_87-519.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

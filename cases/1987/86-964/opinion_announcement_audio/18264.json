@@ -1,0 +1,146 @@
+{
+    "id": 18264,
+    "title": "Opinion Announcement - January 12, 1988",
+    "transcript": {
+        "title": "Thompson v. Thompson",
+        "duration": 61.649,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 61.649,
+                "byte_start": 80914,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.621,
+                        "byte_start": 80914,
+                        "byte_stop": 111425,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.621,
+                                "byte_start": 80914,
+                                "byte_stop": 111425,
+                                "text": "The opinion of the Court in No. 86-964, Thompson against Thompson will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.621,
+                        "stop": 61.649,
+                        "byte_start": 111425,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.621,
+                                "stop": 30.648,
+                                "byte_start": 111425,
+                                "byte_stop": 203585,
+                                "text": "In this case, we affirm the judgment of the United States Court of Appeals for the Ninth Circuit to the effect that the Parental Kidnapping Prevention Act does not provide an implied course of action in federal courts to determine which of the two conflicting state custody decisions is valid."
+                            },
+                            {
+                                "start": 30.648,
+                                "stop": 50.363,
+                                "byte_start": 203585,
+                                "byte_stop": 282370,
+                                "text": "We concluded that the context\u0027s language and legislative history of the act all indicate that Congress intended to extend full faith and credit requirements to the custody decree rather than to create an entirely new federal course of action."
+                            },
+                            {
+                                "start": 50.363,
+                                "stop": 61.649,
+                                "byte_start": 282370,
+                                "byte_stop": 0,
+                                "text": "Justice O\u0027Connor has filed and opinion concurring in part and concurring in the judgment; Justice Scalia has filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45650,
+            "mime": "audio\/mpeg",
+            "size": 326361,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-964\/19880112o_86-964.delivery.mp3"
+        },
+        {
+            "id": 67496,
+            "mime": "audio\/ogg",
+            "size": 591945,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-964\/19880112o_86-964.ogg"
+        },
+        {
+            "id": 67497,
+            "mime": "application\/x-mpegURL",
+            "size": 1014,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-964\/19880112o_86-964.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,140 @@
+{
+    "id": 18863,
+    "title": "Opinion Announcement - June 22, 1988",
+    "transcript": {
+        "title": "Braswell v. United States",
+        "duration": 82.36,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 82.36,
+                "byte_start": 28672,
+                "byte_stop": 358024,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 82.36,
+                        "byte_start": 28672,
+                        "byte_stop": 358024,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.397,
+                                "byte_start": 28672,
+                                "byte_stop": 54272,
+                                "text": "The second case is Braswell against the United States, No. 87-3."
+                            },
+                            {
+                                "start": 6.397,
+                                "stop": 11.17,
+                                "byte_start": 54272,
+                                "byte_stop": 73394,
+                                "text": "This case comes to us on certiorari to the Court of Appeals for the Fifth Circuit."
+                            },
+                            {
+                                "start": 11.17,
+                                "stop": 18.394,
+                                "byte_start": 73394,
+                                "byte_stop": 102337,
+                                "text": "Petitioner, Randy Brasswell is the president and sole stockholder of two Mississippi Corporations."
+                            },
+                            {
+                                "start": 18.394,
+                                "stop": 28.377,
+                                "byte_start": 102337,
+                                "byte_stop": 142252,
+                                "text": "A federal grand jury issued a subpoena to him in his capacity as president, requiring him to produce the records of these corporations."
+                            },
+                            {
+                                "start": 28.377,
+                                "stop": 51.447,
+                                "byte_start": 142252,
+                                "byte_stop": 234517,
+                                "text": "The District Court denied Brasswell\u0027s motion to quash the subpoena and the Court of Appeals affirmed, holding that the collective entity doctrine illegal -- and a legal principle developed in our earlier decisions prevented petitioner from claiming that the act of producing these records was protected by his Fifth Amendment privilege against self-incrimination."
+                            },
+                            {
+                                "start": 51.447,
+                                "stop": 58.687,
+                                "byte_start": 234517,
+                                "byte_stop": 263461,
+                                "text": "We granted certiorari to decide this question because there was a conflict between two different Courts of Appeals on this point."
+                            },
+                            {
+                                "start": 58.687,
+                                "stop": 74.765,
+                                "byte_start": 263461,
+                                "byte_stop": 327826,
+                                "text": "For the reason set forth and an opinion filed today, we affirm the judgment of the Court of Appeals, holding that the custodian of corporate records may not resist the subpoena for such records on the ground that the act of production will incriminate him in violation of the Fifth Amendment."
+                            },
+                            {
+                                "start": 74.765,
+                                "stop": 82.36,
+                                "byte_start": 327826,
+                                "byte_stop": 358024,
+                                "text": "Justice Kennedy has filed a dissenting opinion in which Justices Brennan, Marshall and Scalia have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46849,
+            "mime": "audio\/mpeg",
+            "size": 358337,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-3\/19880622o_87-3.delivery.mp3"
+        },
+        {
+            "id": 68682,
+            "mime": "audio\/ogg",
+            "size": 828198,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-3\/19880622o_87-3.ogg"
+        },
+        {
+            "id": 68683,
+            "mime": "application\/x-mpegURL",
+            "size": 1259,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-3\/19880622o_87-3.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,146 @@
+{
+    "id": 19665,
+    "title": "Opinion Announcement - December 01, 1987",
+    "transcript": {
+        "title": "United Paperworkers Int\u0027l Union, AFL-CIO v. Misco, Inc.",
+        "duration": 55.249,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 55.249,
+                "byte_start": 80921,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.656,
+                        "byte_start": 80921,
+                        "byte_stop": 119582,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.656,
+                                "byte_start": 80921,
+                                "byte_stop": 119582,
+                                "text": "The opinion of the Court in No. 86-651, United Paperworkers International versus Misco will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.656,
+                        "stop": 55.249,
+                        "byte_start": 119582,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.656,
+                                "stop": 31.453,
+                                "byte_start": 119582,
+                                "byte_stop": 206831,
+                                "text": "In this case the Court of Appeals for the Fifth Circuit agreed with the District Court at an arbitration award under collective bargaining contract should be set aside because it was contrary to what the Court of Appeals considered to be public policy."
+                            },
+                            {
+                                "start": 31.453,
+                                "stop": 46.765,
+                                "byte_start": 206831,
+                                "byte_stop": 268062,
+                                "text": "For the reasons stated in an opinion on file with the Clerk, we unanimously hold that the Court of Appeals exceeded its authority in entering its judgment, and hence, its judgment must be reversed."
+                            },
+                            {
+                                "start": 46.765,
+                                "stop": 55.249,
+                                "byte_start": 268062,
+                                "byte_stop": 0,
+                                "text": "Justice Blackmun has file a concurring opinion in which Justice Brennan has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48454,
+            "mime": "audio\/mpeg",
+            "size": 300977,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-651\/19871201o_86-651.delivery.mp3"
+        },
+        {
+            "id": 70272,
+            "mime": "audio\/ogg",
+            "size": 561767,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-651\/19871201o_86-651.ogg"
+        },
+        {
+            "id": 70273,
+            "mime": "application\/x-mpegURL",
+            "size": 928,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-651\/19871201o_86-651.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

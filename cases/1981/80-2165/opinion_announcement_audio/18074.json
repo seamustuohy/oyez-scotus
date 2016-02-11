@@ -1,0 +1,95 @@
+{
+    "id": 18074,
+    "title": "Opinion Announcement - March 02, 1982",
+    "transcript": {
+        "title": "Murphy v. Hunt",
+        "duration": 35.505,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.505,
+                "byte_start": 77435,
+                "byte_stop": 219437,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.505,
+                        "byte_start": 77435,
+                        "byte_stop": 219437,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.51,
+                                "byte_start": 77435,
+                                "byte_stop": 139502,
+                                "text": "I have the disposition to announce in Murphy, District Judge for the Fourth Judicial District to Nebraska against Thompson for reasons stated in a per curiam opinion filed at the clerk today."
+                            },
+                            {
+                                "start": 15.51,
+                                "stop": 31.933,
+                                "byte_start": 139502,
+                                "byte_stop": 205226,
+                                "text": "The judgment of the United States Court of Appeals for the Eighth Circuit is vacated and the case is remanded to that court with directions that it be dismissed -- the case be dismissed as moot."
+                            },
+                            {
+                                "start": 31.933,
+                                "stop": 35.505,
+                                "byte_start": 205226,
+                                "byte_stop": 219437,
+                                "text": "Justice White filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45270,
+            "mime": "audio\/mpeg",
+            "size": 219646,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/80-2165\/19820302o_80-2165.delivery.mp3"
+        },
+        {
+            "id": 67122,
+            "mime": "audio\/ogg",
+            "size": 369399,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/80-2165\/19820302o_80-2165.ogg"
+        },
+        {
+            "id": 67123,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/80-2165\/19820302o_80-2165.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

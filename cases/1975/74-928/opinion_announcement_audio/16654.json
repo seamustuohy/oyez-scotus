@@ -1,0 +1,157 @@
+{
+    "id": 16654,
+    "title": "Opinion Announcement - March 08, 1976",
+    "transcript": {
+        "title": "United States v. Dinitz",
+        "duration": 85.723,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 85.723,
+                "byte_start": 73669,
+                "byte_stop": 416500,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.116,
+                        "byte_start": 73669,
+                        "byte_stop": 110136,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.116,
+                                "byte_start": 73669,
+                                "byte_stop": 110136,
+                                "text": "The judgments and opinion of the Court in 74-928, United States against Dinitz will be announced by Mr. Justice Stewart."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.116,
+                        "stop": 85.723,
+                        "byte_start": 110136,
+                        "byte_stop": 416500,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.116,
+                                "stop": 20.389,
+                                "byte_start": 110136,
+                                "byte_stop": 155276,
+                                "text": "Now, this case is here by way of a writ of certiorari granted to review a judgment of the United States Court of Appeals for the Fifth Circuit."
+                            },
+                            {
+                                "start": 20.389,
+                                "stop": 39.764,
+                                "byte_start": 155276,
+                                "byte_stop": 232807,
+                                "text": "The question in the case is whether the Double Jeopardy Clause of the Fifth Amendment was violated by the retrial of the respondent on a criminal charge after his original trial had ended in a mistrial, which had been granted at his request."
+                            },
+                            {
+                                "start": 39.764,
+                                "stop": 55.683,
+                                "byte_start": 232807,
+                                "byte_stop": 296441,
+                                "text": "Under the circumstances presented by the record in his case, rather unusual circumstances, we hold that the Court of Appeals was mistaken in finding that the retrial violated the respondent\u2019s constitutional right not to be twice put in jeopardy."
+                            },
+                            {
+                                "start": 55.683,
+                                "stop": 67.018,
+                                "byte_start": 296441,
+                                "byte_stop": 341790,
+                                "text": "Accordingly, the judgment before us is reversed and the case is remanded to the Court of Appeals for further proceedings consistent with Court\u2019s written opinion filed with the clerk today."
+                            },
+                            {
+                                "start": 67.018,
+                                "stop": 72.496,
+                                "byte_start": 341790,
+                                "byte_stop": 363733,
+                                "text": "Mr. Justice Stevens took no part in the consideration or decision of the case."
+                            },
+                            {
+                                "start": 72.496,
+                                "stop": 85.723,
+                                "byte_start": 363733,
+                                "byte_stop": 416500,
+                                "text": "The Chief Justice has filed a concurring opinion and Mr. Justice Brennan has filed a dissenting opinion which Mr. Justice Marshall has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42430,
+            "mime": "audio\/mpeg",
+            "size": 416709,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-928\/19760308o_74-928.delivery.mp3"
+        },
+        {
+            "id": 64344,
+            "mime": "audio\/ogg",
+            "size": 904891,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-928\/19760308o_74-928.ogg"
+        },
+        {
+            "id": 64345,
+            "mime": "application\/x-mpegURL",
+            "size": 1358,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-928\/19760308o_74-928.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

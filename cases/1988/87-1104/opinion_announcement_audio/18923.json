@@ -1,0 +1,112 @@
+{
+    "id": 18923,
+    "title": "Opinion Announcement - March 29, 1989",
+    "transcript": {
+        "title": "Zant v. Moore",
+        "duration": 23.484,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 23.484,
+                "byte_start": 86538,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 23.484,
+                        "byte_start": 86538,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.71,
+                                "byte_start": 86538,
+                                "byte_stop": 117467,
+                                "text": "I have the opinions of the Court to announce in two cases, a number 87-1104 Zant versus Moore."
+                            },
+                            {
+                                "start": 7.71,
+                                "stop": 17.354,
+                                "byte_start": 117467,
+                                "byte_stop": 156024,
+                                "text": "The judgment of the Court of Appeals for the Eleventh Circuit is vacated and the case remanded to that court for further consideration in the light of our opinion in Tig against Lane."
+                            },
+                            {
+                                "start": 17.354,
+                                "stop": 20.074,
+                                "byte_start": 156024,
+                                "byte_stop": 166891,
+                                "text": "Justice Brennan has filed a concurring opinion."
+                            },
+                            {
+                                "start": 20.074,
+                                "stop": 23.484,
+                                "byte_start": 166891,
+                                "byte_stop": 0,
+                                "text": "Justice Blackmun has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46970,
+            "mime": "audio\/mpeg",
+            "size": 180474,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-1104\/19890329o_87-1104.delivery.mp3"
+        },
+        {
+            "id": 68798,
+            "mime": "audio\/ogg",
+            "size": 234790,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-1104\/19890329o_87-1104.ogg"
+        },
+        {
+            "id": 68799,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-1104\/19890329o_87-1104.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

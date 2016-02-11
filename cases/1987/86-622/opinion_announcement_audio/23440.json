@@ -1,0 +1,146 @@
+{
+    "id": 23440,
+    "title": "Opinion Announcement - April 20, 1988",
+    "transcript": {
+        "title": "Traynor v. Turnage",
+        "duration": 57.156,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 57.156,
+                "byte_start": 80912,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 19.377,
+                        "byte_start": 80912,
+                        "byte_stop": 158443,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.377,
+                                "byte_start": 80912,
+                                "byte_stop": 158443,
+                                "text": "The opinions of the Court in two cases No. 86-622, Traynor against Turnage and a companion case No. 86-1461, Edward J. DeBartolo Corporation versus Florida Gulf Coast Building Trades Council will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 19.377,
+                        "stop": 57.156,
+                        "byte_start": 158443,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 19.377,
+                                "stop": 44.617,
+                                "byte_start": 158443,
+                                "byte_stop": 259381,
+                                "text": "The opinion in the Traynor case actually covers two cases, and for the reasons stated in opinion that we have filed the judgment of the Court of Appeals for the Second Circuit is reversed and remanded, and the judgment of the Court of Appeals for the District of Columbia Circuit is affirmed."
+                            },
+                            {
+                                "start": 44.617,
+                                "stop": 51.548,
+                                "byte_start": 259381,
+                                "byte_stop": 287175,
+                                "text": "Justice Blackmun has filed an opinion concurring in part and dissenting in part in which Justices Brennan and Marshall have joined."
+                            },
+                            {
+                                "start": 51.548,
+                                "stop": 57.156,
+                                "byte_start": 287175,
+                                "byte_stop": 0,
+                                "text": "Justices Scalia and Kennedy did not participate in these cases."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56002,
+            "mime": "audio\/mpeg",
+            "size": 308491,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-622\/19880420o_86-622.delivery.mp3"
+        },
+        {
+            "id": 77710,
+            "mime": "audio\/ogg",
+            "size": 571994,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-622\/19880420o_86-622.ogg"
+        },
+        {
+            "id": 77711,
+            "mime": "application\/x-mpegURL",
+            "size": 928,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-622\/19880420o_86-622.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

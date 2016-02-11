@@ -1,0 +1,126 @@
+{
+    "id": 23403,
+    "title": "Opinion Announcement - January 25, 1988",
+    "transcript": {
+        "title": "Taylor v. Illinois",
+        "duration": 59.148,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 59.148,
+                "byte_start": 28672,
+                "byte_stop": 265237,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 59.148,
+                        "byte_start": 28672,
+                        "byte_stop": 265237,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.968,
+                                "byte_start": 28672,
+                                "byte_stop": 60646,
+                                "text": "I have the opinion of the Court to announce in No. 86-5963, Taylor against Illinois."
+                            },
+                            {
+                                "start": 7.968,
+                                "stop": 31.076,
+                                "byte_start": 60646,
+                                "byte_stop": 153015,
+                                "text": "In this case which comes to us on a writ of certiorari to the Illinois Appellate Court for the First District, we hold in an opinion authored by Justice Stevens that the Sixth Amendment\u0027s Compulsory Process Clause does not absolutely prohibit a trial court from sanctioning a failure to comply with discovery rules by barring an undisclosed witness from testifying."
+                            },
+                            {
+                                "start": 31.076,
+                                "stop": 41.204,
+                                "byte_start": 153015,
+                                "byte_stop": 193557,
+                                "text": "We hold also the petitioner\u0027s Sixth Amendment rights were not violated since it is clear from the record that this is one of the extreme cases in which a severe sanction is appropriate."
+                            },
+                            {
+                                "start": 41.204,
+                                "stop": 50.041,
+                                "byte_start": 193557,
+                                "byte_stop": 228874,
+                                "text": "The violation was willful and the circumstances surrounding the violation created a strong inference that the witnesses\u0027 testimony would not be believable."
+                            },
+                            {
+                                "start": 50.041,
+                                "stop": 55.464,
+                                "byte_start": 228874,
+                                "byte_stop": 250608,
+                                "text": "Justice Brennan has filed a dissenting opinion in which Justice Marshall and Justice Blackmun joined."
+                            },
+                            {
+                                "start": 55.464,
+                                "stop": 59.148,
+                                "byte_start": 250608,
+                                "byte_stop": 265237,
+                                "text": "Justice Blackmun has also filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55928,
+            "mime": "audio\/mpeg",
+            "size": 265550,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-5963\/19880125o_86-5963.delivery.mp3"
+        },
+        {
+            "id": 77638,
+            "mime": "audio\/ogg",
+            "size": 594698,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-5963\/19880125o_86-5963.ogg"
+        },
+        {
+            "id": 77639,
+            "mime": "application\/x-mpegURL",
+            "size": 991,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-5963\/19880125o_86-5963.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

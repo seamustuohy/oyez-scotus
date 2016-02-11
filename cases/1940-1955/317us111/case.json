@@ -1,0 +1,1092 @@
+{
+    "ID": 62493,
+    "name": "Wickard v. Filburn",
+    "href": "https:\/\/api.oyez.org\/cases\/1940-1955\/317us111",
+    "docket_number": "59",
+    "additional_docket_numbers": [
+        "1080"
+    ],
+    "manner_of_jurisdiction": "Appeal",
+    "first_party": "Claude R. Wickard, Secretary of Agriculture et al.",
+    "second_party": "Roscoe C. Filburn",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -872967600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53266"
+        },
+        {
+            "event": "Reargued",
+            "dates": [
+                -858970800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53145"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -856638000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53146"
+        }
+    ],
+    "lower_court": {
+        "ID": 146,
+        "name": "Federal district court",
+        "href": "https:\/\/api.oyez.org\/courts\/federal_district_court"
+    },
+    "facts_of_the_case": "\u003Cp\u003EFilburn was a small farmer in Ohio. He was given a wheat acreage allotment of 11.1 acres under a Department of Agriculture directive which authorized the government to set production quotas for wheat. Filburn harvested nearly 12 acres of wheat above his allotment. He claimed that he wanted thewheat for use on his farm, including feed for his poultry and livestock. Fiburn was penalized. He argued that the excess wheat was unrelated to commerce since he grew it for his own use.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EIs the amendment subjecting Filburn to acreage restrictions in violation of the Constitution because Congress has no power to regulate activities local in nature?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EAccording to Filburn, the act regulated production and consumption, which are local in character. The rule laid down by Justice Jackson is that even if an activity is local and not regarded as commerce, \u0022it may still, whatever its nature, be reached by Congress if it exerts a substantial economic effect on interstate commerce, and this irrespective of whether such effect is what might at some earlier time have been defined as \u0027direct\u0027 or \u0027indirect.\u0027\u0022\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 18947,
+                "name": "Charles Fahy",
+                "href": "https:\/\/api.oyez.org\/people\/charles_fahy",
+                "last_name": "Fahy",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "charles_fahy"
+            },
+            "advocate_description": "Solicitor General, Department of Justice, argued and reargued for the appellants",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21331"
+        },
+        {
+            "advocate": {
+                "ID": 27872,
+                "name": "Harry N. Routzohn",
+                "href": "https:\/\/api.oyez.org\/people\/harry_n_routzohn",
+                "last_name": "Routzohn",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "harry_n_routzohn"
+            },
+            "advocate_description": "fargued and reargued for the appellee",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21332"
+        },
+        {
+            "advocate": {
+                "ID": 44157,
+                "name": "Webb R. Clark",
+                "href": "https:\/\/api.oyez.org\/people\/webb_r_clark",
+                "last_name": "Clark",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "webb_r_clark"
+            },
+            "advocate_description": "argued and reargued for the appellee",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21333"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "317",
+        "page": "111",
+        "year": "1942",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27295"
+    },
+    "decisions": [
+        {
+            "description": "Congress may use its Commerce Power to regulate or prohibit activities provided the economic effects of such activities are substantial",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15046,
+                        "name": "Robert H. Jackson",
+                        "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                        "last_name": "Jackson",
+                        "roles": [
+                            {
+                                "id": 2690,
+                                "type": "scotus_justice",
+                                "date_start": -898628400,
+                                "date_end": -480621600,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32754,
+                            "mime": "image\/png",
+                            "size": 54330,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                        },
+                        "length_of_service": 4838,
+                        "identifier": "robert_h_jackson"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 8,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205919"
+                },
+                {
+                    "member": {
+                        "ID": 15134,
+                        "name": "Harlan Fiske Stone",
+                        "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                        "last_name": "Stone",
+                        "roles": [
+                            {
+                                "id": 2779,
+                                "type": "scotus_justice",
+                                "date_start": -1414864800,
+                                "date_end": -899406000,
+                                "appointing_president": "Calvin Coolidge",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                            },
+                            {
+                                "id": 2780,
+                                "type": "scotus_justice",
+                                "date_start": -899319600,
+                                "date_end": -747770400,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32788,
+                            "mime": "image\/png",
+                            "size": 33656,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                        },
+                        "length_of_service": 7720,
+                        "identifier": "harlan_fiske_stone"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": -0.326,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205920"
+                },
+                {
+                    "member": {
+                        "ID": 15041,
+                        "name": "Owen J. Roberts",
+                        "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2685,
+                                "type": "scotus_justice",
+                                "date_start": -1249153200,
+                                "date_end": -770670000,
+                                "appointing_president": "Herbert Hoover",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32748,
+                            "mime": "image\/png",
+                            "size": 53589,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                        },
+                        "length_of_service": 5538,
+                        "identifier": "owen_j_roberts"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 2,
+                    "ideology": 1.722,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205921"
+                },
+                {
+                    "member": {
+                        "ID": 15089,
+                        "name": "Hugo L. Black",
+                        "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                        "last_name": "Black",
+                        "roles": [
+                            {
+                                "id": 2733,
+                                "type": "scotus_justice",
+                                "date_start": -1021489200,
+                                "date_end": 53931600,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32719,
+                            "mime": "image\/png",
+                            "size": 51667,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                        },
+                        "length_of_service": 12447,
+                        "identifier": "hugo_l_black"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": -3.306,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205922"
+                },
+                {
+                    "member": {
+                        "ID": 15063,
+                        "name": "Stanley Reed",
+                        "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                        "last_name": "Reed",
+                        "roles": [
+                            {
+                                "id": 2707,
+                                "type": "scotus_justice",
+                                "date_start": -1007229600,
+                                "date_end": -405453600,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2707"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32766,
+                            "mime": "image\/png",
+                            "size": 34041,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                        },
+                        "length_of_service": 6965,
+                        "identifier": "stanley_reed"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": -0.635,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205923"
+                },
+                {
+                    "member": {
+                        "ID": 15050,
+                        "name": "Felix Frankfurter",
+                        "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                        "last_name": "Frankfurter",
+                        "roles": [
+                            {
+                                "id": 2694,
+                                "type": "scotus_justice",
+                                "date_start": -975780000,
+                                "date_end": -231793200,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32706,
+                            "mime": "image\/png",
+                            "size": 45083,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                        },
+                        "length_of_service": 8611,
+                        "identifier": "felix_frankfurter"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": -0.716,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205924"
+                },
+                {
+                    "member": {
+                        "ID": 15107,
+                        "name": "William O. Douglas",
+                        "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                        "last_name": "Douglas",
+                        "roles": [
+                            {
+                                "id": 2751,
+                                "type": "scotus_justice",
+                                "date_start": -969127200,
+                                "date_end": 185004000,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32781,
+                            "mime": "image\/png",
+                            "size": 56651,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                        },
+                        "length_of_service": 13358,
+                        "identifier": "william_o_douglas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": -3.033,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205925"
+                },
+                {
+                    "member": {
+                        "ID": 15121,
+                        "name": "Frank Murphy",
+                        "href": "https:\/\/api.oyez.org\/people\/frank_murphy",
+                        "last_name": "Murphy",
+                        "roles": [
+                            {
+                                "id": 2766,
+                                "type": "scotus_justice",
+                                "date_start": -943725600,
+                                "date_end": -645476400,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2766"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32707,
+                            "mime": "image\/png",
+                            "size": 51539,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/frank_murphy.png"
+                        },
+                        "length_of_service": 3452,
+                        "identifier": "frank_murphy"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15046,
+                            "name": "Robert H. Jackson",
+                            "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                            "last_name": "Jackson",
+                            "roles": [
+                                {
+                                    "id": 2690,
+                                    "type": "scotus_justice",
+                                    "date_start": -898628400,
+                                    "date_end": -480621600,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32754,
+                                "mime": "image\/png",
+                                "size": 54330,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                            },
+                            "length_of_service": 4838,
+                            "identifier": "robert_h_jackson"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": -1.548,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205926"
+                }
+            ],
+            "majority_vote": 8,
+            "minority_vote": 0,
+            "winning_party": "Wickard",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16432"
+        }
+    ],
+    "first_party_label": "Appellant",
+    "second_party_label": "Appellee",
+    "heard_by": [
+        {
+            "ID": 15268,
+            "name": "Stone Court (1941-1942)",
+            "href": "https:\/\/api.oyez.org\/courts\/stone3",
+            "members": [
+                {
+                    "ID": 15134,
+                    "name": "Harlan Fiske Stone",
+                    "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                    "last_name": "Stone",
+                    "roles": [
+                        {
+                            "id": 2779,
+                            "type": "scotus_justice",
+                            "date_start": -1414864800,
+                            "date_end": -899406000,
+                            "appointing_president": "Calvin Coolidge",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                        },
+                        {
+                            "id": 2780,
+                            "type": "scotus_justice",
+                            "date_start": -899319600,
+                            "date_end": -747770400,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32788,
+                        "mime": "image\/png",
+                        "size": 33656,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                    },
+                    "length_of_service": 7720,
+                    "identifier": "harlan_fiske_stone"
+                },
+                {
+                    "ID": 15041,
+                    "name": "Owen J. Roberts",
+                    "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                    "last_name": "Roberts",
+                    "roles": [
+                        {
+                            "id": 2685,
+                            "type": "scotus_justice",
+                            "date_start": -1249153200,
+                            "date_end": -770670000,
+                            "appointing_president": "Herbert Hoover",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32748,
+                        "mime": "image\/png",
+                        "size": 53589,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                    },
+                    "length_of_service": 5538,
+                    "identifier": "owen_j_roberts"
+                },
+                {
+                    "ID": 15089,
+                    "name": "Hugo L. Black",
+                    "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                    "last_name": "Black",
+                    "roles": [
+                        {
+                            "id": 2733,
+                            "type": "scotus_justice",
+                            "date_start": -1021489200,
+                            "date_end": 53931600,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32719,
+                        "mime": "image\/png",
+                        "size": 51667,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                    },
+                    "length_of_service": 12447,
+                    "identifier": "hugo_l_black"
+                },
+                {
+                    "ID": 15063,
+                    "name": "Stanley Reed",
+                    "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                    "last_name": "Reed",
+                    "roles": [
+                        {
+                            "id": 2707,
+                            "type": "scotus_justice",
+                            "date_start": -1007229600,
+                            "date_end": -405453600,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2707"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32766,
+                        "mime": "image\/png",
+                        "size": 34041,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                    },
+                    "length_of_service": 6965,
+                    "identifier": "stanley_reed"
+                },
+                {
+                    "ID": 15050,
+                    "name": "Felix Frankfurter",
+                    "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                    "last_name": "Frankfurter",
+                    "roles": [
+                        {
+                            "id": 2694,
+                            "type": "scotus_justice",
+                            "date_start": -975780000,
+                            "date_end": -231793200,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32706,
+                        "mime": "image\/png",
+                        "size": 45083,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                    },
+                    "length_of_service": 8611,
+                    "identifier": "felix_frankfurter"
+                },
+                {
+                    "ID": 15107,
+                    "name": "William O. Douglas",
+                    "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                    "last_name": "Douglas",
+                    "roles": [
+                        {
+                            "id": 2751,
+                            "type": "scotus_justice",
+                            "date_start": -969127200,
+                            "date_end": 185004000,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32781,
+                        "mime": "image\/png",
+                        "size": 56651,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                    },
+                    "length_of_service": 13358,
+                    "identifier": "william_o_douglas"
+                },
+                {
+                    "ID": 15121,
+                    "name": "Frank Murphy",
+                    "href": "https:\/\/api.oyez.org\/people\/frank_murphy",
+                    "last_name": "Murphy",
+                    "roles": [
+                        {
+                            "id": 2766,
+                            "type": "scotus_justice",
+                            "date_start": -943725600,
+                            "date_end": -645476400,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2766"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32707,
+                        "mime": "image\/png",
+                        "size": 51539,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/frank_murphy.png"
+                    },
+                    "length_of_service": 3452,
+                    "identifier": "frank_murphy"
+                },
+                {
+                    "ID": 15106,
+                    "name": "James F. Byrnes",
+                    "href": "https:\/\/api.oyez.org\/people\/james_f_byrnes",
+                    "last_name": "Byrnes",
+                    "roles": [
+                        {
+                            "id": 2750,
+                            "type": "scotus_justice",
+                            "date_start": -898887600,
+                            "date_end": -859834800,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2750"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32721,
+                        "mime": "image\/png",
+                        "size": 30678,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_f_byrnes.png"
+                    },
+                    "length_of_service": 452,
+                    "identifier": "james_f_byrnes"
+                },
+                {
+                    "ID": 15046,
+                    "name": "Robert H. Jackson",
+                    "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                    "last_name": "Jackson",
+                    "roles": [
+                        {
+                            "id": 2690,
+                            "type": "scotus_justice",
+                            "date_start": -898628400,
+                            "date_end": -480621600,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32754,
+                        "mime": "image\/png",
+                        "size": 54330,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                    },
+                    "length_of_service": 4838,
+                    "identifier": "robert_h_jackson"
+                }
+            ],
+            "court_start": -898628400,
+            "images": [
+                {
+                    "id": 78531,
+                    "mime": "image\/jpeg",
+                    "size": 578134,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sto3_photograph.jpg"
+                }
+            ],
+            "identifier": "stone3"
+        }
+    ],
+    "decided_by": {
+        "ID": 15274,
+        "name": "Stone Court (1942-1943)",
+        "href": "https:\/\/api.oyez.org\/courts\/stone4",
+        "members": [
+            {
+                "ID": 15134,
+                "name": "Harlan Fiske Stone",
+                "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                "last_name": "Stone",
+                "roles": [
+                    {
+                        "id": 2779,
+                        "type": "scotus_justice",
+                        "date_start": -1414864800,
+                        "date_end": -899406000,
+                        "appointing_president": "Calvin Coolidge",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                    },
+                    {
+                        "id": 2780,
+                        "type": "scotus_justice",
+                        "date_start": -899319600,
+                        "date_end": -747770400,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32788,
+                    "mime": "image\/png",
+                    "size": 33656,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                },
+                "length_of_service": 7720,
+                "identifier": "harlan_fiske_stone"
+            },
+            {
+                "ID": 15041,
+                "name": "Owen J. Roberts",
+                "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                "last_name": "Roberts",
+                "roles": [
+                    {
+                        "id": 2685,
+                        "type": "scotus_justice",
+                        "date_start": -1249153200,
+                        "date_end": -770670000,
+                        "appointing_president": "Herbert Hoover",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32748,
+                    "mime": "image\/png",
+                    "size": 53589,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                },
+                "length_of_service": 5538,
+                "identifier": "owen_j_roberts"
+            },
+            {
+                "ID": 15089,
+                "name": "Hugo L. Black",
+                "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                "last_name": "Black",
+                "roles": [
+                    {
+                        "id": 2733,
+                        "type": "scotus_justice",
+                        "date_start": -1021489200,
+                        "date_end": 53931600,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2733"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32719,
+                    "mime": "image\/png",
+                    "size": 51667,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                },
+                "length_of_service": 12447,
+                "identifier": "hugo_l_black"
+            },
+            {
+                "ID": 15063,
+                "name": "Stanley Reed",
+                "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                "last_name": "Reed",
+                "roles": [
+                    {
+                        "id": 2707,
+                        "type": "scotus_justice",
+                        "date_start": -1007229600,
+                        "date_end": -405453600,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2707"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32766,
+                    "mime": "image\/png",
+                    "size": 34041,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                },
+                "length_of_service": 6965,
+                "identifier": "stanley_reed"
+            },
+            {
+                "ID": 15050,
+                "name": "Felix Frankfurter",
+                "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                "last_name": "Frankfurter",
+                "roles": [
+                    {
+                        "id": 2694,
+                        "type": "scotus_justice",
+                        "date_start": -975780000,
+                        "date_end": -231793200,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32706,
+                    "mime": "image\/png",
+                    "size": 45083,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                },
+                "length_of_service": 8611,
+                "identifier": "felix_frankfurter"
+            },
+            {
+                "ID": 15107,
+                "name": "William O. Douglas",
+                "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                "last_name": "Douglas",
+                "roles": [
+                    {
+                        "id": 2751,
+                        "type": "scotus_justice",
+                        "date_start": -969127200,
+                        "date_end": 185004000,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2751"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32781,
+                    "mime": "image\/png",
+                    "size": 56651,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                },
+                "length_of_service": 13358,
+                "identifier": "william_o_douglas"
+            },
+            {
+                "ID": 15121,
+                "name": "Frank Murphy",
+                "href": "https:\/\/api.oyez.org\/people\/frank_murphy",
+                "last_name": "Murphy",
+                "roles": [
+                    {
+                        "id": 2766,
+                        "type": "scotus_justice",
+                        "date_start": -943725600,
+                        "date_end": -645476400,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2766"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32707,
+                    "mime": "image\/png",
+                    "size": 51539,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/frank_murphy.png"
+                },
+                "length_of_service": 3452,
+                "identifier": "frank_murphy"
+            },
+            {
+                "ID": 15046,
+                "name": "Robert H. Jackson",
+                "href": "https:\/\/api.oyez.org\/people\/robert_h_jackson",
+                "last_name": "Jackson",
+                "roles": [
+                    {
+                        "id": 2690,
+                        "type": "scotus_justice",
+                        "date_start": -898628400,
+                        "date_end": -480621600,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2690"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32754,
+                    "mime": "image\/png",
+                    "size": 54330,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_h_jackson.png"
+                },
+                "length_of_service": 4838,
+                "identifier": "robert_h_jackson"
+            }
+        ],
+        "court_start": -859748400,
+        "images": [
+            {
+                "id": 56767,
+                "mime": "image\/jpeg",
+                "size": 179772,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1994-103-1.JPG"
+            }
+        ],
+        "identifier": "stone4"
+    },
+    "term": "1940-1955",
+    "location": {
+        "latitude": 39.821537,
+        "longitude": -84.280596,
+        "name": "Roscoe Filburn\u0027s Farm",
+        "street": "5200 Salem Ave",
+        "city": "Dayton",
+        "province": "OH",
+        "postal_code": null,
+        "province_name": "Ohio"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court held that Congress can regulate any activity that has a substantial economic effect on interstate commerce.",
+    "written_opinion": null,
+    "related_cases": null
+}

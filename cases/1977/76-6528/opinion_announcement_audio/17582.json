@@ -1,0 +1,88 @@
+{
+    "id": 17582,
+    "title": "Opinion Announcement - June 14, 1978",
+    "transcript": {
+        "title": "Burks v. United States",
+        "duration": 39.598,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 39.598,
+                "byte_start": 79988,
+                "byte_stop": 238290,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 39.598,
+                        "byte_start": 79988,
+                        "byte_stop": 238290,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 33.594,
+                                "byte_start": 79988,
+                                "byte_stop": 214466,
+                                "text": "We now heard three Double Jeopardy cases I have, two more to announce on the same general subject but having heard these, I will dispose off them by simply saying that in Burks against the United States, for reasons stated in an opinion filed with the clerk today, the judgments of the United States Court of Appeals for the Sixth Circuit is reversed and the case is remanded to that court for proceedings, consistent with our opinion."
+                            },
+                            {
+                                "start": 33.594,
+                                "stop": 39.598,
+                                "byte_start": 214466,
+                                "byte_stop": 238290,
+                                "text": "Mr. Justice Blackmun took no part in either the consideration or the decision from the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44286,
+            "mime": "audio\/mpeg",
+            "size": 238499,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/76-6528\/19780614o_76-6528.delivery.mp3"
+        },
+        {
+            "id": 66146,
+            "mime": "audio\/ogg",
+            "size": 414821,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/76-6528\/19780614o_76-6528.ogg"
+        },
+        {
+            "id": 66147,
+            "mime": "application\/x-mpegURL",
+            "size": 727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/76-6528\/19780614o_76-6528.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

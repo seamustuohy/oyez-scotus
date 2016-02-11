@@ -1,0 +1,81 @@
+{
+    "id": 17297,
+    "title": "Opinion Announcement - March 29, 1977",
+    "transcript": {
+        "title": "Maness v. Wainwright",
+        "duration": 16.177,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.177,
+                "byte_start": 100534,
+                "byte_stop": 165213,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.177,
+                        "byte_start": 100534,
+                        "byte_stop": 165213,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 16.177,
+                                "byte_start": 100534,
+                                "byte_stop": 165213,
+                                "text": "I have the disposition to announce in 75-6909, Maness against Wainwright and the writ of certiorari to the United States Court of Appeals for the Fifth Circuit was dismissed as having been improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43716,
+            "mime": "audio\/mpeg",
+            "size": 165422,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-6909\/19770329o_75-6909.delivery.mp3"
+        },
+        {
+            "id": 65598,
+            "mime": "audio\/ogg",
+            "size": 169882,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-6909\/19770329o_75-6909.ogg"
+        },
+        {
+            "id": 65599,
+            "mime": "application\/x-mpegURL",
+            "size": 375,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-6909\/19770329o_75-6909.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

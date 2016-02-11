@@ -1,0 +1,102 @@
+{
+    "id": 16884,
+    "title": "Opinion Announcement - June 13, 1977",
+    "transcript": {
+        "title": "Lefkowitz v. Cunningham",
+        "duration": 34.416,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.416,
+                "byte_start": 100533,
+                "byte_stop": 238146,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 34.416,
+                        "byte_start": 100533,
+                        "byte_stop": 238146,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 18.338,
+                                "byte_start": 100533,
+                                "byte_stop": 173989,
+                                "text": "I have the judgments and opinion of the Court to announce in 76-260, Lefkowitz, the Attorney General of New York, against Cunningham and for reasons stated and an opinion for the Court, the judgment of the United States District Court for the Southern District of New York is affirmed."
+                            },
+                            {
+                                "start": 18.338,
+                                "stop": 25.15,
+                                "byte_start": 173989,
+                                "byte_stop": 201157,
+                                "text": "Mr. Justice Brennan with whom Mr. Justice Marshall joined file -- filed an opinion concurring in part."
+                            },
+                            {
+                                "start": 25.15,
+                                "stop": 28.069,
+                                "byte_start": 201157,
+                                "byte_stop": 212860,
+                                "text": "Mr. Justice Stevens filed a dissenting opinion."
+                            },
+                            {
+                                "start": 28.069,
+                                "stop": 34.416,
+                                "byte_start": 212860,
+                                "byte_stop": 238146,
+                                "text": "Mr. Justice Rehnquist took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42890,
+            "mime": "audio\/mpeg",
+            "size": 238355,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/76-260\/19770613o_76-260.delivery.mp3"
+        },
+        {
+            "id": 64794,
+            "mime": "audio\/ogg",
+            "size": 356761,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/76-260\/19770613o_76-260.ogg"
+        },
+        {
+            "id": 64795,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/76-260\/19770613o_76-260.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,102 @@
+{
+    "id": 17505,
+    "title": "Opinion Announcement - June 16, 1977",
+    "transcript": {
+        "title": "E. I. du Pont de Nemours \u0026 Company v. Collins",
+        "duration": 38.36,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.36,
+                "byte_start": 100555,
+                "byte_stop": 253946,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 38.36,
+                        "byte_start": 100555,
+                        "byte_stop": 253946,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 24.031,
+                                "byte_start": 100555,
+                                "byte_stop": 196686,
+                                "text": "I have the judgement and opinion of the Court to announce in 75-1870, E. I. Du Pont De Nemours Company against Collins and the related case, Securities and Exchange Commission against Collins, and for reason stated in an opinion of the Court filed this morning."
+                            },
+                            {
+                                "start": 24.031,
+                                "stop": 30.071,
+                                "byte_start": 196686,
+                                "byte_stop": 220927,
+                                "text": "The judgment of the United States Court of Appeal for the Eighth Circuit is reversed."
+                            },
+                            {
+                                "start": 30.071,
+                                "stop": 32.92,
+                                "byte_start": 220927,
+                                "byte_stop": 232317,
+                                "text": "Mr. Justice Brennan filed a dissenting opinion."
+                            },
+                            {
+                                "start": 32.92,
+                                "stop": 38.36,
+                                "byte_start": 232317,
+                                "byte_stop": 253946,
+                                "text": "Mr. Justice Rehnquist took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44132,
+            "mime": "audio\/mpeg",
+            "size": 254155,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-1870\/19770616o_75-1870.delivery.mp3"
+        },
+        {
+            "id": 65996,
+            "mime": "audio\/ogg",
+            "size": 407325,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-1870\/19770616o_75-1870.ogg"
+        },
+        {
+            "id": 65997,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-1870\/19770616o_75-1870.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

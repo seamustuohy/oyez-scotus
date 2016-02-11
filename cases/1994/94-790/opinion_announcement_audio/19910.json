@@ -1,0 +1,126 @@
+{
+    "id": 19910,
+    "title": "Opinion Announcement - June 05, 1995",
+    "transcript": {
+        "title": "Reno v. Koray",
+        "duration": 126.772,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 126.772,
+                "byte_start": 86860,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 126.772,
+                        "byte_start": 86860,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 75.492,
+                                "byte_start": 86860,
+                                "byte_stop": 388836,
+                                "text": "I have the opinion of the court to announce in number 94-790, Reno v. Koray and a provision of federal statute says that a defendant generally must be given credit toward the service of a term of imprisonment, for anytime he has spent in official detention before the date the sentence commences and here the respondent Koray before his sentence commenced, a federal magistrate judge had released him on bail pursuant to the bail Reform Act but ordered him confine to a community treatment center, and when his prison sentence began he asked the Bureau of Prisons to credit towards his sentence, the time he spent at the treatment center and the Bureau refused this request and so Koray suit in the District Court and lost there, and then he took his case to the Court Of Appeals for the Third Circuit and the Court Of Appeals for the Third Circuit ruled in his favor and because there was a split in the court we granted certiorari and in an opinion filed with the court today we reverse the Third Circuit and hold that the respondent is not entitled to a sentence credit because of the time he spend at the treatment center while released on bail."
+                            },
+                            {
+                                "start": 75.492,
+                                "stop": 81.013,
+                                "byte_start": 388836,
+                                "byte_stop": 410987,
+                                "text": "This in our view was not official detention within the meaning of the statutory section."
+                            },
+                            {
+                                "start": 81.013,
+                                "stop": 107.895,
+                                "byte_start": 410987,
+                                "byte_stop": 518507,
+                                "text": "If you view the language in isolation, official detention could either refer as the government contends to a court order detaining a defendant and committing under the custody or the bureau or as Koray says to restrictive conditions of his release on bail under an official order by the court but the phrase official detention has to be examined in the light of the Bail Reform Act of 1984."
+                            },
+                            {
+                                "start": 107.895,
+                                "stop": 121.196,
+                                "byte_start": 518507,
+                                "byte_stop": 571693,
+                                "text": "Because that\u2019s what determines and authorizes Federal Courts to place restrains on the defendant\u2019s liberty and so we reverse the Third Circuit and rule in favor of the government in this case."
+                            },
+                            {
+                                "start": 121.196,
+                                "stop": 124.179,
+                                "byte_start": 571693,
+                                "byte_stop": 583604,
+                                "text": "Justice Ginsburg has filed a concurring opinion."
+                            },
+                            {
+                                "start": 124.179,
+                                "stop": 126.772,
+                                "byte_start": 583604,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48944,
+            "mime": "audio\/mpeg",
+            "size": 593949,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1994\/94-790\/19950605o_94-790.delivery.mp3"
+        },
+        {
+            "id": 70752,
+            "mime": "audio\/ogg",
+            "size": 1252348,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1994\/94-790\/19950605o_94-790.ogg"
+        },
+        {
+            "id": 70753,
+            "mime": "application\/x-mpegURL",
+            "size": 1960,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1994\/94-790\/19950605o_94-790.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

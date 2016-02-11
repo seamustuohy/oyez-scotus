@@ -1,0 +1,88 @@
+{
+    "id": 17353,
+    "title": "Opinion Announcement - February 22, 1979",
+    "transcript": {
+        "title": "FERC v. Shell Oil Co.",
+        "duration": 35.354,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.354,
+                "byte_start": 28672,
+                "byte_stop": 170047,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.354,
+                        "byte_start": 28672,
+                        "byte_stop": 170047,
+                        "speaker": {
+                            "ID": 15045,
+                            "name": "Harry A. Blackmun",
+                            "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "last_name": "Blackmun",
+                            "roles": [
+                                {
+                                    "id": 2689,
+                                    "type": "scotus_justice",
+                                    "date_start": 13755600,
+                                    "date_end": 775890000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2689"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32712,
+                                "mime": "image\/png",
+                                "size": 50281,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            },
+                            "length_of_service": 8821,
+                            "identifier": "harry_a_blackmun"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 27.395,
+                                "byte_start": 28672,
+                                "byte_stop": 138282,
+                                "text": "I have to announce to say per curiam in 77-1652, Federal Energy Regulatory Commission versus the Shell Oil Company and a companion case 77-1654, Consumer Energy Council of America versus Federal Energy Regulatory Commission, cases in which Mr. Justice Stewart took no part in either consideration or decision."
+                            },
+                            {
+                                "start": 27.395,
+                                "stop": 35.354,
+                                "byte_start": 138282,
+                                "byte_stop": 170047,
+                                "text": "The judgment below was affirmed by an equally divided court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43828,
+            "mime": "audio\/mpeg",
+            "size": 170360,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1978\/77-1652\/19790222o_77-1652.delivery.mp3"
+        },
+        {
+            "id": 65704,
+            "mime": "audio\/ogg",
+            "size": 346971,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1978\/77-1652\/19790222o_77-1652.ogg"
+        },
+        {
+            "id": 65705,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1978\/77-1652\/19790222o_77-1652.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

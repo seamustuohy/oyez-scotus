@@ -1,0 +1,83 @@
+{
+    "id": 16709,
+    "title": "Opinion Announcement - June 14, 1976",
+    "transcript": {
+        "title": "Texas v. Louisiana",
+        "duration": 37.29,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.29,
+                "byte_start": 73669,
+                "byte_stop": 222776,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 37.29,
+                        "byte_start": 73669,
+                        "byte_stop": 222776,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.541,
+                                "byte_start": 73669,
+                                "byte_stop": 123929,
+                                "text": "In 36 Original, State of Texas against the State of Louisiana, the exceptions of Louisiana and Texas to the report of the Special Master are overruled."
+                            },
+                            {
+                                "start": 12.541,
+                                "stop": 20.651,
+                                "byte_start": 123929,
+                                "byte_stop": 156320,
+                                "text": "Parties are directed within 90 days to submit a proposed decree which has the approval first of the Special Master."
+                            },
+                            {
+                                "start": 20.651,
+                                "stop": 37.29,
+                                "byte_start": 156320,
+                                "byte_stop": 222776,
+                                "text": "If the states do not or are not able to agree on a decree, the Special Master is requested, after appropriate hearings, to prepare and submit a proposed recommended decree to this Court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42540,
+            "mime": "audio\/mpeg",
+            "size": 222985,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/36%20ORIG\/19760614o_36orig.delivery.mp3"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

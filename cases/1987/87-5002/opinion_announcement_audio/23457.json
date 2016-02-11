@@ -1,0 +1,116 @@
+{
+    "id": 23457,
+    "title": "Opinion Announcement - June 06, 1988",
+    "transcript": {
+        "title": "Mccoy v. Court Of Appeals Of Wisconsin",
+        "duration": 100.351,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 100.351,
+                "byte_start": 28672,
+                "byte_stop": 430017,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 100.351,
+                        "byte_start": 28672,
+                        "byte_stop": 430017,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 17.162,
+                                "byte_start": 28672,
+                                "byte_stop": 97322,
+                                "text": "The third case involves a rather difficult area concerns the problem confronted by a lawyer who is appointed to represent an indigent defendant on appeal, who concludes that the appeal has absolutely no merit and is actually frivolous."
+                            },
+                            {
+                                "start": 17.162,
+                                "stop": 40.362,
+                                "byte_start": 97322,
+                                "byte_stop": 190213,
+                                "text": "Wisconsin has rule that requires such a lawyer to -- who must -- who may -- who may face an ethical obligation to withdraw to file a brief with the Appellate Court explaining not only what arguments are available in support of the appeal, but also the reasons why the lawyer has concluded that the appeal is frivolous."
+                            },
+                            {
+                                "start": 40.362,
+                                "stop": 48.108,
+                                "byte_start": 190213,
+                                "byte_stop": 221142,
+                                "text": "Puts the lawyer in the difficult position of setting forth reasons that are opposed to the interest of his or her client."
+                            },
+                            {
+                                "start": 48.108,
+                                "stop": 86.975,
+                                "byte_start": 221142,
+                                "byte_stop": 376623,
+                                "text": "And we are asked to pass on the constitutionality of this rule, and in the divided court, we conclude that the rule does give the -- does not infringe the client\u0027s right to effective representation by counsel because in preparing the explanation for the lawyers decision, it is necessary first to make a thorough examination of the merits of the case and the brief will enable the Court, the Appellate Court to determine whether the client has in fact received effective representation before the decision to ask for withdrawal was made."
+                            },
+                            {
+                                "start": 86.975,
+                                "stop": 92.678,
+                                "byte_start": 376623,
+                                "byte_stop": 399402,
+                                "text": "So, we affirm the Wisconsin Supreme Court\u0027s decision upholding the validity of the rule."
+                            },
+                            {
+                                "start": 92.678,
+                                "stop": 100.351,
+                                "byte_start": 399402,
+                                "byte_stop": 430017,
+                                "text": "But Justice Brennan joined by Justices Marshall and Blackmun have filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56036,
+            "mime": "audio\/mpeg",
+            "size": 430331,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-5002\/19880606o_87-5002.delivery.mp3"
+        },
+        {
+            "id": 77744,
+            "mime": "audio\/ogg",
+            "size": 1025258,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-5002\/19880606o_87-5002.ogg"
+        },
+        {
+            "id": 77745,
+            "mime": "application\/x-mpegURL",
+            "size": 1607,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-5002\/19880606o_87-5002.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,146 @@
+{
+    "id": 18460,
+    "title": "Opinion Announcement - April 18, 1990",
+    "transcript": {
+        "title": "New York v. Harris",
+        "duration": 29.179,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.179,
+                "byte_start": 87121,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.032,
+                        "byte_start": 87121,
+                        "byte_stop": 115333,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.032,
+                                "byte_start": 87121,
+                                "byte_stop": 115333,
+                                "text": "The opinions of the Court in five cases will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.032,
+                        "stop": 29.179,
+                        "byte_start": 115333,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.032,
+                                "stop": 14.676,
+                                "byte_start": 115333,
+                                "byte_stop": 145844,
+                                "text": "Opinions have been filed with the Clerk explaining the actions taken in the following five cases."
+                            },
+                            {
+                                "start": 14.676,
+                                "stop": 23.642,
+                                "byte_start": 145844,
+                                "byte_stop": 181789,
+                                "text": "First, in No. 88-1000, New York against Harris, we reverse the decision of the New York Court of Appeals by a five-to-four vote."
+                            },
+                            {
+                                "start": 23.642,
+                                "stop": 29.179,
+                                "byte_start": 181789,
+                                "byte_stop": 0,
+                                "text": "Justice Marshall, joined by Justices Brennan, Blackmun, and Stevens, has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46042,
+            "mime": "audio\/mpeg",
+            "size": 203836,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-1000\/19900418o_88-1000.delivery.mp3"
+        },
+        {
+            "id": 67884,
+            "mime": "audio\/ogg",
+            "size": 295972,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-1000\/19900418o_88-1000.ogg"
+        },
+        {
+            "id": 67885,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-1000\/19900418o_88-1000.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

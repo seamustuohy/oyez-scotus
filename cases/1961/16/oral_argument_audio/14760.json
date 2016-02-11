@@ -1,0 +1,1792 @@
+{
+    "id": 14760,
+    "title": "Oral Argument - October 12, 1961",
+    "media_file": [
+        {
+            "id": 38640,
+            "mime": "audio\/mpeg",
+            "size": 4049586,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1961\/16\/19611012a_16.delivery.mp3"
+        },
+        {
+            "id": 60620,
+            "mime": "audio\/ogg",
+            "size": 9597950,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1961\/16\/19611012a_16.ogg"
+        },
+        {
+            "id": 60621,
+            "mime": "application\/x-mpegURL",
+            "size": 12942,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1961\/16\/19611012a_16.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "Roper v. United States",
+        "duration": 986.463,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 986.463,
+                "byte_start": 103424,
+                "byte_stop": 4049272,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.143,
+                        "byte_start": 103424,
+                        "byte_stop": 216064,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 25.877,
+                                "byte_start": 103424,
+                                "byte_stop": 206973,
+                                "text": "Number 16, William J. Roper, Petitioner, versus United States, et al."
+                            },
+                            {
+                                "start": 25.877,
+                                "stop": 28.143,
+                                "byte_start": 206973,
+                                "byte_stop": 216064,
+                                "text": "Mr. Kelsey."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 28.143,
+                        "stop": 152.988,
+                        "byte_start": 216064,
+                        "byte_stop": 715421,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 28.143,
+                                "stop": 32.844,
+                                "byte_start": 216064,
+                                "byte_stop": 234872,
+                                "text": "Mr. Chief Justice, may it please the Court."
+                            },
+                            {
+                                "start": 32.844,
+                                "stop": 38.027,
+                                "byte_start": 234872,
+                                "byte_stop": 255561,
+                                "text": "The facts briefly in the Roper case are these."
+                            },
+                            {
+                                "start": 38.027,
+                                "stop": 51.883,
+                                "byte_start": 255561,
+                                "byte_stop": 311045,
+                                "text": "In 1954, the Government stored some of its grain, surplus grain in the James River fleet anchorage aboard that liberty ships."
+                            },
+                            {
+                                "start": 51.883,
+                                "stop": 61.793,
+                                "byte_start": 311045,
+                                "byte_stop": 350647,
+                                "text": "The ships were inactivated and were acting as storage facilities for the Government\u0027s grain."
+                            },
+                            {
+                                "start": 61.793,
+                                "stop": 76.052,
+                                "byte_start": 350647,
+                                "byte_stop": 407698,
+                                "text": "In 1956, the Government sold some of its grain to the -- the Commodity Credit Corporation, sold some of its grain to the Continental Grain Company."
+                            },
+                            {
+                                "start": 76.052,
+                                "stop": 87.592,
+                                "byte_start": 407698,
+                                "byte_stop": 453883,
+                                "text": "As follow this transaction, the Government paid the Continental Grain Company fees for the unloading of its vessel at the Norfolk grain pier."
+                            },
+                            {
+                                "start": 87.592,
+                                "stop": 91.309,
+                                "byte_start": 453883,
+                                "byte_stop": 468720,
+                                "text": "The Harry Lane was one of these vessels."
+                            },
+                            {
+                                "start": 91.309,
+                                "stop": 112.516,
+                                "byte_start": 468720,
+                                "byte_stop": 553566,
+                                "text": "It was then decided to unload this vessel at the Norfolk grain pier and the Harry Lane was towed from the James River fleet anchorage down to James River through navigable waters of the Chesapeake Bay to the port of Norfolk."
+                            },
+                            {
+                                "start": 112.516,
+                                "stop": 124.783,
+                                "byte_start": 553566,
+                                "byte_stop": 602572,
+                                "text": "The universal modern method of discharging grain and in fact loading grain is the use of equipment known as the \u201cmarine leg\u201d or \u201cgrain shoot\u201d."
+                            },
+                            {
+                                "start": 124.783,
+                                "stop": 127.123,
+                                "byte_start": 602572,
+                                "byte_stop": 611976,
+                                "text": "This is automatic equipment."
+                            },
+                            {
+                                "start": 127.123,
+                                "stop": 142.554,
+                                "byte_start": 611976,
+                                "byte_stop": 673729,
+                                "text": "The vessel is brought up to the pier and this equipment is lowered over into the holes of the vessel and there is an endless belt that goes up this grain shoot."
+                            },
+                            {
+                                "start": 142.554,
+                                "stop": 152.988,
+                                "byte_start": 673729,
+                                "byte_stop": 715421,
+                                "text": "And if it is unloading the vessel, it sucks this grain up into the warehouse and -- which is over here on the side of the pier."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 152.988,
+                        "stop": 155.6,
+                        "byte_start": 715421,
+                        "byte_stop": 725870,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 152.988,
+                                "stop": 155.6,
+                                "byte_start": 715421,
+                                "byte_stop": 725870,
+                                "text": "There\u0027s not -- not a picture of that in the record anyway so --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 155.6,
+                        "stop": 157.566,
+                        "byte_start": 725870,
+                        "byte_stop": 733706,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 155.6,
+                                "stop": 157.566,
+                                "byte_start": 725870,
+                                "byte_stop": 733706,
+                                "text": "Yes, there are --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 157.566,
+                        "stop": 157.716,
+                        "byte_start": 733706,
+                        "byte_stop": 734333,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 157.566,
+                                "stop": 157.716,
+                                "byte_start": 733706,
+                                "byte_stop": 734333,
+                                "text": "In the original record?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 157.716,
+                        "stop": 158.909,
+                        "byte_start": 734333,
+                        "byte_stop": 739140,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 157.716,
+                                "stop": 158.909,
+                                "byte_start": 734333,
+                                "byte_stop": 739140,
+                                "text": "-- pictures in the record."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 158.909,
+                        "stop": 159.762,
+                        "byte_start": 739140,
+                        "byte_stop": 742484,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 158.909,
+                                "stop": 159.762,
+                                "byte_start": 739140,
+                                "byte_stop": 742484,
+                                "text": "In the original record."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 159.762,
+                        "stop": 160.896,
+                        "byte_start": 742484,
+                        "byte_stop": 747081,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 159.762,
+                                "stop": 160.896,
+                                "byte_start": 742484,
+                                "byte_stop": 747081,
+                                "text": "In the original record, yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 160.896,
+                        "stop": 162.602,
+                        "byte_start": 747081,
+                        "byte_stop": 753873,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 160.896,
+                                "stop": 161.496,
+                                "byte_start": 747081,
+                                "byte_stop": 749484,
+                                "text": "It\u0027s fine."
+                            },
+                            {
+                                "start": 161.496,
+                                "stop": 162.602,
+                                "byte_start": 749484,
+                                "byte_stop": 753873,
+                                "text": "Thank you."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 162.602,
+                        "stop": 354.629,
+                        "byte_start": 753873,
+                        "byte_stop": 1521977,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 162.602,
+                                "stop": 170.117,
+                                "byte_start": 753873,
+                                "byte_stop": 783966,
+                                "text": "This equipment -- at the end of this equipment is what is known as the \u201cdetachable scoop\u201d or \u201cplow\u201d."
+                            },
+                            {
+                                "start": 170.117,
+                                "stop": 207.107,
+                                "byte_start": 783966,
+                                "byte_stop": 931924,
+                                "text": "In other words, it is conceivable that when this grain shoot gets to the bottom of the hole that it cannot get the rest of the grain from the four corners of the hole up, so they have a scoop there at the end of this grain shoot and which is detachable and the man detaches this scoop and there is machinery which holds this scoop towards the mouth of the leg and he walks as if he were plowing, pushing the grain to the mouth of the leg and it is sucked up into the storage through the leg."
+                            },
+                            {
+                                "start": 207.107,
+                                "stop": 210.15,
+                                "byte_start": 931924,
+                                "byte_stop": 944044,
+                                "text": "That simply is the method of operation."
+                            },
+                            {
+                                "start": 210.15,
+                                "stop": 222.302,
+                                "byte_start": 944044,
+                                "byte_stop": 992737,
+                                "text": "Now, longshoreman Roper was an employee of Atlantic and Gulf Stevedores which is a stevedoring company engaged solely in stevedoring work."
+                            },
+                            {
+                                "start": 222.302,
+                                "stop": 233.349,
+                                "byte_start": 992737,
+                                "byte_stop": 1036831,
+                                "text": "The owner of the vessel, Harry Lane, which is the Government, sold its grain to the Continental Grain Company which owns the storage facilities."
+                            },
+                            {
+                                "start": 233.349,
+                                "stop": 249.32,
+                                "byte_start": 1036831,
+                                "byte_stop": 1100779,
+                                "text": "And the Continental Grain Company in turn got the services of Atlantic and Gulf Stevedoring Company to do the unloading and Roper was the employee of the Atlantic Stevedoring Company longshoreman."
+                            },
+                            {
+                                "start": 249.32,
+                                "stop": 264.655,
+                                "byte_start": 1100779,
+                                "byte_stop": 1162115,
+                                "text": "He went aboard the vessel and when he was injured, he was attempting to show others in the hole of the vessel how the -- the plow should operate and pushing towards this block."
+                            },
+                            {
+                                "start": 264.655,
+                                "stop": 304.969,
+                                "byte_start": 1162115,
+                                "byte_stop": 1323342,
+                                "text": "What happened was there are wheels on the end of this scoop, at the mouth of this scoop around which lines go to this scoop and in pulling the machinery, in pulling this scoop towards the mouth due to a defective block or actually due to a defective strap on the block, this thing broke and it slipped off and hit Roper in his face as he was walking on the bottom of the hole or pushing the grain towards the shoot."
+                            },
+                            {
+                                "start": 304.969,
+                                "stop": 324.062,
+                                "byte_start": 1323342,
+                                "byte_stop": 1399724,
+                                "text": "We filed our case and the suits in Admiralty Act and proceeded on through proving and alleged in the unseaworthiness of the vessel in line with Sieracki and all of the others who came along the latest (Inaudible) the Crumady of this Court."
+                            },
+                            {
+                                "start": 324.062,
+                                "stop": 340.908,
+                                "byte_start": 1399724,
+                                "byte_stop": 1467120,
+                                "text": "The District Court held in that instance that the vessel did not owe the warranty of seaworthiness to longshoreman Roper because the court held that the vessel was not in navigation."
+                            },
+                            {
+                                "start": 340.908,
+                                "stop": 354.629,
+                                "byte_start": 1467120,
+                                "byte_stop": 1521977,
+                                "text": "Although she was performing everything that a live ship was doing, she was discharged in her cargo pursuant to a commercial venture by her owner, the United States."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 354.629,
+                        "stop": 357.99,
+                        "byte_start": 1521977,
+                        "byte_stop": 1535457,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 354.629,
+                                "stop": 357.99,
+                                "byte_start": 1521977,
+                                "byte_stop": 1535457,
+                                "text": "She did not, under her own power I guess."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 357.99,
+                        "stop": 362.217,
+                        "byte_start": 1535457,
+                        "byte_stop": 1552384,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 357.99,
+                                "stop": 362.217,
+                                "byte_start": 1535457,
+                                "byte_stop": 1552384,
+                                "text": "She had been \u201cmothballed\u201d which means that --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 362.217,
+                        "stop": 363.886,
+                        "byte_start": 1552384,
+                        "byte_stop": 1559071,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 362.217,
+                                "stop": 363.886,
+                                "byte_start": 1552384,
+                                "byte_stop": 1559071,
+                                "text": "They had to bring her to the dock."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 363.886,
+                        "stop": 547.501,
+                        "byte_start": 1559071,
+                        "byte_stop": 2293530,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 363.886,
+                                "stop": 371.888,
+                                "byte_start": 1559071,
+                                "byte_stop": 1591045,
+                                "text": "Yes, they told her by a means of a tag from the James of anchorage to Norfolk, it does spread 20 miles."
+                            },
+                            {
+                                "start": 371.888,
+                                "stop": 379.178,
+                                "byte_start": 1591045,
+                                "byte_stop": 1620198,
+                                "text": "And aboard this vessel, the Government put a master with licenses unlimited and six crewmen."
+                            },
+                            {
+                                "start": 379.178,
+                                "stop": 384.656,
+                                "byte_start": 1620198,
+                                "byte_stop": 1642141,
+                                "text": "The Government calls him a riding to this still seaman in our ample opinion."
+                            },
+                            {
+                                "start": 384.656,
+                                "stop": 405.283,
+                                "byte_start": 1642141,
+                                "byte_stop": 1724583,
+                                "text": "However, the master of the vessel, admitted in his testimony that he had complete charge of the vessel during the unloading operation and in fact he even stated that if the stevedores had attempted to do anything unsafe that he would have stop the unloading operation."
+                            },
+                            {
+                                "start": 405.283,
+                                "stop": 418.96,
+                                "byte_start": 1724583,
+                                "byte_stop": 1779336,
+                                "text": "The District Court, however, said that this vessel was not in navigation and consequently, according to the decision of this Court in West v. United States that no warranty was owed to anyone."
+                            },
+                            {
+                                "start": 418.96,
+                                "stop": 427.741,
+                                "byte_start": 1779336,
+                                "byte_stop": 1814444,
+                                "text": "The circuit -- Fourth Circuit Court of Appeals affirmed the District Court with Chief -- Chief Judge Sobeloff dissenting."
+                            },
+                            {
+                                "start": 427.741,
+                                "stop": 446.258,
+                                "byte_start": 1814444,
+                                "byte_stop": 1888528,
+                                "text": "Chief Judge Sobeloff pointed out in his dissent that this was not \u201cdead ship\u201d that -- that the West decision of this Court in 1959 was improbably apply to the factual situation here of course."
+                            },
+                            {
+                                "start": 446.258,
+                                "stop": 446.818,
+                                "byte_start": 1888528,
+                                "byte_stop": 1890722,
+                                "text": "Pardon me."
+                            },
+                            {
+                                "start": 446.818,
+                                "stop": 460.514,
+                                "byte_start": 1890722,
+                                "byte_stop": 1945579,
+                                "text": "And the West case, this Court held that a vessel which -- whose owner had by a consent given the vessel to the shipyard for a complete overhaul and repair."
+                            },
+                            {
+                                "start": 460.514,
+                                "stop": 480.926,
+                                "byte_start": 1945579,
+                                "byte_stop": 2027186,
+                                "text": "And it was taken to shipyard and the shore-based worker who came aboard the vessel to -- to make it seaworthy and was entered as the result thereby that the vessel owner did not owe the warranty of seaworthiness because the vessel was -- with there -- was out of navigation."
+                            },
+                            {
+                                "start": 480.926,
+                                "stop": 497.869,
+                                "byte_start": 2027186,
+                                "byte_stop": 2095000,
+                                "text": "It is our position in this field, in this case, that the Fourth Circuit, the majority in the Fourth Circuit misapply, totally misapply the West decision to the circumstances of this case."
+                            },
+                            {
+                                "start": 497.869,
+                                "stop": 521.899,
+                                "byte_start": 2095000,
+                                "byte_stop": 2191026,
+                                "text": "Indeed, this Court pointed out in West that the Sieracki doctrine holding that the warranty of seaworthiness extends to shore-based workers who are performing the traditional duties of seamen, held that in the West decision that that was not applicable because the vessel was out of navigation."
+                            },
+                            {
+                                "start": 521.899,
+                                "stop": 534.292,
+                                "byte_start": 2191026,
+                                "byte_stop": 2240658,
+                                "text": "Now, our position here is just as the District Court said, while this -- the District Court had its opinion said, \u201cThis is no \u201cdead ship\u201d."
+                            },
+                            {
+                                "start": 534.292,
+                                "stop": 535.721,
+                                "byte_start": 2240658,
+                                "byte_stop": 2246405,
+                                "text": "She\u0027s a live ship."
+                            },
+                            {
+                                "start": 535.721,
+                                "stop": 541.095,
+                                "byte_start": 2246405,
+                                "byte_stop": 2267826,
+                                "text": "She\u0027s doing everything a live ship does and sitting in navigable waters.\u201d"
+                            },
+                            {
+                                "start": 541.095,
+                                "stop": 547.501,
+                                "byte_start": 2267826,
+                                "byte_stop": 2293530,
+                                "text": "We come therefore to the principle question here as I would see it --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 547.501,
+                        "stop": 548.181,
+                        "byte_start": 2293530,
+                        "byte_stop": 2296247,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 547.501,
+                                "stop": 548.181,
+                                "byte_start": 2293530,
+                                "byte_stop": 2296247,
+                                "text": "Excuse me, Mr. Kelsey."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 548.181,
+                        "stop": 548.221,
+                        "byte_start": 2296247,
+                        "byte_stop": 2296456,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 548.181,
+                                "stop": 548.221,
+                                "byte_start": 2296247,
+                                "byte_stop": 2296456,
+                                "text": "Yes, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 548.221,
+                        "stop": 565.005,
+                        "byte_start": 2296456,
+                        "byte_stop": 2363538,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 548.221,
+                                "stop": 553.916,
+                                "byte_start": 2296456,
+                                "byte_stop": 2319130,
+                                "text": "May I say that and -- perhaps, I didn\u0027t hear you say it, but you said it already."
+                            },
+                            {
+                                "start": 553.916,
+                                "stop": 565.005,
+                                "byte_start": 2319130,
+                                "byte_stop": 2363538,
+                                "text": "What was involved before they move in -- from change were -- map of the change, was there much had to be done with the ship in order to take it to 20 miles?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 565.005,
+                        "stop": 574.255,
+                        "byte_start": 2363538,
+                        "byte_stop": 2400528,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 565.005,
+                                "stop": 567.686,
+                                "byte_start": 2363538,
+                                "byte_stop": 2374196,
+                                "text": "No, sir, nothing had to be done to the vessel."
+                            },
+                            {
+                                "start": 567.686,
+                                "stop": 574.255,
+                                "byte_start": 2374196,
+                                "byte_stop": 2400528,
+                                "text": "In other words, the vessel was completely seaworthy for the voyage for which it was intended to be put on that is it\u0027s a --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 574.255,
+                        "stop": 580.738,
+                        "byte_start": 2400528,
+                        "byte_stop": 2426441,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 574.255,
+                                "stop": 575.449,
+                                "byte_start": 2400528,
+                                "byte_stop": 2405230,
+                                "text": "That it is a \u201cmothballed\u201d."
+                            },
+                            {
+                                "start": 575.449,
+                                "stop": 577.619,
+                                "byte_start": 2405230,
+                                "byte_stop": 2413902,
+                                "text": "Well, I\u0027m just trying to find out what actually happened."
+                            },
+                            {
+                                "start": 577.619,
+                                "stop": 580.738,
+                                "byte_start": 2413902,
+                                "byte_stop": 2426441,
+                                "text": "Nothing was done to put it in shape for the voyage such as --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 580.738,
+                        "stop": 580.986,
+                        "byte_start": 2426441,
+                        "byte_stop": 2427382,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 580.738,
+                                "stop": 580.986,
+                                "byte_start": 2426441,
+                                "byte_stop": 2427382,
+                                "text": "No, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 580.986,
+                        "stop": 583.055,
+                        "byte_start": 2427382,
+                        "byte_stop": 2435741,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 580.986,
+                                "stop": 583.055,
+                                "byte_start": 2427382,
+                                "byte_stop": 2435741,
+                                "text": "-- put a tag on it and towed her away, was that --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 583.055,
+                        "stop": 584.448,
+                        "byte_start": 2435741,
+                        "byte_stop": 2441279,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 583.055,
+                                "stop": 584.448,
+                                "byte_start": 2435741,
+                                "byte_stop": 2441279,
+                                "text": "That\u0027s exactly all, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 584.448,
+                        "stop": 588.605,
+                        "byte_start": 2441279,
+                        "byte_stop": 2457893,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 584.448,
+                                "stop": 588.605,
+                                "byte_start": 2441279,
+                                "byte_stop": 2457893,
+                                "text": "And then when she got to the loading dock, wherever that was --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 588.605,
+                        "stop": 589.984,
+                        "byte_start": 2457893,
+                        "byte_stop": 2463431,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 588.605,
+                                "stop": 589.984,
+                                "byte_start": 2457893,
+                                "byte_stop": 2463431,
+                                "text": "At Norfolk."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 589.984,
+                        "stop": 592.026,
+                        "byte_start": 2463431,
+                        "byte_stop": 2471581,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 589.984,
+                                "stop": 592.026,
+                                "byte_start": 2463431,
+                                "byte_stop": 2471581,
+                                "text": "-- nothing except open the hatches is that it?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 592.026,
+                        "stop": 593.515,
+                        "byte_start": 2471581,
+                        "byte_stop": 2477537,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 592.026,
+                                "stop": 592.989,
+                                "byte_start": 2471581,
+                                "byte_stop": 2475447,
+                                "text": "That is all, sir."
+                            },
+                            {
+                                "start": 592.989,
+                                "stop": 593.515,
+                                "byte_start": 2475447,
+                                "byte_stop": 2477537,
+                                "text": "And --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 593.515,
+                        "stop": 595.556,
+                        "byte_start": 2477537,
+                        "byte_stop": 2485687,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 593.515,
+                                "stop": 595.556,
+                                "byte_start": 2477537,
+                                "byte_stop": 2485687,
+                                "text": "And fill up with grain and then take it back where it was."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 595.556,
+                        "stop": 614.842,
+                        "byte_start": 2485687,
+                        "byte_stop": 2562905,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 595.556,
+                                "stop": 597.142,
+                                "byte_start": 2485687,
+                                "byte_stop": 2492061,
+                                "text": "And take -- take the grain on it."
+                            },
+                            {
+                                "start": 597.142,
+                                "stop": 598.056,
+                                "byte_start": 2492061,
+                                "byte_stop": 2495718,
+                                "text": "That -- that is all."
+                            },
+                            {
+                                "start": 598.056,
+                                "stop": 601.145,
+                                "byte_start": 2495718,
+                                "byte_stop": 2508048,
+                                "text": "In other words, this is a complete vessel in all detail."
+                            },
+                            {
+                                "start": 601.145,
+                                "stop": 603.459,
+                                "byte_start": 2508048,
+                                "byte_stop": 2517347,
+                                "text": "She is a World War II liberty ship."
+                            },
+                            {
+                                "start": 603.459,
+                                "stop": 614.814,
+                                "byte_start": 2517347,
+                                "byte_stop": 2562696,
+                                "text": "But that -- there was no necessity for repairs, not only for preparation of the vessel to perform the voyage that it performed, it was a -- it was seaworthy in all respect for the voyage."
+                            },
+                            {
+                                "start": 614.814,
+                                "stop": 614.842,
+                                "byte_start": 2562696,
+                                "byte_stop": 2562905,
+                                "text": "So --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 614.842,
+                        "stop": 617.49,
+                        "byte_start": 2562905,
+                        "byte_stop": 2573458,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 614.842,
+                                "stop": 617.49,
+                                "byte_start": 2562905,
+                                "byte_stop": 2573458,
+                                "text": "How long the grain was stored (Voice Overlap)?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 617.49,
+                        "stop": 628.543,
+                        "byte_start": 2573458,
+                        "byte_stop": 2617657,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 617.49,
+                                "stop": 628.543,
+                                "byte_start": 2573458,
+                                "byte_stop": 2617657,
+                                "text": "I -- I think, sir, that it\u0027s been stored, my recollection is, since 1956, 1956, yes."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 628.543,
+                        "stop": 630.982,
+                        "byte_start": 2617657,
+                        "byte_stop": 2627375,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 628.543,
+                                "stop": 630.982,
+                                "byte_start": 2617657,
+                                "byte_stop": 2627375,
+                                "text": "And this incident happen 1958 or --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 630.982,
+                        "stop": 647.972,
+                        "byte_start": 2627375,
+                        "byte_stop": 2695398,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 630.982,
+                                "stop": 632.066,
+                                "byte_start": 2627375,
+                                "byte_stop": 2631764,
+                                "text": "Yes, sir."
+                            },
+                            {
+                                "start": 632.066,
+                                "stop": 634.361,
+                                "byte_start": 2631764,
+                                "byte_stop": 2640959,
+                                "text": "That is -- the accident happen 1958."
+                            },
+                            {
+                                "start": 634.361,
+                                "stop": 641.583,
+                                "byte_start": 2640959,
+                                "byte_stop": 2669798,
+                                "text": "In other words, the Government had brought this -- had filled this vessel up at Norfolk with the surplus grain and take this back."
+                            },
+                            {
+                                "start": 641.583,
+                                "stop": 643.825,
+                                "byte_start": 2669798,
+                                "byte_stop": 2678784,
+                                "text": "He towed it back to James River fleet."
+                            },
+                            {
+                                "start": 643.825,
+                                "stop": 647.972,
+                                "byte_start": 2678784,
+                                "byte_stop": 2695398,
+                                "text": "And then when they sold that grain, then they brought it back to Norfolk for the unloading."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 647.972,
+                        "stop": 649.773,
+                        "byte_start": 2695398,
+                        "byte_stop": 2702608,
+                        "speaker": {
+                            "ID": 15043,
+                            "name": "Potter Stewart",
+                            "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "last_name": "Stewart",
+                            "roles": [
+                                {
+                                    "id": 2687,
+                                    "type": "scotus_justice",
+                                    "date_start": -353962800,
+                                    "date_end": 362984400,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2687"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32752,
+                                "mime": "image\/png",
+                                "size": 56350,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            },
+                            "length_of_service": 8298,
+                            "identifier": "potter_stewart"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 647.972,
+                                "stop": 649.773,
+                                "byte_start": 2695398,
+                                "byte_stop": 2702608,
+                                "text": "Brought it back for unloading."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 649.773,
+                        "stop": 981.577,
+                        "byte_start": 2702608,
+                        "byte_stop": 4029733,
+                        "speaker": {
+                            "ID": 41594,
+                            "name": "Sidney H. Kelsey",
+                            "href": "https:\/\/api.oyez.org\/people\/sidney_h_kelsey",
+                            "last_name": "Kelsey",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "sidney_h_kelsey"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 649.773,
+                                "stop": 675.176,
+                                "byte_start": 2702608,
+                                "byte_stop": 2804172,
+                                "text": "Now, I don\u0027t -- I don\u0027t see that there is too much -- I think Judge -- Chief Judge Sobeloff pointed out in his dissent the fact that this was a vessel doing everything that any other vessel does and that is the completion of -- completing a voyage on a commercial venture for her owner and was doing -- and was unloading its cargo."
+                            },
+                            {
+                                "start": 675.176,
+                                "stop": 681.13,
+                                "byte_start": 2804172,
+                                "byte_stop": 2827995,
+                                "text": "And Roper, my client, was doing what traditionally a seaman does."
+                            },
+                            {
+                                "start": 681.13,
+                                "stop": 689.275,
+                                "byte_start": 2827995,
+                                "byte_stop": 2860596,
+                                "text": "And as the Court held in Sieracki then this person is entitled to the benefit of the warranty of seaworthiness."
+                            },
+                            {
+                                "start": 689.275,
+                                "stop": 712.774,
+                                "byte_start": 2860596,
+                                "byte_stop": 2954533,
+                                "text": "The other point in the case was the claim that since this machinery was -- was attached to the dock that -- which was performing the thing, the unloading operation that the -- that watches if seaworthiness did not cover such machinery."
+                            },
+                            {
+                                "start": 712.774,
+                                "stop": 731.584,
+                                "byte_start": 2954533,
+                                "byte_stop": 3029765,
+                                "text": "But this Court stated in West versus United States, Mr. Justice Clark writing the opinion for a unanimous court that the emphasis now should be upon the focus -- the focus should be upon the status of the vessel is it in navigation."
+                            },
+                            {
+                                "start": 731.584,
+                                "stop": 736.609,
+                                "byte_start": 3029765,
+                                "byte_stop": 3049932,
+                                "text": "In West, here you had a vessel in the shipyard pulled up on the ways."
+                            },
+                            {
+                                "start": 736.609,
+                                "stop": 739.179,
+                                "byte_start": 3049932,
+                                "byte_stop": 3060172,
+                                "text": "The man was injured making unseaworthy."
+                            },
+                            {
+                                "start": 739.179,
+                                "stop": 743.531,
+                                "byte_start": 3060172,
+                                "byte_stop": 3077622,
+                                "text": "And in the Roper case, you\u0027ve got a vessel performing a live function."
+                            },
+                            {
+                                "start": 743.531,
+                                "stop": 748.94,
+                                "byte_start": 3077622,
+                                "byte_stop": 3099251,
+                                "text": "So, we look to the status of the vessel to determine if that vessel is seaworthy."
+                            },
+                            {
+                                "start": 748.94,
+                                "stop": 773.657,
+                                "byte_start": 3099251,
+                                "byte_stop": 3198098,
+                                "text": "And if it is determined that it is seaworthy, then, of course -- pardon me, in navigation, if it\u0027s determined it is navigation, then the Sieracki doctrine, Pope and Talbot v. Hawn, Crumady and all of the rest of the decisions, magnificent decisions of this Court holding that this man is entitled to the warranty."
+                            },
+                            {
+                                "start": 773.657,
+                                "stop": 778.109,
+                                "byte_start": 3198098,
+                                "byte_stop": 3215862,
+                                "text": "But the West decision says also this as we take it."
+                            },
+                            {
+                                "start": 778.109,
+                                "stop": 780.671,
+                                "byte_start": 3215862,
+                                "byte_stop": 3226206,
+                                "text": "Mr. Justice Clark said in West."
+                            },
+                            {
+                                "start": 780.671,
+                                "stop": 785.427,
+                                "byte_start": 3226206,
+                                "byte_stop": 3245223,
+                                "text": "We don\u0027t believe that there should be any job analysis for this people."
+                            },
+                            {
+                                "start": 785.427,
+                                "stop": 790.498,
+                                "byte_start": 3245223,
+                                "byte_stop": 3265494,
+                                "text": "They show a basic people that come aboard and perform seamen\u0027s duties."
+                            },
+                            {
+                                "start": 790.498,
+                                "stop": 867.448,
+                                "byte_start": 3265494,
+                                "byte_stop": 3573217,
+                                "text": "My point with this Court is that by analogy, if -- if West held that there should be no job analysis neither should there be a gear and equipment analysis."
+                            },
+                            {
+                                "start": 867.448,
+                                "stop": 804.945,
+                                "byte_start": 3573217,
+                                "byte_stop": 3323277,
+                                "text": "What difference does it make?"
+                            },
+                            {
+                                "start": 804.945,
+                                "stop": 812.695,
+                                "byte_start": 3323277,
+                                "byte_stop": 3354206,
+                                "text": "Isn\u0027t -- isn\u0027t it really immaterial that one handle this equipment should be on a dock, it is doing the same thing."
+                            },
+                            {
+                                "start": 812.695,
+                                "stop": 826.381,
+                                "byte_start": 3354206,
+                                "byte_stop": 3408959,
+                                "text": "The unloading operation which a longshoreman would be doing with a shovel in the hole or standing on the dock and shoveling the grain into a pile on the dock, we see no difference."
+                            },
+                            {
+                                "start": 826.381,
+                                "stop": 832.961,
+                                "byte_start": 3408959,
+                                "byte_stop": 3435290,
+                                "text": "And what difference would it make also between that and the line which is attached to the dock?"
+                            },
+                            {
+                                "start": 832.961,
+                                "stop": 845.47,
+                                "byte_start": 3435290,
+                                "byte_stop": 3485341,
+                                "text": "So we think that the emphasis since West had shifted, the emphasis had shifted to the status not only to the vessel but the status of the equipment."
+                            },
+                            {
+                                "start": 845.47,
+                                "stop": 859.263,
+                                "byte_start": 3485341,
+                                "byte_stop": 3540511,
+                                "text": "And if the equipment is being used in a practical and reasonable relationship to the maritime service to the vessel, why should this Court or any other court go into any analysis of the type of equipment?"
+                            },
+                            {
+                                "start": 859.263,
+                                "stop": 861.793,
+                                "byte_start": 3540511,
+                                "byte_stop": 3550647,
+                                "text": "Is it grain unloading equipment?"
+                            },
+                            {
+                                "start": 861.793,
+                                "stop": 864.471,
+                                "byte_start": 3550647,
+                                "byte_stop": 3561409,
+                                "text": "Is it a dolly that you have?"
+                            },
+                            {
+                                "start": 864.471,
+                                "stop": 869.231,
+                                "byte_start": 3561409,
+                                "byte_stop": 3580426,
+                                "text": "Is it a -- a block and tackle?"
+                            },
+                            {
+                                "start": 869.231,
+                                "stop": 878.332,
+                                "byte_start": 3580426,
+                                "byte_stop": 3616789,
+                                "text": "As we do, the Petterson decision also, the earlier decision of this Court, in which this Court said, \u201cIt makes no difference who owns that equipment.\u201d"
+                            },
+                            {
+                                "start": 878.332,
+                                "stop": 896.045,
+                                "byte_start": 3616789,
+                                "byte_stop": 3687633,
+                                "text": "If that equipment is brought aboard, the vessel and its used to the maritime service of the vessel, the Ninth Circuit held in that case and it was affirmed by this Court that the warranty was owed to Petterson was injured as a result thereby."
+                            },
+                            {
+                                "start": 896.045,
+                                "stop": 910.208,
+                                "byte_start": 3687633,
+                                "byte_stop": 3744266,
+                                "text": "So, our view is that the majority in the Fourth Circuit below was clearly and plainly wrong in misapplying the doctrine of the West decision to the Roper case."
+                            },
+                            {
+                                "start": 910.208,
+                                "stop": 921.118,
+                                "byte_start": 3744266,
+                                "byte_stop": 3787943,
+                                "text": "And we do not believe that the -- the equipment analysis to the fact that it is attached to the dock makes any difference whatsoever."
+                            },
+                            {
+                                "start": 921.118,
+                                "stop": 938.732,
+                                "byte_start": 3787943,
+                                "byte_stop": 3858369,
+                                "text": "It\u0027s suggested in the Government\u0027s brief, they have said -- some have said examples perhaps of rendering a principle -- reduce it to absurdity about -- (Inaudible) running along the dock and things of that nature."
+                            },
+                            {
+                                "start": 938.732,
+                                "stop": 958.856,
+                                "byte_start": 3858369,
+                                "byte_stop": 3938931,
+                                "text": "But through all of the decisions of this Court and Sieracki are as on the clear reasoning that if the equipment is being used in a practical and reasonable relationship to the maritime service to the vessel, then it should be covered and its immaterial works on the dock."
+                            },
+                            {
+                                "start": 958.856,
+                                "stop": 972.421,
+                                "byte_start": 3938931,
+                                "byte_stop": 3993161,
+                                "text": "And in fact, Congress, pardon me, Congress has passed the extension of Admiralty Act in Title 46 Section 740 which has held that admiralty jurisdiction extends to the dock."
+                            },
+                            {
+                                "start": 972.421,
+                                "stop": 981.509,
+                                "byte_start": 3993161,
+                                "byte_stop": 4029524,
+                                "text": "Well, if it extends to the dock, a longshoreman on the dock, their cases -- the (Inaudible) case and others which hold that it does extend there."
+                            },
+                            {
+                                "start": 981.509,
+                                "stop": 981.577,
+                                "byte_start": 4029524,
+                                "byte_stop": 4029733,
+                                "text": "My time is up."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 981.577,
+                        "stop": 986.463,
+                        "byte_start": 4029733,
+                        "byte_stop": 4049272,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 981.577,
+                                "stop": 986.463,
+                                "byte_start": 4029733,
+                                "byte_stop": 4049272,
+                                "text": "We\u0027ll recess now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

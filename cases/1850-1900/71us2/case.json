@@ -1,0 +1,1133 @@
+{
+    "ID": 62362,
+    "name": "Ex parte Milligan",
+    "href": "https:\/\/api.oyez.org\/cases\/1850-1900\/71us2",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Lambdin P. Milligan et al.",
+    "second_party": "United States",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -3276439200,
+                -3276352800,
+                -3276266400,
+                -3276180000,
+                -3276093600,
+                -3275834400,
+                -3275748000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52886"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -3273933600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52887"
+        }
+    ],
+    "lower_court": {
+        "ID": 76,
+        "name": "State appellate court",
+        "href": "https:\/\/api.oyez.org\/courts\/state_appellate_court"
+    },
+    "facts_of_the_case": "\u003Cp\u003ELambden P. Milligan was sentenced to death by a military commission in Indiana during the Civil War; he had engaged in acts of disloyalty. Milligan sought release through habeas corpus from a federal court.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDoes a civil court have jurisdiction over a military tribunal?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EDavis, speaking for the Court, held that trials of civilians by presidentially created military commissions are unconstitutional. Martial law cannot exist where the civil courts are operating.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 28939,
+                "name": "Jeremiah S. Black",
+                "href": "https:\/\/api.oyez.org\/people\/jeremiah_s_black",
+                "last_name": "Black",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "jeremiah_s_black"
+            },
+            "advocate_description": "for Milligan",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21292"
+        },
+        {
+            "advocate": {
+                "ID": 20826,
+                "name": "David Dudley Field",
+                "href": "https:\/\/api.oyez.org\/people\/david_dudley_field",
+                "last_name": "Field",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "david_dudley_field"
+            },
+            "advocate_description": "for Milligan",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21293"
+        },
+        {
+            "advocate": {
+                "ID": 30480,
+                "name": "James A. Garfield",
+                "href": "https:\/\/api.oyez.org\/people\/james_a_garfield",
+                "last_name": "Garfield",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "james_a_garfield"
+            },
+            "advocate_description": "for Milligan",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21294"
+        },
+        {
+            "advocate": {
+                "ID": 17422,
+                "name": "Benjamin F. Butler",
+                "href": "https:\/\/api.oyez.org\/people\/benjamin_f_butler",
+                "last_name": "Butler",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "benjamin_f_butler"
+            },
+            "advocate_description": "for the United States",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21295"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "71",
+        "page": "2",
+        "year": "1866",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27164"
+    },
+    "decisions": [
+        {
+            "description": "Civilians cannot be tried by presidentially created military commissions when the civil courts are still in operation",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15124,
+                        "name": "David Davis",
+                        "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                        "last_name": "Davis",
+                        "roles": [
+                            {
+                                "id": 2769,
+                                "type": "scotus_justice",
+                                "date_start": -3378477600,
+                                "date_end": -2929370400,
+                                "appointing_president": "Abraham Lincoln",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32701,
+                            "mime": "image\/png",
+                            "size": 68309,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                        },
+                        "length_of_service": 5198,
+                        "identifier": "david_davis"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 8,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205833"
+                },
+                {
+                    "member": {
+                        "ID": 15136,
+                        "name": "Samuel Nelson",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                        "last_name": "Nelson",
+                        "roles": [
+                            {
+                                "id": 2782,
+                                "type": "scotus_justice",
+                                "date_start": -3939645600,
+                                "date_end": -3063895200,
+                                "appointing_president": "John Tyler",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32761,
+                            "mime": "image\/png",
+                            "size": 61017,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                        },
+                        "length_of_service": 10136,
+                        "identifier": "samuel_nelson"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15124,
+                            "name": "David Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                            "last_name": "Davis",
+                            "roles": [
+                                {
+                                    "id": 2769,
+                                    "type": "scotus_justice",
+                                    "date_start": -3378477600,
+                                    "date_end": -2929370400,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32701,
+                                "mime": "image\/png",
+                                "size": 68309,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                            },
+                            "length_of_service": 5198,
+                            "identifier": "david_davis"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205834"
+                },
+                {
+                    "member": {
+                        "ID": 15110,
+                        "name": "Robert C. Grier",
+                        "href": "https:\/\/api.oyez.org\/people\/robert_c_grier",
+                        "last_name": "Grier",
+                        "roles": [
+                            {
+                                "id": 2754,
+                                "type": "scotus_justice",
+                                "date_start": -3893940000,
+                                "date_end": -3153060000,
+                                "appointing_president": "James K. Polk",
+                                "role_title": "Associate Justice",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2754"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32753,
+                            "mime": "image\/png",
+                            "size": 50617,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_grier.png"
+                        },
+                        "length_of_service": 8575,
+                        "identifier": "robert_c_grier"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15124,
+                            "name": "David Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                            "last_name": "Davis",
+                            "roles": [
+                                {
+                                    "id": 2769,
+                                    "type": "scotus_justice",
+                                    "date_start": -3378477600,
+                                    "date_end": -2929370400,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32701,
+                                "mime": "image\/png",
+                                "size": 68309,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                            },
+                            "length_of_service": 5198,
+                            "identifier": "david_davis"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205835"
+                },
+                {
+                    "member": {
+                        "ID": 15072,
+                        "name": "Nathan Clifford",
+                        "href": "https:\/\/api.oyez.org\/people\/nathan_clifford",
+                        "last_name": "Clifford",
+                        "roles": [
+                            {
+                                "id": 2716,
+                                "type": "scotus_justice",
+                                "date_start": -3532615200,
+                                "date_end": -2790784800,
+                                "appointing_president": "James Buchanan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2716"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32744,
+                            "mime": "image\/png",
+                            "size": 51252,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/nathan_clifford.png"
+                        },
+                        "length_of_service": 8586,
+                        "identifier": "nathan_clifford"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15124,
+                            "name": "David Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                            "last_name": "Davis",
+                            "roles": [
+                                {
+                                    "id": 2769,
+                                    "type": "scotus_justice",
+                                    "date_start": -3378477600,
+                                    "date_end": -2929370400,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32701,
+                                "mime": "image\/png",
+                                "size": 68309,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                            },
+                            "length_of_service": 5198,
+                            "identifier": "david_davis"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205836"
+                },
+                {
+                    "member": {
+                        "ID": 15122,
+                        "name": "Stephen J. Field",
+                        "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                        "last_name": "Field",
+                        "roles": [
+                            {
+                                "id": 2767,
+                                "type": "scotus_justice",
+                                "date_start": -3364567200,
+                                "date_end": -2274717600,
+                                "appointing_president": "Abraham Lincoln",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32767,
+                            "mime": "image\/png",
+                            "size": 54586,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                        },
+                        "length_of_service": 12614,
+                        "identifier": "stephen_j_field"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15124,
+                            "name": "David Davis",
+                            "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                            "last_name": "Davis",
+                            "roles": [
+                                {
+                                    "id": 2769,
+                                    "type": "scotus_justice",
+                                    "date_start": -3378477600,
+                                    "date_end": -2929370400,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32701,
+                                "mime": "image\/png",
+                                "size": 68309,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                            },
+                            "length_of_service": 5198,
+                            "identifier": "david_davis"
+                        }
+                    ],
+                    "seniority": 9,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205837"
+                },
+                {
+                    "member": {
+                        "ID": 15058,
+                        "name": "Salmon P. Chase",
+                        "href": "https:\/\/api.oyez.org\/people\/salmon_p_chase",
+                        "last_name": "Chase",
+                        "roles": [
+                            {
+                                "id": 2702,
+                                "type": "scotus_justice",
+                                "date_start": -3314887200,
+                                "date_end": -3050071200,
+                                "appointing_president": "Abraham Lincoln",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2702"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32762,
+                            "mime": "image\/png",
+                            "size": 41956,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_p_chase.png"
+                        },
+                        "length_of_service": 3065,
+                        "identifier": "salmon_p_chase"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "special concurrence",
+                    "joining": null,
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205838"
+                },
+                {
+                    "member": {
+                        "ID": 15087,
+                        "name": "James M. Wayne",
+                        "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+                        "last_name": "Wayne",
+                        "roles": [
+                            {
+                                "id": 2731,
+                                "type": "scotus_justice",
+                                "date_start": -4259066400,
+                                "date_end": -3234362400,
+                                "appointing_president": "Andrew Jackson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2731"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32722,
+                            "mime": "image\/png",
+                            "size": 55773,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                        },
+                        "length_of_service": 11860,
+                        "identifier": "james_m_wayne"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15058,
+                            "name": "Salmon P. Chase",
+                            "href": "https:\/\/api.oyez.org\/people\/salmon_p_chase",
+                            "last_name": "Chase",
+                            "roles": [
+                                {
+                                    "id": 2702,
+                                    "type": "scotus_justice",
+                                    "date_start": -3314887200,
+                                    "date_end": -3050071200,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2702"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32762,
+                                "mime": "image\/png",
+                                "size": 41956,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_p_chase.png"
+                            },
+                            "length_of_service": 3065,
+                            "identifier": "salmon_p_chase"
+                        }
+                    ],
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205839"
+                },
+                {
+                    "member": {
+                        "ID": 15096,
+                        "name": "Noah Swayne",
+                        "href": "https:\/\/api.oyez.org\/people\/noah_swayne",
+                        "last_name": "Swayne",
+                        "roles": [
+                            {
+                                "id": 2740,
+                                "type": "scotus_justice",
+                                "date_start": -3405866400,
+                                "date_end": -2806509600,
+                                "appointing_president": "Abraham Lincoln",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2740"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32745,
+                            "mime": "image\/png",
+                            "size": 61407,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/noah_swayne.png"
+                        },
+                        "length_of_service": 6937,
+                        "identifier": "noah_swayne"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15058,
+                            "name": "Salmon P. Chase",
+                            "href": "https:\/\/api.oyez.org\/people\/salmon_p_chase",
+                            "last_name": "Chase",
+                            "roles": [
+                                {
+                                    "id": 2702,
+                                    "type": "scotus_justice",
+                                    "date_start": -3314887200,
+                                    "date_end": -3050071200,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2702"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32762,
+                                "mime": "image\/png",
+                                "size": 41956,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_p_chase.png"
+                            },
+                            "length_of_service": 3065,
+                            "identifier": "salmon_p_chase"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205840"
+                },
+                {
+                    "member": {
+                        "ID": 15103,
+                        "name": "Samuel F. Miller",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                        "last_name": "Miller",
+                        "roles": [
+                            {
+                                "id": 2747,
+                                "type": "scotus_justice",
+                                "date_start": -3390746400,
+                                "date_end": -2499876000,
+                                "appointing_president": "Abraham Lincoln",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32760,
+                            "mime": "image\/png",
+                            "size": 59082,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                        },
+                        "length_of_service": 10311,
+                        "identifier": "samuel_f_miller"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15058,
+                            "name": "Salmon P. Chase",
+                            "href": "https:\/\/api.oyez.org\/people\/salmon_p_chase",
+                            "last_name": "Chase",
+                            "roles": [
+                                {
+                                    "id": 2702,
+                                    "type": "scotus_justice",
+                                    "date_start": -3314887200,
+                                    "date_end": -3050071200,
+                                    "appointing_president": "Abraham Lincoln",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2702"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32762,
+                                "mime": "image\/png",
+                                "size": 41956,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_p_chase.png"
+                            },
+                            "length_of_service": 3065,
+                            "identifier": "salmon_p_chase"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205841"
+                }
+            ],
+            "majority_vote": 9,
+            "minority_vote": 0,
+            "winning_party": "Milligan",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16422"
+        }
+    ],
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15220,
+            "name": "Chase Court (1865-1867)",
+            "href": "https:\/\/api.oyez.org\/courts\/chase2",
+            "members": [
+                {
+                    "ID": 15058,
+                    "name": "Salmon P. Chase",
+                    "href": "https:\/\/api.oyez.org\/people\/salmon_p_chase",
+                    "last_name": "Chase",
+                    "roles": [
+                        {
+                            "id": 2702,
+                            "type": "scotus_justice",
+                            "date_start": -3314887200,
+                            "date_end": -3050071200,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2702"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32762,
+                        "mime": "image\/png",
+                        "size": 41956,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_p_chase.png"
+                    },
+                    "length_of_service": 3065,
+                    "identifier": "salmon_p_chase"
+                },
+                {
+                    "ID": 15087,
+                    "name": "James M. Wayne",
+                    "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+                    "last_name": "Wayne",
+                    "roles": [
+                        {
+                            "id": 2731,
+                            "type": "scotus_justice",
+                            "date_start": -4259066400,
+                            "date_end": -3234362400,
+                            "appointing_president": "Andrew Jackson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2731"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32722,
+                        "mime": "image\/png",
+                        "size": 55773,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                    },
+                    "length_of_service": 11860,
+                    "identifier": "james_m_wayne"
+                },
+                {
+                    "ID": 15136,
+                    "name": "Samuel Nelson",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                    "last_name": "Nelson",
+                    "roles": [
+                        {
+                            "id": 2782,
+                            "type": "scotus_justice",
+                            "date_start": -3939645600,
+                            "date_end": -3063895200,
+                            "appointing_president": "John Tyler",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32761,
+                        "mime": "image\/png",
+                        "size": 61017,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                    },
+                    "length_of_service": 10136,
+                    "identifier": "samuel_nelson"
+                },
+                {
+                    "ID": 15110,
+                    "name": "Robert C. Grier",
+                    "href": "https:\/\/api.oyez.org\/people\/robert_c_grier",
+                    "last_name": "Grier",
+                    "roles": [
+                        {
+                            "id": 2754,
+                            "type": "scotus_justice",
+                            "date_start": -3893940000,
+                            "date_end": -3153060000,
+                            "appointing_president": "James K. Polk",
+                            "role_title": "Associate Justice",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2754"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32753,
+                        "mime": "image\/png",
+                        "size": 50617,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_grier.png"
+                    },
+                    "length_of_service": 8575,
+                    "identifier": "robert_c_grier"
+                },
+                {
+                    "ID": 15072,
+                    "name": "Nathan Clifford",
+                    "href": "https:\/\/api.oyez.org\/people\/nathan_clifford",
+                    "last_name": "Clifford",
+                    "roles": [
+                        {
+                            "id": 2716,
+                            "type": "scotus_justice",
+                            "date_start": -3532615200,
+                            "date_end": -2790784800,
+                            "appointing_president": "James Buchanan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2716"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32744,
+                        "mime": "image\/png",
+                        "size": 51252,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/nathan_clifford.png"
+                    },
+                    "length_of_service": 8586,
+                    "identifier": "nathan_clifford"
+                },
+                {
+                    "ID": 15096,
+                    "name": "Noah Swayne",
+                    "href": "https:\/\/api.oyez.org\/people\/noah_swayne",
+                    "last_name": "Swayne",
+                    "roles": [
+                        {
+                            "id": 2740,
+                            "type": "scotus_justice",
+                            "date_start": -3405866400,
+                            "date_end": -2806509600,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2740"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32745,
+                        "mime": "image\/png",
+                        "size": 61407,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/noah_swayne.png"
+                    },
+                    "length_of_service": 6937,
+                    "identifier": "noah_swayne"
+                },
+                {
+                    "ID": 15103,
+                    "name": "Samuel F. Miller",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                    "last_name": "Miller",
+                    "roles": [
+                        {
+                            "id": 2747,
+                            "type": "scotus_justice",
+                            "date_start": -3390746400,
+                            "date_end": -2499876000,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32760,
+                        "mime": "image\/png",
+                        "size": 59082,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                    },
+                    "length_of_service": 10311,
+                    "identifier": "samuel_f_miller"
+                },
+                {
+                    "ID": 15124,
+                    "name": "David Davis",
+                    "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                    "last_name": "Davis",
+                    "roles": [
+                        {
+                            "id": 2769,
+                            "type": "scotus_justice",
+                            "date_start": -3378477600,
+                            "date_end": -2929370400,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32701,
+                        "mime": "image\/png",
+                        "size": 68309,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                    },
+                    "length_of_service": 5198,
+                    "identifier": "david_davis"
+                },
+                {
+                    "ID": 15122,
+                    "name": "Stephen J. Field",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                    "last_name": "Field",
+                    "roles": [
+                        {
+                            "id": 2767,
+                            "type": "scotus_justice",
+                            "date_start": -3364567200,
+                            "date_end": -2274717600,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32767,
+                        "mime": "image\/png",
+                        "size": 54586,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                    },
+                    "length_of_service": 12614,
+                    "identifier": "stephen_j_field"
+                }
+            ],
+            "court_start": -3300458400,
+            "images": [
+                {
+                    "id": 78525,
+                    "mime": "image\/jpeg",
+                    "size": 1691662,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/chas2_photograph.jpg"
+                }
+            ],
+            "identifier": "chase2"
+        }
+    ],
+    "decided_by": {
+        "ID": 15220,
+        "name": "Chase Court (1865-1867)",
+        "href": "https:\/\/api.oyez.org\/courts\/chase2",
+        "members": [
+            {
+                "ID": 15058,
+                "name": "Salmon P. Chase",
+                "href": "https:\/\/api.oyez.org\/people\/salmon_p_chase",
+                "last_name": "Chase",
+                "roles": [
+                    {
+                        "id": 2702,
+                        "type": "scotus_justice",
+                        "date_start": -3314887200,
+                        "date_end": -3050071200,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2702"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32762,
+                    "mime": "image\/png",
+                    "size": 41956,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_p_chase.png"
+                },
+                "length_of_service": 3065,
+                "identifier": "salmon_p_chase"
+            },
+            {
+                "ID": 15087,
+                "name": "James M. Wayne",
+                "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+                "last_name": "Wayne",
+                "roles": [
+                    {
+                        "id": 2731,
+                        "type": "scotus_justice",
+                        "date_start": -4259066400,
+                        "date_end": -3234362400,
+                        "appointing_president": "Andrew Jackson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2731"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32722,
+                    "mime": "image\/png",
+                    "size": 55773,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                },
+                "length_of_service": 11860,
+                "identifier": "james_m_wayne"
+            },
+            {
+                "ID": 15136,
+                "name": "Samuel Nelson",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_nelson",
+                "last_name": "Nelson",
+                "roles": [
+                    {
+                        "id": 2782,
+                        "type": "scotus_justice",
+                        "date_start": -3939645600,
+                        "date_end": -3063895200,
+                        "appointing_president": "John Tyler",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2782"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32761,
+                    "mime": "image\/png",
+                    "size": 61017,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_nelson.png"
+                },
+                "length_of_service": 10136,
+                "identifier": "samuel_nelson"
+            },
+            {
+                "ID": 15110,
+                "name": "Robert C. Grier",
+                "href": "https:\/\/api.oyez.org\/people\/robert_c_grier",
+                "last_name": "Grier",
+                "roles": [
+                    {
+                        "id": 2754,
+                        "type": "scotus_justice",
+                        "date_start": -3893940000,
+                        "date_end": -3153060000,
+                        "appointing_president": "James K. Polk",
+                        "role_title": "Associate Justice",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2754"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32753,
+                    "mime": "image\/png",
+                    "size": 50617,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/robert_grier.png"
+                },
+                "length_of_service": 8575,
+                "identifier": "robert_c_grier"
+            },
+            {
+                "ID": 15072,
+                "name": "Nathan Clifford",
+                "href": "https:\/\/api.oyez.org\/people\/nathan_clifford",
+                "last_name": "Clifford",
+                "roles": [
+                    {
+                        "id": 2716,
+                        "type": "scotus_justice",
+                        "date_start": -3532615200,
+                        "date_end": -2790784800,
+                        "appointing_president": "James Buchanan",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2716"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32744,
+                    "mime": "image\/png",
+                    "size": 51252,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/nathan_clifford.png"
+                },
+                "length_of_service": 8586,
+                "identifier": "nathan_clifford"
+            },
+            {
+                "ID": 15096,
+                "name": "Noah Swayne",
+                "href": "https:\/\/api.oyez.org\/people\/noah_swayne",
+                "last_name": "Swayne",
+                "roles": [
+                    {
+                        "id": 2740,
+                        "type": "scotus_justice",
+                        "date_start": -3405866400,
+                        "date_end": -2806509600,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2740"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32745,
+                    "mime": "image\/png",
+                    "size": 61407,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/noah_swayne.png"
+                },
+                "length_of_service": 6937,
+                "identifier": "noah_swayne"
+            },
+            {
+                "ID": 15103,
+                "name": "Samuel F. Miller",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                "last_name": "Miller",
+                "roles": [
+                    {
+                        "id": 2747,
+                        "type": "scotus_justice",
+                        "date_start": -3390746400,
+                        "date_end": -2499876000,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32760,
+                    "mime": "image\/png",
+                    "size": 59082,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                },
+                "length_of_service": 10311,
+                "identifier": "samuel_f_miller"
+            },
+            {
+                "ID": 15124,
+                "name": "David Davis",
+                "href": "https:\/\/api.oyez.org\/people\/david_davis",
+                "last_name": "Davis",
+                "roles": [
+                    {
+                        "id": 2769,
+                        "type": "scotus_justice",
+                        "date_start": -3378477600,
+                        "date_end": -2929370400,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2769"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32701,
+                    "mime": "image\/png",
+                    "size": 68309,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_davis.png"
+                },
+                "length_of_service": 5198,
+                "identifier": "david_davis"
+            },
+            {
+                "ID": 15122,
+                "name": "Stephen J. Field",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                "last_name": "Field",
+                "roles": [
+                    {
+                        "id": 2767,
+                        "type": "scotus_justice",
+                        "date_start": -3364567200,
+                        "date_end": -2274717600,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32767,
+                    "mime": "image\/png",
+                    "size": 54586,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                },
+                "length_of_service": 12614,
+                "identifier": "stephen_j_field"
+            }
+        ],
+        "court_start": -3300458400,
+        "images": [
+            {
+                "id": 78525,
+                "mime": "image\/jpeg",
+                "size": 1691662,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/chas2_photograph.jpg"
+            }
+        ],
+        "identifier": "chase2"
+    },
+    "term": "1850-1900",
+    "location": {
+        "latitude": 39.770339,
+        "longitude": -86.15656,
+        "name": "Military Commission at United States Court House in Indianapolis",
+        "street": "46 East Ohio Street",
+        "city": "Indianapolis",
+        "province": "IN",
+        "postal_code": null,
+        "province_name": "Indiana"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court found that civilians cannot be tried by military tribunals when civil courts are available.",
+    "written_opinion": null,
+    "related_cases": null
+}

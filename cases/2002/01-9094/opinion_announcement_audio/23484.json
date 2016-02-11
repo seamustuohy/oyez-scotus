@@ -1,0 +1,88 @@
+{
+    "id": 23484,
+    "title": "Opinion Announcement - December 10, 2002",
+    "transcript": {
+        "title": "Abdur\u0027Rahman v. Bell",
+        "duration": 16.979,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.979,
+                "byte_start": 84822,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.979,
+                        "byte_start": 84822,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.606,
+                                "byte_start": 84822,
+                                "byte_stop": 123274,
+                                "text": "I have the disposition to announce in No. 01-9094, Abdur\u0027Rahman against Bell."
+                            },
+                            {
+                                "start": 9.606,
+                                "stop": 16.979,
+                                "byte_start": 123274,
+                                "byte_stop": 0,
+                                "text": "The case is dismissed as improvidently granted, but I have also filed a dissenting opinion from the Court\u2019s dismissal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56090,
+            "mime": "audio\/mpeg",
+            "size": 152427,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/01-9094\/20021210o_01-9094.delivery.mp3"
+        },
+        {
+            "id": 77798,
+            "mime": "audio\/ogg",
+            "size": 177082,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/01-9094\/20021210o_01-9094.ogg"
+        },
+        {
+            "id": 77799,
+            "mime": "application\/x-mpegURL",
+            "size": 375,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/01-9094\/20021210o_01-9094.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

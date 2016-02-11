@@ -1,0 +1,95 @@
+{
+    "id": 15933,
+    "title": "Opinion Announcement - May 03, 1976",
+    "transcript": {
+        "title": "Quinn v. Muscare",
+        "duration": 32.536,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.536,
+                "byte_start": 73662,
+                "byte_stop": 203752,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 32.536,
+                        "byte_start": 73662,
+                        "byte_stop": 203752,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.172,
+                                "byte_start": 73662,
+                                "byte_stop": 102397,
+                                "text": "-- in 75-130, Quinn against Muscare."
+                            },
+                            {
+                                "start": 7.172,
+                                "stop": 21.195,
+                                "byte_start": 102397,
+                                "byte_stop": 158508,
+                                "text": "For reasons stated in an opinion filed with the clerk this morning, the grant of certiorari to Seventh Circuit Court of Appeals is dismissed as having been improvidently granted."
+                            },
+                            {
+                                "start": 21.195,
+                                "stop": 32.536,
+                                "byte_start": 158508,
+                                "byte_stop": 203752,
+                                "text": "Mr. Justice Stevens took no part in the consideration or decision of this case, that is Quinn against Muscare."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40988,
+            "mime": "audio\/mpeg",
+            "size": 203961,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-130\/19760503o_75-130.delivery.mp3"
+        },
+        {
+            "id": 62930,
+            "mime": "audio\/ogg",
+            "size": 337428,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-130\/19760503o_75-130.ogg"
+        },
+        {
+            "id": 62931,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-130\/19760503o_75-130.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

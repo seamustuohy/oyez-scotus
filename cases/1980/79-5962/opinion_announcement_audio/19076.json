@@ -1,0 +1,88 @@
+{
+    "id": 19076,
+    "title": "Opinion Announcement - December 09, 1980",
+    "transcript": {
+        "title": "Vincent v. Texas",
+        "duration": 21.743,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 21.743,
+                "byte_start": 92065,
+                "byte_stop": 179001,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 21.743,
+                        "byte_start": 92065,
+                        "byte_stop": 179001,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.343,
+                                "byte_start": 92065,
+                                "byte_stop": 125502,
+                                "text": "I have the disposition to announce in Vincent against Texas in an opinion filed with the clerk this morning."
+                            },
+                            {
+                                "start": 8.343,
+                                "stop": 21.743,
+                                "byte_start": 125502,
+                                "byte_stop": 179001,
+                                "text": "We hold that the appeal from the Court of Criminal Appeals of Texas must be dismissed for want of a properly presented federal question and it is so ordered."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47276,
+            "mime": "audio\/mpeg",
+            "size": 179209,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/79-5962\/19801209o_79-5962.delivery.mp3"
+        },
+        {
+            "id": 69102,
+            "mime": "audio\/ogg",
+            "size": 222588,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/79-5962\/19801209o_79-5962.ogg"
+        },
+        {
+            "id": 69103,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/79-5962\/19801209o_79-5962.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

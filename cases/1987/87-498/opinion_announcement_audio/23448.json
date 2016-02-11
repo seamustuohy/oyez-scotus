@@ -1,0 +1,95 @@
+{
+    "id": 23448,
+    "title": "Opinion Announcement - June 13, 1988",
+    "transcript": {
+        "title": "Berkovitz v. United States",
+        "duration": 23.351,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 23.351,
+                "byte_start": 28672,
+                "byte_stop": 121981,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 23.351,
+                        "byte_start": 28672,
+                        "byte_stop": 121981,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.648,
+                                "byte_start": 28672,
+                                "byte_stop": 59288,
+                                "text": "The other case of Berkovitz is here on certiorari to the Court of Appeals for the Third Circuit."
+                            },
+                            {
+                                "start": 7.648,
+                                "stop": 18.054,
+                                "byte_start": 59288,
+                                "byte_stop": 100979,
+                                "text": "In that case, we hold that the discretionary function exception of the Federal Tort Claims Act does not bar petitioner\u0027s suit."
+                            },
+                            {
+                                "start": 18.054,
+                                "stop": 23.351,
+                                "byte_start": 100979,
+                                "byte_stop": 121981,
+                                "text": "Accordingly, we reverse the judgment of the Third Circuit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56018,
+            "mime": "audio\/mpeg",
+            "size": 122295,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-498\/19880613o_87-498.delivery.mp3"
+        },
+        {
+            "id": 77726,
+            "mime": "audio\/ogg",
+            "size": 225029,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-498\/19880613o_87-498.ogg"
+        },
+        {
+            "id": 77727,
+            "mime": "application\/x-mpegURL",
+            "size": 455,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-498\/19880613o_87-498.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

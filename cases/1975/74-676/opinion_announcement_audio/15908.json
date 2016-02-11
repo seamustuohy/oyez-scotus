@@ -1,0 +1,109 @@
+{
+    "id": 15908,
+    "title": "Opinion Announcement - May 03, 1976",
+    "transcript": {
+        "title": "Estelle v. Williams",
+        "duration": 38.67,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.67,
+                "byte_start": 73665,
+                "byte_stop": 228310,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 38.67,
+                        "byte_start": 73665,
+                        "byte_stop": 228310,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.168,
+                                "byte_start": 73665,
+                                "byte_stop": 134374,
+                                "text": "I have for announcement, the deposition of several cases, in 74-676 Estelle against Williams for reasons stated in an opinion filed with the clerk this morning."
+                            },
+                            {
+                                "start": 15.168,
+                                "stop": 21.42,
+                                "byte_start": 134374,
+                                "byte_stop": 159347,
+                                "text": "The judgment of the United States Court of Appeals for the Fifth Circuit is reversed and the case is remanded."
+                            },
+                            {
+                                "start": 21.42,
+                                "stop": 27.192,
+                                "byte_start": 159347,
+                                "byte_stop": 182439,
+                                "text": "Mr. justice Powell with whom Mr. Justice Stewart joined filed a concurring opinion."
+                            },
+                            {
+                                "start": 27.192,
+                                "stop": 32.296,
+                                "byte_start": 182439,
+                                "byte_stop": 202919,
+                                "text": "Mr. Justice Brennan with whom Mr. Justice Marshall joined, filed a descending opinion."
+                            },
+                            {
+                                "start": 32.296,
+                                "stop": 38.67,
+                                "byte_start": 202919,
+                                "byte_stop": 228310,
+                                "text": "Mr. Justice Stevens took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40938,
+            "mime": "audio\/mpeg",
+            "size": 228519,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-676\/19760503o_74-676.delivery.mp3"
+        },
+        {
+            "id": 62880,
+            "mime": "audio\/ogg",
+            "size": 403450,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-676\/19760503o_74-676.ogg"
+        },
+        {
+            "id": 62881,
+            "mime": "application\/x-mpegURL",
+            "size": 670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-676\/19760503o_74-676.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

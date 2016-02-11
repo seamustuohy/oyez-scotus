@@ -1,0 +1,88 @@
+{
+    "id": 17886,
+    "title": "Opinion Announcement - January 27, 1975",
+    "transcript": {
+        "title": "Test v. United States",
+        "duration": 24.397,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 24.397,
+                "byte_start": 28672,
+                "byte_stop": 126161,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 24.397,
+                        "byte_start": 28672,
+                        "byte_stop": 126161,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.129,
+                                "byte_start": 28672,
+                                "byte_stop": 61273,
+                                "text": "I have the opinion of the Court to announce in 73-5993, Test against the United States."
+                            },
+                            {
+                                "start": 8.129,
+                                "stop": 24.397,
+                                "byte_start": 61273,
+                                "byte_stop": 126161,
+                                "text": "And for reasons stated in an opinion filed this morning with the clerk, we remand the case to the Court of Appeals of the Tenth Circuit with instructions to remand the case in turn to the District Court for further proceedings consistent with the opinion of the Court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44894,
+            "mime": "audio\/mpeg",
+            "size": 126474,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-5993\/19750127o_73-5993.delivery.mp3"
+        },
+        {
+            "id": 66750,
+            "mime": "audio\/ogg",
+            "size": 241598,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-5993\/19750127o_73-5993.ogg"
+        },
+        {
+            "id": 66751,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-5993\/19750127o_73-5993.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

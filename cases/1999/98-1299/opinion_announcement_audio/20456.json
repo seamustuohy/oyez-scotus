@@ -1,0 +1,258 @@
+{
+    "id": 20456,
+    "title": "Opinion Announcement - January 11, 2000",
+    "transcript": {
+        "title": "New York v. Hill",
+        "duration": 216.738,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 216.738,
+                "byte_start": 84241,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.128,
+                        "byte_start": 84241,
+                        "byte_stop": 112767,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.128,
+                                "byte_start": 84241,
+                                "byte_stop": 112767,
+                                "text": "The opinion of the court number in 98-1299, New York against Hill will be announced by Justice Scalia."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.128,
+                        "stop": 216.738,
+                        "byte_start": 112767,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.128,
+                                "stop": 11.972,
+                                "byte_start": 112767,
+                                "byte_stop": 132202,
+                                "text": "This case comes to us on certiorari from the New York Court of Appeals."
+                            },
+                            {
+                                "start": 11.972,
+                                "stop": 28.946,
+                                "byte_start": 132202,
+                                "byte_stop": 200120,
+                                "text": "A multi-state compact called the Interstate Agreement on Detainers permits a state agency which intends to file criminal charges against an individual serving a sentence in another state to lodge what is called a detainer against the prisoner."
+                            },
+                            {
+                                "start": 28.946,
+                                "stop": 40.906,
+                                "byte_start": 200120,
+                                "byte_stop": 247872,
+                                "text": "This is simply a request to the institution in which the prisoner is housed, hold the prisoner for the out of state agency or notify that agency when the prisoner\u2019s release is eminent."
+                            },
+                            {
+                                "start": 40.906,
+                                "stop": 62.318,
+                                "byte_start": 247872,
+                                "byte_stop": 333554,
+                                "text": "The IAD provides that if a prisoner against whom a detainer has been lodged files a so called request for final disposition, he must be brought to trial on the charges giving rise to the detainer within 180 days and if that time limit is not observed, the charges must be dismissed with prejudice."
+                            },
+                            {
+                                "start": 62.318,
+                                "stop": 68.571,
+                                "byte_start": 333554,
+                                "byte_stop": 358527,
+                                "text": "Here the petitioner, New York State, lodged a detainer against respondent Hill, an Ohio prisoner."
+                            },
+                            {
+                                "start": 68.571,
+                                "stop": 75.857,
+                                "byte_start": 358527,
+                                "byte_stop": 387679,
+                                "text": "Hill filed a request for final disposition and was returned to New York to face robbery and murder charges."
+                            },
+                            {
+                                "start": 75.857,
+                                "stop": 86.335,
+                                "byte_start": 387679,
+                                "byte_stop": 429684,
+                                "text": "When prosecution and defense counsel met with the court to set a trial date, Hill\u2019s attorney agreed to a date outside the 180-day period."
+                            },
+                            {
+                                "start": 86.335,
+                                "stop": 92.288,
+                                "byte_start": 429684,
+                                "byte_stop": 453403,
+                                "text": "After the 180-day period had expired, Hill moved to dismiss the indictment."
+                            },
+                            {
+                                "start": 92.288,
+                                "stop": 109.357,
+                                "byte_start": 453403,
+                                "byte_stop": 521740,
+                                "text": "Although the Trial Court and the New York Appellate Division concluded that counsel\u2019s agreement to the later date waived the IAD\u2019s time limits, the New York Court of Appeals found no waiver and accordingly reversed the respondent\u2019s convictions and ordered the charges dismissed with prejudice."
+                            },
+                            {
+                                "start": 109.357,
+                                "stop": 110.868,
+                                "byte_start": 521740,
+                                "byte_stop": 527800,
+                                "text": "We reverse."
+                            },
+                            {
+                                "start": 110.868,
+                                "stop": 123.628,
+                                "byte_start": 527800,
+                                "byte_stop": 578791,
+                                "text": "Although the IAD does not expressly discuss waiver of the rights that it confers the availability of waiver is generally presumed, absent affirmative indication to the contrary, which is not present here."
+                            },
+                            {
+                                "start": 123.628,
+                                "stop": 133.487,
+                                "byte_start": 578791,
+                                "byte_stop": 618288,
+                                "text": "We conclude that defense counsel\u2019s agreement to the trial date is adequate to affect waiver without the necessity of obtaining the personal agreement of the defendant himself."
+                            },
+                            {
+                                "start": 133.487,
+                                "stop": 147.811,
+                                "byte_start": 618288,
+                                "byte_stop": 675549,
+                                "text": "Only defense counsel can determine whether the defense would be ready to proceed earlier than the date suggested and requiring the defendant\u2019s personal assent for routine scheduling matter such as this would consume time to know apparent purpose."
+                            },
+                            {
+                                "start": 147.811,
+                                "stop": 167.586,
+                                "byte_start": 675549,
+                                "byte_stop": 754648,
+                                "text": "Respondent argues that because prompt resolution of detainers benefits not only the defendant but society generally, waiver cannot be allowed, but we have never suggested that any personal right which also benefits society is unwaivable, and such a suggestion would contradict some of our cases."
+                            },
+                            {
+                                "start": 167.586,
+                                "stop": 184.825,
+                                "byte_start": 754648,
+                                "byte_stop": 823611,
+                                "text": "In validating the waiver because of society suppose interest in prompt resolution would be particularly inappropriate here given that the IAD\u2019s time limits do not even apply unless the prisoner or the detaining state files a request for final disposition."
+                            },
+                            {
+                                "start": 184.825,
+                                "stop": 196.511,
+                                "byte_start": 823611,
+                                "byte_stop": 870318,
+                                "text": "The New York Court of Appeals\u2019 conclusion that there was no waiver was based on the fact that the defense did not \u201caffirmatively request\u201d an untimely trial date."
+                            },
+                            {
+                                "start": 196.511,
+                                "stop": 202.721,
+                                "byte_start": 870318,
+                                "byte_stop": 895186,
+                                "text": "But nothing in the IAD suggests a distinction between waiver proposed and waiver agreed to."
+                            },
+                            {
+                                "start": 202.721,
+                                "stop": 213.574,
+                                "byte_start": 895186,
+                                "byte_stop": 938550,
+                                "text": "In light of its potential for abuse and given the harsh remedy of dismissal with prejudice, we decline to adopt such a distinction and find a valid waiver here."
+                            },
+                            {
+                                "start": 213.574,
+                                "stop": 216.738,
+                                "byte_start": 938550,
+                                "byte_stop": 0,
+                                "text": "The Court\u2019s opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50036,
+            "mime": "audio\/mpeg",
+            "size": 951193,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1999\/98-1299\/20000111o_98-1299.delivery.mp3"
+        },
+        {
+            "id": 71826,
+            "mime": "audio\/ogg",
+            "size": 2215242,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1999\/98-1299\/20000111o_98-1299.ogg"
+        },
+        {
+            "id": 71827,
+            "mime": "application\/x-mpegURL",
+            "size": 3323,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1999\/98-1299\/20000111o_98-1299.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

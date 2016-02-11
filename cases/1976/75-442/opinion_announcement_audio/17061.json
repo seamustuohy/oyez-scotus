@@ -1,0 +1,95 @@
+{
+    "id": 17061,
+    "title": "Opinion Announcement - June 20, 1977",
+    "transcript": {
+        "title": "Poelker v. Doe",
+        "duration": 33.112,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 33.112,
+                "byte_start": 100599,
+                "byte_stop": 232988,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 33.112,
+                        "byte_start": 100599,
+                        "byte_stop": 232988,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 5.686,
+                                "byte_start": 100599,
+                                "byte_stop": 123378,
+                                "text": "I have the judgments and opinions for the Court to announce in two cases."
+                            },
+                            {
+                                "start": 5.686,
+                                "stop": 25.69,
+                                "byte_start": 123378,
+                                "byte_stop": 203417,
+                                "text": "In 75-442 Poelker against Doe for the reasons stated in an opinion for the Court filed this morning, the judgment of the United States Court of Appeals for the Eighth Circuit is reversed and the case is remanded to that Court for further proceedings consistent with the opinion of the Court."
+                            },
+                            {
+                                "start": 25.69,
+                                "stop": 33.112,
+                                "byte_start": 203417,
+                                "byte_stop": 232988,
+                                "text": "Mr. Justice Brennan, Mr. Justice Marshall and Mr. Justice Blackmun have filed or joined dissenting opinions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43244,
+            "mime": "audio\/mpeg",
+            "size": 233197,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-442\/19770620o_75-442.delivery.mp3"
+        },
+        {
+            "id": 65138,
+            "mime": "audio\/ogg",
+            "size": 350666,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-442\/19770620o_75-442.ogg"
+        },
+        {
+            "id": 65139,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-442\/19770620o_75-442.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

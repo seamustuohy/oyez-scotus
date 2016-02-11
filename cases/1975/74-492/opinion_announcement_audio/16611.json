@@ -1,0 +1,95 @@
+{
+    "id": 16611,
+    "title": "Opinion Announcement - April 05, 1976",
+    "transcript": {
+        "title": "Ohio v. Gallagher",
+        "duration": 37.158,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.158,
+                "byte_start": 73663,
+                "byte_stop": 222247,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 37.158,
+                        "byte_start": 73663,
+                        "byte_stop": 222247,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 22.691,
+                                "byte_start": 73663,
+                                "byte_stop": 164465,
+                                "text": "I have the disposition to announce in 74-492, Ohio against Gallagher and for reasons stated in an opinion for the Court, filed with the clerk this morning, the judgment of the Supreme Court of Ohio is vacated and the case is remanded to permit that court to clarify whether or not its judgment relies on federal law."
+                            },
+                            {
+                                "start": 22.691,
+                                "stop": 29.45,
+                                "byte_start": 164465,
+                                "byte_stop": 191527,
+                                "text": "Mr. Justice Stewart, with whom Mr. Justice Marshall and Justice Blackmun joined, filed a dissenting opinion."
+                            },
+                            {
+                                "start": 29.45,
+                                "stop": 37.158,
+                                "byte_start": 191527,
+                                "byte_stop": 222247,
+                                "text": "Mr. Justice Stevens took no part in the consideration or disposition of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42344,
+            "mime": "audio\/mpeg",
+            "size": 222456,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-492\/19760405o_74-492.delivery.mp3"
+        },
+        {
+            "id": 64260,
+            "mime": "audio\/ogg",
+            "size": 386701,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-492\/19760405o_74-492.ogg"
+        },
+        {
+            "id": 64261,
+            "mime": "application\/x-mpegURL",
+            "size": 670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-492\/19760405o_74-492.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

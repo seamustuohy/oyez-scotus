@@ -1,0 +1,95 @@
+{
+    "id": 15720,
+    "title": "Opinion Announcement - January 21, 1974",
+    "transcript": {
+        "title": "Sea-Land Services, Inc. v. Gaudet",
+        "duration": 40.875,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.875,
+                "byte_start": 76800,
+                "byte_stop": 240222,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.875,
+                        "byte_start": 76800,
+                        "byte_stop": 240222,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 29.856,
+                                "byte_start": 76800,
+                                "byte_stop": 196232,
+                                "text": "In the second case, Sealand, the Court of Appeals for the Fifth Circuit held that a recovery of damages by a longshoreman in his life time for injury suffered in a maritime accident did not bar his widow after his death for maintaining a wrongful death action based on allegations that his death was caused by his injury."
+                            },
+                            {
+                                "start": 29.856,
+                                "stop": 31.695,
+                                "byte_start": 196232,
+                                "byte_stop": 203651,
+                                "text": "We affirm."
+                            },
+                            {
+                                "start": 31.695,
+                                "stop": 40.875,
+                                "byte_start": 203651,
+                                "byte_stop": 240222,
+                                "text": "Mr. Justice Powell joined by the Chief Justice, Mr. Justice Stewart and Mr. Justice Rehnquist, dissents, and has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40562,
+            "mime": "audio\/mpeg",
+            "size": 240431,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-1019\/19740121o_72-1019.delivery.mp3"
+        },
+        {
+            "id": 62506,
+            "mime": "audio\/ogg",
+            "size": 413036,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-1019\/19740121o_72-1019.ogg"
+        },
+        {
+            "id": 62507,
+            "mime": "application\/x-mpegURL",
+            "size": 727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-1019\/19740121o_72-1019.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

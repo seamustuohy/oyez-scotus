@@ -1,0 +1,88 @@
+{
+    "id": 18941,
+    "title": "Opinion Announcement - April 27, 1983",
+    "transcript": {
+        "title": "Jim McNeff, Inc. v. Todd",
+        "duration": 22.978,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 22.978,
+                "byte_start": 92297,
+                "byte_stop": 184144,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 22.978,
+                        "byte_start": 92297,
+                        "byte_stop": 184144,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.34,
+                                "byte_start": 92297,
+                                "byte_stop": 117688,
+                                "text": "I have the judgment and opinion of the Court to announce in Mcneff Incorporated against Todd."
+                            },
+                            {
+                                "start": 6.34,
+                                "stop": 22.978,
+                                "byte_start": 117688,
+                                "byte_stop": 184144,
+                                "text": "And for reasons stated in an opinion for the Court filed with the clerk this morning, the judgment of the United States Court of Appeals for the Fourth Circuit is reversed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47006,
+            "mime": "audio\/mpeg",
+            "size": 184353,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1982\/81-2150\/19830427o_81-2150.delivery.mp3"
+        },
+        {
+            "id": 68834,
+            "mime": "audio\/ogg",
+            "size": 232758,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1982\/81-2150\/19830427o_81-2150.ogg"
+        },
+        {
+            "id": 68835,
+            "mime": "application\/x-mpegURL",
+            "size": 463,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1982\/81-2150\/19830427o_81-2150.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

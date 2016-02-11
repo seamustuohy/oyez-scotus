@@ -1,0 +1,105 @@
+{
+    "id": 19998,
+    "title": "Opinion Announcement - April 03, 2000",
+    "transcript": {
+        "title": "Free v. Abbott Laboratories Inc.",
+        "duration": 16.352,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.352,
+                "byte_start": 83783,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.352,
+                        "byte_start": 83783,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.339,
+                                "byte_start": 83783,
+                                "byte_stop": 117220,
+                                "text": "I have the opinion of the Court to announce in No. 99-391, Free versus Abbott Laboratories Inc."
+                            },
+                            {
+                                "start": 8.339,
+                                "stop": 11.863,
+                                "byte_start": 117220,
+                                "byte_stop": 131326,
+                                "text": "The judgment is affirmed by an equally divided Court."
+                            },
+                            {
+                                "start": 11.863,
+                                "stop": 16.352,
+                                "byte_start": 131326,
+                                "byte_stop": 0,
+                                "text": "Justice O\u2019Connor took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49120,
+            "mime": "audio\/mpeg",
+            "size": 148985,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1999\/99-391\/20000403o_99-391.delivery.mp3"
+        },
+        {
+            "id": 70928,
+            "mime": "audio\/ogg",
+            "size": 165954,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1999\/99-391\/20000403o_99-391.ogg"
+        },
+        {
+            "id": 70929,
+            "mime": "application\/x-mpegURL",
+            "size": 369,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1999\/99-391\/20000403o_99-391.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

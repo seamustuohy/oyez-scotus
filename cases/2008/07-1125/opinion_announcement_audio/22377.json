@@ -1,0 +1,130 @@
+{
+    "id": 22377,
+    "title": "Opinion Announcement - January 21, 2009",
+    "transcript": {
+        "title": "Fitzgerald v. Barnstable School Committee",
+        "duration": 66.168,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 66.168,
+                "byte_start": 109568,
+                "byte_stop": 374136,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 66.168,
+                        "byte_start": 109568,
+                        "byte_stop": 374136,
+                        "speaker": {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            },
+                            "length_of_service": 3531,
+                            "identifier": "samuel_alito_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.124,
+                                "byte_start": 109568,
+                                "byte_stop": 146139,
+                                "text": "The second opinion is in Fitzgerald versus Barnstable School Committee 07-1125."
+                            },
+                            {
+                                "start": 9.124,
+                                "stop": 12.885,
+                                "byte_start": 146139,
+                                "byte_stop": 161186,
+                                "text": "This case comes to us on writ of certiorari from the First Circuit."
+                            },
+                            {
+                                "start": 12.885,
+                                "stop": 25.58,
+                                "byte_start": 161186,
+                                "byte_stop": 211968,
+                                "text": "Petitioners sued the local school board and the superintendent alleging that the school\u0027s response to allegations of peer-on-peer sexual harassment against their daughter was inappropriate."
+                            },
+                            {
+                                "start": 25.58,
+                                "stop": 35.791,
+                                "byte_start": 211968,
+                                "byte_stop": 252824,
+                                "text": "Among others they raised claims under Title IX of the Education Amendments of 1972 and 42 U.S.C Section 1983."
+                            },
+                            {
+                                "start": 35.791,
+                                "stop": 45.906,
+                                "byte_start": 252824,
+                                "byte_stop": 293261,
+                                "text": "The Court of Appeals held that the 1983 claims were precluded by Title IX and affirmed the District Court\u0027s dismissal of those claims."
+                            },
+                            {
+                                "start": 45.906,
+                                "stop": 57.82,
+                                "byte_start": 293261,
+                                "byte_stop": 340908,
+                                "text": "For reason set out in an opinion filed today, we reverse the decision of the Court of Appeals and remand for further proceeding particularly in light of the nature of the Title IX remedial scheme."
+                            },
+                            {
+                                "start": 57.82,
+                                "stop": 64.37,
+                                "byte_start": 340908,
+                                "byte_stop": 367135,
+                                "text": "We hold that there is insufficient evidence that Congress meant to preclude petitioners\u0027 1983 claims."
+                            },
+                            {
+                                "start": 64.37,
+                                "stop": 66.168,
+                                "byte_start": 367135,
+                                "byte_stop": 374136,
+                                "text": "The opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53876,
+            "mime": "audio\/mpeg",
+            "size": 374554,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2008\/07-1125\/20090121o_07-1125.delivery.mp3"
+        },
+        {
+            "id": 75616,
+            "mime": "audio\/ogg",
+            "size": 683874,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2008\/07-1125\/20090121o_07-1125.ogg"
+        },
+        {
+            "id": 75617,
+            "mime": "application\/x-mpegURL",
+            "size": 1123,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2008\/07-1125\/20090121o_07-1125.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

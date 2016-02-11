@@ -1,0 +1,88 @@
+{
+    "id": 19183,
+    "title": "Opinion Announcement - January 21, 1981",
+    "transcript": {
+        "title": "Rubin v. United States",
+        "duration": 19.977,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 19.977,
+                "byte_start": 92071,
+                "byte_stop": 171901,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 19.977,
+                        "byte_start": 92071,
+                        "byte_stop": 171901,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.128,
+                                "byte_start": 92071,
+                                "byte_stop": 148600,
+                                "text": "And in Ruben against the United States, again for reasons stated in an opinion filed this morning, the judgment of the United States Court of Appeals for the Second Circuit is affirmed."
+                            },
+                            {
+                                "start": 14.128,
+                                "stop": 19.977,
+                                "byte_start": 148600,
+                                "byte_stop": 171901,
+                                "text": "Justice Blackmun filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47490,
+            "mime": "audio\/mpeg",
+            "size": 172110,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1980\/79-1013\/19810121o_79-1013.delivery.mp3"
+        },
+        {
+            "id": 69316,
+            "mime": "audio\/ogg",
+            "size": 217641,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1980\/79-1013\/19810121o_79-1013.ogg"
+        },
+        {
+            "id": 69317,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1980\/79-1013\/19810121o_79-1013.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

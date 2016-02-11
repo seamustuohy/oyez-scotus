@@ -1,0 +1,88 @@
+{
+    "id": 15807,
+    "title": "Opinion Announcement - June 21, 1976",
+    "transcript": {
+        "title": "City of Eastlake v. Forest City Enterprises, Inc.",
+        "duration": 34.73,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.73,
+                "byte_start": 73692,
+                "byte_stop": 212559,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 34.73,
+                        "byte_start": 73692,
+                        "byte_stop": 212559,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 25.375,
+                                "byte_start": 73692,
+                                "byte_stop": 175256,
+                                "text": "I have the judgment and opinion for the court to announce in 74-1563 the City of Eastlake against Forest City Enterprises, and for reason stated in an opinion filed with the clerk this morning, the judgment of the Supreme Court of is reversed and the case is remanded for proceedings not inconsistent with this opinion."
+                            },
+                            {
+                                "start": 25.375,
+                                "stop": 34.73,
+                                "byte_start": 175256,
+                                "byte_stop": 212559,
+                                "text": "Mr. Justice Powell has filed a dissenting opinion, Mr. Justice Stevens joined by Mr. Justice Brennan has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40736,
+            "mime": "audio\/mpeg",
+            "size": 212768,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-1563\/19760621o_74-1563.delivery.mp3"
+        },
+        {
+            "id": 62680,
+            "mime": "audio\/ogg",
+            "size": 362553,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-1563\/19760621o_74-1563.ogg"
+        },
+        {
+            "id": 62681,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-1563\/19760621o_74-1563.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

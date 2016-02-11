@@ -1,0 +1,153 @@
+{
+    "id": 23358,
+    "title": "Opinion Announcement - May 16, 1988",
+    "transcript": {
+        "title": "McLaughlin v. Richland Shoe Company",
+        "duration": 50.034,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 50.034,
+                "byte_start": 28672,
+                "byte_stop": 228770,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.259,
+                        "byte_start": 28672,
+                        "byte_stop": 65766,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.259,
+                                "byte_start": 28672,
+                                "byte_stop": 65766,
+                                "text": "The opinion of the Court in No. 86-1520, McLaughlin versus Richland Shoe Company will be announced by Justice Stevens."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.259,
+                        "stop": 50.034,
+                        "byte_start": 65766,
+                        "byte_stop": 228770,
+                        "speaker": {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.259,
+                                "stop": 23.319,
+                                "byte_start": 65766,
+                                "byte_stop": 121981,
+                                "text": "The Fair Labor Standards Act requires that a civil enforcement action be commenced within two years after the cause of action accrued unless the violation was willful in which event the statute of limitations is three years."
+                            },
+                            {
+                                "start": 23.319,
+                                "stop": 31.034,
+                                "byte_start": 121981,
+                                "byte_stop": 152910,
+                                "text": "There\u0027s a conflict among the Courts of Appeals as to the proper meaning of the word, \u201cproper standard\u201d to use in interpreting the word \u201cwillful\u201d."
+                            },
+                            {
+                                "start": 31.034,
+                                "stop": 43.003,
+                                "byte_start": 152910,
+                                "byte_stop": 200767,
+                                "text": "And for reasons stated in an opinion filed with the clerk today, we resolved that conflict by agreeing with the approach taken by the Court of Appeals for the Third Circuit and affirm its judgment in this case."
+                            },
+                            {
+                                "start": 43.003,
+                                "stop": 50.034,
+                                "byte_start": 200767,
+                                "byte_stop": 228770,
+                                "text": "Justice Marshall has filed a dissenting opinion joined by Justice Brennan and Justice Blackmun."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55838,
+            "mime": "audio\/mpeg",
+            "size": 229083,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1520\/19880516o_86-1520.delivery.mp3"
+        },
+        {
+            "id": 77550,
+            "mime": "audio\/ogg",
+            "size": 489502,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1520\/19880516o_86-1520.ogg"
+        },
+        {
+            "id": 77551,
+            "mime": "application\/x-mpegURL",
+            "size": 859,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1520\/19880516o_86-1520.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,146 @@
+{
+    "id": 18899,
+    "title": "Opinion Announcement - May 16, 1988",
+    "transcript": {
+        "title": "California v. Greenwood",
+        "duration": 39.39,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 39.39,
+                "byte_start": 28672,
+                "byte_stop": 186138,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 14.472,
+                        "byte_start": 28672,
+                        "byte_stop": 86664,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.472,
+                                "byte_start": 28672,
+                                "byte_stop": 86664,
+                                "text": "The opinion of the Court in two cases No. 86-684, California against Greenwood, No. 87-339, City of New York versus Federal Communications Commission will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 14.472,
+                        "stop": 39.39,
+                        "byte_start": 86664,
+                        "byte_stop": 186138,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 14.472,
+                                "stop": 27.018,
+                                "byte_start": 86664,
+                                "byte_stop": 136819,
+                                "text": "In California against Greenwood, which is here from the Court of Appeals of California, we reversed the judgment of that court."
+                            },
+                            {
+                                "start": 27.018,
+                                "stop": 36.648,
+                                "byte_start": 136819,
+                                "byte_stop": 175271,
+                                "text": "We have filed an opinion and explaining why Justice Brennan joined by Justice Marshall has filed a dissenting opinion."
+                            },
+                            {
+                                "start": 36.648,
+                                "stop": 39.39,
+                                "byte_start": 175271,
+                                "byte_stop": 186138,
+                                "text": "Justice Kennedy took no part in the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46921,
+            "mime": "audio\/mpeg",
+            "size": 186452,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-684\/19880516o_86-684.delivery.mp3"
+        },
+        {
+            "id": 68752,
+            "mime": "audio\/ogg",
+            "size": 391727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-684\/19880516o_86-684.ogg"
+        },
+        {
+            "id": 68753,
+            "mime": "application\/x-mpegURL",
+            "size": 713,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-684\/19880516o_86-684.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

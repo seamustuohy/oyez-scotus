@@ -1,0 +1,202 @@
+{
+    "ID": 62329,
+    "name": "Ware v. Hylton",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/3us199",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Ware",
+    "second_party": "Hylton",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -5487760800,
+                -5487588000,
+                -5487501600,
+                -5487415200,
+                -5487328800,
+                -5487242400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52821"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -5485168800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52822"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EThis case involved the Treaty of Paris, which established peace in 1783. A Virginian owed a debt to a British subject. A Virginia law provided for the confiscation of such debts on the ground the the debt was owed to an alien enemy. The British subject (actually, his administrator) sued in a federal court to recover on the bond. The administrator argued that the Treaty of Paris ensured the collection of such debts.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDoes the Treaty of Paris override an otherwise valid state law?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EFour of the five justices wrote opinions. It was the practice of the day for the Court to issue opinions seriatim, or one after another. There was no \u0022opinion for the Court.\u0022 Collectively, the justices held that federal courts had the power to determine the constitutionality of state laws. They invalidated the Virginia law under the supremacy clause and, in the words of a distinguished scholar of the period, \u0022established for all time [the Supreme Court\u0027s] power of judicial review of state laws.\u0022\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "3",
+        "page": "199",
+        "year": "1796",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27131"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15234,
+            "name": "Interim Court (1796)",
+            "href": "https:\/\/api.oyez.org\/courts\/interim3",
+            "members": [
+                {
+                    "ID": 15077,
+                    "name": "William Cushing",
+                    "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                    "last_name": "Cushing",
+                    "roles": [
+                        {
+                            "id": 2721,
+                            "type": "scotus_justice",
+                            "date_start": -5677408800,
+                            "date_end": -5027076000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32776,
+                        "mime": "image\/png",
+                        "size": 52796,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                    },
+                    "length_of_service": 7527,
+                    "identifier": "william_cushing"
+                },
+                {
+                    "ID": 15132,
+                    "name": "James Wilson",
+                    "href": "https:\/\/api.oyez.org\/people\/james_wilson",
+                    "last_name": "Wilson",
+                    "roles": [
+                        {
+                            "id": 2777,
+                            "type": "scotus_justice",
+                            "date_start": -5687776800,
+                            "date_end": -5407668000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2777"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32723,
+                        "mime": "image\/png",
+                        "size": 52013,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_wilson.png"
+                    },
+                    "length_of_service": 3242,
+                    "identifier": "james_wilson"
+                },
+                {
+                    "ID": 15130,
+                    "name": "James Iredell",
+                    "href": "https:\/\/api.oyez.org\/people\/james_iredell",
+                    "last_name": "Iredell",
+                    "roles": [
+                        {
+                            "id": 2775,
+                            "type": "scotus_justice",
+                            "date_start": -5668855200,
+                            "date_end": -5370948000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2775"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32791,
+                        "mime": "image\/png",
+                        "size": 55311,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_iredell.png"
+                    },
+                    "length_of_service": 3448,
+                    "identifier": "james_iredell"
+                },
+                {
+                    "ID": 15070,
+                    "name": "William Paterson",
+                    "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                    "last_name": "Paterson",
+                    "roles": [
+                        {
+                            "id": 2714,
+                            "type": "scotus_justice",
+                            "date_start": -5579517600,
+                            "date_end": -5153652000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32782,
+                        "mime": "image\/png",
+                        "size": 48669,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                    },
+                    "length_of_service": 4929,
+                    "identifier": "william_paterson"
+                },
+                {
+                    "ID": 15105,
+                    "name": "Samuel Chase",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                    "last_name": "Chase",
+                    "roles": [
+                        {
+                            "id": 2749,
+                            "type": "scotus_justice",
+                            "date_start": -5487933600,
+                            "date_end": -5002970400,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32759,
+                        "mime": "image\/png",
+                        "size": 52231,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                    },
+                    "length_of_service": 5613,
+                    "identifier": "samuel_chase"
+                }
+            ],
+            "court_start": -5487933600,
+            "images": [
+                {
+                    "id": 57154,
+                    "mime": "image\/jpeg",
+                    "size": 1992107,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1990-270-for-repro%2C%20Old%20City%20Hall%20PA%201791-1800_6.jpg"
+                }
+            ],
+            "identifier": "interim3"
+        }
+    ],
+    "decided_by": null,
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

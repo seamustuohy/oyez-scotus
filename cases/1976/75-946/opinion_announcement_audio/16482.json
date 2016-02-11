@@ -1,0 +1,95 @@
+{
+    "id": 16482,
+    "title": "Opinion Announcement - December 08, 1976",
+    "transcript": {
+        "title": "City of Madison Joint School District No. 8 v. Wisconsin Employment Relations Commission",
+        "duration": 35.821,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.821,
+                "byte_start": 100558,
+                "byte_stop": 243814,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.821,
+                        "byte_start": 100558,
+                        "byte_stop": 243814,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 26.954,
+                                "byte_start": 100558,
+                                "byte_stop": 208391,
+                                "text": "I have the judgments and opinion of the Court to announce Number 75-946, the City of Madison School District against the Wisconsin Employment Relations Commission and for reasons stated and an opinion filed with the Clerk of the Court this morning, the judgment of the Supreme Court of Wisconsin is reversed and the case is remanded to that Court for further proceedings not inconsistent with the opinion filed."
+                            },
+                            {
+                                "start": 26.954,
+                                "stop": 32.273,
+                                "byte_start": 208391,
+                                "byte_stop": 229707,
+                                "text": "Mr. Justice Brennan with whom Mr. Justice Marshall joined and filed an opinion concurring in the judgment."
+                            },
+                            {
+                                "start": 32.273,
+                                "stop": 35.821,
+                                "byte_start": 229707,
+                                "byte_stop": 243814,
+                                "text": "Mr. Justice Stewart filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42086,
+            "mime": "audio\/mpeg",
+            "size": 244022,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-946\/19761208o_75-946.delivery.mp3"
+        },
+        {
+            "id": 64008,
+            "mime": "audio\/ogg",
+            "size": 376306,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-946\/19761208o_75-946.ogg"
+        },
+        {
+            "id": 64009,
+            "mime": "application\/x-mpegURL",
+            "size": 627,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-946\/19761208o_75-946.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

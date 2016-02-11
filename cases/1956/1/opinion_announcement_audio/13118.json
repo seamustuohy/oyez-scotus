@@ -1,0 +1,102 @@
+{
+    "id": 13118,
+    "title": "Opinion Announcement - October 15, 1956",
+    "transcript": {
+        "title": null,
+        "duration": 48.614,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 48.614,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 48.614,
+                        "byte_start": 28672,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.526,
+                                "byte_start": 28672,
+                                "byte_stop": 106830,
+                                "text": "In No. 1 on the docket, William Thompson versus Coastal Oil Company, the judgment of the United States Court of Appeals for the Third Circuit is reversed, and the judgment of the United States District Court for the District of New Jersey is reinstated."
+                            },
+                            {
+                                "start": 19.526,
+                                "stop": 33.97,
+                                "byte_start": 106830,
+                                "byte_stop": 164613,
+                                "text": "Mr. Justice Harlan concurs in the result, but would have preferred to remand the case to the Court of Appeals for a determination as to whether the District Court properly found the vessel unseaworthy."
+                            },
+                            {
+                                "start": 33.97,
+                                "stop": 40.605,
+                                "byte_start": 164613,
+                                "byte_stop": 191154,
+                                "text": "Mr. Justice Reed, Mr. Justice Frankfurter, Mr. Justice Burton, and Mr. Justice Minton dissent."
+                            },
+                            {
+                                "start": 40.605,
+                                "stop": 48.614,
+                                "byte_start": 191154,
+                                "byte_stop": 0,
+                                "text": "The other orders of the Court appear formally certified by the Chief Justice and filed with the clerk, and will not be orally announced."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 35356,
+            "mime": "audio\/mpeg",
+            "size": 222292,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1955\/1\/19561015o_1.delivery.mp3"
+        },
+        {
+            "id": 57413,
+            "mime": "audio\/ogg",
+            "size": 464586,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1955\/1\/19561015o_1.ogg"
+        },
+        {
+            "id": 57414,
+            "mime": "application\/x-mpegURL",
+            "size": 757,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1955\/1\/19561015o_1.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

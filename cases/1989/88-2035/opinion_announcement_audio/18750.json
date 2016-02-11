@@ -1,0 +1,146 @@
+{
+    "id": 18750,
+    "title": "Opinion Announcement - March 21, 1990",
+    "transcript": {
+        "title": "Adams Fruit Company, Inc. v. Barrett",
+        "duration": 37.12,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.12,
+                "byte_start": 87129,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 10.189,
+                        "byte_start": 87129,
+                        "byte_stop": 127985,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.189,
+                                "byte_start": 87129,
+                                "byte_stop": 127985,
+                                "text": "The opinion of the Court in No. 88-2035, Adams Fruit Company versus Barrett will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 10.189,
+                        "stop": 37.12,
+                        "byte_start": 127985,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 10.189,
+                                "stop": 16.911,
+                                "byte_start": 127985,
+                                "byte_stop": 154838,
+                                "text": "This case is here on writ of certiorari to the Court of Appeals for the Eleventh Circuit."
+                            },
+                            {
+                                "start": 16.911,
+                                "stop": 32.962,
+                                "byte_start": 154838,
+                                "byte_stop": 218995,
+                                "text": "In an opinion filed with the Clerk today, we hold that the receipt of workman\u0027s compensation benefits under state law does not preempt actions under the Agricultural Workers Protection Act."
+                            },
+                            {
+                                "start": 32.962,
+                                "stop": 37.12,
+                                "byte_start": 218995,
+                                "byte_stop": 0,
+                                "text": "We, therefore, affirm the judgment of the Eleventh Circuit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46623,
+            "mime": "audio\/mpeg",
+            "size": 235609,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-2035\/19900321o_88-2035.delivery.mp3"
+        },
+        {
+            "id": 68458,
+            "mime": "audio\/ogg",
+            "size": 364310,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-2035\/19900321o_88-2035.ogg"
+        },
+        {
+            "id": 68459,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-2035\/19900321o_88-2035.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

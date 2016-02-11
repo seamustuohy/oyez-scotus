@@ -1,0 +1,88 @@
+{
+    "id": 17151,
+    "title": "Opinion Announcement - March 03, 1975",
+    "transcript": {
+        "title": "United States v. Guana-Sanchez",
+        "duration": 19.88,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 19.88,
+                "byte_start": 28672,
+                "byte_stop": 108189,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 19.88,
+                        "byte_start": 28672,
+                        "byte_stop": 108189,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.066,
+                                "byte_start": 28672,
+                                "byte_stop": 88963,
+                                "text": "I have the disposition to announce in 73-820, United States against Guana-Sanchez in which the writ of certiorari is dismissed as having been improvidently granted."
+                            },
+                            {
+                                "start": 15.066,
+                                "stop": 19.88,
+                                "byte_start": 88963,
+                                "byte_stop": 108189,
+                                "text": "Mr. Justice Douglas took no part in the consideration or decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43424,
+            "mime": "audio\/mpeg",
+            "size": 108502,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-820\/19750303o_73-820.delivery.mp3"
+        },
+        {
+            "id": 65314,
+            "mime": "audio\/ogg",
+            "size": 200453,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-820\/19750303o_73-820.ogg"
+        },
+        {
+            "id": 65315,
+            "mime": "application\/x-mpegURL",
+            "size": 412,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-820\/19750303o_73-820.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,90 @@
+{
+    "id": 20390,
+    "title": "Opinion Announcement - April 21, 1992",
+    "transcript": {
+        "title": "United States v. Alaska",
+        "duration": 40.359,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 40.359,
+                "byte_start": 90854,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 40.359,
+                        "byte_start": 90854,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 14.274,
+                                "byte_start": 90854,
+                                "byte_stop": 148010,
+                                "text": "The second case, United States against Alaska, arises under our original jurisdiction, and it involves issues about the offshore boundary of the State of Alaska."
+                            },
+                            {
+                                "start": 14.274,
+                                "stop": 24.544,
+                                "byte_start": 148010,
+                                "byte_stop": 189074,
+                                "text": "The United States and the state have filed a cross-motions for summary judgment, and the case was briefed and argued."
+                            },
+                            {
+                                "start": 24.544,
+                                "stop": 37.853,
+                                "byte_start": 189074,
+                                "byte_stop": 242364,
+                                "text": "And as we will declare from an opinion on file with the Clerk, we grant the motion for summary judgment filed by the United States and deny the similar motion by the state."
+                            },
+                            {
+                                "start": 37.853,
+                                "stop": 40.359,
+                                "byte_start": 242364,
+                                "byte_stop": 0,
+                                "text": "The opinion is unanimous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49904,
+            "mime": "audio\/mpeg",
+            "size": 252291,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/118%20ORIG\/19920421o_118orig.delivery.mp3"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

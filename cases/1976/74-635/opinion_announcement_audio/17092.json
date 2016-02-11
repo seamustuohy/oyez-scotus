@@ -1,0 +1,88 @@
+{
+    "id": 17092,
+    "title": "Opinion Announcement - May 23, 1977",
+    "transcript": {
+        "title": "United States v. Wong",
+        "duration": 22.891,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 22.891,
+                "byte_start": 100531,
+                "byte_stop": 192064,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 22.891,
+                        "byte_start": 100531,
+                        "byte_stop": 192064,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.374,
+                                "byte_start": 100531,
+                                "byte_stop": 154030,
+                                "text": "I have the disposition of three cases to announce in 74-635, United States against Rose Wong for reasons stated in an opinion with the Court filed this morning."
+                            },
+                            {
+                                "start": 13.374,
+                                "stop": 22.891,
+                                "byte_start": 154030,
+                                "byte_stop": 192064,
+                                "text": "The judgment of the United States Court of Appeals for the Ninth Circuit is reversed and the case is remanded to that Court for further proceedings consistent with our opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43306,
+            "mime": "audio\/mpeg",
+            "size": 192273,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/74-635\/19770523o_74-635.delivery.mp3"
+        },
+        {
+            "id": 65200,
+            "mime": "audio\/ogg",
+            "size": 239728,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/74-635\/19770523o_74-635.ogg"
+        },
+        {
+            "id": 65201,
+            "mime": "application\/x-mpegURL",
+            "size": 455,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/74-635\/19770523o_74-635.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,339 @@
+{
+    "id": 23005,
+    "title": "Opinion Announcement - June 10, 2013",
+    "transcript": {
+        "title": "Peugh v. United States",
+        "duration": 311.52,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 311.52,
+                "byte_start": 105472,
+                "byte_stop": 1351513,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 6.424,
+                        "byte_start": 105472,
+                        "byte_stop": 131176,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.424,
+                                "byte_start": 105472,
+                                "byte_stop": 131176,
+                                "text": "Justice Sotomayor has our opinion this morning in case 12-62, Peugh versus United States."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 6.424,
+                        "stop": 311.52,
+                        "byte_start": 131176,
+                        "byte_stop": 1351513,
+                        "speaker": {
+                            "ID": 15131,
+                            "name": "Sonia Sotomayor",
+                            "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                            "last_name": "Sotomayor",
+                            "roles": [
+                                {
+                                    "id": 2776,
+                                    "type": "scotus_justice",
+                                    "date_start": 1249707600,
+                                    "date_end": 0,
+                                    "appointing_president": null,
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2776"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32685,
+                                "mime": "image\/png",
+                                "size": 50379,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                            },
+                            "length_of_service": 2293,
+                            "identifier": "sonia_sotomayor"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 6.424,
+                                "stop": 14.874,
+                                "byte_start": 131176,
+                                "byte_stop": 165031,
+                                "text": "In an effort of to reduce unwarranted disparities in federal sentencing, Congress passed the Sentencing Reform Act."
+                            },
+                            {
+                                "start": 14.874,
+                                "stop": 22.372,
+                                "byte_start": 165031,
+                                "byte_stop": 195020,
+                                "text": "The Act created the United States Sentencing Commission which is tasked with promulgating sentencing guidelines."
+                            },
+                            {
+                                "start": 22.372,
+                                "stop": 35.539,
+                                "byte_start": 195020,
+                                "byte_stop": 247683,
+                                "text": "Those guidelines prescribe a sentencing range for a criminal defendant based on his personal characteristics such as his criminal history and the characteristics of his offense."
+                            },
+                            {
+                                "start": 35.539,
+                                "stop": 43.172,
+                                "byte_start": 247683,
+                                "byte_stop": 278194,
+                                "text": "As enacted, the guidelines were meant to be mandatory, meaning that they were legally binding on the sentencing court."
+                            },
+                            {
+                                "start": 43.172,
+                                "stop": 50.7,
+                                "byte_start": 278194,
+                                "byte_stop": 308287,
+                                "text": "In United States versus Booker, this Court found that the mandatory guidelines were unconstitutional."
+                            },
+                            {
+                                "start": 50.7,
+                                "stop": 63.91,
+                                "byte_start": 308287,
+                                "byte_stop": 361159,
+                                "text": "To cure the constitutional problem, the Court struck down the provisions of the act that made the guidelines mandatory and left an advisory system in its place."
+                            },
+                            {
+                                "start": 63.91,
+                                "stop": 79.301,
+                                "byte_start": 361159,
+                                "byte_stop": 422703,
+                                "text": "After Booker, the guidelines still operate to channel sentencing discretion and avoid excessive disparities, but District Courts may now sentence outside the guidelines subject to deferential appellate review."
+                            },
+                            {
+                                "start": 79.301,
+                                "stop": 84.283,
+                                "byte_start": 422703,
+                                "byte_stop": 442661,
+                                "text": "The Sentencing Commission periodically reviews and amends the Guidelines."
+                            },
+                            {
+                                "start": 84.283,
+                                "stop": 94.383,
+                                "byte_start": 442661,
+                                "byte_stop": 483098,
+                                "text": "District Courts are directed to apply the most up-to-date version of the guidelines in effect at the time of sentencing with one caveat."
+                            },
+                            {
+                                "start": 94.383,
+                                "stop": 107.903,
+                                "byte_start": 483098,
+                                "byte_stop": 537119,
+                                "text": "They are not to do so if applying the new guidelines would violate the Constitution\u0027s ex post facto clause by retroactively increasing the punishment for the defendant\u0027s crime."
+                            },
+                            {
+                                "start": 107.903,
+                                "stop": 117.749,
+                                "byte_start": 537119,
+                                "byte_stop": 576512,
+                                "text": "We have interpreted this clause to bar laws that create a significant risk of increasing a defendant\u0027s punishment."
+                            },
+                            {
+                                "start": 117.749,
+                                "stop": 131.25,
+                                "byte_start": 576512,
+                                "byte_stop": 630533,
+                                "text": "The question presented here is whether now that the guidelines are advisory; it violates the ex post facto clause to apply a new, more punitive guideline retroactively."
+                            },
+                            {
+                                "start": 131.25,
+                                "stop": 136.666,
+                                "byte_start": 630533,
+                                "byte_stop": 652163,
+                                "text": "Petitioner Marvin Peugh was convicted of multiple counts of bank fraud."
+                            },
+                            {
+                                "start": 136.666,
+                                "stop": 147.72,
+                                "byte_start": 652163,
+                                "byte_stop": 696362,
+                                "text": "Under the version of the guidelines in effect at the time of his crime, Peugh would have been subject to an advisory guideline range of 30 to 37 months of imprisonment."
+                            },
+                            {
+                                "start": 147.72,
+                                "stop": 162.568,
+                                "byte_start": 696362,
+                                "byte_stop": 755816,
+                                "text": "But in between the time of the crime and Peugh\u0027s sentencing, the Sentencing Commission amended the guidelines in several ways, increasing Peugh\u0027s guideline range to 70 to 87 months of imprisonment."
+                            },
+                            {
+                                "start": 162.568,
+                                "stop": 170.58,
+                                "byte_start": 755816,
+                                "byte_stop": 787895,
+                                "text": "The District Court rejected Peugh\u0027s argument that applying the new guideline range violated the ex post facto clause."
+                            },
+                            {
+                                "start": 170.58,
+                                "stop": 179.168,
+                                "byte_start": 787895,
+                                "byte_stop": 822168,
+                                "text": "The court decided that a within-guideline sentence was appropriate and sentenced Peugh to 70 months of imprisonment."
+                            },
+                            {
+                                "start": 179.168,
+                                "stop": 193.273,
+                                "byte_start": 822168,
+                                "byte_stop": 878592,
+                                "text": "The Court of Appeals for the Seventh Circuit affirmed, applying circuit precedent holding that retroactive increases in the advisory sentencing guidelines do not implicate an ex post facto concern."
+                            },
+                            {
+                                "start": 193.273,
+                                "stop": 196.857,
+                                "byte_start": 878592,
+                                "byte_stop": 892907,
+                                "text": "We granted certiorari and now reversed."
+                            },
+                            {
+                                "start": 196.857,
+                                "stop": 204.168,
+                                "byte_start": 892907,
+                                "byte_stop": 922164,
+                                "text": "While the guidelines are no longer mandatory, they still occupy a central role in sentencing."
+                            },
+                            {
+                                "start": 204.168,
+                                "stop": 210.884,
+                                "byte_start": 922164,
+                                "byte_stop": 949018,
+                                "text": "Indeed, they are designed to anchor sentencing discretion in order to promote uniformity."
+                            },
+                            {
+                                "start": 210.884,
+                                "stop": 220.491,
+                                "byte_start": 949018,
+                                "byte_stop": 987470,
+                                "text": "Under our post-Booker precedents, District Courts are required to begin sentencing by calculating correctly the guidelines range."
+                            },
+                            {
+                                "start": 220.491,
+                                "stop": 224.738,
+                                "byte_start": 987470,
+                                "byte_stop": 1004502,
+                                "text": "Failure to do so is reversible procedural error."
+                            },
+                            {
+                                "start": 224.738,
+                                "stop": 235.362,
+                                "byte_start": 1004502,
+                                "byte_stop": 1046925,
+                                "text": "District Courts may depart from the range, but they must consider the extent of any deviation and provide us sufficient justification to support the variance."
+                            },
+                            {
+                                "start": 235.362,
+                                "stop": 248.792,
+                                "byte_start": 1046925,
+                                "byte_stop": 1100737,
+                                "text": "Court of Appeals, in turn, may presume a within-guidelines range as reasonable and may further consider the extent of any deviation from the guidelines in reviewing a sentence for reasonableness."
+                            },
+                            {
+                                "start": 248.792,
+                                "stop": 259.712,
+                                "byte_start": 1100737,
+                                "byte_stop": 1144414,
+                                "text": "The cumulative effect of these legal rules is to make the guidelines the loadstar of sentencing in the federal system, even in a post-Booker world."
+                            },
+                            {
+                                "start": 259.712,
+                                "stop": 269.798,
+                                "byte_start": 1144414,
+                                "byte_stop": 1184747,
+                                "text": "Both common sense and empirical evidence indicate that these rules will steer District Courts to give more within-guideline sentences."
+                            },
+                            {
+                                "start": 269.798,
+                                "stop": 278.936,
+                                "byte_start": 1184747,
+                                "byte_stop": 1221319,
+                                "text": "As a result, increasing the applicable sentencing range carries a significant risk of an increased punishment."
+                            },
+                            {
+                                "start": 278.936,
+                                "stop": 293.838,
+                                "byte_start": 1221319,
+                                "byte_stop": 1280878,
+                                "text": "For these reasons which we elaborate in greater detail in the opinion filed today, we hold that retroactively applying an increase in the applicable guideline range violates the ex post facto clause."
+                            },
+                            {
+                                "start": 293.838,
+                                "stop": 297.265,
+                                "byte_start": 1280878,
+                                "byte_stop": 1294566,
+                                "text": "The judgment of the Seventh Circuit is reversed."
+                            },
+                            {
+                                "start": 297.265,
+                                "stop": 305.527,
+                                "byte_start": 1294566,
+                                "byte_stop": 1327585,
+                                "text": "Justice Thomas has filed a dissenting opinion which the Chief Justice, Justice Scalia and Justice Alito joined in part."
+                            },
+                            {
+                                "start": 305.527,
+                                "stop": 311.52,
+                                "byte_start": 1327585,
+                                "byte_stop": 1351513,
+                                "text": "Justice Alito has also filed a dissenting opinion which Justice Scalia joins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 55132,
+            "mime": "audio\/mpeg",
+            "size": 1351722,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2012\/12-62\/20130610o_12-62.delivery.mp3"
+        },
+        {
+            "id": 76872,
+            "mime": "audio\/ogg",
+            "size": 3042726,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2012\/12-62\/20130610o_12-62.ogg"
+        },
+        {
+            "id": 76873,
+            "mime": "application\/x-mpegURL",
+            "size": 4479,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2012\/12-62\/20130610o_12-62.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

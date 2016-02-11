@@ -1,0 +1,140 @@
+{
+    "id": 17960,
+    "title": "Opinion Announcement - January 22, 1990",
+    "transcript": {
+        "title": "Federal Trade Commission v. Superior Court Trial Lawyers Association",
+        "duration": 78.759,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 78.759,
+                "byte_start": 87144,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 78.759,
+                        "byte_start": 87144,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.594,
+                                "byte_start": 87144,
+                                "byte_stop": 129567,
+                                "text": "I have the opinion of the Court to announce in No. 88-1198 Federal Trade Commission versus Superior Court Trial Lawyers Association."
+                            },
+                            {
+                                "start": 10.594,
+                                "stop": 17.874,
+                                "byte_start": 129567,
+                                "byte_stop": 158720,
+                                "text": "In this case, the respondents are a group of lawyers who represent indigent criminal defendants in the District of Columbia."
+                            },
+                            {
+                                "start": 17.874,
+                                "stop": 25.477,
+                                "byte_start": 158720,
+                                "byte_stop": 189126,
+                                "text": "During a part of 1983, they agreed to refuse further clients until the district increase their fees."
+                            },
+                            {
+                                "start": 25.477,
+                                "stop": 40.078,
+                                "byte_start": 189126,
+                                "byte_stop": 247536,
+                                "text": "The district eventually capitulated to their demand, and the Federal Trade Commission initiated an enforcement proceeding, and after a hearing found that the lawyers\u2019 conduct was a per se violation of the antitrust laws."
+                            },
+                            {
+                                "start": 40.078,
+                                "stop": 54.619,
+                                "byte_start": 247536,
+                                "byte_stop": 305632,
+                                "text": "The Court of Appeals vacated the Commission\u2019s order but in an opinion authored by Justice Stevens, we hold that the First Amendment does not insulate respondents\u2019 conduct from an application of per se antitrust analysis."
+                            },
+                            {
+                                "start": 54.619,
+                                "stop": 62.543,
+                                "byte_start": 305632,
+                                "byte_stop": 337397,
+                                "text": "The expressive component of this boycott does not adequately distinguish it from other price-fixing agreements subject to those rules."
+                            },
+                            {
+                                "start": 62.543,
+                                "stop": 68.211,
+                                "byte_start": 337397,
+                                "byte_stop": 360071,
+                                "text": "We accordingly vacate the judgment of the Court of Appeals and remand for further proceedings."
+                            },
+                            {
+                                "start": 68.211,
+                                "stop": 78.759,
+                                "byte_start": 360071,
+                                "byte_stop": 0,
+                                "text": "Justice Brennan has filed an opinion dissenting in part in which Justice Marshall joins; Justice Blackmun has also filed an opinion concurring in part and dissenting in part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45042,
+            "mime": "audio\/mpeg",
+            "size": 402181,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-1198\/19900122o_88-1198.delivery.mp3"
+        },
+        {
+            "id": 66894,
+            "mime": "audio\/ogg",
+            "size": 788098,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-1198\/19900122o_88-1198.ogg"
+        },
+        {
+            "id": 66895,
+            "mime": "application\/x-mpegURL",
+            "size": 1299,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-1198\/19900122o_88-1198.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

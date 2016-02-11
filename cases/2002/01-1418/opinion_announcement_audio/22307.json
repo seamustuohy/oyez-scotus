@@ -1,0 +1,230 @@
+{
+    "id": 22307,
+    "title": "Opinion Announcement - March 31, 2003",
+    "transcript": {
+        "title": "Archer v. Warner",
+        "duration": 185.861,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 185.861,
+                "byte_start": 85156,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.391,
+                        "byte_start": 85156,
+                        "byte_stop": 118802,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.391,
+                                "byte_start": 85156,
+                                "byte_stop": 118802,
+                                "text": "The opinion of the Court in No. 01-1418 Archer against Warner will be announced by Justice Breyer."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.391,
+                        "stop": 185.861,
+                        "byte_start": 118802,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15139,
+                            "name": "Stephen G. Breyer",
+                            "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                            "last_name": "Breyer",
+                            "roles": [
+                                {
+                                    "id": 2785,
+                                    "type": "scotus_justice",
+                                    "date_start": 775890000,
+                                    "date_end": 0,
+                                    "appointing_president": "Bill Clinton",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32682,
+                                "mime": "image\/png",
+                                "size": 49908,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            },
+                            "length_of_service": 7777,
+                            "identifier": "stephen_g_breyer"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.391,
+                                "stop": 23.385,
+                                "byte_start": 118802,
+                                "byte_stop": 178779,
+                                "text": "The Bankruptcy Code provides that a debt shall not be dischargeable, and that means the debt survives bankruptcy \u201dto the extent\u201d it is for money obtained by fraud."
+                            },
+                            {
+                                "start": 23.385,
+                                "stop": 37.805,
+                                "byte_start": 178779,
+                                "byte_stop": 236457,
+                                "text": "Now, the question in this case is whether, the words that I have just read, can cover a debt under an agreement that settles and releases an earlier fraud claim, and we hold that it can."
+                            },
+                            {
+                                "start": 37.805,
+                                "stop": 51.424,
+                                "byte_start": 236457,
+                                "byte_stop": 290896,
+                                "text": "The case, in essence, presents the following circumstance: A sues B in state court for money obtained by fraud, A and B then settled the lawsuit."
+                            },
+                            {
+                                "start": 51.424,
+                                "stop": 73.579,
+                                "byte_start": 290896,
+                                "byte_stop": 379504,
+                                "text": "The settlement agreement provides that A, here said, that B would pay A $300,000, but B paid only $200,000,  then B went bankrupt, and A says  this remaining $100,000 debt survives bankruptcy because it is for money obtained by fraud."
+                            },
+                            {
+                                "start": 73.579,
+                                "stop": 81.191,
+                                "byte_start": 379504,
+                                "byte_stop": 410015,
+                                "text": "B says \u201cNo it is not, it is not the money obtained by fraud rather it is for money promised in a settlement agreement\u201d."
+                            },
+                            {
+                                "start": 81.191,
+                                "stop": 103.578,
+                                "byte_start": 410015,
+                                "byte_stop": 499563,
+                                "text": "Now, the lower courts agreed with B; they said this settlement agreement worked a novation, it erased whatever old debt there was for fraud and it substituted a new debt which is really a contract debt and it is that new debt which is not for money obtained by fraud, so it is dischargeable in bankruptcy."
+                            },
+                            {
+                                "start": 103.578,
+                                "stop": 105.796,
+                                "byte_start": 499563,
+                                "byte_stop": 508444,
+                                "text": "We do not agree with that view."
+                            },
+                            {
+                                "start": 105.796,
+                                "stop": 124.502,
+                                "byte_start": 508444,
+                                "byte_stop": 583259,
+                                "text": "In our view you do not have to choose one or the other characterization, you do not have to say either for fraud or for contract, the debt could be both a contract related debt, which is embodied in a settlement agreement and it could also and more basically be a debt for money obtained by fraud."
+                            },
+                            {
+                                "start": 124.502,
+                                "stop": 128.747,
+                                "byte_start": 583259,
+                                "byte_stop": 600186,
+                                "text": "At least, for the settled case itself was about fraud."
+                            },
+                            {
+                                "start": 128.747,
+                                "stop": 151.007,
+                                "byte_start": 600186,
+                                "byte_stop": 689212,
+                                "text": "This conclusion in our view follows from an earlier Supreme Court case called Brown versus Felsen, there the Court essentially held, as we see it, that the debt embodied in a consent decree could amount to the debt for money obtained by fraud as well wherefore example the case where the consent decree ended was a fraud case."
+                            },
+                            {
+                                "start": 151.007,
+                                "stop": 157.599,
+                                "byte_start": 689212,
+                                "byte_stop": 715647,
+                                "text": "We cannot find any significant difference between the consent decree in Brown and the settlement agreement here."
+                            },
+                            {
+                                "start": 157.599,
+                                "stop": 173.377,
+                                "byte_start": 715647,
+                                "byte_stop": 778759,
+                                "text": "In both instances, we would follow Congress\u0027s desire that bankruptcy court makes the fullest possible inquiry to ensure that all debts arising out of fraud are accepted from discharge no matter what their form."
+                            },
+                            {
+                                "start": 173.377,
+                                "stop": 178.074,
+                                "byte_start": 778759,
+                                "byte_stop": 797463,
+                                "text": "For these and other reasons set forth in the opinions, we reverse the Court of Appeals."
+                            },
+                            {
+                                "start": 178.074,
+                                "stop": 180.562,
+                                "byte_start": 797463,
+                                "byte_stop": 807494,
+                                "text": "We remand for further proceedings."
+                            },
+                            {
+                                "start": 180.562,
+                                "stop": 185.861,
+                                "byte_start": 807494,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas has filed a dissenting opinion which Justice Stevens has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53736,
+            "mime": "audio\/mpeg",
+            "size": 828601,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/01-1418\/20030331o_01-1418.delivery.mp3"
+        },
+        {
+            "id": 75476,
+            "mime": "audio\/ogg",
+            "size": 1915976,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/01-1418\/20030331o_01-1418.ogg"
+        },
+        {
+            "id": 75477,
+            "mime": "application\/x-mpegURL",
+            "size": 2839,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/01-1418\/20030331o_01-1418.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

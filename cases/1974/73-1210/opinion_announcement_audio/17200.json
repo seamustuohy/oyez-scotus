@@ -1,0 +1,95 @@
+{
+    "id": 17200,
+    "title": "Opinion Announcement - February 19, 1975",
+    "transcript": {
+        "title": "ICC v. Oregon Pacific Industries, Inc.",
+        "duration": 28.963,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.963,
+                "byte_start": 28672,
+                "byte_stop": 144447,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.963,
+                        "byte_start": 28672,
+                        "byte_stop": 144447,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 13.436,
+                                "byte_start": 28672,
+                                "byte_stop": 82484,
+                                "text": "In 73-1210, Interstate Commerce Commission against Oregon Pacific Industries, I have an opinion to announce on behalf of Mr. Justice Douglas."
+                            },
+                            {
+                                "start": 13.436,
+                                "stop": 24.897,
+                                "byte_start": 82484,
+                                "byte_stop": 128355,
+                                "text": "And for reasons stated in the opinion written by Mr. Justice Douglas and filed today, the judgment of the United States District Court for the District of Oregon is reversed."
+                            },
+                            {
+                                "start": 24.897,
+                                "stop": 28.963,
+                                "byte_start": 128355,
+                                "byte_stop": 144447,
+                                "text": "Mr. Justice Powell filed a concurring opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43522,
+            "mime": "audio\/mpeg",
+            "size": 144760,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1210\/19750219o_73-1210.delivery.mp3"
+        },
+        {
+            "id": 65410,
+            "mime": "audio\/ogg",
+            "size": 295165,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1210\/19750219o_73-1210.ogg"
+        },
+        {
+            "id": 65411,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1210\/19750219o_73-1210.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

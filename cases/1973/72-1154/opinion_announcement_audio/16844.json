@@ -1,0 +1,95 @@
+{
+    "id": 16844,
+    "title": "Opinion Announcement - December 05, 1973",
+    "transcript": {
+        "title": "Foley v. Blair \u0026 Company, Inc.",
+        "duration": 25.011,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 25.011,
+                "byte_start": 76800,
+                "byte_stop": 176797,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 25.011,
+                        "byte_start": 76800,
+                        "byte_stop": 176797,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 1.771,
+                                "byte_start": 76800,
+                                "byte_stop": 83905,
+                                "text": "Thank you Mr. Douglas."
+                            },
+                            {
+                                "start": 1.771,
+                                "stop": 10.939,
+                                "byte_start": 83905,
+                                "byte_stop": 120581,
+                                "text": "I have the opinion -- judgment and opinion of the Court to announce in Foley against Blair \u0026 Co., 72-1154."
+                            },
+                            {
+                                "start": 10.939,
+                                "stop": 25.011,
+                                "byte_start": 120581,
+                                "byte_stop": 176797,
+                                "text": "And for reasons stated in an opinion filed this morning, we vacate the judgment of the Court of Appeals and remand the case to that court to consider whether or not the case has become moot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42810,
+            "mime": "audio\/mpeg",
+            "size": 177006,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/72-1154\/19731205o_72-1154.delivery.mp3"
+        },
+        {
+            "id": 64718,
+            "mime": "audio\/ogg",
+            "size": 268172,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/72-1154\/19731205o_72-1154.ogg"
+        },
+        {
+            "id": 64719,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/72-1154\/19731205o_72-1154.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

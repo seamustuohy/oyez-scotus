@@ -1,0 +1,126 @@
+{
+    "id": 19379,
+    "title": "Opinion Announcement - March 31, 1987",
+    "transcript": {
+        "title": "United States v. Cherokee Nation of Oklahoma",
+        "duration": 71.602,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 71.602,
+                "byte_start": 91794,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 71.602,
+                        "byte_start": 91794,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 12.438,
+                                "byte_start": 91794,
+                                "byte_stop": 141636,
+                                "text": "I have the opinion of the Court to announce the No. 85-1940, United States against Cherokee Nation, a case that is here on a writ of certiorari to the Court of Appeals for the Tenth Circuit."
+                            },
+                            {
+                                "start": 12.438,
+                                "stop": 26.192,
+                                "byte_start": 141636,
+                                "byte_stop": 196597,
+                                "text": "In 1970, this Court found the treaties between the United States and certain Indian tribes including the respondent here, granted to the tribes, fee simple interest in portions of the bed of the Arkansas River."
+                            },
+                            {
+                                "start": 26.192,
+                                "stop": 39.77,
+                                "byte_start": 196597,
+                                "byte_stop": 250932,
+                                "text": "These interests were damaged by navigational improvement made by the United States to the Arkansas River as a part of the McClellan-Kerr Project and the tribe sought compensation for this damage under the Fifth Amendment."
+                            },
+                            {
+                                "start": 39.77,
+                                "stop": 52.523,
+                                "byte_start": 250932,
+                                "byte_stop": 301923,
+                                "text": "The United States claimed that it acted pursuant to its navigational servitude in making improvements to the Arkansas River but the Court of Appeals decided that the government must compensate that Tribe for the damage."
+                            },
+                            {
+                                "start": 52.523,
+                                "stop": 56.969,
+                                "byte_start": 301923,
+                                "byte_stop": 319686,
+                                "text": "In a unanimous opinion filed with the Clerk today, we reverse the Court of Appeals."
+                            },
+                            {
+                                "start": 56.969,
+                                "stop": 71.602,
+                                "byte_start": 319686,
+                                "byte_stop": 0,
+                                "text": "Our cases established that the exercise of the navigational servitude is not an invasion of private property rights but rather an exercise of a power to which river bed interests have always been subject and accordingly no compensation is due."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47882,
+            "mime": "audio\/mpeg",
+            "size": 378201,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1986\/85-1940\/19870331o_85-1940.delivery.mp3"
+        },
+        {
+            "id": 69706,
+            "mime": "audio\/ogg",
+            "size": 710436,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1986\/85-1940\/19870331o_85-1940.ogg"
+        },
+        {
+            "id": 69707,
+            "mime": "application\/x-mpegURL",
+            "size": 1167,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1986\/85-1940\/19870331o_85-1940.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

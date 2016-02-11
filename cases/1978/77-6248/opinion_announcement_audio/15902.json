@@ -1,0 +1,81 @@
+{
+    "id": 15902,
+    "title": "Opinion Announcement - December 11, 1978",
+    "transcript": {
+        "title": "Hunter v. Dean",
+        "duration": 9.777,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 9.777,
+                "byte_start": 28672,
+                "byte_stop": 67751,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.777,
+                        "byte_start": 28672,
+                        "byte_stop": 67751,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.777,
+                                "byte_start": 28672,
+                                "byte_stop": 67751,
+                                "text": "In Hunter against Dean, the writ of certiorari to the Supreme Court of Georgia is dismissed as having been improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40926,
+            "mime": "audio\/mpeg",
+            "size": 68065,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1978\/77-6248\/19781211o_77-6248.delivery.mp3"
+        },
+        {
+            "id": 62868,
+            "mime": "audio\/ogg",
+            "size": 102492,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1978\/77-6248\/19781211o_77-6248.ogg"
+        },
+        {
+            "id": 62869,
+            "mime": "application\/x-mpegURL",
+            "size": 287,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1978\/77-6248\/19781211o_77-6248.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

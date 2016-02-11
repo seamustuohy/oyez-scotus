@@ -1,0 +1,367 @@
+{
+    "id": 21980,
+    "title": "Opinion Announcement - February 24, 2010",
+    "transcript": {
+        "title": "Maryland v. Shatzer",
+        "duration": 398.55,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 398.55,
+                "byte_start": 107520,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.472,
+                        "byte_start": 107520,
+                        "byte_stop": 145450,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.472,
+                                "byte_start": 107520,
+                                "byte_stop": 145450,
+                                "text": "Justice Scalia has the opinion of the Court this morning in case 08-680, Maryland against Shatzer."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.472,
+                        "stop": 398.55,
+                        "byte_start": 145450,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.472,
+                                "stop": 14.232,
+                                "byte_start": 145450,
+                                "byte_stop": 164467,
+                                "text": "This case is here on writ of certiorari to Court of Appeals Maryland."
+                            },
+                            {
+                                "start": 14.232,
+                                "stop": 30.159,
+                                "byte_start": 164467,
+                                "byte_stop": 228206,
+                                "text": "In 2003 a police detective went to the Maryland prison where respondent Michael Shatzer was incarcerated for a prior offense and attempted to question him about allegations that he had sexually abused his son."
+                            },
+                            {
+                                "start": 30.159,
+                                "stop": 37.701,
+                                "byte_start": 228206,
+                                "byte_stop": 258403,
+                                "text": "Shatzer invoked his Miranda right to have counsel present during custodial interrogation."
+                            },
+                            {
+                                "start": 37.701,
+                                "stop": 41.38,
+                                "byte_start": 258403,
+                                "byte_stop": 273136,
+                                "text": "So the detective promptly terminated the interview."
+                            },
+                            {
+                                "start": 41.38,
+                                "stop": 50.971,
+                                "byte_start": 273136,
+                                "byte_stop": 311484,
+                                "text": "Shatzer was released back into the general prison population to continue serving his sentence and the investigation was closed."
+                            },
+                            {
+                                "start": 50.971,
+                                "stop": 67.232,
+                                "byte_start": 311484,
+                                "byte_stop": 376477,
+                                "text": "Two-and-a-half years later in 2006, the department received more specific allegations about the incident with Shatzer\u0027s son, so another detective reopened the investigation and attempted to interrogate, Shatzer who was still in prison."
+                            },
+                            {
+                                "start": 67.232,
+                                "stop": 71.925,
+                                "byte_start": 376477,
+                                "byte_stop": 395285,
+                                "text": "This time Shatzer agreed to speak to the detective without an attorney present."
+                            },
+                            {
+                                "start": 71.925,
+                                "stop": 78.51,
+                                "byte_start": 395285,
+                                "byte_stop": 421616,
+                                "text": "He signed a written waiver of his Miranda rights and he made inculpatory statements."
+                            },
+                            {
+                                "start": 78.51,
+                                "stop": 90.288,
+                                "byte_start": 421616,
+                                "byte_stop": 468741,
+                                "text": "Shatzer later sought to suppress the statements on the basis of the presumption of the involuntariness created in a case called Edwards versus Arizona."
+                            },
+                            {
+                                "start": 90.288,
+                                "stop": 106.362,
+                                "byte_start": 468741,
+                                "byte_stop": 533002,
+                                "text": "In that case this Court held that once a suspect invokes his Miranda right to a counsel, a subsequent waiver of that right in response to a police in attempt at interrogation is irrebuttably deemed involuntary."
+                            },
+                            {
+                                "start": 106.362,
+                                "stop": 127.114,
+                                "byte_start": 533002,
+                                "byte_stop": 616072,
+                                "text": "The trial court refused to suppress the statements reasoning that Edwards did not apply because Shatzer had experienced a break in Miranda custody, that is interrogative custody, between his 2003 invocation and the 2006 invocation -- interrogation."
+                            },
+                            {
+                                "start": 127.114,
+                                "stop": 145.813,
+                                "byte_start": 616072,
+                                "byte_stop": 690782,
+                                "text": "The Court of Appeals of Maryland reversed, holding that the passage of time alone does not end the Edwards protections and that even if a break in custody exception to Edwards did exist, Shatzer\u0027s release back into the general prison population did not constitute a break."
+                            },
+                            {
+                                "start": 145.813,
+                                "stop": 148.875,
+                                "byte_start": 690782,
+                                "byte_stop": 703112,
+                                "text": "We granted certiorari."
+                            },
+                            {
+                                "start": 148.875,
+                                "stop": 152.26,
+                                "byte_start": 703112,
+                                "byte_stop": 716591,
+                                "text": "Edwards is a judicially created prophylactic rule."
+                            },
+                            {
+                                "start": 152.26,
+                                "stop": 167.486,
+                                "byte_start": 716591,
+                                "byte_stop": 777509,
+                                "text": "Its fundamental purpose is to protect a suspect\u0027s choice not to be interrogated without counsel by preventing the police from badgering the suspect into waving his previously asserted right."
+                            },
+                            {
+                                "start": 167.486,
+                                "stop": 175.163,
+                                "byte_start": 777509,
+                                "byte_stop": 808229,
+                                "text": "It\u0027s easy to believe that a suspect\u0027s waiver was badgered or coerced in the paradigm Edward\u0027s case."
+                            },
+                            {
+                                "start": 175.163,
+                                "stop": 193.61,
+                                "byte_start": 808229,
+                                "byte_stop": 881998,
+                                "text": "When the suspect is held in uninterrupted pretrial custody between the first and second attempts at interrogation, he remains cut off from his normal life in isolated, in an unfamiliar police dominated atmosphere where his captors appear to control his fate."
+                            },
+                            {
+                                "start": 193.61,
+                                "stop": 208.087,
+                                "byte_start": 881998,
+                                "byte_stop": 939886,
+                                "text": "By contrast when a suspect is released from custody after the initial attempted interrogation and returns to his normal life for some time, there is little reason to believe that his change of heart was coerced."
+                            },
+                            {
+                                "start": 208.087,
+                                "stop": 211.088,
+                                "byte_start": 939886,
+                                "byte_stop": 951902,
+                                "text": "During the break in custody he was not isolated."
+                            },
+                            {
+                                "start": 211.088,
+                                "stop": 215.494,
+                                "byte_start": 951902,
+                                "byte_stop": 969561,
+                                "text": "He was likely able to seek advice from an attorney, family or friends."
+                            },
+                            {
+                                "start": 215.494,
+                                "stop": 226.322,
+                                "byte_start": 969561,
+                                "byte_stop": 1012820,
+                                "text": "He was in familiar surroundings and he had learned from his earlier experience that he could end the interrogation by simply refusing to speak without a counsel present."
+                            },
+                            {
+                                "start": 226.322,
+                                "stop": 232.086,
+                                "byte_start": 1012820,
+                                "byte_stop": 1035912,
+                                "text": "Applying Edwards in that situation would not further its fundamental purpose."
+                            },
+                            {
+                                "start": 232.086,
+                                "stop": 249.13,
+                                "byte_start": 1035912,
+                                "byte_stop": 1104144,
+                                "text": "Moreover, extending Edwards past a sufficient break in custody would have enormous costs, because it would prohibit the police from interrogating suspects who had ever invoked the Miranda right to counsel in connection with any offense in any jurisdiction."
+                            },
+                            {
+                                "start": 249.13,
+                                "stop": 261.575,
+                                "byte_start": 1104144,
+                                "byte_stop": 1153881,
+                                "text": "The duration of a break in custody here, two-and-a-half years, was plainly enough to eliminate the residual coercive effect of the prior custody, but would one year be enough or one week?"
+                            },
+                            {
+                                "start": 261.575,
+                                "stop": 289.682,
+                                "byte_start": 1153881,
+                                "byte_stop": 1266312,
+                                "text": "It is impractical, we think, to leave to case by case adjudication in the future, the question of what length break in custody is sufficient to end the Edwards protections, because this is a case in which the requisite police action, namely abstention from further interrogation, has been established by opinion of this Court rather than by statute, we think it appropriate to specify the necessary period of time."
+                            },
+                            {
+                                "start": 289.682,
+                                "stop": 305.048,
+                                "byte_start": 1266312,
+                                "byte_stop": 1327752,
+                                "text": "In our judgment 14 days will provide plenty of time for the suspect to get reacclimated to his normal life, to consult with friends and counsel and to shake off any residual coercive effects of his prior custody."
+                            },
+                            {
+                                "start": 305.048,
+                                "stop": 318.005,
+                                "byte_start": 1327752,
+                                "byte_stop": 1379579,
+                                "text": "There remains a second question in this case, whether Shatzer\u0027s release back into the general prison population qualifies as a break in interrogative custody?"
+                            },
+                            {
+                                "start": 318.005,
+                                "stop": 329.89,
+                                "byte_start": 1379579,
+                                "byte_stop": 1427122,
+                                "text": "Without minimizing the harsh realities of incarceration, we think lawful imprisonment imposed upon conviction does not create the coercive pressures identified in Miranda."
+                            },
+                            {
+                                "start": 329.89,
+                                "stop": 338.512,
+                                "byte_start": 1427122,
+                                "byte_stop": 1461603,
+                                "text": "When sentenced prisoners are released back into the general prison population, they return to their accustomed surroundings and daily routine."
+                            },
+                            {
+                                "start": 338.512,
+                                "stop": 344.203,
+                                "byte_start": 1461603,
+                                "byte_stop": 1484382,
+                                "text": "They regain the degree of control they had over their lives prior to the attempted interrogation."
+                            },
+                            {
+                                "start": 344.203,
+                                "stop": 354.746,
+                                "byte_start": 1484382,
+                                "byte_stop": 1526596,
+                                "text": "They are not isolated with their accusers and their continued detention is relatively disconnected from their prior unwillingness to cooperate with the investigation."
+                            },
+                            {
+                                "start": 354.746,
+                                "stop": 364.098,
+                                "byte_start": 1526596,
+                                "byte_stop": 1564003,
+                                "text": "The inherently compelling pressures of custodial interrogation ended when Shatzer returned to his normal life in state prison."
+                            },
+                            {
+                                "start": 364.098,
+                                "stop": 380.736,
+                                "byte_start": 1564003,
+                                "byte_stop": 1630563,
+                                "text": "Because Shatzer experienced a break in Miranda custody lasting more than two weeks between the 2003 and 2006 attempts at interrogation, Edwards does not mandate suppression of his 2006 statements."
+                            },
+                            {
+                                "start": 380.736,
+                                "stop": 388.466,
+                                "byte_start": 1630563,
+                                "byte_stop": 1661388,
+                                "text": "The judgment of the Court of Appeals Maryland is reversed and the case is remanded for further proceedings not inconsistent with this opinion."
+                            },
+                            {
+                                "start": 388.466,
+                                "stop": 394.035,
+                                "byte_start": 1661388,
+                                "byte_stop": 1683749,
+                                "text": "Justice Thomas has filed an opinion concurring in part and concurring in the judgment."
+                            },
+                            {
+                                "start": 394.035,
+                                "stop": 398.55,
+                                "byte_start": 1683749,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53082,
+            "mime": "audio\/mpeg",
+            "size": 1701721,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2009\/08-680\/20100224o_08-680.delivery.mp3"
+        },
+        {
+            "id": 74832,
+            "mime": "audio\/ogg",
+            "size": 3977268,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2009\/08-680\/20100224o_08-680.ogg"
+        },
+        {
+            "id": 74833,
+            "mime": "application\/x-mpegURL",
+            "size": 5830,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2009\/08-680\/20100224o_08-680.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

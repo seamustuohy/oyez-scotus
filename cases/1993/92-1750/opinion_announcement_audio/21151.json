@@ -1,0 +1,147 @@
+{
+    "id": 21151,
+    "title": "Opinion Announcement - March 01, 1994",
+    "transcript": {
+        "title": "Fogerty v. Fantasy, Inc.",
+        "duration": 87.275,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 87.275,
+                "byte_start": 91477,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 87.275,
+                        "byte_start": 91477,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.468,
+                                "byte_start": 91477,
+                                "byte_stop": 109449,
+                                "text": "I have the opinion of the Court to announce in Fogerty versus Fantasy, Inc."
+                            },
+                            {
+                                "start": 4.468,
+                                "stop": 13.268,
+                                "byte_start": 109449,
+                                "byte_stop": 144558,
+                                "text": "This case involves a dispute over the proper standards for awarding attorney\u0027s fees to successful litigants in copyright actions."
+                            },
+                            {
+                                "start": 13.268,
+                                "stop": 34.441,
+                                "byte_start": 144558,
+                                "byte_stop": 229299,
+                                "text": "The petitioner, Fogerty a musician, successfully defended a copyright infringement action brought against him by the respondent here and he then filed a motion for attorney\u0027s fees under the relevant provisions of the Copyright Act which provides that the court may award a reasonable attorney\u0027s fee to the prevailing party as part of the cost."
+                            },
+                            {
+                                "start": 34.441,
+                                "stop": 57.331,
+                                "byte_start": 229299,
+                                "byte_stop": 320832,
+                                "text": "The District Court in Los Angeles denied the motion for fees and the Court of Appeals for the Ninth Circuit upheld that ruling because under the Ninth Circuit\u0027s rule known as the dual standard, prevailing copyright defendants such as Fogerty must show that the original infringement suit was frivolous or brought in bad faith in order to receive fees."
+                            },
+                            {
+                                "start": 57.331,
+                                "stop": 62.058,
+                                "byte_start": 320832,
+                                "byte_stop": 339745,
+                                "text": "But prevailing plaintiffs are generally awarded such fees as a matter of course."
+                            },
+                            {
+                                "start": 62.058,
+                                "stop": 71.1,
+                                "byte_start": 339745,
+                                "byte_stop": 375898,
+                                "text": "In an opinion filed with the Clerk today, we hold that prevailing plaintiffs and prevailing defendants must be treated alike under Section 505."
+                            },
+                            {
+                                "start": 71.1,
+                                "stop": 81.225,
+                                "byte_start": 375898,
+                                "byte_stop": 416440,
+                                "text": "The language of the Section gives no hint of any basis of a distinction and the other arguments in favor of the dual standard, we disapprove."
+                            },
+                            {
+                                "start": 81.225,
+                                "stop": 84.265,
+                                "byte_start": 416440,
+                                "byte_stop": 428561,
+                                "text": "The judgment of the Court of Appeals is, therefore, reversed."
+                            },
+                            {
+                                "start": 84.265,
+                                "stop": 87.275,
+                                "byte_start": 428561,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas has filed an opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51426,
+            "mime": "audio\/mpeg",
+            "size": 440577,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1993\/92-1750\/19940301o_92-1750.delivery.mp3"
+        },
+        {
+            "id": 73202,
+            "mime": "audio\/ogg",
+            "size": 811712,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1993\/92-1750\/19940301o_92-1750.ogg"
+        },
+        {
+            "id": 73203,
+            "mime": "application\/x-mpegURL",
+            "size": 1431,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1993\/92-1750\/19940301o_92-1750.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,88 @@
+{
+    "id": 17889,
+    "title": "Opinion Announcement - April 19, 1977",
+    "transcript": {
+        "title": "Vorchheimer v. School Dist. of Philadelphia",
+        "duration": 20.578,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.578,
+                "byte_start": 100552,
+                "byte_stop": 182785,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.578,
+                        "byte_start": 100552,
+                        "byte_stop": 182785,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.099,
+                                "byte_start": 100552,
+                                "byte_stop": 161052,
+                                "text": "I have -- have also the disposition of 76-37, Vorchheimer against the School District of Philadelphia and in that case the judgment of the United States Court of Appeals for the Third Circuit was affirmed by an equally divided court."
+                            },
+                            {
+                                "start": 15.099,
+                                "stop": 20.578,
+                                "byte_start": 161052,
+                                "byte_stop": 182785,
+                                "text": "Mr. Justice Rehnquist took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44900,
+            "mime": "audio\/mpeg",
+            "size": 182994,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/76-37\/19770419o_76-37.delivery.mp3"
+        },
+        {
+            "id": 66756,
+            "mime": "audio\/ogg",
+            "size": 222507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/76-37\/19770419o_76-37.ogg"
+        },
+        {
+            "id": 66757,
+            "mime": "application\/x-mpegURL",
+            "size": 405,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/76-37\/19770419o_76-37.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

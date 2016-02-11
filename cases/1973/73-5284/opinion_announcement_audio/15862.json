@@ -1,0 +1,81 @@
+{
+    "id": 15862,
+    "title": "Opinion Announcement - June 26, 1974",
+    "transcript": {
+        "title": "Dorszynski v. United States",
+        "duration": 28.395,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.395,
+                "byte_start": 76800,
+                "byte_stop": 190380,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.395,
+                        "byte_start": 76800,
+                        "byte_stop": 190380,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 28.395,
+                                "byte_start": 76800,
+                                "byte_stop": 190380,
+                                "text": "I have the disposition to announce in 73-5284, Dorszynski against the United States and for reasons stated in an opinion filed this morning, the judgment of the Court of Appeals for the Seventh Circuit is reversed and the case is remanded to that court for further proceedings consistent with the Court\u0027s opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40846,
+            "mime": "audio\/mpeg",
+            "size": 190589,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-5284\/19740626o_73-5284.delivery.mp3"
+        },
+        {
+            "id": 62788,
+            "mime": "audio\/ogg",
+            "size": 279436,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-5284\/19740626o_73-5284.ogg"
+        },
+        {
+            "id": 62789,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-5284\/19740626o_73-5284.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

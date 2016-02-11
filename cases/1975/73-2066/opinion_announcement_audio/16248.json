@@ -1,0 +1,88 @@
+{
+    "id": 16248,
+    "title": "Opinion Announcement - January 26, 1976",
+    "transcript": {
+        "title": "National Independent Coal Operators\u0027 Association v. Kleppe",
+        "duration": 35.728,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.728,
+                "byte_start": 73691,
+                "byte_stop": 216529,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.728,
+                        "byte_start": 73691,
+                        "byte_stop": 216529,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 20.893,
+                                "byte_start": 73691,
+                                "byte_stop": 157283,
+                                "text": "I have the opinions to announce in two consolidated cases, 73-2066, the National Independent Coal Operators Association against the Secretary of Interior, and 74-521, Kleppe, the Secretary of Interior against Delta Mining."
+                            },
+                            {
+                                "start": 20.893,
+                                "stop": 35.728,
+                                "byte_start": 157283,
+                                "byte_stop": 216529,
+                                "text": "In the first of these two cases, for reasons stated in an opinion filed with the clerk this morning, the judgment of the United States Court of Appeals for the District of Columbia Circuit is affirmed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41618,
+            "mime": "audio\/mpeg",
+            "size": 216738,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/73-2066\/19760126o_73-2066.delivery.mp3"
+        },
+        {
+            "id": 63550,
+            "mime": "audio\/ogg",
+            "size": 375003,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/73-2066\/19760126o_73-2066.ogg"
+        },
+        {
+            "id": 63551,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/73-2066\/19760126o_73-2066.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

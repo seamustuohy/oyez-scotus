@@ -1,0 +1,146 @@
+{
+    "id": 18834,
+    "title": "Opinion Announcement - June 20, 1988",
+    "transcript": {
+        "title": "New York State Club Association Inc. v. City of New York",
+        "duration": 31.355,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 31.355,
+                "byte_start": 28672,
+                "byte_stop": 154060,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 10.388,
+                        "byte_start": 28672,
+                        "byte_stop": 70259,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.388,
+                                "byte_start": 28672,
+                                "byte_stop": 70259,
+                                "text": "The opinion of the Court in No. 86-1836, New York State Club Association versus the City of New York will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 10.388,
+                        "stop": 31.355,
+                        "byte_start": 70259,
+                        "byte_stop": 154060,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 10.388,
+                                "stop": 18.97,
+                                "byte_start": 70259,
+                                "byte_stop": 104636,
+                                "text": "We have filed an opinion in this case affirming the judgment of the Court of Appeals of New York. Our judgment is unanimous."
+                            },
+                            {
+                                "start": 18.97,
+                                "stop": 25.879,
+                                "byte_start": 104636,
+                                "byte_stop": 132221,
+                                "text": "Justice O\u0027Connor has filed a concurring opinion and Justice Kennedy has joined that opinion."
+                            },
+                            {
+                                "start": 25.879,
+                                "stop": 31.355,
+                                "byte_start": 132221,
+                                "byte_stop": 154060,
+                                "text": "Justice Scalia has filed an opinion concurring in part and concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46791,
+            "mime": "audio\/mpeg",
+            "size": 154373,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1836\/19880620o_86-1836.delivery.mp3"
+        },
+        {
+            "id": 68626,
+            "mime": "audio\/ogg",
+            "size": 313262,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1836\/19880620o_86-1836.ogg"
+        },
+        {
+            "id": 68627,
+            "mime": "application\/x-mpegURL",
+            "size": 595,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1836\/19880620o_86-1836.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

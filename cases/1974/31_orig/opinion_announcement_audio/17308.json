@@ -1,0 +1,76 @@
+{
+    "id": 17308,
+    "title": "Opinion Announcement - February 19, 1975",
+    "transcript": {
+        "title": "Utah v. United States",
+        "duration": 28.412,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.412,
+                "byte_start": 28672,
+                "byte_stop": 142252,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.412,
+                        "byte_start": 28672,
+                        "byte_stop": 142252,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 21.191,
+                                "byte_start": 28672,
+                                "byte_stop": 113518,
+                                "text": "In 31 Original, Utah against the United States, we overruled the exceptions filed by the United States and adopt and direct the entry of the decree proposed by the Special Master with modifications as set out in an opinion for the Court filed today."
+                            },
+                            {
+                                "start": 21.191,
+                                "stop": 28.412,
+                                "byte_start": 113518,
+                                "byte_stop": 142252,
+                                "text": "Mr. Justice Marshall took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43738,
+            "mime": "audio\/mpeg",
+            "size": 142566,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/31%20ORIG\/19750219o_31orig.delivery.mp3"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

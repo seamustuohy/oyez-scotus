@@ -1,0 +1,102 @@
+{
+    "id": 16104,
+    "title": "Opinion Announcement - May 19, 1975",
+    "transcript": {
+        "title": "United States v. Wilson",
+        "duration": 39.298,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 39.298,
+                "byte_start": 28672,
+                "byte_stop": 185825,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 39.298,
+                        "byte_start": 28672,
+                        "byte_stop": 185825,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.723,
+                                "byte_start": 28672,
+                                "byte_stop": 63572,
+                                "text": "I have the judgment and opinion to announce in 73-1162, United States against Wilson and Bryan."
+                            },
+                            {
+                                "start": 8.723,
+                                "stop": 17.351,
+                                "byte_start": 63572,
+                                "byte_stop": 98158,
+                                "text": "And for reasons stated in an opinion filed with the clerk today, the judgment of the United States Court of Appeals for the Second Circuit is reversed."
+                            },
+                            {
+                                "start": 17.351,
+                                "stop": 23.998,
+                                "byte_start": 98158,
+                                "byte_stop": 124698,
+                                "text": "Mr. Justice Blackmun with whom Mr. Justice Rehnquist joins filed a concurring opinion."
+                            },
+                            {
+                                "start": 23.998,
+                                "stop": 39.298,
+                                "byte_start": 124698,
+                                "byte_stop": 185825,
+                                "text": "Mr. Justice Brennan with whom Mr. Justice Douglas and Mr. Justice Marshall joined filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41330,
+            "mime": "audio\/mpeg",
+            "size": 186138,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1162\/19750519o_73-1162.delivery.mp3"
+        },
+        {
+            "id": 63268,
+            "mime": "audio\/ogg",
+            "size": 393428,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1162\/19750519o_73-1162.ogg"
+        },
+        {
+            "id": 63269,
+            "mime": "application\/x-mpegURL",
+            "size": 727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1162\/19750519o_73-1162.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

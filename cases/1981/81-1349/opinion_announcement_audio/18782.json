@@ -1,0 +1,95 @@
+{
+    "id": 18782,
+    "title": "Opinion Announcement - January 13, 1982",
+    "transcript": {
+        "title": "Washington v. Chrisman",
+        "duration": 35.595,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.595,
+                "byte_start": 77568,
+                "byte_stop": 219883,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.595,
+                        "byte_start": 77568,
+                        "byte_stop": 219883,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.865,
+                                "byte_start": 77568,
+                                "byte_stop": 125111,
+                                "text": "I have for announcement two opinions of judgments for the Court in 81-1349, Washington -- State of Washington against Chrisman."
+                            },
+                            {
+                                "start": 11.865,
+                                "stop": 28.607,
+                                "byte_start": 125111,
+                                "byte_stop": 192089,
+                                "text": "For a reasons stated in the opinion for the court filed with the clerk, the judgment of the Supreme Court of the State of Washington is reversed and the case is remanded to that court for further proceedings not inconsistent with our opinion."
+                            },
+                            {
+                                "start": 28.607,
+                                "stop": 35.595,
+                                "byte_start": 192089,
+                                "byte_stop": 219883,
+                                "text": "Justice White with whom Justice Brennan and Justice Marshall joined filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46687,
+            "mime": "audio\/mpeg",
+            "size": 220092,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/81-1349\/19820113o_81-1349.delivery.mp3"
+        },
+        {
+            "id": 68522,
+            "mime": "audio\/ogg",
+            "size": 363537,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/81-1349\/19820113o_81-1349.ogg"
+        },
+        {
+            "id": 68523,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/81-1349\/19820113o_81-1349.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

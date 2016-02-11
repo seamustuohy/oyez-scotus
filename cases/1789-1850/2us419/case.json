@@ -1,0 +1,343 @@
+{
+    "ID": 62327,
+    "name": "Chisholm v. Georgia",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/2us419",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Chisholm",
+    "second_party": "Georgia",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -5582455200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52817"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -5581245600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52818"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EIn 1777, the Executive Council of Georgia authorized the purchase of needed supplies from a South Carolina businessman. After receiving the supplies, Georgia did not deliver payments as promised. After the merchant\u0027s death, the executor of his estate, Alexander Chisholm, took the case to court in an attempt to collect from the state. Georgia maintained that it was a sovereign state not subject to the authority of the federal courts.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EWas the state of Georgia subject to the jurisdiction of the Supreme Court and the federal government?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EIn a 4-to-1 decision, the justices held that \u0022the people of the United States\u0022 intended to bind the states by the legislative, executive, and judicial powers of the national government. The Court held that supreme or sovereign power was retained by citizens themselves, not by the \u0022artificial person\u0022 of the State of Georgia. The Constitution made clear that controversies between individual states and citizens of other states were under the jurisdiction of federal courts. State conduct was subject to judicial review.\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "2",
+        "page": "419",
+        "year": "1793",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27129"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15285,
+            "name": "Jay Court (1793)",
+            "href": "https:\/\/api.oyez.org\/courts\/jay5",
+            "members": [
+                {
+                    "ID": 15128,
+                    "name": "John Jay",
+                    "href": "https:\/\/api.oyez.org\/people\/john_jay",
+                    "last_name": "Jay",
+                    "roles": [
+                        {
+                            "id": 2773,
+                            "type": "scotus_justice",
+                            "date_start": -5686567200,
+                            "date_end": -5506941600,
+                            "appointing_president": "George Washington",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2773"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32793,
+                        "mime": "image\/png",
+                        "size": 44551,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_jay.png"
+                    },
+                    "length_of_service": 2079,
+                    "identifier": "john_jay"
+                },
+                {
+                    "ID": 15077,
+                    "name": "William Cushing",
+                    "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                    "last_name": "Cushing",
+                    "roles": [
+                        {
+                            "id": 2721,
+                            "type": "scotus_justice",
+                            "date_start": -5677408800,
+                            "date_end": -5027076000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32776,
+                        "mime": "image\/png",
+                        "size": 52796,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                    },
+                    "length_of_service": 7527,
+                    "identifier": "william_cushing"
+                },
+                {
+                    "ID": 15132,
+                    "name": "James Wilson",
+                    "href": "https:\/\/api.oyez.org\/people\/james_wilson",
+                    "last_name": "Wilson",
+                    "roles": [
+                        {
+                            "id": 2777,
+                            "type": "scotus_justice",
+                            "date_start": -5687776800,
+                            "date_end": -5407668000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2777"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32723,
+                        "mime": "image\/png",
+                        "size": 52013,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_wilson.png"
+                    },
+                    "length_of_service": 3242,
+                    "identifier": "james_wilson"
+                },
+                {
+                    "ID": 15067,
+                    "name": "John Blair, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/john_blair",
+                    "last_name": "Blair",
+                    "roles": [
+                        {
+                            "id": 2711,
+                            "type": "scotus_justice",
+                            "date_start": -5677408800,
+                            "date_end": -5496746400,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2711"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32725,
+                        "mime": "image\/png",
+                        "size": 49367,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_blair.png"
+                    },
+                    "length_of_service": 2091,
+                    "identifier": "john_blair"
+                },
+                {
+                    "ID": 15130,
+                    "name": "James Iredell",
+                    "href": "https:\/\/api.oyez.org\/people\/james_iredell",
+                    "last_name": "Iredell",
+                    "roles": [
+                        {
+                            "id": 2775,
+                            "type": "scotus_justice",
+                            "date_start": -5668855200,
+                            "date_end": -5370948000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2775"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32791,
+                        "mime": "image\/png",
+                        "size": 55311,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_iredell.png"
+                    },
+                    "length_of_service": 3448,
+                    "identifier": "james_iredell"
+                }
+            ],
+            "court_start": -5584096800,
+            "images": [
+                {
+                    "id": 57148,
+                    "mime": "image\/jpeg",
+                    "size": 1992107,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1990-270-for-repro%2C%20Old%20City%20Hall%20PA%201791-1800_0.jpg"
+                }
+            ],
+            "identifier": "jay5"
+        }
+    ],
+    "decided_by": {
+        "ID": 15285,
+        "name": "Jay Court (1793)",
+        "href": "https:\/\/api.oyez.org\/courts\/jay5",
+        "members": [
+            {
+                "ID": 15128,
+                "name": "John Jay",
+                "href": "https:\/\/api.oyez.org\/people\/john_jay",
+                "last_name": "Jay",
+                "roles": [
+                    {
+                        "id": 2773,
+                        "type": "scotus_justice",
+                        "date_start": -5686567200,
+                        "date_end": -5506941600,
+                        "appointing_president": "George Washington",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2773"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32793,
+                    "mime": "image\/png",
+                    "size": 44551,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_jay.png"
+                },
+                "length_of_service": 2079,
+                "identifier": "john_jay"
+            },
+            {
+                "ID": 15077,
+                "name": "William Cushing",
+                "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                "last_name": "Cushing",
+                "roles": [
+                    {
+                        "id": 2721,
+                        "type": "scotus_justice",
+                        "date_start": -5677408800,
+                        "date_end": -5027076000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32776,
+                    "mime": "image\/png",
+                    "size": 52796,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                },
+                "length_of_service": 7527,
+                "identifier": "william_cushing"
+            },
+            {
+                "ID": 15132,
+                "name": "James Wilson",
+                "href": "https:\/\/api.oyez.org\/people\/james_wilson",
+                "last_name": "Wilson",
+                "roles": [
+                    {
+                        "id": 2777,
+                        "type": "scotus_justice",
+                        "date_start": -5687776800,
+                        "date_end": -5407668000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2777"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32723,
+                    "mime": "image\/png",
+                    "size": 52013,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_wilson.png"
+                },
+                "length_of_service": 3242,
+                "identifier": "james_wilson"
+            },
+            {
+                "ID": 15067,
+                "name": "John Blair, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/john_blair",
+                "last_name": "Blair",
+                "roles": [
+                    {
+                        "id": 2711,
+                        "type": "scotus_justice",
+                        "date_start": -5677408800,
+                        "date_end": -5496746400,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2711"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32725,
+                    "mime": "image\/png",
+                    "size": 49367,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_blair.png"
+                },
+                "length_of_service": 2091,
+                "identifier": "john_blair"
+            },
+            {
+                "ID": 15130,
+                "name": "James Iredell",
+                "href": "https:\/\/api.oyez.org\/people\/james_iredell",
+                "last_name": "Iredell",
+                "roles": [
+                    {
+                        "id": 2775,
+                        "type": "scotus_justice",
+                        "date_start": -5668855200,
+                        "date_end": -5370948000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2775"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32791,
+                    "mime": "image\/png",
+                    "size": 55311,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_iredell.png"
+                },
+                "length_of_service": 3448,
+                "identifier": "james_iredell"
+            }
+        ],
+        "court_start": -5584096800,
+        "images": [
+            {
+                "id": 57148,
+                "mime": "image\/jpeg",
+                "size": 1992107,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1990-270-for-repro%2C%20Old%20City%20Hall%20PA%201791-1800_0.jpg"
+            }
+        ],
+        "identifier": "jay5"
+    },
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court ruled that the states were under the jurisdiction of the Supreme Court and the federal government. ",
+    "written_opinion": null,
+    "related_cases": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 16276,
+    "title": "Opinion Announcement - February 22, 1977",
+    "transcript": {
+        "title": "Codd v. Velger",
+        "duration": 35.996,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.996,
+                "byte_start": 100524,
+                "byte_stop": 244406,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 35.996,
+                        "byte_start": 100524,
+                        "byte_stop": 244406,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.213,
+                                "byte_start": 100524,
+                                "byte_stop": 137409,
+                                "text": "I have the disposition to announce in 75-812, Codd against Velger and for reasons stated in an opinion for the Court."
+                            },
+                            {
+                                "start": 9.213,
+                                "stop": 21.117,
+                                "byte_start": 137409,
+                                "byte_stop": 185056,
+                                "text": "Filed with the clerk this morning, the judgment of the United States Court of Appeals for the Second Circuit is reversed with instructions to reinstate the judgment of the District Court for the Southern District."
+                            },
+                            {
+                                "start": 21.117,
+                                "stop": 35.996,
+                                "byte_start": 185056,
+                                "byte_stop": 244406,
+                                "text": "Mr. Justice Blackmun filed a concurring statement, Justices Brennan, Stewart, Marshall and Stevens have dissented either filing or joining a dissenting statements of another Justice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41674,
+            "mime": "audio\/mpeg",
+            "size": 244615,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-812\/19770222o_75-812.delivery.mp3"
+        },
+        {
+            "id": 63604,
+            "mime": "audio\/ogg",
+            "size": 375498,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-812\/19770222o_75-812.ogg"
+        },
+        {
+            "id": 63605,
+            "mime": "application\/x-mpegURL",
+            "size": 670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-812\/19770222o_75-812.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

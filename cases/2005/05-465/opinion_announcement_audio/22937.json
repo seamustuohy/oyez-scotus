@@ -1,0 +1,109 @@
+{
+    "id": 22937,
+    "title": "Opinion Announcement - June 05, 2006",
+    "transcript": {
+        "title": "Mohawk Industries, Inc. v. Williams",
+        "duration": 55.223,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 55.223,
+                "byte_start": 88281,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 55.223,
+                        "byte_start": 88281,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.228,
+                                "byte_start": 88281,
+                                "byte_stop": 113254,
+                                "text": "Also this morning, we decide two argued cases in Per Curiam opinions."
+                            },
+                            {
+                                "start": 6.228,
+                                "stop": 18.366,
+                                "byte_start": 113254,
+                                "byte_stop": 161842,
+                                "text": "In 04-1131, Whitman versus Department of Transportation, the judgment of the Court of Appeals for the 9th Circuit is vacated, and the case is remanded for further proceedings."
+                            },
+                            {
+                                "start": 18.366,
+                                "stop": 23.284,
+                                "byte_start": 161842,
+                                "byte_stop": 181486,
+                                "text": "Justice Alito took no part in the consideration or decision of the case."
+                            },
+                            {
+                                "start": 23.284,
+                                "stop": 41.431,
+                                "byte_start": 181486,
+                                "byte_stop": 254106,
+                                "text": "In 05-465, Mohawk Industries versus Williams, the writ of certiorari we previously granted limited to Question 1 presented by the petition is dismissed as improvidently granted; however, today, we now grant the petition for certiorari."
+                            },
+                            {
+                                "start": 41.431,
+                                "stop": 55.223,
+                                "byte_start": 254106,
+                                "byte_stop": 0,
+                                "text": "The judgment is vacated, and the case is remanded to the United States Court of Appeals for the 11th Circuit for further consideration in light of our decision just announced in Anza versus Ideal Steel Supply Corporation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 54996,
+            "mime": "audio\/mpeg",
+            "size": 309172,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2005\/05-465\/20060605o_05-465.delivery.mp3"
+        },
+        {
+            "id": 76736,
+            "mime": "audio\/ogg",
+            "size": 549133,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2005\/05-465\/20060605o_05-465.ogg"
+        },
+        {
+            "id": 76737,
+            "mime": "application\/x-mpegURL",
+            "size": 928,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2005\/05-465\/20060605o_05-465.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,153 @@
+{
+    "id": 19631,
+    "title": "Opinion Announcement - April 18, 1989",
+    "transcript": {
+        "title": "California v. ARC America Corporation",
+        "duration": 32.575,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.575,
+                "byte_start": 86556,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.184,
+                        "byte_start": 86556,
+                        "byte_stop": 123336,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.184,
+                                "byte_start": 86556,
+                                "byte_stop": 123336,
+                                "text": "The opinion of the Court in No. 87-1862, California versus Arc America Corporation will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.184,
+                        "stop": 32.575,
+                        "byte_start": 123336,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.184,
+                                "stop": 14.707,
+                                "byte_start": 123336,
+                                "byte_stop": 145488,
+                                "text": "This case is here on appeal from the Court of Appeals for the Ninth Circuit."
+                            },
+                            {
+                                "start": 14.707,
+                                "stop": 19.572,
+                                "byte_start": 145488,
+                                "byte_stop": 164923,
+                                "text": "We reverse the judgment of that court."
+                            },
+                            {
+                                "start": 19.572,
+                                "stop": 25.42,
+                                "byte_start": 164923,
+                                "byte_stop": 188329,
+                                "text": "The opinion and sum filed with the Clerk explains why."
+                            },
+                            {
+                                "start": 25.42,
+                                "stop": 32.575,
+                                "byte_start": 188329,
+                                "byte_stop": 0,
+                                "text": "The opinion is unanimous except the Justices Stevens and O\u2019Connor who took no part in the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 48386,
+            "mime": "audio\/mpeg",
+            "size": 216855,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-1862\/19890418o_87-1862.delivery.mp3"
+        },
+        {
+            "id": 70206,
+            "mime": "audio\/ogg",
+            "size": 326479,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-1862\/19890418o_87-1862.ogg"
+        },
+        {
+            "id": 70207,
+            "mime": "application\/x-mpegURL",
+            "size": 595,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-1862\/19890418o_87-1862.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

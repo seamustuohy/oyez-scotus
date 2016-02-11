@@ -1,0 +1,98 @@
+{
+    "id": 18940,
+    "title": "Opinion Announcement - April 27, 1988",
+    "transcript": {
+        "title": "Postal Service v. Letter Carriers",
+        "duration": 14.89,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 14.89,
+                "byte_start": 80928,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 14.89,
+                        "byte_start": 80928,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.798,
+                                "byte_start": 80928,
+                                "byte_stop": 120216,
+                                "text": "I have the opinion of the Court to announce the No. 87-59, United States Postal Service versus National Association of Letter Carriers."
+                            },
+                            {
+                                "start": 9.798,
+                                "stop": 14.89,
+                                "byte_start": 120216,
+                                "byte_stop": 0,
+                                "text": "In this case the writ of certiorari is dismissed as improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47004,
+            "mime": "audio\/mpeg",
+            "size": 140278,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-59\/19880427o_87-59.delivery.mp3"
+        },
+        {
+            "id": 68832,
+            "mime": "audio\/ogg",
+            "size": 147699,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-59\/19880427o_87-59.ogg"
+        },
+        {
+            "id": 68833,
+            "mime": "application\/x-mpegURL",
+            "size": 321,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-59\/19880427o_87-59.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,140 @@
+{
+    "id": 20683,
+    "title": "Opinion Announcement - May 24, 1999",
+    "transcript": {
+        "title": "Hanlon v. Berger",
+        "duration": 53.712,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 53.712,
+                "byte_start": 85785,
+                "byte_stop": 300616,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 53.712,
+                        "byte_start": 85785,
+                        "byte_stop": 300616,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.146,
+                                "byte_start": 85785,
+                                "byte_stop": 130402,
+                                "text": "The second case I have to announce is No. 97-1927, Hanlon against Berger which is the companion case to Wilson against Layne."
+                            },
+                            {
+                                "start": 11.146,
+                                "stop": 17.785,
+                                "byte_start": 130402,
+                                "byte_stop": 156943,
+                                "text": "In this case agents of the United States Fish and Wildlife Service search the ranch and its outbuildings."
+                            },
+                            {
+                                "start": 17.785,
+                                "stop": 21.224,
+                                "byte_start": 156943,
+                                "byte_stop": 170735,
+                                "text": "While accompanied by a CNN camera crew."
+                            },
+                            {
+                                "start": 21.224,
+                                "stop": 25.8,
+                                "byte_start": 170735,
+                                "byte_stop": 189021,
+                                "text": "This case, it raises the same issues as Wilson against Layne does."
+                            },
+                            {
+                                "start": 25.8,
+                                "stop": 33.212,
+                                "byte_start": 189021,
+                                "byte_stop": 218696,
+                                "text": "The Court of Appeals for the Ninth Circuit held that the agents violated the clearly established Fourth Amendment rights of the homeowners."
+                            },
+                            {
+                                "start": 33.212,
+                                "stop": 41.163,
+                                "byte_start": 218696,
+                                "byte_stop": 250461,
+                                "text": "Under our holding today in Wilson that right was not clearly established at the time of this search which was also in the early part of the 90s."
+                            },
+                            {
+                                "start": 41.163,
+                                "stop": 47.836,
+                                "byte_start": 250461,
+                                "byte_stop": 277210,
+                                "text": "The agents are therefore entitled to qualify the immunity and the judgment of the Court of Appeals is reversed."
+                            },
+                            {
+                                "start": 47.836,
+                                "stop": 53.712,
+                                "byte_start": 277210,
+                                "byte_stop": 300616,
+                                "text": "Justice Stevens has filed an opinion concurring in part and dissenting in part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50490,
+            "mime": "audio\/mpeg",
+            "size": 300825,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1998\/97-1927\/19990524o_97-1927.delivery.mp3"
+        },
+        {
+            "id": 72278,
+            "mime": "audio\/ogg",
+            "size": 534364,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1998\/97-1927\/19990524o_97-1927.ogg"
+        },
+        {
+            "id": 72279,
+            "mime": "application\/x-mpegURL",
+            "size": 903,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1998\/97-1927\/19990524o_97-1927.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,137 @@
+{
+    "id": 16152,
+    "title": "Opinion Announcement - February 19, 1975",
+    "transcript": {
+        "title": "United States v. ITT Continental Baking Company",
+        "duration": 153.47,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 153.47,
+                "byte_start": 28672,
+                "byte_stop": 642550,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 153.47,
+                        "byte_start": 28672,
+                        "byte_stop": 642550,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.112,
+                                "byte_start": 28672,
+                                "byte_stop": 89172,
+                                "text": "The next case 73-1290, United States v. ITT Continental Baking Company is here on certiorari to the United States Court of Appeals for the Tenth Circuit."
+                            },
+                            {
+                                "start": 15.112,
+                                "stop": 52.525,
+                                "byte_start": 89172,
+                                "byte_stop": 238801,
+                                "text": "The civil penalty provisions of the Clayton Act and the Federal Trade Commission Act each provide that each separate violation of a Federal Trade Commission cease and desist order issued under the respective acts shall be a separate offense except that in the case of a violation through continuing failure or neglect to obey a final order of the Federal Trade Commission each day of continuance of that failure shall be deemed a separate offense."
+                            },
+                            {
+                                "start": 52.525,
+                                "stop": 74.291,
+                                "byte_start": 238801,
+                                "byte_stop": 325841,
+                                "text": "In this case, the predecessor of appellant ITT Continental Baking Company bought three competing bakeries in violation of a Federal Trade Commission consent order that prohibited and the word used in the consent order, the acquiring of other baking companies."
+                            },
+                            {
+                                "start": 74.291,
+                                "stop": 109.091,
+                                "byte_start": 325841,
+                                "byte_stop": 465126,
+                                "text": "And the question is whether within the meaning of that order, each acquiring was completed with a purchase so as to be subject only to the single maximum penalty of $5000 or whether each acquiring constituted within the meaning of the penalty statutes, a continuing failure or neglect to obey the order authorizing imposition of daily penalties from the time of each purchase until the time of disposition of the illegally purchased company."
+                            },
+                            {
+                                "start": 109.091,
+                                "stop": 124.315,
+                                "byte_start": 465126,
+                                "byte_stop": 525939,
+                                "text": "The Court of Appeals for the Tenth Circuit affirmed the District Court\u0027s interpretation of the consent order as proscribing only the initial act of purchase and held that therefore only a single penalty might be imposed."
+                            },
+                            {
+                                "start": 124.315,
+                                "stop": 126.029,
+                                "byte_start": 525939,
+                                "byte_stop": 532835,
+                                "text": "We reverse."
+                            },
+                            {
+                                "start": 126.029,
+                                "stop": 141.79,
+                                "byte_start": 532835,
+                                "byte_stop": 595843,
+                                "text": "We hold that the word acquiring as used in the consent order means both the initial purchase and the maintaining of the rights acquired so that the violations are continuing violations subject to daily penalties."
+                            },
+                            {
+                                "start": 141.79,
+                                "stop": 146.008,
+                                "byte_start": 595843,
+                                "byte_stop": 612770,
+                                "text": "Mr. Justice Stewart dissents and joined by the Chief Justice."
+                            },
+                            {
+                                "start": 146.008,
+                                "stop": 153.47,
+                                "byte_start": 612770,
+                                "byte_stop": 642550,
+                                "text": "Mr. Justice Powell and Mr. Justice Rehnquist has filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41426,
+            "mime": "audio\/mpeg",
+            "size": 642863,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-1290\/19750219o_73-1290.delivery.mp3"
+        },
+        {
+            "id": 63364,
+            "mime": "audio\/ogg",
+            "size": 1487218,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-1290\/19750219o_73-1290.ogg"
+        },
+        {
+            "id": 63365,
+            "mime": "application\/x-mpegURL",
+            "size": 2399,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-1290\/19750219o_73-1290.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

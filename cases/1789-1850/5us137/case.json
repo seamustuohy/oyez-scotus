@@ -1,0 +1,733 @@
+{
+    "ID": 62331,
+    "name": "Marbury v. Madison",
+    "href": "https:\/\/api.oyez.org\/cases\/1789-1850\/5us137",
+    "docket_number": "None",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Original jurisdiction",
+    "first_party": "William Marbury",
+    "second_party": "James Madison, Secretary of State",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -5266490400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52825"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -5265367200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52826"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EThe case began on March 2, 1801, when an obscure Federalist, William Marbury, was designated as a justice of the peace in the District of Columbia. Marbury and several others were appointed to government posts created by Congress in the last days of John Adams\u0027s presidency, but these last-minute appointments were never fully finalized. The disgruntled appointees invoked an act of Congress and sued for their jobs in the Supreme Court. (Justices William Cushing and Alfred Moore did not participate.)\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EIs Marbury entitled to his appointment? Is his lawsuit the correct way to get it? And, is the Supreme Court the place for Marbury to get the relief he requests?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EYes; yes; and it depends. The justices held, through Marshall\u0027s forceful argument, that on the last issue the Constitution was \u0022the fundamental and paramount law of the nation\u0022 and that \u0022an act of the legislature repugnant to the constitution is void.\u0022 In other words, when the Constitution--the nation\u0027s highest law--conflicts with an act of the legislature, that act is invalid. This case establishes the Supreme Court\u0027s power of judicial review.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62559,
+                "name": "Charles Lee",
+                "href": "https:\/\/api.oyez.org\/people\/charles_lee",
+                "last_name": "Lee",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "charles_lee"
+            },
+            "advocate_description": "for Marbury",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21171"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "5",
+        "page": "137",
+        "year": "1803",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27133"
+    },
+    "decisions": [
+        {
+            "description": "Though Marbury was entitled to it, the Court was unable to grant it because Section 13 of the Judiciary Act of 1789 conflicted with Article III Section 2 of the U.S. Constitution and was therefore null and void.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15085,
+                        "name": "John Marshall",
+                        "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                        "last_name": "Marshall",
+                        "roles": [
+                            {
+                                "id": 2729,
+                                "type": "scotus_justice",
+                                "date_start": -5330167200,
+                                "date_end": -4244119200,
+                                "appointing_president": "John Adams",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32729,
+                            "mime": "image\/png",
+                            "size": 53035,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                        },
+                        "length_of_service": 12570,
+                        "identifier": "john_marshall"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205531"
+                },
+                {
+                    "member": {
+                        "ID": 15070,
+                        "name": "William Paterson",
+                        "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                        "last_name": "Paterson",
+                        "roles": [
+                            {
+                                "id": 2714,
+                                "type": "scotus_justice",
+                                "date_start": -5579517600,
+                                "date_end": -5153652000,
+                                "appointing_president": "George Washington",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32782,
+                            "mime": "image\/png",
+                            "size": 48669,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                        },
+                        "length_of_service": 4929,
+                        "identifier": "william_paterson"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205532"
+                },
+                {
+                    "member": {
+                        "ID": 15105,
+                        "name": "Samuel Chase",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                        "last_name": "Chase",
+                        "roles": [
+                            {
+                                "id": 2749,
+                                "type": "scotus_justice",
+                                "date_start": -5487933600,
+                                "date_end": -5002970400,
+                                "appointing_president": "George Washington",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32759,
+                            "mime": "image\/png",
+                            "size": 52231,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                        },
+                        "length_of_service": 5613,
+                        "identifier": "samuel_chase"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205533"
+                },
+                {
+                    "member": {
+                        "ID": 15093,
+                        "name": "Bushrod Washington",
+                        "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                        "last_name": "Washington",
+                        "roles": [
+                            {
+                                "id": 2737,
+                                "type": "scotus_justice",
+                                "date_start": -5400756000,
+                                "date_end": -4421066400,
+                                "appointing_president": "John Adams",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32698,
+                            "mime": "image\/png",
+                            "size": 42759,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                        },
+                        "length_of_service": 11339,
+                        "identifier": "bushrod_washington"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205534"
+                },
+                {
+                    "member": {
+                        "ID": 15123,
+                        "name": "Alfred Moore",
+                        "href": "https:\/\/api.oyez.org\/people\/alfred_moore",
+                        "last_name": "Moore",
+                        "roles": [
+                            {
+                                "id": 2768,
+                                "type": "scotus_justice",
+                                "date_start": -5355136800,
+                                "date_end": -5236336800,
+                                "appointing_president": "John Adams",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2768"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32694,
+                            "mime": "image\/png",
+                            "size": 55117,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/alfred_moore.png"
+                        },
+                        "length_of_service": 1375,
+                        "identifier": "alfred_moore"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15085,
+                            "name": "John Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2729,
+                                    "type": "scotus_justice",
+                                    "date_start": -5330167200,
+                                    "date_end": -4244119200,
+                                    "appointing_president": "John Adams",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32729,
+                                "mime": "image\/png",
+                                "size": 53035,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                            },
+                            "length_of_service": 12570,
+                            "identifier": "john_marshall"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205535"
+                },
+                {
+                    "member": {
+                        "ID": 15077,
+                        "name": "William Cushing",
+                        "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                        "last_name": "Cushing",
+                        "roles": [
+                            {
+                                "id": 2721,
+                                "type": "scotus_justice",
+                                "date_start": -5677408800,
+                                "date_end": -5027076000,
+                                "appointing_president": "George Washington",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32776,
+                            "mime": "image\/png",
+                            "size": 52796,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                        },
+                        "length_of_service": 7527,
+                        "identifier": "william_cushing"
+                    },
+                    "vote": "none",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205536"
+                }
+            ],
+            "majority_vote": 5,
+            "minority_vote": 0,
+            "winning_party": "Marbury",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16387"
+        }
+    ],
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15256,
+            "name": "Marshall Court (1801-1804)",
+            "href": "https:\/\/api.oyez.org\/courts\/marshall1",
+            "members": [
+                {
+                    "ID": 15085,
+                    "name": "John Marshall",
+                    "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                    "last_name": "Marshall",
+                    "roles": [
+                        {
+                            "id": 2729,
+                            "type": "scotus_justice",
+                            "date_start": -5330167200,
+                            "date_end": -4244119200,
+                            "appointing_president": "John Adams",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32729,
+                        "mime": "image\/png",
+                        "size": 53035,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                    },
+                    "length_of_service": 12570,
+                    "identifier": "john_marshall"
+                },
+                {
+                    "ID": 15077,
+                    "name": "William Cushing",
+                    "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                    "last_name": "Cushing",
+                    "roles": [
+                        {
+                            "id": 2721,
+                            "type": "scotus_justice",
+                            "date_start": -5677408800,
+                            "date_end": -5027076000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32776,
+                        "mime": "image\/png",
+                        "size": 52796,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                    },
+                    "length_of_service": 7527,
+                    "identifier": "william_cushing"
+                },
+                {
+                    "ID": 15070,
+                    "name": "William Paterson",
+                    "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                    "last_name": "Paterson",
+                    "roles": [
+                        {
+                            "id": 2714,
+                            "type": "scotus_justice",
+                            "date_start": -5579517600,
+                            "date_end": -5153652000,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32782,
+                        "mime": "image\/png",
+                        "size": 48669,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                    },
+                    "length_of_service": 4929,
+                    "identifier": "william_paterson"
+                },
+                {
+                    "ID": 15105,
+                    "name": "Samuel Chase",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                    "last_name": "Chase",
+                    "roles": [
+                        {
+                            "id": 2749,
+                            "type": "scotus_justice",
+                            "date_start": -5487933600,
+                            "date_end": -5002970400,
+                            "appointing_president": "George Washington",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32759,
+                        "mime": "image\/png",
+                        "size": 52231,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                    },
+                    "length_of_service": 5613,
+                    "identifier": "samuel_chase"
+                },
+                {
+                    "ID": 15093,
+                    "name": "Bushrod Washington",
+                    "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                    "last_name": "Washington",
+                    "roles": [
+                        {
+                            "id": 2737,
+                            "type": "scotus_justice",
+                            "date_start": -5400756000,
+                            "date_end": -4421066400,
+                            "appointing_president": "John Adams",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32698,
+                        "mime": "image\/png",
+                        "size": 42759,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                    },
+                    "length_of_service": 11339,
+                    "identifier": "bushrod_washington"
+                },
+                {
+                    "ID": 15123,
+                    "name": "Alfred Moore",
+                    "href": "https:\/\/api.oyez.org\/people\/alfred_moore",
+                    "last_name": "Moore",
+                    "roles": [
+                        {
+                            "id": 2768,
+                            "type": "scotus_justice",
+                            "date_start": -5355136800,
+                            "date_end": -5236336800,
+                            "appointing_president": "John Adams",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2768"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32694,
+                        "mime": "image\/png",
+                        "size": 55117,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/alfred_moore.png"
+                    },
+                    "length_of_service": 1375,
+                    "identifier": "alfred_moore"
+                }
+            ],
+            "court_start": -5330167200,
+            "images": [
+                {
+                    "id": 78517,
+                    "mime": "image\/jpeg",
+                    "size": 4355969,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/North-Wing_Capital_drawing_0.jpg"
+                }
+            ],
+            "identifier": "marshall1"
+        }
+    ],
+    "decided_by": {
+        "ID": 15256,
+        "name": "Marshall Court (1801-1804)",
+        "href": "https:\/\/api.oyez.org\/courts\/marshall1",
+        "members": [
+            {
+                "ID": 15085,
+                "name": "John Marshall",
+                "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+                "last_name": "Marshall",
+                "roles": [
+                    {
+                        "id": 2729,
+                        "type": "scotus_justice",
+                        "date_start": -5330167200,
+                        "date_end": -4244119200,
+                        "appointing_president": "John Adams",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2729"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32729,
+                    "mime": "image\/png",
+                    "size": 53035,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                },
+                "length_of_service": 12570,
+                "identifier": "john_marshall"
+            },
+            {
+                "ID": 15077,
+                "name": "William Cushing",
+                "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+                "last_name": "Cushing",
+                "roles": [
+                    {
+                        "id": 2721,
+                        "type": "scotus_justice",
+                        "date_start": -5677408800,
+                        "date_end": -5027076000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2721"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32776,
+                    "mime": "image\/png",
+                    "size": 52796,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                },
+                "length_of_service": 7527,
+                "identifier": "william_cushing"
+            },
+            {
+                "ID": 15070,
+                "name": "William Paterson",
+                "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+                "last_name": "Paterson",
+                "roles": [
+                    {
+                        "id": 2714,
+                        "type": "scotus_justice",
+                        "date_start": -5579517600,
+                        "date_end": -5153652000,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2714"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32782,
+                    "mime": "image\/png",
+                    "size": 48669,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                },
+                "length_of_service": 4929,
+                "identifier": "william_paterson"
+            },
+            {
+                "ID": 15105,
+                "name": "Samuel Chase",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+                "last_name": "Chase",
+                "roles": [
+                    {
+                        "id": 2749,
+                        "type": "scotus_justice",
+                        "date_start": -5487933600,
+                        "date_end": -5002970400,
+                        "appointing_president": "George Washington",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2749"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32759,
+                    "mime": "image\/png",
+                    "size": 52231,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                },
+                "length_of_service": 5613,
+                "identifier": "samuel_chase"
+            },
+            {
+                "ID": 15093,
+                "name": "Bushrod Washington",
+                "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+                "last_name": "Washington",
+                "roles": [
+                    {
+                        "id": 2737,
+                        "type": "scotus_justice",
+                        "date_start": -5400756000,
+                        "date_end": -4421066400,
+                        "appointing_president": "John Adams",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2737"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32698,
+                    "mime": "image\/png",
+                    "size": 42759,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                },
+                "length_of_service": 11339,
+                "identifier": "bushrod_washington"
+            },
+            {
+                "ID": 15123,
+                "name": "Alfred Moore",
+                "href": "https:\/\/api.oyez.org\/people\/alfred_moore",
+                "last_name": "Moore",
+                "roles": [
+                    {
+                        "id": 2768,
+                        "type": "scotus_justice",
+                        "date_start": -5355136800,
+                        "date_end": -5236336800,
+                        "appointing_president": "John Adams",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2768"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32694,
+                    "mime": "image\/png",
+                    "size": 55117,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/alfred_moore.png"
+                },
+                "length_of_service": 1375,
+                "identifier": "alfred_moore"
+            }
+        ],
+        "court_start": -5330167200,
+        "images": [
+            {
+                "id": 78517,
+                "mime": "image\/jpeg",
+                "size": 4355969,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/North-Wing_Capital_drawing_0.jpg"
+            }
+        ],
+        "identifier": "marshall1"
+    },
+    "term": "1789-1850",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court established a precedent for judicial review in the United States, declaring that acts of Congress that conflict with the Constitution are null in void, as the Constitution is the supreme law of the land.",
+    "written_opinion": null,
+    "related_cases": null
+}

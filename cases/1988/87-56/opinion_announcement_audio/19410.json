@@ -1,0 +1,139 @@
+{
+    "id": 19410,
+    "title": "Opinion Announcement - January 10, 1989",
+    "transcript": {
+        "title": "Owens v. Okure",
+        "duration": 35.37,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 35.37,
+                "byte_start": 86531,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 4.08,
+                        "byte_start": 86531,
+                        "byte_stop": 102936,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.08,
+                                "byte_start": 86531,
+                                "byte_stop": 102936,
+                                "text": "Justice Marshall has two opinions of the Court to announce."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 4.08,
+                        "stop": 35.37,
+                        "byte_start": 102936,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 4.08,
+                                "stop": 15.336,
+                                "byte_start": 102936,
+                                "byte_stop": 147971,
+                                "text": "In the first, Owens against Okure 8756, is on writ of certiorari to the Court of Appeals for the Second Circuit."
+                            },
+                            {
+                                "start": 15.336,
+                                "stop": 35.37,
+                                "byte_start": 147971,
+                                "byte_stop": 0,
+                                "text": "In this case, we hold that thoughts entertaining claims brought under 28 USC 1983 should borrow the frestoral of general personal injuries state statute of limitations and the Court of Appeals judgment is thereby affirmed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47944,
+            "mime": "audio\/mpeg",
+            "size": 228010,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1988\/87-56\/19890110o_87-56.delivery.mp3"
+        },
+        {
+            "id": 69766,
+            "mime": "audio\/ogg",
+            "size": 341426,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1988\/87-56\/19890110o_87-56.ogg"
+        },
+        {
+            "id": 69767,
+            "mime": "application\/x-mpegURL",
+            "size": 615,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1988\/87-56\/19890110o_87-56.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

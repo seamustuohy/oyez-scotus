@@ -1,0 +1,81 @@
+{
+    "id": 17792,
+    "title": "Opinion Announcement - December 06, 1977",
+    "transcript": {
+        "title": "Richmond Unified School District v. Berg",
+        "duration": 34.05,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 34.05,
+                "byte_start": 80006,
+                "byte_stop": 216156,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 34.05,
+                        "byte_start": 80006,
+                        "byte_stop": 216156,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 34.05,
+                                "byte_start": 80006,
+                                "byte_stop": 216156,
+                                "text": "In 75-1069, Richmond\u0027s Unified School District against Sonja Lynn Berg and others -- in this case the judgment of the United States Court of Appeals for the Ninth Circuit is vacated in the cause is remanded for further consideration by that court in light of General Electric Company against Gilbert, and Nashville Gas Company against Satty and for consideration of possible mootness."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44706,
+            "mime": "audio\/mpeg",
+            "size": 216365,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/75-1069\/19771206o_75-1069.delivery.mp3"
+        },
+        {
+            "id": 66562,
+            "mime": "audio\/ogg",
+            "size": 354055,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/75-1069\/19771206o_75-1069.ogg"
+        },
+        {
+            "id": 66563,
+            "mime": "application\/x-mpegURL",
+            "size": 639,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/75-1069\/19771206o_75-1069.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,153 @@
+{
+    "id": 18499,
+    "title": "Opinion Announcement - November 28, 1989",
+    "transcript": {
+        "title": "Chesapeake and Ohio Railway Company v. Schwalb",
+        "duration": 46.002,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.002,
+                "byte_start": 87138,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 5.481,
+                        "byte_start": 87138,
+                        "byte_stop": 109081,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 5.481,
+                                "byte_start": 87138,
+                                "byte_stop": 109081,
+                                "text": "The opinions of the Court in two cases will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 5.481,
+                        "stop": 46.002,
+                        "byte_start": 109081,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 5.481,
+                                "stop": 20.549,
+                                "byte_start": 109081,
+                                "byte_stop": 169371,
+                                "text": "The first opinion is issued in two companion cases, Chesapeake and Ohio Railway Company against Schwalb, and Northfork and Western Railway Company against Goode."
+                            },
+                            {
+                                "start": 20.549,
+                                "stop": 31.075,
+                                "byte_start": 169371,
+                                "byte_stop": 211481,
+                                "text": "The judgments of the Supreme Court of Virginia in these cases are reversed for the reasons stated in an opinion on file with the Clerk."
+                            },
+                            {
+                                "start": 31.075,
+                                "stop": 40.601,
+                                "byte_start": 211481,
+                                "byte_stop": 249620,
+                                "text": "Justice Blackmun while joining the opinion has filed a concurring opinion in which he is joined by Justices Marshall and O\u2019Connor."
+                            },
+                            {
+                                "start": 40.601,
+                                "stop": 46.002,
+                                "byte_start": 249620,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens concurs in the judgment and has filed an opinion to that effect."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46120,
+            "mime": "audio\/mpeg",
+            "size": 271145,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/87-1979\/19891128o_87-1979.delivery.mp3"
+        },
+        {
+            "id": 67960,
+            "mime": "audio\/ogg",
+            "size": 456576,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/87-1979\/19891128o_87-1979.ogg"
+        },
+        {
+            "id": 67961,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/87-1979\/19891128o_87-1979.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

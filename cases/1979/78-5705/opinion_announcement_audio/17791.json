@@ -1,0 +1,95 @@
+{
+    "id": 17791,
+    "title": "Opinion Announcement - February 27, 1980",
+    "transcript": {
+        "title": "Trammel v. United States",
+        "duration": 26.686,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 26.686,
+                "byte_start": 28672,
+                "byte_stop": 135356,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 26.686,
+                        "byte_start": 28672,
+                        "byte_stop": 135356,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.454,
+                                "byte_start": 28672,
+                                "byte_stop": 54585,
+                                "text": "I have the judgment and opinion for the Court to announce in Trammel against the United States."
+                            },
+                            {
+                                "start": 6.454,
+                                "stop": 21.306,
+                                "byte_start": 54585,
+                                "byte_stop": 113936,
+                                "text": "And for reasons stated in an opinion for the Court filed by the clerk this morning, the judgment of the United States Court of Appeals for the Tenth Circuit is affirmed."
+                            },
+                            {
+                                "start": 21.306,
+                                "stop": 26.686,
+                                "byte_start": 113936,
+                                "byte_stop": 135356,
+                                "text": "Mr. Justice Stewart filed a separate opinion concurring in the judgment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44704,
+            "mime": "audio\/mpeg",
+            "size": 135670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/78-5705\/19800227o_78-5705.delivery.mp3"
+        },
+        {
+            "id": 66560,
+            "mime": "audio\/ogg",
+            "size": 275157,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/78-5705\/19800227o_78-5705.ogg"
+        },
+        {
+            "id": 66561,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/78-5705\/19800227o_78-5705.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

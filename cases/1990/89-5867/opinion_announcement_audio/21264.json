@@ -1,0 +1,147 @@
+{
+    "id": 21264,
+    "title": "Opinion Announcement - December 03, 1990",
+    "transcript": {
+        "title": "Irwin v. Department of Veterans Affairs",
+        "duration": 82.547,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 82.547,
+                "byte_start": 74234,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 82.547,
+                        "byte_start": 74234,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.703,
+                                "byte_start": 74234,
+                                "byte_stop": 105058,
+                                "text": "I have the opinion of the Court to announce in No. 89-5867, Irwin versus Veterans Administration."
+                            },
+                            {
+                                "start": 7.703,
+                                "stop": 17.106,
+                                "byte_start": 105058,
+                                "byte_stop": 142675,
+                                "text": "This case arose out of a claim by the petitioner that he had been unlawfully fired by the Veterans Administration on the basis of his race and age."
+                            },
+                            {
+                                "start": 17.106,
+                                "stop": 35.67,
+                                "byte_start": 142675,
+                                "byte_stop": 216967,
+                                "text": "In an opinion filed with the Clerk today, we hold that notice to an attorney\u0027s office which is not acknowledged by a representative of that office qualifies as notice to the client because petitioner did not file a suit until 44 days after his attorney\u0027s office received notice, his filing was not timely."
+                            },
+                            {
+                                "start": 35.67,
+                                "stop": 51.98,
+                                "byte_start": 216967,
+                                "byte_stop": 282169,
+                                "text": "We also hold, however, that the late filing did not bar the District Court from exercising jurisdiction over the case and that statutes of limitations and actions against the government are subject to the same rebuttal presumption of equitable tolling that applies to suits against private defendants."
+                            },
+                            {
+                                "start": 51.98,
+                                "stop": 58.034,
+                                "byte_start": 282169,
+                                "byte_stop": 306410,
+                                "text": "But in this case, the petitioner\u0027s failure to file cannot be excused under the equitable tolling doctrine."
+                            },
+                            {
+                                "start": 58.034,
+                                "stop": 65.3,
+                                "byte_start": 306410,
+                                "byte_stop": 335458,
+                                "text": "He has simply a garden variety claim of excusable neglect which is not the same as equitable tolling."
+                            },
+                            {
+                                "start": 65.3,
+                                "stop": 68.204,
+                                "byte_start": 335458,
+                                "byte_stop": 347057,
+                                "text": "So, we affirm the judgment of the Court of Appeals."
+                            },
+                            {
+                                "start": 68.204,
+                                "stop": 78.202,
+                                "byte_start": 347057,
+                                "byte_stop": 387076,
+                                "text": "Justice White filed an opinion concurring in part and concurring in the judgment which Justice Marshall joins; Justice Stevens filed an opinion concurring in part and dissenting in part."
+                            },
+                            {
+                                "start": 78.202,
+                                "stop": 82.547,
+                                "byte_start": 387076,
+                                "byte_stop": 0,
+                                "text": "Justice Souter took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51652,
+            "mime": "audio\/mpeg",
+            "size": 404422,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-5867\/19901203o_89-5867.delivery.mp3"
+        },
+        {
+            "id": 73424,
+            "mime": "audio\/ogg",
+            "size": 800427,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-5867\/19901203o_89-5867.ogg"
+        },
+        {
+            "id": 73425,
+            "mime": "application\/x-mpegURL",
+            "size": 1343,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-5867\/19901203o_89-5867.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

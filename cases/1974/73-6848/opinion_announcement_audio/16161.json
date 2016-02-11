@@ -1,0 +1,102 @@
+{
+    "id": 16161,
+    "title": "Opinion Announcement - June 30, 1975",
+    "transcript": {
+        "title": "Bowen v. United States",
+        "duration": 37.167,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 37.167,
+                "byte_start": 28672,
+                "byte_stop": 177256,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 37.167,
+                        "byte_start": 28672,
+                        "byte_stop": 177256,
+                        "speaker": {
+                            "ID": 15119,
+                            "name": "Lewis F. Powell, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "last_name": "Powell",
+                            "roles": [
+                                {
+                                    "id": 2764,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 551682000,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2764"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32738,
+                                "mime": "image\/png",
+                                "size": 53543,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                            },
+                            "length_of_service": 5649,
+                            "identifier": "lewis_f_powell_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.479,
+                                "byte_start": 28672,
+                                "byte_stop": 74648,
+                                "text": "In the second of these cases, Bowen against the United States, No. 73-6848."
+                            },
+                            {
+                                "start": 11.479,
+                                "stop": 26.158,
+                                "byte_start": 74648,
+                                "byte_stop": 133371,
+                                "text": "We hold that the search -- we hold that the ruling in the previous case does not apply retroactively to searches that occurred before the date of the decision in Almeida-Sanchez."
+                            },
+                            {
+                                "start": 26.158,
+                                "stop": 33.304,
+                                "byte_start": 133371,
+                                "byte_stop": 161896,
+                                "text": "Mr. Justice Douglas, Mr. Justice Brennan, and Mr. Justice Marshall filed dissenting statements."
+                            },
+                            {
+                                "start": 33.304,
+                                "stop": 37.167,
+                                "byte_start": 161896,
+                                "byte_stop": 177256,
+                                "text": "Mr. Justice Stewart dissented."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41444,
+            "mime": "audio\/mpeg",
+            "size": 177570,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-6848\/19750630o_73-6848.delivery.mp3"
+        },
+        {
+            "id": 63382,
+            "mime": "audio\/ogg",
+            "size": 364484,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-6848\/19750630o_73-6848.ogg"
+        },
+        {
+            "id": 63383,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-6848\/19750630o_73-6848.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

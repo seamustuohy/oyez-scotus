@@ -1,0 +1,102 @@
+{
+    "id": 18594,
+    "title": "Opinion Announcement - February 23, 1982",
+    "transcript": {
+        "title": "Consolidated Freightways Corp. of Del. v. Kassel",
+        "duration": 28.162,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 28.162,
+                "byte_start": 77461,
+                "byte_stop": 190101,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 28.162,
+                        "byte_start": 77461,
+                        "byte_stop": 190101,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.98,
+                                "byte_start": 77461,
+                                "byte_stop": 121451,
+                                "text": "In the seconds case, 79-1618, Consolidated Freightways against Kassel in a per curiam opinion filed with the clerk this morning."
+                            },
+                            {
+                                "start": 10.98,
+                                "stop": 18.562,
+                                "byte_start": 121451,
+                                "byte_stop": 151753,
+                                "text": "The writ of certiorari perviously granted by the Court is dismissed as having been improvidently granted."
+                            },
+                            {
+                                "start": 18.562,
+                                "stop": 20.45,
+                                "byte_start": 151753,
+                                "byte_stop": 159277,
+                                "text": "Justice White found a dissenting opinion."
+                            },
+                            {
+                                "start": 20.45,
+                                "stop": 28.162,
+                                "byte_start": 159277,
+                                "byte_stop": 190101,
+                                "text": "Justice O\u0027Connor took no parts in either the consideration or the decision of the case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46311,
+            "mime": "audio\/mpeg",
+            "size": 190310,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/79-1618\/19820223o_79-1618.delivery.mp3"
+        },
+        {
+            "id": 68150,
+            "mime": "audio\/ogg",
+            "size": 289318,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/79-1618\/19820223o_79-1618.ogg"
+        },
+        {
+            "id": 68151,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/79-1618\/19820223o_79-1618.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

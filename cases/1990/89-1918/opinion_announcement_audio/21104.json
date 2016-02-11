@@ -1,0 +1,146 @@
+{
+    "id": 21104,
+    "title": "Opinion Announcement - May 23, 1991",
+    "transcript": {
+        "title": "McCormick v. United States",
+        "duration": 29.309,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.309,
+                "byte_start": 73968,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.032,
+                        "byte_start": 73968,
+                        "byte_stop": 102180,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.032,
+                                "byte_start": 73968,
+                                "byte_stop": 102180,
+                                "text": "The opinions of the Court in two cases will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.032,
+                        "stop": 29.309,
+                        "byte_start": 102180,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.032,
+                                "stop": 13.78,
+                                "byte_start": 102180,
+                                "byte_stop": 129139,
+                                "text": "The first of these cases is 89-1918, McCormick against the United States."
+                            },
+                            {
+                                "start": 13.78,
+                                "stop": 20.021,
+                                "byte_start": 129139,
+                                "byte_stop": 154112,
+                                "text": "For the reasons stated in an opinion on file with the Clerk, we reverse the judgment of the Court of Appeals for the Fourth Circuit."
+                            },
+                            {
+                                "start": 20.021,
+                                "stop": 29.309,
+                                "byte_start": 154112,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed a concurring opinion; Justice Stevens had filed a dissenting opinion, and Justices Blackmun and O\u0027Connor have joined that dissent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51332,
+            "mime": "audio\/mpeg",
+            "size": 191206,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/89-1918\/19910523o_89-1918.delivery.mp3"
+        },
+        {
+            "id": 73108,
+            "mime": "audio\/ogg",
+            "size": 295845,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/89-1918\/19910523o_89-1918.ogg"
+        },
+        {
+            "id": 73109,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/89-1918\/19910523o_89-1918.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

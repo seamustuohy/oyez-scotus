@@ -1,0 +1,109 @@
+{
+    "id": 17726,
+    "title": "Opinion Announcement - January 21, 1980",
+    "transcript": {
+        "title": "Secretary of the Navy v. Huff",
+        "duration": 46.118,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.118,
+                "byte_start": 28672,
+                "byte_stop": 213096,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 46.118,
+                        "byte_start": 28672,
+                        "byte_stop": 213096,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.301,
+                                "byte_start": 28672,
+                                "byte_stop": 61900,
+                                "text": "I have the disposition to announce in No. 78-599, the Secretary of the Navy against Huff."
+                            },
+                            {
+                                "start": 8.301,
+                                "stop": 20.861,
+                                "byte_start": 61900,
+                                "byte_stop": 112159,
+                                "text": "And for reasons stated in a per curiam opinion filed with the clerk today, the judgment of the United States Court of Appeals for the District of Columbia Circuit is reversed."
+                            },
+                            {
+                                "start": 20.861,
+                                "stop": 23.349,
+                                "byte_start": 112159,
+                                "byte_stop": 122086,
+                                "text": "Mr. Justice Brennan filed a dissenting opinion."
+                            },
+                            {
+                                "start": 23.349,
+                                "stop": 38.921,
+                                "byte_start": 122086,
+                                "byte_stop": 184362,
+                                "text": "Mr. Justice Stewart and Mr. Justice Stevens joined in dissenting for reasons stated in their opinion in Brown against Glines, the case just previously announced."
+                            },
+                            {
+                                "start": 38.921,
+                                "stop": 46.118,
+                                "byte_start": 184362,
+                                "byte_stop": 213096,
+                                "text": "Here too, Mr. Justice Marshall took no part in either the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44574,
+            "mime": "audio\/mpeg",
+            "size": 213410,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/78-599\/19800121o_78-599.delivery.mp3"
+        },
+        {
+            "id": 66430,
+            "mime": "audio\/ogg",
+            "size": 471540,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/78-599\/19800121o_78-599.ogg"
+        },
+        {
+            "id": 66431,
+            "mime": "application\/x-mpegURL",
+            "size": 799,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/78-599\/19800121o_78-599.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

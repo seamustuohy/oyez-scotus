@@ -1,0 +1,102 @@
+{
+    "id": 17279,
+    "title": "Opinion Announcement - May 19, 1976",
+    "transcript": {
+        "title": "Hynes v. Mayor Of Oradell",
+        "duration": 38.651,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.651,
+                "byte_start": 73676,
+                "byte_stop": 228216,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 38.651,
+                        "byte_start": 73676,
+                        "byte_stop": 228216,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 23.149,
+                                "byte_start": 73676,
+                                "byte_stop": 166358,
+                                "text": "I have the disposition to announce in number 74-1329, Hynes against the Mayor and Council of Borough of Oradell, New Jersey and for reasons stated in an opinion filed with the clerk this morning, the judgment of the Supreme Court of New Jersey is reversed and the case is remanded for further proceedings not in-consistent with this opinion."
+                            },
+                            {
+                                "start": 23.149,
+                                "stop": 29.443,
+                                "byte_start": 166358,
+                                "byte_stop": 191540,
+                                "text": "Mr. Justice Brennan with whom Mr. Justice Marshall joined filed in an opinion concurring in part."
+                            },
+                            {
+                                "start": 29.443,
+                                "stop": 32.795,
+                                "byte_start": 191540,
+                                "byte_stop": 204915,
+                                "text": "Mr. Justice Rehnquist filed a dissenting opinion."
+                            },
+                            {
+                                "start": 32.795,
+                                "stop": 38.651,
+                                "byte_start": 204915,
+                                "byte_stop": 228216,
+                                "text": "Mr. Justice Stevens took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43680,
+            "mime": "audio\/mpeg",
+            "size": 228425,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-1329\/19760519o_74-1329.delivery.mp3"
+        },
+        {
+            "id": 65562,
+            "mime": "audio\/ogg",
+            "size": 401488,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-1329\/19760519o_74-1329.ogg"
+        },
+        {
+            "id": 65563,
+            "mime": "application\/x-mpegURL",
+            "size": 683,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-1329\/19760519o_74-1329.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

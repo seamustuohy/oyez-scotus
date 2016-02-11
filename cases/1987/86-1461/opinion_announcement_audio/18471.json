@@ -1,0 +1,88 @@
+{
+    "id": 18471,
+    "title": "Opinion Announcement - April 20, 1988",
+    "transcript": {
+        "title": "Edward J. DeBartolo Corporation v. Florida Gulf Coast Building \u0026 Construction Trades Council",
+        "duration": 26.593,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 26.593,
+                "byte_start": 80947,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 26.593,
+                        "byte_start": 80947,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 17.165,
+                                "byte_start": 80947,
+                                "byte_stop": 149701,
+                                "text": "The Debartolo case is here from the Court of Appeals for the Eleventh Circuit and for the reasons as stated in the opinion that has been filed, the judgment of the Court of Appeals is affirmed."
+                            },
+                            {
+                                "start": 17.165,
+                                "stop": 26.593,
+                                "byte_start": 149701,
+                                "byte_stop": 0,
+                                "text": "Justices O\u0027Connor and Scalia concur in the judgment and Justice Kennedy took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 46064,
+            "mime": "audio\/mpeg",
+            "size": 186900,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/86-1461\/19880420o_86-1461.delivery.mp3"
+        },
+        {
+            "id": 67904,
+            "mime": "audio\/ogg",
+            "size": 269810,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/86-1461\/19880420o_86-1461.ogg"
+        },
+        {
+            "id": 67905,
+            "mime": "application\/x-mpegURL",
+            "size": 507,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/86-1461\/19880420o_86-1461.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

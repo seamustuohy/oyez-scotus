@@ -1,0 +1,153 @@
+{
+    "id": 20286,
+    "title": "Opinion Announcement - April 21, 1993",
+    "transcript": {
+        "title": "CSX Transportation, Inc. v. Easterwood",
+        "duration": 57.469,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 57.469,
+                "byte_start": 81786,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 23.978,
+                        "byte_start": 81786,
+                        "byte_stop": 177708,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 23.978,
+                                "byte_start": 81786,
+                                "byte_stop": 177708,
+                                "text": "We have another opinion to announce which I ommitted will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 23.978,
+                        "stop": 57.469,
+                        "byte_start": 177708,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 23.978,
+                                "stop": 30.985,
+                                "byte_start": 177708,
+                                "byte_stop": 205815,
+                                "text": "And As usual it won\u0027t take long."
+                            },
+                            {
+                                "start": 30.985,
+                                "stop": 40.623,
+                                "byte_start": 205815,
+                                "byte_stop": 244372,
+                                "text": "For the reason stated in an opinion filed with the Clerk, the judgment of the Court of Apeals for the Eleventh Circuit is affirmed."
+                            },
+                            {
+                                "start": 40.623,
+                                "stop": 46.885,
+                                "byte_start": 244372,
+                                "byte_stop": 269345,
+                                "text": "Justice Thomas who is joined by Justice Souter has filed an opinion concurring in part and dissenting in part."
+                            },
+                            {
+                                "start": 46.885,
+                                "stop": 57.469,
+                                "byte_start": 269345,
+                                "byte_stop": 0,
+                                "text": "Thank you Mr. Chief Justice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49696,
+            "mime": "audio\/mpeg",
+            "size": 311664,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1992\/91-790\/19930421o_91-790.delivery.mp3"
+        },
+        {
+            "id": 71492,
+            "mime": "audio\/ogg",
+            "size": 553699,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1992\/91-790\/19930421o_91-790.ogg"
+        },
+        {
+            "id": 71493,
+            "mime": "application\/x-mpegURL",
+            "size": 971,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1992\/91-790\/19930421o_91-790.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

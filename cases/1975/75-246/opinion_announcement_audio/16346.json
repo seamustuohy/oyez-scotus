@@ -1,0 +1,95 @@
+{
+    "id": 16346,
+    "title": "Opinion Announcement - June 24, 1976",
+    "transcript": {
+        "title": "United States v. Hopkins",
+        "duration": 30.765,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 30.765,
+                "byte_start": 73670,
+                "byte_stop": 196654,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 30.765,
+                        "byte_start": 73670,
+                        "byte_stop": 196654,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 19.164,
+                                "byte_start": 73670,
+                                "byte_stop": 150366,
+                                "text": "I have the Judgment and opinion for Court to announce in 75-246, United States against Hopkins and for reasons stated in an opinion for the Court filed with a clerk this morning, the Judgment of the United States Court of Claims is affirmed in part and vacated and remanded in part."
+                            },
+                            {
+                                "start": 19.164,
+                                "stop": 26.717,
+                                "byte_start": 150366,
+                                "byte_stop": 180563,
+                                "text": "On remand further proceedings consisting with the Court\u0027s opinion are to be conducted by the Court of Claims."
+                            },
+                            {
+                                "start": 26.717,
+                                "stop": 30.765,
+                                "byte_start": 180563,
+                                "byte_stop": 196654,
+                                "text": "Mr. Justice Powell filed a dissenting statement in the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41814,
+            "mime": "audio\/mpeg",
+            "size": 196863,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/75-246\/19760624o_75-246.delivery.mp3"
+        },
+        {
+            "id": 63742,
+            "mime": "audio\/ogg",
+            "size": 331190,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/75-246\/19760624o_75-246.ogg"
+        },
+        {
+            "id": 63743,
+            "mime": "application\/x-mpegURL",
+            "size": 584,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/75-246\/19760624o_75-246.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

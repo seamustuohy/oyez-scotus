@@ -1,0 +1,150 @@
+{
+    "id": 21368,
+    "title": "Opinion Announcement - April 27, 2010",
+    "transcript": {
+        "title": "Stolt-Nielsen v. Animalfeeds International Corp.",
+        "duration": 50.016,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 50.016,
+                "byte_start": 28672,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.366,
+                        "byte_start": 28672,
+                        "byte_stop": 62213,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            },
+                            "length_of_service": 3702,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.366,
+                                "byte_start": 28672,
+                                "byte_stop": 62213,
+                                "text": "Justice Alito has our opinion this morning in case 08-769 Stolt-Nielsen versus Animal Feeds International."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.366,
+                        "stop": 50.016,
+                        "byte_start": 62213,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            },
+                            "length_of_service": 3531,
+                            "identifier": "samuel_alito_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.366,
+                                "stop": 14.75,
+                                "byte_start": 62213,
+                                "byte_stop": 87709,
+                                "text": "This case comes to us on writ of certiorari to the United States Court of Appeals for the Second Circuit."
+                            },
+                            {
+                                "start": 14.75,
+                                "stop": 36.229,
+                                "byte_start": 87709,
+                                "byte_stop": 173599,
+                                "text": "It involves complicated arbitration issues, and so for present purposes, it suffices to say that we hold that imposing class arbitration on parties who have agreed to arbitrate their disputes but have not agreed to authorize class arbitration is not consistent with the Federal Arbitration Act."
+                            },
+                            {
+                                "start": 36.229,
+                                "stop": 39.005,
+                                "byte_start": 173599,
+                                "byte_stop": 184780,
+                                "text": "We therefore reverse and remand."
+                            },
+                            {
+                                "start": 39.005,
+                                "stop": 44.852,
+                                "byte_start": 184780,
+                                "byte_stop": 208081,
+                                "text": "Justice Ginsburg has filed a dissenting opinion in which Justices Stevens and Breyer have joined."
+                            },
+                            {
+                                "start": 44.852,
+                                "stop": 50.016,
+                                "byte_start": 208081,
+                                "byte_stop": 0,
+                                "text": "Justice Sotomayor took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51860,
+            "mime": "audio\/mpeg",
+            "size": 228770,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2009\/08-1198\/20100427o_08-1198.delivery.mp3"
+        },
+        {
+            "id": 73632,
+            "mime": "audio\/ogg",
+            "size": 508259,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2009\/08-1198\/20100427o_08-1198.ogg"
+        },
+        {
+            "id": 73633,
+            "mime": "application\/x-mpegURL",
+            "size": 859,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2009\/08-1198\/20100427o_08-1198.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

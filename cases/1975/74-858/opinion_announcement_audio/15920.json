@@ -1,0 +1,88 @@
+{
+    "id": 15920,
+    "title": "Opinion Announcement - March 24, 1976",
+    "transcript": {
+        "title": "Carey v. Sugar",
+        "duration": 50.018,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 50.018,
+                "byte_start": 73660,
+                "byte_stop": 273653,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 50.018,
+                        "byte_start": 73660,
+                        "byte_stop": 273653,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 20.706,
+                                "byte_start": 73660,
+                                "byte_stop": 156520,
+                                "text": "I have the disposition to announce in, 74-858, Governor Carey of New York against Sugar, and the related case 74-859, Curtis Circulation Company and Continental Casualty Company against Sugar."
+                            },
+                            {
+                                "start": 20.706,
+                                "stop": 50.018,
+                                "byte_start": 156520,
+                                "byte_stop": 273653,
+                                "text": "And for reasons stated in an opinion of the Court filed with the clerk this morning, the judgment of the United States District Court for the Southern District of New York is remanded to that Three-Judge court with directions to abstain from a decision on the federal constitutional issues until the parties have had an opportunity to obtain a construction of the New York statute from the New York state courts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 40962,
+            "mime": "audio\/mpeg",
+            "size": 273862,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1975\/74-858\/19760324o_74-858.delivery.mp3"
+        },
+        {
+            "id": 62904,
+            "mime": "audio\/ogg",
+            "size": 513352,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1975\/74-858\/19760324o_74-858.ogg"
+        },
+        {
+            "id": 62905,
+            "mime": "application\/x-mpegURL",
+            "size": 842,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1975\/74-858\/19760324o_74-858.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

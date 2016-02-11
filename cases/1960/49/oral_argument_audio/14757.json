@@ -1,0 +1,636 @@
+{
+    "id": 14757,
+    "title": "Oral Argument - November 10, 1960 (Part 1)",
+    "media_file": [
+        {
+            "id": 38634,
+            "mime": "audio\/mpeg",
+            "size": 3361207,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1960\/49\/19601110a_49_part1.delivery.mp3"
+        },
+        {
+            "id": 60614,
+            "mime": "audio\/ogg",
+            "size": 7960477,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1960\/49\/19601110a_49_part1.ogg"
+        },
+        {
+            "id": 60615,
+            "mime": "application\/x-mpegURL",
+            "size": 12351,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1960\/49\/19601110a_49_part1.m3u8"
+        }
+    ],
+    "transcript": {
+        "title": "United States v. Virginia Electric \u0026 Power Company",
+        "duration": 814.37,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 814.37,
+                "byte_start": 103424,
+                "byte_stop": 3360893,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 25.572,
+                        "byte_start": 103424,
+                        "byte_stop": 205720,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 23.512,
+                                "byte_start": 103424,
+                                "byte_stop": 197569,
+                                "text": "Number 49, United States, Petitioner, versus Virginia Electric and Power Company."
+                            },
+                            {
+                                "start": 23.512,
+                                "stop": 25.572,
+                                "byte_start": 197569,
+                                "byte_stop": 205720,
+                                "text": "Mr. Morton."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 25.572,
+                        "stop": 213.666,
+                        "byte_start": 205720,
+                        "byte_stop": 958151,
+                        "speaker": {
+                            "ID": 38135,
+                            "name": "Perry W. Morton",
+                            "href": "https:\/\/api.oyez.org\/people\/perry_w_morton",
+                            "last_name": "Morton",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "perry_w_morton"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 25.572,
+                                "stop": 30.971,
+                                "byte_start": 205720,
+                                "byte_stop": 227349,
+                                "text": "Mr. Chief Justice, may it please the Court."
+                            },
+                            {
+                                "start": 30.971,
+                                "stop": 42.411,
+                                "byte_start": 227349,
+                                "byte_stop": 273115,
+                                "text": "This condemnation case at an earlier stage was here once before in your October 1955 term."
+                            },
+                            {
+                                "start": 42.411,
+                                "stop": 68.645,
+                                "byte_start": 273115,
+                                "byte_stop": 378023,
+                                "text": "An earlier judgment against the United States in favor of this respondent was then vacated by you and the case was remanded for further consideration in the light of the case of the United States versus Twin City Power Company that you had decided the week before."
+                            },
+                            {
+                                "start": 68.645,
+                                "stop": 99.557,
+                                "byte_start": 378023,
+                                "byte_stop": 501739,
+                                "text": "It was in the Twin City case that you held that when the United States builds a water project on a navigable stream and condemns riparian land for that purpose, any element of value arising from the availability of the land for water power purposes must be excluded in the fixing of compensation."
+                            },
+                            {
+                                "start": 99.557,
+                                "stop": 129.226,
+                                "byte_start": 501739,
+                                "byte_stop": 620335,
+                                "text": "But of course in Twin City, you held that after excluding water power value, enhancement of the land due to water\u0027s power site value, there would still be an obligation of the Government which we readily recognize in this case to pay for any other values which might be inherent in the fee type."
+                            },
+                            {
+                                "start": 129.226,
+                                "stop": 146.193,
+                                "byte_start": 620335,
+                                "byte_stop": 688253,
+                                "text": "Now, while I will summarize the facts of the present case in a moment, I wish to emphasize at the threshold certain very important factual differences which are these."
+                            },
+                            {
+                                "start": 146.193,
+                                "stop": 159.216,
+                                "byte_start": 688253,
+                                "byte_stop": 740289,
+                                "text": "In Twin City, the bulk of the land which the Government condemned in fee was held by Twin City in fee."
+                            },
+                            {
+                                "start": 159.216,
+                                "stop": 183.87,
+                                "byte_start": 740289,
+                                "byte_stop": 838928,
+                                "text": "But in the present case, the Government made a settlement fully satisfactory to the owner in fee simple and the respondent power company held only a flowage easement, an easement to plug related to the development of the water power of this navigable stream."
+                            },
+                            {
+                                "start": 183.87,
+                                "stop": 213.666,
+                                "byte_start": 838928,
+                                "byte_stop": 958151,
+                                "text": "And so it is that in the present case, the basic question in the Government\u0027s view is whether the Government is required to pay this power company respondent any compensation for the frustration of a flowage easement it owned once upon a time over land riparian to an interstate navigable stream."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 213.666,
+                        "stop": 219.183,
+                        "byte_start": 958151,
+                        "byte_stop": 980198,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 213.666,
+                                "stop": 219.183,
+                                "byte_start": 958151,
+                                "byte_stop": 980198,
+                                "text": "When you say \u0022once upon a time,\u0022 did it have that interest --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 219.183,
+                        "stop": 219.323,
+                        "byte_start": 980198,
+                        "byte_stop": 980720,
+                        "speaker": {
+                            "ID": 38135,
+                            "name": "Perry W. Morton",
+                            "href": "https:\/\/api.oyez.org\/people\/perry_w_morton",
+                            "last_name": "Morton",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "perry_w_morton"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 219.183,
+                                "stop": 219.323,
+                                "byte_start": 980198,
+                                "byte_stop": 980720,
+                                "text": "It had a piece of paper --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 219.323,
+                        "stop": 222.179,
+                        "byte_start": 980720,
+                        "byte_stop": 992214,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 219.323,
+                                "stop": 222.179,
+                                "byte_start": 980720,
+                                "byte_stop": 992214,
+                                "text": "-- at the time of condem -- up to the time of condemnation?"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 222.179,
+                        "stop": 719.782,
+                        "byte_start": 992214,
+                        "byte_stop": 2982640,
+                        "speaker": {
+                            "ID": 38135,
+                            "name": "Perry W. Morton",
+                            "href": "https:\/\/api.oyez.org\/people\/perry_w_morton",
+                            "last_name": "Morton",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "perry_w_morton"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 222.179,
+                                "stop": 223.886,
+                                "byte_start": 992214,
+                                "byte_stop": 999006,
+                                "text": "The paper was still on record Your Honor."
+                            },
+                            {
+                                "start": 223.886,
+                                "stop": 230.291,
+                                "byte_start": 999006,
+                                "byte_stop": 1024606,
+                                "text": "I\u0027ll develop the refinements of that at -- a little later."
+                            },
+                            {
+                                "start": 230.291,
+                                "stop": 258.41,
+                                "byte_start": 1024606,
+                                "byte_stop": 1137142,
+                                "text": "We say that we do not have to pay any compensation where the only value such flowage easement could possibly have was directly dependent, necessarily dependent upon a permission which the Government has the constitutional power under the Commerce Clause to grant or withhold and which it had never granted."
+                            },
+                            {
+                                "start": 258.41,
+                                "stop": 277.642,
+                                "byte_start": 1137142,
+                                "byte_stop": 1214046,
+                                "text": "Now, the essential facts, beyond dispute as far as the issues before the Court at this time, are concerned are these, the Dan River is the principal tributary of the Roanoke River and is a navigable stream."
+                            },
+                            {
+                                "start": 277.642,
+                                "stop": 304.682,
+                                "byte_start": 1214046,
+                                "byte_stop": 1322193,
+                                "text": "In 1944, Congress authorized the construction of the Buggs Island reservoir now known on has the John H. Kerr Dam and Reservoir on the Roanoke River in Virginia and North Carolina as a multipurpose project for navigation, flood control, and the development of water power."
+                            },
+                            {
+                                "start": 304.682,
+                                "stop": 309.458,
+                                "byte_start": 1322193,
+                                "byte_stop": 1341315,
+                                "text": "That is the project involved in this case."
+                            },
+                            {
+                                "start": 309.458,
+                                "stop": 345.07,
+                                "byte_start": 1341315,
+                                "byte_stop": 1483734,
+                                "text": "You may be familiar with it from your 1953 consideration of the case of Chapman versus Federal Power Commission in which you approved the license issued by the Federal Power Commission to this very same respondent to construct the Roanoke rapid site, so far of this downstream of the eleven possible sites on the Roanoke Basin, whereas this is the Buggs Island project referred to in that case as the highest upstream and was of course built by the Government."
+                            },
+                            {
+                                "start": 345.07,
+                                "stop": 368.24,
+                                "byte_start": 1483734,
+                                "byte_stop": 1576417,
+                                "text": "Now, this congressional decision to build this project made in 1944 is just as immune from judiciary reexamination as was the same decision in Twin City which involved exactly the same authorizing act of the Congress."
+                            },
+                            {
+                                "start": 368.24,
+                                "stop": 390.811,
+                                "byte_start": 1576417,
+                                "byte_stop": 1666696,
+                                "text": "On the execution of the authority given by this Act, the Government required and condemned a flowage easement over considerable areas of land, the project extends for miles, which would be flooded behind this dam."
+                            },
+                            {
+                                "start": 390.811,
+                                "stop": 420.859,
+                                "byte_start": 1666696,
+                                "byte_stop": 1786964,
+                                "text": "This is in the very upper reaches of the reservoir area, which would be flooded behind this dam permanently or intermittently including 1840 acres of a 7400-acre tract, commonly known as the Falkland estate owned by a Mrs. Williams who is not a party to this controversy."
+                            },
+                            {
+                                "start": 420.859,
+                                "stop": 456.519,
+                                "byte_start": 1786964,
+                                "byte_stop": 1929592,
+                                "text": "This respondent power company, theretofore, owned easements which for the purpose of this argument at least, would have aggregately on their face permitted it to flood permanently for water power development purposes as against Mrs. Williams and her granddaughters, a total of 1540 acres of the same 1840 acres which the Government condemned its flowage easement of."
+                            },
+                            {
+                                "start": 456.519,
+                                "stop": 493.566,
+                                "byte_start": 1929592,
+                                "byte_stop": 2077759,
+                                "text": "Now, respondent\u0027s easements on this 1540 acres would allow flooding just to put two or three figures in your minds, up to contour elevation, 321 feet mean sea level whereas the easement which the Government acquired is to flood the Williams\u0027 land permanently or intermittently up to contour 330 feet mean sea level as required in the operation of the Government project as constructed."
+                            },
+                            {
+                                "start": 493.566,
+                                "stop": 532.012,
+                                "byte_start": 2077759,
+                                "byte_stop": 2231568,
+                                "text": "As a result of correspondence initiated by the attorney for Mrs. Williams, the fee owner more than two years prior to the commencement of this case, the Government accepted from Mrs. Williams an option for the purchase of a flowage easement over the entire 1840 acres previously mentioned for a consideration of $1 and other valuable considerations the receipt and sufficiency of which were thereby acknowledged."
+                            },
+                            {
+                                "start": 532.012,
+                                "stop": 548.007,
+                                "byte_start": 2231568,
+                                "byte_stop": 2295515,
+                                "text": "This preliminary correspondence shows that the landowner urged the Government to accept only a flowage easement instead of acquiring the entire fee simple title as it had in Twin City."
+                            },
+                            {
+                                "start": 548.007,
+                                "stop": 600.739,
+                                "byte_start": 2295515,
+                                "byte_stop": 2506480,
+                                "text": "Because the Falkland Estate and I might say it was the general policy to acquire the fee-simple title but we were urged to grant -- to take only a flowage easement because the Falkland Estate and now I want to pick out excerpts from the attorney\u0027s letter, that\u0027s the entire 7400 acres, had long \u0022been devoted exclusively to conservation of wild life and is a well-known game preserve which would be badly cut up,\u0022 said the attorney if the Government took the entire fee-simple title whereas leaving the fee-simple title in the property -- to the property in the landowners would he said, \u0022Go a long way in alleviating the difficulty.\u0022"
+                            },
+                            {
+                                "start": 600.739,
+                                "stop": 643.555,
+                                "byte_start": 2506480,
+                                "byte_stop": 2677739,
+                                "text": "Well, this option eventually exercised -- executed rather by the landowner and accepted by the Government reserved to the landowner \u0022all such rights\u0022, and \u201cprivileges as may be used and enjoyed without interfering with the interest of the United States and was made subject only to\u0022 and I continue quote \u0022such water flowage, riparian and other rights if any, which the Virginia Electric and Power Company has in or to or rather on is the word, the above described lands.\u201d"
+                            },
+                            {
+                                "start": 643.555,
+                                "stop": 673.192,
+                                "byte_start": 2677739,
+                                "byte_stop": 2796231,
+                                "text": "The option further contained an express provision that the Government might at its election, acquire the title to the rights described in the option agreement by condemnation instead of by deed and that in the event of condemnation, the landowner would accept the considerations explicit and implicit in the option arrangement as full compensation."
+                            },
+                            {
+                                "start": 673.192,
+                                "stop": 696.662,
+                                "byte_start": 2796231,
+                                "byte_stop": 2890167,
+                                "text": "Exercising this election, the Government instituted this condemnation case in 1952 and the record is specific at several points that the landowner has continuously disclaimed any interest whatsoever in any further compensation or consideration."
+                            },
+                            {
+                                "start": 696.662,
+                                "stop": 706.181,
+                                "byte_start": 2890167,
+                                "byte_stop": 2928201,
+                                "text": "And so the controversy here presented, is and always has been strictly between the Government and this power company."
+                            },
+                            {
+                                "start": 706.181,
+                                "stop": 719.782,
+                                "byte_start": 2928201,
+                                "byte_stop": 2982640,
+                                "text": "Now, the case was first tried in January, 1954 and a judgment was then entered for $61,600 in favor of the power company."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 719.782,
+                        "stop": 721.047,
+                        "byte_start": 2982640,
+                        "byte_stop": 2987656,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 719.782,
+                                "stop": 721.047,
+                                "byte_start": 2982640,
+                                "byte_stop": 2987656,
+                                "text": "Would it interrupt your --"
+                            }
+                        ]
+                    },
+                    {
+                        "start": 721.047,
+                        "stop": 721.164,
+                        "byte_start": 2987656,
+                        "byte_stop": 2988178,
+                        "speaker": {
+                            "ID": 38135,
+                            "name": "Perry W. Morton",
+                            "href": "https:\/\/api.oyez.org\/people\/perry_w_morton",
+                            "last_name": "Morton",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "perry_w_morton"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 721.047,
+                                "stop": 721.164,
+                                "byte_start": 2987656,
+                                "byte_stop": 2988178,
+                                "text": "Yes, sir."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 721.164,
+                        "stop": 744.719,
+                        "byte_start": 2988178,
+                        "byte_stop": 3082324,
+                        "speaker": {
+                            "ID": 15050,
+                            "name": "Felix Frankfurter",
+                            "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "last_name": "Frankfurter",
+                            "roles": [
+                                {
+                                    "id": 2694,
+                                    "type": "scotus_justice",
+                                    "date_start": -975780000,
+                                    "date_end": -231793200,
+                                    "appointing_president": "Franklin D. Roosevelt",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2694"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32706,
+                                "mime": "image\/png",
+                                "size": 45083,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            },
+                            "length_of_service": 8611,
+                            "identifier": "felix_frankfurter"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 721.164,
+                                "stop": 744.719,
+                                "byte_start": 2988178,
+                                "byte_stop": 3082324,
+                                "text": "-- course of your argument if I asked whether in any proceedings, between the United States and the owner of the condemned land, with the outstanding flowage interest of the respondents here, whatever that is that may have been deemed to be ever made its appearance in the process by which the imminent domain transaction is completed."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 744.719,
+                        "stop": 810.743,
+                        "byte_start": 3082324,
+                        "byte_stop": 3346474,
+                        "speaker": {
+                            "ID": 38135,
+                            "name": "Perry W. Morton",
+                            "href": "https:\/\/api.oyez.org\/people\/perry_w_morton",
+                            "last_name": "Morton",
+                            "roles": null,
+                            "thumbnail": null,
+                            "length_of_service": 0,
+                            "identifier": "perry_w_morton"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 744.719,
+                                "stop": 753.007,
+                                "byte_start": 3082324,
+                                "byte_stop": 3115551,
+                                "text": "The complaint simply describes and the declaration of taking to at the earliest part of the record."
+                            },
+                            {
+                                "start": 753.007,
+                                "stop": 774.219,
+                                "byte_start": 3115551,
+                                "byte_stop": 3200397,
+                                "text": "The nature of the estate which the Government wanted that is to flow permanently or intermittently and so on and so on and so on over certain described parcels which were set out in appendix to the complaint by a full legal description."
+                            },
+                            {
+                                "start": 774.219,
+                                "stop": 784.367,
+                                "byte_start": 3200397,
+                                "byte_stop": 3240939,
+                                "text": "And the -- the parties are then named as parties having an interest or a possible interest in the property."
+                            },
+                            {
+                                "start": 784.367,
+                                "stop": 805.522,
+                                "byte_start": 3240939,
+                                "byte_stop": 3325576,
+                                "text": "I would recall to you perhaps the 93-acre case, the Illinois Aircraft case about two years ago now in which you said of course that the mere jointer of a party, the mere bringing of a domain proceeding against a party is not necessarily a recognition of an interest that that party may have."
+                            },
+                            {
+                                "start": 805.522,
+                                "stop": 810.743,
+                                "byte_start": 3325576,
+                                "byte_stop": 3346474,
+                                "text": "This forum may be tested to determine the existence of such an interest."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 810.743,
+                        "stop": 814.37,
+                        "byte_start": 3346474,
+                        "byte_stop": 3360893,
+                        "speaker": {
+                            "ID": 15099,
+                            "name": "Earl Warren",
+                            "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "last_name": "Warren",
+                            "roles": [
+                                {
+                                    "id": 2743,
+                                    "type": "scotus_justice",
+                                    "date_start": -512503200,
+                                    "date_end": -16570800,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2743"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32704,
+                                "mime": "image\/png",
+                                "size": 50444,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            },
+                            "length_of_service": 5740,
+                            "identifier": "earl_warren"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 810.743,
+                                "stop": 814.37,
+                                "byte_start": 3346474,
+                                "byte_stop": 3360893,
+                                "text": "We\u0027ll recess now Mr. --"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "public_note": null,
+    "unavailable": null,
+    "damaged": null
+}

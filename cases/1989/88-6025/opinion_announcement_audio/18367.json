@@ -1,0 +1,95 @@
+{
+    "id": 18367,
+    "title": "Opinion Announcement - January 10, 1990",
+    "transcript": {
+        "title": "Dowling v. United States",
+        "duration": 20.976,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.976,
+                "byte_start": 87127,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.976,
+                        "byte_start": 87127,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 6.568,
+                                "byte_start": 87127,
+                                "byte_stop": 113458,
+                                "text": "The second case is 88-6025, Dowling against the United States."
+                            },
+                            {
+                                "start": 6.568,
+                                "stop": 14.471,
+                                "byte_start": 113458,
+                                "byte_stop": 145014,
+                                "text": "And here for the reasons stated in an opinion that has been filed, the judgment of the Court of Appeals for the Third Circuit is affirmed."
+                            },
+                            {
+                                "start": 14.471,
+                                "stop": 20.976,
+                                "byte_start": 145014,
+                                "byte_stop": 0,
+                                "text": "Justice Brennan, joined by Justices Marshall and Stevens has filled a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 45856,
+            "mime": "audio\/mpeg",
+            "size": 170719,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-6025\/19900110o_88-6025.delivery.mp3"
+        },
+        {
+            "id": 67700,
+            "mime": "audio\/ogg",
+            "size": 220836,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-6025\/19900110o_88-6025.ogg"
+        },
+        {
+            "id": 67701,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-6025\/19900110o_88-6025.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

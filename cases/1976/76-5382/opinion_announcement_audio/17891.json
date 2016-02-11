@@ -1,0 +1,88 @@
+{
+    "id": 17891,
+    "title": "Opinion Announcement - April 19, 1977",
+    "transcript": {
+        "title": "Darden v. Florida",
+        "duration": 16.893,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 16.893,
+                "byte_start": 100531,
+                "byte_stop": 168031,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 16.893,
+                        "byte_start": 100531,
+                        "byte_stop": 168031,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.969,
+                                "byte_start": 100531,
+                                "byte_stop": 148492,
+                                "text": "In 76-5382, Darden against the State of Florida, the writ of certiorari to the Supreme Court of Florida is dismissed as having been improvidently granted."
+                            },
+                            {
+                                "start": 11.969,
+                                "stop": 16.893,
+                                "byte_start": 148492,
+                                "byte_stop": 168031,
+                                "text": "Mr. Justice Brennan with whom Mr. Justice Marshall joins dissents."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44904,
+            "mime": "audio\/mpeg",
+            "size": 168240,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/76-5382\/19770419o_76-5382.delivery.mp3"
+        },
+        {
+            "id": 66760,
+            "mime": "audio\/ogg",
+            "size": 179973,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/76-5382\/19770419o_76-5382.ogg"
+        },
+        {
+            "id": 66761,
+            "mime": "application\/x-mpegURL",
+            "size": 375,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/76-5382\/19770419o_76-5382.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

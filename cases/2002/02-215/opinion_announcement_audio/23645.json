@@ -1,0 +1,153 @@
+{
+    "id": 23645,
+    "title": "Opinion Announcement - April 07, 2003",
+    "transcript": {
+        "title": "PacifiCare Health Systems, Inc. v. Book",
+        "duration": 29.074,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.074,
+                "byte_start": 85011,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 9.145,
+                        "byte_start": 85011,
+                        "byte_stop": 121687,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.145,
+                                "byte_start": 85011,
+                                "byte_stop": 121687,
+                                "text": "The opinion of the Court in No. 02-215 PacificCare Health Systems Inc. versus Book will be announced by Justice Scalia."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 9.145,
+                        "stop": 29.074,
+                        "byte_start": 121687,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "last_name": "Scalia",
+                            "roles": [
+                                {
+                                    "id": 2693,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32678,
+                                "mime": "image\/png",
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            },
+                            "length_of_service": 10699,
+                            "identifier": "antonin_scalia"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 9.145,
+                                "stop": 15.086,
+                                "byte_start": 121687,
+                                "byte_stop": 145406,
+                                "text": "This case is here on writ of certiorari in the United States Court of Appeals for the Eleventh Circuit."
+                            },
+                            {
+                                "start": 15.086,
+                                "stop": 22.6,
+                                "byte_start": 145406,
+                                "byte_stop": 175499,
+                                "text": "For the reason set forth in an opinion filed with the Clerk today, we reverse the judgment of the Eleventh Circuit and remand the case."
+                            },
+                            {
+                                "start": 22.6,
+                                "stop": 24.523,
+                                "byte_start": 175499,
+                                "byte_stop": 183127,
+                                "text": "The opinion is unanimous."
+                            },
+                            {
+                                "start": 24.523,
+                                "stop": 29.074,
+                                "byte_start": 183127,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas took no part in the consideration or decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 56408,
+            "mime": "audio\/mpeg",
+            "size": 201308,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2002\/02-215\/20030407o_02-215.delivery.mp3"
+        },
+        {
+            "id": 78096,
+            "mime": "audio\/ogg",
+            "size": 303733,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2002\/02-215\/20030407o_02-215.ogg"
+        },
+        {
+            "id": 78097,
+            "mime": "application\/x-mpegURL",
+            "size": 541,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2002\/02-215\/20030407o_02-215.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

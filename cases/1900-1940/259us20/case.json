@@ -1,0 +1,551 @@
+{
+    "ID": 62428,
+    "name": "Child Labor Tax Case",
+    "href": "https:\/\/api.oyez.org\/cases\/1900-1940\/259us20",
+    "docket_number": "657",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Bailey",
+    "second_party": "Drexel Furniture Co.",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -1509040800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53014"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -1503169200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53015"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EAs an exercise of its taxing powers Congress enacted the Revenue Act of 1919, also called the Child Labor Tax Law. Under the law, companies employing children under fourteen years of age would be assessed ten percent of their annual profits. During the same year in which the act was passed, Drexel Furniture Company was found in violation of it and required to pay over $6000 in taxes, which it did under protest.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDid Congress violate the Constitution in adopting the Child Labor Tax Law in attempting to regulate the employment of children, a power reserved to the states under the Tenth Amendment?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EYes. The Court found that the Child Labor Tax Law was in violation of the Constitution as it intruded on the jurisdiction of states to adopt and enforce child labor codes. Chief Justice Taft argued that the tax law in question did much more than simply impose an \u0022incidental restraint\u0022 but exerted a \u0022prohibitory and regulatory effect\u0022 in a realm over which Congress had no jurisdiction. Taft feared that upholding this law would destroy state sovereignty and devastate \u0022all constitutional limitation of the powers of Congress\u0022 by allowing it to disguise future regulatory legislation in the cloak of taxes.\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "259",
+        "page": "20",
+        "year": "1922",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27230"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15283,
+            "name": "Taft Court (1921-1922)",
+            "href": "https:\/\/api.oyez.org\/courts\/taft1",
+            "members": [
+                {
+                    "ID": 15146,
+                    "name": "William Howard Taft",
+                    "href": "https:\/\/api.oyez.org\/people\/william_howard_taft",
+                    "last_name": "Taft",
+                    "roles": [
+                        {
+                            "id": 2794,
+                            "type": "scotus_justice",
+                            "date_start": -1529780400,
+                            "date_end": -1259431200,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2794"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32777,
+                        "mime": "image\/png",
+                        "size": 35140,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_howard_taft.png"
+                    },
+                    "length_of_service": 3129,
+                    "identifier": "william_howard_taft"
+                },
+                {
+                    "ID": 15098,
+                    "name": "Joseph McKenna",
+                    "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                    "last_name": "McKenna",
+                    "roles": [
+                        {
+                            "id": 2742,
+                            "type": "scotus_justice",
+                            "date_start": -2269879200,
+                            "date_end": -1419703200,
+                            "appointing_president": "William McKinley",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2742"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32692,
+                        "mime": "image\/png",
+                        "size": 56275,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                    },
+                    "length_of_service": 9840,
+                    "identifier": "joseph_mckenna"
+                },
+                {
+                    "ID": 15048,
+                    "name": "Oliver W. Holmes, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                    "last_name": "Holmes",
+                    "roles": [
+                        {
+                            "id": 2692,
+                            "type": "scotus_justice",
+                            "date_start": -2116432800,
+                            "date_end": -1198260000,
+                            "appointing_president": "Theodore Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32747,
+                        "mime": "image\/png",
+                        "size": 53023,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                    },
+                    "length_of_service": 10627,
+                    "identifier": "oliver_w_holmes_jr"
+                },
+                {
+                    "ID": 15055,
+                    "name": "William R. Day",
+                    "href": "https:\/\/api.oyez.org\/people\/william_r_day",
+                    "last_name": "Day",
+                    "roles": [
+                        {
+                            "id": 2699,
+                            "type": "scotus_justice",
+                            "date_start": -2109175200,
+                            "date_end": -1487440800,
+                            "appointing_president": "Theodore Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2699"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32783,
+                        "mime": "image\/png",
+                        "size": 45485,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_r_day.png"
+                    },
+                    "length_of_service": 7196,
+                    "identifier": "william_r_day"
+                },
+                {
+                    "ID": 15133,
+                    "name": "Willis Van Devanter",
+                    "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                    "last_name": "Van Devanter",
+                    "roles": [
+                        {
+                            "id": 2778,
+                            "type": "scotus_justice",
+                            "date_start": -1861725600,
+                            "date_end": -1028228400,
+                            "appointing_president": "William Howard Taft",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32785,
+                        "mime": "image\/png",
+                        "size": 52800,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                    },
+                    "length_of_service": 9647,
+                    "identifier": "willis_van_devanter"
+                },
+                {
+                    "ID": 15148,
+                    "name": "Mahlon Pitney",
+                    "href": "https:\/\/api.oyez.org\/people\/mahlon_pitney",
+                    "last_name": "Pitney",
+                    "roles": [
+                        {
+                            "id": 2796,
+                            "type": "scotus_justice",
+                            "date_start": -1823709600,
+                            "date_end": -1483293600,
+                            "appointing_president": "William Howard Taft",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2796"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32741,
+                        "mime": "image\/png",
+                        "size": 49375,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/mahlon_pitney.png"
+                    },
+                    "length_of_service": 3940,
+                    "identifier": "mahlon_pitney"
+                },
+                {
+                    "ID": 15066,
+                    "name": "James C. McReynolds",
+                    "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                    "last_name": "McReynolds",
+                    "roles": [
+                        {
+                            "id": 2710,
+                            "type": "scotus_justice",
+                            "date_start": -1742666400,
+                            "date_end": -912535200,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32720,
+                        "mime": "image\/png",
+                        "size": 55380,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                    },
+                    "length_of_service": 9608,
+                    "identifier": "james_c_mcreynolds"
+                },
+                {
+                    "ID": 15075,
+                    "name": "Louis D. Brandeis",
+                    "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                    "last_name": "Brandeis",
+                    "roles": [
+                        {
+                            "id": 2719,
+                            "type": "scotus_justice",
+                            "date_start": -1690653600,
+                            "date_end": -974570400,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32739,
+                        "mime": "image\/png",
+                        "size": 33357,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                    },
+                    "length_of_service": 8288,
+                    "identifier": "louis_d_brandeis"
+                },
+                {
+                    "ID": 15062,
+                    "name": "John H. Clarke",
+                    "href": "https:\/\/api.oyez.org\/people\/john_h_clarke",
+                    "last_name": "Clarke",
+                    "roles": [
+                        {
+                            "id": 2706,
+                            "type": "scotus_justice",
+                            "date_start": -1679767200,
+                            "date_end": -1492282800,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2706"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32792,
+                        "mime": "image\/png",
+                        "size": 32752,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_hessin_clarke.png"
+                    },
+                    "length_of_service": 2170,
+                    "identifier": "john_h_clarke"
+                }
+            ],
+            "court_start": -1529780400,
+            "images": [
+                {
+                    "id": 78532,
+                    "mime": "image\/jpeg",
+                    "size": 716518,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/taft1_photograph.jpg"
+                }
+            ],
+            "identifier": "taft1"
+        }
+    ],
+    "decided_by": {
+        "ID": 15283,
+        "name": "Taft Court (1921-1922)",
+        "href": "https:\/\/api.oyez.org\/courts\/taft1",
+        "members": [
+            {
+                "ID": 15146,
+                "name": "William Howard Taft",
+                "href": "https:\/\/api.oyez.org\/people\/william_howard_taft",
+                "last_name": "Taft",
+                "roles": [
+                    {
+                        "id": 2794,
+                        "type": "scotus_justice",
+                        "date_start": -1529780400,
+                        "date_end": -1259431200,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2794"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32777,
+                    "mime": "image\/png",
+                    "size": 35140,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_howard_taft.png"
+                },
+                "length_of_service": 3129,
+                "identifier": "william_howard_taft"
+            },
+            {
+                "ID": 15098,
+                "name": "Joseph McKenna",
+                "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                "last_name": "McKenna",
+                "roles": [
+                    {
+                        "id": 2742,
+                        "type": "scotus_justice",
+                        "date_start": -2269879200,
+                        "date_end": -1419703200,
+                        "appointing_president": "William McKinley",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2742"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32692,
+                    "mime": "image\/png",
+                    "size": 56275,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                },
+                "length_of_service": 9840,
+                "identifier": "joseph_mckenna"
+            },
+            {
+                "ID": 15048,
+                "name": "Oliver W. Holmes, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                "last_name": "Holmes",
+                "roles": [
+                    {
+                        "id": 2692,
+                        "type": "scotus_justice",
+                        "date_start": -2116432800,
+                        "date_end": -1198260000,
+                        "appointing_president": "Theodore Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32747,
+                    "mime": "image\/png",
+                    "size": 53023,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                },
+                "length_of_service": 10627,
+                "identifier": "oliver_w_holmes_jr"
+            },
+            {
+                "ID": 15055,
+                "name": "William R. Day",
+                "href": "https:\/\/api.oyez.org\/people\/william_r_day",
+                "last_name": "Day",
+                "roles": [
+                    {
+                        "id": 2699,
+                        "type": "scotus_justice",
+                        "date_start": -2109175200,
+                        "date_end": -1487440800,
+                        "appointing_president": "Theodore Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2699"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32783,
+                    "mime": "image\/png",
+                    "size": 45485,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_r_day.png"
+                },
+                "length_of_service": 7196,
+                "identifier": "william_r_day"
+            },
+            {
+                "ID": 15133,
+                "name": "Willis Van Devanter",
+                "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                "last_name": "Van Devanter",
+                "roles": [
+                    {
+                        "id": 2778,
+                        "type": "scotus_justice",
+                        "date_start": -1861725600,
+                        "date_end": -1028228400,
+                        "appointing_president": "William Howard Taft",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32785,
+                    "mime": "image\/png",
+                    "size": 52800,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                },
+                "length_of_service": 9647,
+                "identifier": "willis_van_devanter"
+            },
+            {
+                "ID": 15148,
+                "name": "Mahlon Pitney",
+                "href": "https:\/\/api.oyez.org\/people\/mahlon_pitney",
+                "last_name": "Pitney",
+                "roles": [
+                    {
+                        "id": 2796,
+                        "type": "scotus_justice",
+                        "date_start": -1823709600,
+                        "date_end": -1483293600,
+                        "appointing_president": "William Howard Taft",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2796"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32741,
+                    "mime": "image\/png",
+                    "size": 49375,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/mahlon_pitney.png"
+                },
+                "length_of_service": 3940,
+                "identifier": "mahlon_pitney"
+            },
+            {
+                "ID": 15066,
+                "name": "James C. McReynolds",
+                "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                "last_name": "McReynolds",
+                "roles": [
+                    {
+                        "id": 2710,
+                        "type": "scotus_justice",
+                        "date_start": -1742666400,
+                        "date_end": -912535200,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32720,
+                    "mime": "image\/png",
+                    "size": 55380,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                },
+                "length_of_service": 9608,
+                "identifier": "james_c_mcreynolds"
+            },
+            {
+                "ID": 15075,
+                "name": "Louis D. Brandeis",
+                "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                "last_name": "Brandeis",
+                "roles": [
+                    {
+                        "id": 2719,
+                        "type": "scotus_justice",
+                        "date_start": -1690653600,
+                        "date_end": -974570400,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32739,
+                    "mime": "image\/png",
+                    "size": 33357,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                },
+                "length_of_service": 8288,
+                "identifier": "louis_d_brandeis"
+            },
+            {
+                "ID": 15062,
+                "name": "John H. Clarke",
+                "href": "https:\/\/api.oyez.org\/people\/john_h_clarke",
+                "last_name": "Clarke",
+                "roles": [
+                    {
+                        "id": 2706,
+                        "type": "scotus_justice",
+                        "date_start": -1679767200,
+                        "date_end": -1492282800,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2706"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32792,
+                    "mime": "image\/png",
+                    "size": 32752,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_hessin_clarke.png"
+                },
+                "length_of_service": 2170,
+                "identifier": "john_h_clarke"
+            }
+        ],
+        "court_start": -1529780400,
+        "images": [
+            {
+                "id": 78532,
+                "mime": "image\/jpeg",
+                "size": 716518,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/taft1_photograph.jpg"
+            }
+        ],
+        "identifier": "taft1"
+    },
+    "term": "1900-1940",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

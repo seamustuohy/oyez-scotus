@@ -1,0 +1,130 @@
+{
+    "id": 22167,
+    "title": "Opinion Announcement - March 01, 2011",
+    "transcript": {
+        "title": "Henderson v. Shinseki",
+        "duration": 72.751,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 72.751,
+                "byte_start": 105472,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 72.751,
+                        "byte_start": 105472,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            },
+                            "length_of_service": 3531,
+                            "identifier": "samuel_alito_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.156,
+                                "byte_start": 105472,
+                                "byte_stop": 142148,
+                                "text": "This case concerns the 120-day time limit for filing a notice of appeal in the Veterans Court."
+                            },
+                            {
+                                "start": 9.156,
+                                "stop": 13.251,
+                                "byte_start": 142148,
+                                "byte_stop": 158553,
+                                "text": "The petitioner in this case, David Henderson was a veteran."
+                            },
+                            {
+                                "start": 13.251,
+                                "stop": 27.565,
+                                "byte_start": 158553,
+                                "byte_stop": 215813,
+                                "text": "He applied for veteran\u0027s benefits but those were denied by the Veteran\u0027s Administration so he filed a notice of appeal with the Veterans Court but he missed the 120-day deadline by a couple of days."
+                            },
+                            {
+                                "start": 27.565,
+                                "stop": 44.474,
+                                "byte_start": 215813,
+                                "byte_stop": 283418,
+                                "text": "He argued that his late filing should be excused because it was caused by his illness but the Veterans Court held that the 120-day time limit is jurisdictional and can\u0027t be relaxed under any circumstances."
+                            },
+                            {
+                                "start": 44.474,
+                                "stop": 48.631,
+                                "byte_start": 283418,
+                                "byte_stop": 300032,
+                                "text": "The Court of Appeals for the Federal Circuit affirmed."
+                            },
+                            {
+                                "start": 48.631,
+                                "stop": 60.976,
+                                "byte_start": 300032,
+                                "byte_stop": 349456,
+                                "text": "As we explained in an opinion that is filed today, we hold that Congress did not intend that the 120-day time limit be treated as a jurisdictional provision."
+                            },
+                            {
+                                "start": 60.976,
+                                "stop": 67.404,
+                                "byte_start": 349456,
+                                "byte_stop": 375160,
+                                "text": "The judgment of the Court of Appeals is therefore reversed and the case is remanded for further proceedings."
+                            },
+                            {
+                                "start": 67.404,
+                                "stop": 72.751,
+                                "byte_start": 375160,
+                                "byte_stop": 0,
+                                "text": "Justice Kagan took no part in the consideration or decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53456,
+            "mime": "audio\/mpeg",
+            "size": 396476,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2010\/09-1036\/20110301o_09-1036.delivery.mp3"
+        },
+        {
+            "id": 75200,
+            "mime": "audio\/ogg",
+            "size": 746441,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2010\/09-1036\/20110301o_09-1036.ogg"
+        },
+        {
+            "id": 75201,
+            "mime": "application\/x-mpegURL",
+            "size": 1211,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2010\/09-1036\/20110301o_09-1036.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,88 @@
+{
+    "id": 16425,
+    "title": "Opinion Announcement - April 28, 1975",
+    "transcript": {
+        "title": "Costarelli v. Massachusetts",
+        "duration": 29.567,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.567,
+                "byte_start": 28672,
+                "byte_stop": 146850,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 29.567,
+                        "byte_start": 28672,
+                        "byte_stop": 146850,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.897,
+                                "byte_start": 28672,
+                                "byte_stop": 60332,
+                                "text": "I have the disposition of No. 73-6739, Costarelli against Massachusetts."
+                            },
+                            {
+                                "start": 7.897,
+                                "stop": 29.567,
+                                "byte_start": 60332,
+                                "byte_stop": 146850,
+                                "text": "And for reasons stated in an opinion by the Court filed this morning with the clerk, the judgment of the Municipal Court of Boston, Massachusetts was dismissed for one of jurisdiction."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41972,
+            "mime": "audio\/mpeg",
+            "size": 147163,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/73-6739\/19750428o_73-6739.delivery.mp3"
+        },
+        {
+            "id": 63898,
+            "mime": "audio\/ogg",
+            "size": 295294,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/73-6739\/19750428o_73-6739.ogg"
+        },
+        {
+            "id": 63899,
+            "mime": "application\/x-mpegURL",
+            "size": 551,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/73-6739\/19750428o_73-6739.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

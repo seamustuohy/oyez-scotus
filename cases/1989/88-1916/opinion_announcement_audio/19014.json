@@ -1,0 +1,88 @@
+{
+    "id": 19014,
+    "title": "Opinion Announcement - April 18, 1990",
+    "transcript": {
+        "title": "Minnesota v. Olson",
+        "duration": 12.539,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 12.539,
+                "byte_start": 87121,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 12.539,
+                        "byte_start": 87121,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.893,
+                                "byte_start": 87121,
+                                "byte_stop": 106765,
+                                "text": "Third, we affirm the judgment of the Minnesota Supreme Court in Minnesota against Olson."
+                            },
+                            {
+                                "start": 4.893,
+                                "stop": 12.539,
+                                "byte_start": 106765,
+                                "byte_stop": 0,
+                                "text": "Justices Stevens and Kennedy have filed concurring opinions, and the Chief Justice and Justice Blackmun have noted their dissent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47152,
+            "mime": "audio\/mpeg",
+            "size": 137067,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1989\/88-1916\/19900418o_88-1916.delivery.mp3"
+        },
+        {
+            "id": 68978,
+            "mime": "audio\/ogg",
+            "size": 131468,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1989\/88-1916\/19900418o_88-1916.ogg"
+        },
+        {
+            "id": 68979,
+            "mime": "application\/x-mpegURL",
+            "size": 331,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1989\/88-1916\/19900418o_88-1916.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

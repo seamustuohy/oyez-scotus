@@ -1,0 +1,88 @@
+{
+    "id": 16989,
+    "title": "Opinion Announcement - June 26, 1978",
+    "transcript": {
+        "title": "Swisher v. Brady",
+        "duration": 38.369,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 38.369,
+                "byte_start": 79977,
+                "byte_stop": 233368,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 38.369,
+                        "byte_start": 79977,
+                        "byte_stop": 233368,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 27.532,
+                                "byte_start": 79977,
+                                "byte_stop": 190109,
+                                "text": "I have the judgment and the opinion for the Court to announce in 77-653, Swisher, the State\u0027s attorney for Baltimore City against Brady, and for reasons stated in an opinion filed with the clerk today, the judgment of the United States District Court for the District of Maryland is reversed and the case is remanded to that court for further proceedings consistent with our opinion."
+                            },
+                            {
+                                "start": 27.532,
+                                "stop": 38.369,
+                                "byte_start": 190109,
+                                "byte_stop": 233368,
+                                "text": "Mr. Justice Marshall with whom Mr. Justice Brennan and Mr. Justice Powell have joined, filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43100,
+            "mime": "audio\/mpeg",
+            "size": 233577,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1977\/77-653\/19780626o_77-653.delivery.mp3"
+        },
+        {
+            "id": 64998,
+            "mime": "audio\/ogg",
+            "size": 398270,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1977\/77-653\/19780626o_77-653.ogg"
+        },
+        {
+            "id": 64999,
+            "mime": "application\/x-mpegURL",
+            "size": 670,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1977\/77-653\/19780626o_77-653.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

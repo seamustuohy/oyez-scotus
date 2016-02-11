@@ -1,0 +1,153 @@
+{
+    "id": 19328,
+    "title": "Opinion Announcement - June 22, 1988",
+    "transcript": {
+        "title": "Franklin v. Lynaugh",
+        "duration": 46.243,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 46.243,
+                "byte_start": 28672,
+                "byte_stop": 213619,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 8.012,
+                        "byte_start": 28672,
+                        "byte_stop": 60750,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 8.012,
+                                "byte_start": 28672,
+                                "byte_stop": 60750,
+                                "text": "The opinion of the Court in No. 87-5546, Franklin versus Lynaugh, will be announced by Justice White."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 8.012,
+                        "stop": 46.243,
+                        "byte_start": 60750,
+                        "byte_stop": 213619,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 8.012,
+                                "stop": 16.135,
+                                "byte_start": 60750,
+                                "byte_stop": 93247,
+                                "text": "In this case which is here from the Court of Appeals for the Fifth Circuit, six of us agreed that the judgment of the Court of Appeals should be affirmed."
+                            },
+                            {
+                                "start": 16.135,
+                                "stop": 29.097,
+                                "byte_start": 93247,
+                                "byte_stop": 145074,
+                                "text": "There has not an opinion for the Court, however, I have filed an opinion which the Chief Justice, Justice Scalia, and Justice Kennedy have joined."
+                            },
+                            {
+                                "start": 29.097,
+                                "stop": 37.53,
+                                "byte_start": 145074,
+                                "byte_stop": 178824,
+                                "text": "Justice O\u0027Connor has filed an opinion concurring in the judgment and Justice Blackmun has joined that opinion."
+                            },
+                            {
+                                "start": 37.53,
+                                "stop": 46.243,
+                                "byte_start": 178824,
+                                "byte_stop": 213619,
+                                "text": "Justice Stevens has filed a dissenting opinion in which Justices Brennan and Marshall have joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47780,
+            "mime": "audio\/mpeg",
+            "size": 213932,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1987\/87-5546\/19880622o_87-5546.delivery.mp3"
+        },
+        {
+            "id": 69604,
+            "mime": "audio\/ogg",
+            "size": 473428,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1987\/87-5546\/19880622o_87-5546.ogg"
+        },
+        {
+            "id": 69605,
+            "mime": "application\/x-mpegURL",
+            "size": 815,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1987\/87-5546\/19880622o_87-5546.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

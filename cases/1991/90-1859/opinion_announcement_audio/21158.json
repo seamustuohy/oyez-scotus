@@ -1,0 +1,102 @@
+{
+    "id": 21158,
+    "title": "Opinion Announcement - May 04, 1992",
+    "transcript": {
+        "title": "Keeney v. Tamayo-Reyes",
+        "duration": 39.053,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 39.053,
+                "byte_start": 90893,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 39.053,
+                        "byte_start": 90893,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15071,
+                            "name": "Byron R. White",
+                            "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "last_name": "White",
+                            "roles": [
+                                {
+                                    "id": 2715,
+                                    "type": "scotus_justice",
+                                    "date_start": -243367200,
+                                    "date_end": 741243600,
+                                    "appointing_president": "John F. Kennedy",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2715"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32699,
+                                "mime": "image\/png",
+                                "size": 55559,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            },
+                            "length_of_service": 11396,
+                            "identifier": "byron_r_white"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.546,
+                                "byte_start": 90893,
+                                "byte_stop": 121091,
+                                "text": "I have the opinion and judgment in Keeney against Tamayo-Reyes."
+                            },
+                            {
+                                "start": 7.546,
+                                "stop": 12.894,
+                                "byte_start": 121091,
+                                "byte_stop": 142511,
+                                "text": "The judgment of the Court of Appeals is reversed and the case is remanded."
+                            },
+                            {
+                                "start": 12.894,
+                                "stop": 21.401,
+                                "byte_start": 142511,
+                                "byte_stop": 176575,
+                                "text": "The reasons for doing so are set out in an opinion on file with the Clerk."
+                            },
+                            {
+                                "start": 21.401,
+                                "stop": 39.053,
+                                "byte_start": 176575,
+                                "byte_stop": 0,
+                                "text": "Justice O\u0027Connor has filed a dissenting opinion in the getting what went wrong and she is joined by Justices Blackmun, Stevens, and Kennedy; Justice Kennedy has also filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51440,
+            "mime": "audio\/mpeg",
+            "size": 247105,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-1859\/19920504o_90-1859.delivery.mp3"
+        },
+        {
+            "id": 73216,
+            "mime": "audio\/ogg",
+            "size": 382662,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-1859\/19920504o_90-1859.ogg"
+        },
+        {
+            "id": 73217,
+            "mime": "application\/x-mpegURL",
+            "size": 727,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-1859\/19920504o_90-1859.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

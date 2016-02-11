@@ -1,0 +1,88 @@
+{
+    "id": 16173,
+    "title": "Opinion Announcement - March 18, 1980",
+    "transcript": {
+        "title": "Vance v. Universal Amusement Company, Inc.",
+        "duration": 31.694,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 31.694,
+                "byte_start": 28672,
+                "byte_stop": 155418,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 31.694,
+                        "byte_start": 28672,
+                        "byte_stop": 155418,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 18.84,
+                                "byte_start": 28672,
+                                "byte_stop": 104114,
+                                "text": "I have the disposition to announce in Vance against the Universal Amusement Company and for reasons stated in a per curiam opinion of the Court filed this morning, the judgement of the United States Court of Appeals for the Fifth Circuit is affirmed."
+                            },
+                            {
+                                "start": 18.84,
+                                "stop": 31.694,
+                                "byte_start": 104114,
+                                "byte_stop": 155418,
+                                "text": "Mr. Justice Powell joins me in a dissenting opinion and Mr. Justice White is joined by Mr. Justice Rehnquist also in a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 41468,
+            "mime": "audio\/mpeg",
+            "size": 155732,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/78-1588\/19800318o_78-1588.delivery.mp3"
+        },
+        {
+            "id": 63406,
+            "mime": "audio\/ogg",
+            "size": 334411,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/78-1588\/19800318o_78-1588.ogg"
+        },
+        {
+            "id": 63407,
+            "mime": "application\/x-mpegURL",
+            "size": 595,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/78-1588\/19800318o_78-1588.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

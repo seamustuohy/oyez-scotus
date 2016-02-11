@@ -1,0 +1,116 @@
+{
+    "id": 16905,
+    "title": "Opinion Announcement - June 02, 1975",
+    "transcript": {
+        "title": "United States v. Tax Commission of Mississippi",
+        "duration": 101.177,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 101.177,
+                "byte_start": 28672,
+                "byte_stop": 433361,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 101.177,
+                        "byte_start": 28672,
+                        "byte_stop": 433361,
+                        "speaker": {
+                            "ID": 15140,
+                            "name": "William J. Brennan, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "last_name": "Brennan",
+                            "roles": [
+                                {
+                                    "id": 2786,
+                                    "type": "scotus_justice",
+                                    "date_start": -416862000,
+                                    "date_end": 648450000,
+                                    "appointing_president": "Dwight D. Eisenhower",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2786"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32778,
+                                "mime": "image\/png",
+                                "size": 56873,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            },
+                            "length_of_service": 12330,
+                            "identifier": "william_j_brennan_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.496,
+                                "byte_start": 28672,
+                                "byte_stop": 70677,
+                                "text": "I also have for announcement, No. 74-548, the United States v. State Tax Commission of Mississippi."
+                            },
+                            {
+                                "start": 10.496,
+                                "stop": 40.24,
+                                "byte_start": 70677,
+                                "byte_stop": 189691,
+                                "text": "Regulation 25 of the Mississippi State Tax Commission requires out-of-state liquor distillers and suppliers to collect from military installations within Mississippi, there are four of such installations in Mississippi, and remit to the Commission, a tax in the form of a wholesale markup of 17% to 20% on liquor sold to the military at those installations."
+                            },
+                            {
+                                "start": 40.24,
+                                "stop": 63.808,
+                                "byte_start": 189691,
+                                "byte_stop": 283941,
+                                "text": "A three-judge District Court for the Southern District of Mississippi held that the legal incidence of the tax is upon the out-state-liquor dealers and suppliers and therefore rejected the argument of the United States that the tax is unconstitutional under the doctrine of McCulloch and Maryland as a state upon instrumentalities of the United States."
+                            },
+                            {
+                                "start": 63.808,
+                                "stop": 65.375,
+                                "byte_start": 283941,
+                                "byte_stop": 290210,
+                                "text": "We reverse."
+                            },
+                            {
+                                "start": 65.375,
+                                "stop": 86.176,
+                                "byte_start": 290210,
+                                "byte_stop": 373384,
+                                "text": "We hold that since Mississippi law requires that the out-of-state sellers collect the tax from the military, the legal incidence of the tax as a matter of law is upon the military and therefore that the tax is an unconstitutional state levy upon instrumentalities of the United States."
+                            },
+                            {
+                                "start": 86.176,
+                                "stop": 101.177,
+                                "byte_start": 373384,
+                                "byte_stop": 433361,
+                                "text": "Mr. Justice Douglas and Mr. Justice Rehnquist dissents and have filed a dissenting statement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 42932,
+            "mime": "audio\/mpeg",
+            "size": 433674,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/74-548\/19750602o_74-548.delivery.mp3"
+        },
+        {
+            "id": 64836,
+            "mime": "audio\/ogg",
+            "size": 1005377,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/74-548\/19750602o_74-548.ogg"
+        },
+        {
+            "id": 64837,
+            "mime": "application\/x-mpegURL",
+            "size": 1573,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/74-548\/19750602o_74-548.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

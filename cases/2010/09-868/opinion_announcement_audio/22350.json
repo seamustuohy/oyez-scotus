@@ -1,0 +1,130 @@
+{
+    "id": 22350,
+    "title": "Opinion Announcement - March 07, 2011",
+    "transcript": {
+        "title": "Wall v. Kholi",
+        "duration": 85.917,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 85.917,
+                "byte_start": 106496,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 85.917,
+                        "byte_start": 106496,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            },
+                            "length_of_service": 3531,
+                            "identifier": "samuel_alito_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 15.053,
+                                "byte_start": 106496,
+                                "byte_stop": 166787,
+                                "text": "This case concerns the 1-year limitation provision for filing a federal habeas petition under the Antiterrorism and Effective Death Penalty Act of 1996."
+                            },
+                            {
+                                "start": 15.053,
+                                "stop": 31,
+                                "byte_start": 166787,
+                                "byte_stop": 230525,
+                                "text": "The statute provides that that one-year period is tolled by \u201ca properly filed application for a State post-conviction or other collateral review with respect to the pertinent judgment or claim.\u201d"
+                            },
+                            {
+                                "start": 31,
+                                "stop": 36.722,
+                                "byte_start": 230525,
+                                "byte_stop": 253409,
+                                "text": "And the question here concerns the meaning of the phrase, \u0022other collateral review.\u0022"
+                            },
+                            {
+                                "start": 36.722,
+                                "stop": 49.066,
+                                "byte_start": 253409,
+                                "byte_stop": 302832,
+                                "text": "Specifically, the question here is whether a motion to reduce sentence under Rhode Island law is an application for \u201ccollateral review\u201d that tolls the limitation period."
+                            },
+                            {
+                                "start": 49.066,
+                                "stop": 62.987,
+                                "byte_start": 302832,
+                                "byte_stop": 358525,
+                                "text": "For the reason stated in the opinion filed today, we hold that the phrase \u0022collateral review\u0022 in this provision means judicial review of a judgment in a proceeding that is not part of the direct review process."
+                            },
+                            {
+                                "start": 62.987,
+                                "stop": 76.685,
+                                "byte_start": 358525,
+                                "byte_stop": 413278,
+                                "text": "The parties here agree that Rhode Island\u0027s motion to reduce sentence is not part of the direct review process, so we hold that it is an application for a collateral review that tolls the limitation period."
+                            },
+                            {
+                                "start": 76.685,
+                                "stop": 81.981,
+                                "byte_start": 413278,
+                                "byte_stop": 434489,
+                                "text": "We therefore affirm the judgment of the United States Court of Appeals for the First Circuit."
+                            },
+                            {
+                                "start": 81.981,
+                                "stop": 85.917,
+                                "byte_start": 434489,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia has filed an opinion concurring in part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 53822,
+            "mime": "audio\/mpeg",
+            "size": 450163,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2010\/09-868\/20110307o_09-868.delivery.mp3"
+        },
+        {
+            "id": 75562,
+            "mime": "audio\/ogg",
+            "size": 879324,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2010\/09-868\/20110307o_09-868.ogg"
+        },
+        {
+            "id": 75563,
+            "mime": "application\/x-mpegURL",
+            "size": 1358,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2010\/09-868\/20110307o_09-868.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

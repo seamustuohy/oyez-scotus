@@ -1,0 +1,130 @@
+{
+    "id": 17202,
+    "title": "Opinion Announcement - June 03, 1974",
+    "transcript": {
+        "title": "Anderson v. United States",
+        "duration": 90.605,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 90.605,
+                "byte_start": 76800,
+                "byte_stop": 439171,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 90.605,
+                        "byte_start": 76800,
+                        "byte_stop": 439171,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.97,
+                                "byte_start": 76800,
+                                "byte_stop": 116715,
+                                "text": "Number 73-346, Anderson against the United States is here on writ of certiorari to the Court of Appeals for the Fourth Circuit."
+                            },
+                            {
+                                "start": 9.97,
+                                "stop": 16.774,
+                                "byte_start": 116715,
+                                "byte_stop": 143987,
+                                "text": "Petitioners were shown to have conspired to cast fictitious votes in a West Virginia primary election."
+                            },
+                            {
+                                "start": 16.774,
+                                "stop": 33.662,
+                                "byte_start": 143987,
+                                "byte_stop": 211487,
+                                "text": "They were convicted of violating Section 241 of Title 18, which makes it unlawful to conspire to injure any of the citizen in the pre-exercise or enjoyment of any right or privilege secured by the constitutional laws of the United States."
+                            },
+                            {
+                                "start": 33.662,
+                                "stop": 49.377,
+                                "byte_start": 211487,
+                                "byte_stop": 274390,
+                                "text": "Considering the immiscibility of certain evidence introduced at trial, the Court of Appeals thought it necessary to resolve the question to whether Section 241 encompassed conspiracies to cast false ballots in purely local elections."
+                            },
+                            {
+                                "start": 49.377,
+                                "stop": 59.533,
+                                "byte_start": 274390,
+                                "byte_stop": 315037,
+                                "text": "In an opinion filed with the clerk today, we have concluded that the evidence and question was immiscible on the basic principles of the law of evidence and conspiracy."
+                            },
+                            {
+                                "start": 59.533,
+                                "stop": 75.048,
+                                "byte_start": 315037,
+                                "byte_stop": 376999,
+                                "text": "And since the evidence at trial showed that petitioner\u0027s conspiracy to encompass the casting of false votes for candidates for federal office as well as the local office, the conspiracy was unlawful under subtle precedence of this Court."
+                            },
+                            {
+                                "start": 75.048,
+                                "stop": 84.552,
+                                "byte_start": 376999,
+                                "byte_stop": 415033,
+                                "text": "We, therefore, affirm the judgment of Court of Appeals which had affirmed the petitioner\u2019s convictions without passing on its interpretation of 241."
+                            },
+                            {
+                                "start": 84.552,
+                                "stop": 90.605,
+                                "byte_start": 415033,
+                                "byte_stop": 439171,
+                                "text": "Mr. Justice Douglas has filed a dissenting opinion in which Mr. Justice Brennan has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43526,
+            "mime": "audio\/mpeg",
+            "size": 439380,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1973\/73-346\/19740603o_73-346.delivery.mp3"
+        },
+        {
+            "id": 65414,
+            "mime": "audio\/ogg",
+            "size": 859167,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1973\/73-346\/19740603o_73-346.ogg"
+        },
+        {
+            "id": 65415,
+            "mime": "application\/x-mpegURL",
+            "size": 1444,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1973\/73-346\/19740603o_73-346.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

@@ -1,0 +1,216 @@
+{
+    "id": 20767,
+    "title": "Opinion Announcement - March 24, 1992",
+    "transcript": {
+        "title": "United States v. Wilson",
+        "duration": 120.163,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 120.163,
+                "byte_start": 90850,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 10.077,
+                        "byte_start": 90850,
+                        "byte_stop": 131183,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.077,
+                                "byte_start": 90850,
+                                "byte_stop": 131183,
+                                "text": "The opinion of the Court in No. 90-1745, United States against Wilson will be announced by Justice Thomas."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 10.077,
+                        "stop": 120.163,
+                        "byte_start": 131183,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15100,
+                            "name": "Clarence Thomas",
+                            "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                            "last_name": "Thomas",
+                            "roles": [
+                                {
+                                    "id": 2744,
+                                    "type": "scotus_justice",
+                                    "date_start": 688194000,
+                                    "date_end": 0,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32680,
+                                "mime": "image\/png",
+                                "size": 49064,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            },
+                            "length_of_service": 8870,
+                            "identifier": "clarence_thomas"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 10.077,
+                                "stop": 17.653,
+                                "byte_start": 131183,
+                                "byte_stop": 161485,
+                                "text": "This case comes to us on a writ of certiorari to the United States Court of Appeals for the Sixth Circuit."
+                            },
+                            {
+                                "start": 17.653,
+                                "stop": 24.223,
+                                "byte_start": 161485,
+                                "byte_stop": 187817,
+                                "text": "The respondent, Richard Wilson committed extortion and other crimes in Tennessee."
+                            },
+                            {
+                                "start": 24.223,
+                                "stop": 32.807,
+                                "byte_start": 187817,
+                                "byte_stop": 222089,
+                                "text": "State authorities arrested Wilson and held him in jail pending the outcome of simultaneous state and federal prosecutions."
+                            },
+                            {
+                                "start": 32.807,
+                                "stop": 39.73,
+                                "byte_start": 222089,
+                                "byte_stop": 249779,
+                                "text": "The United States District Court eventually gave Wilson a 96-month sentence."
+                            },
+                            {
+                                "start": 39.73,
+                                "stop": 53.363,
+                                "byte_start": 249779,
+                                "byte_stop": 304323,
+                                "text": "Wilson appealed to the sentence to the Court of Appeals for the Sixth Circuit arguing that the District Court should have given him credit for the time that he spent in state jail."
+                            },
+                            {
+                                "start": 53.363,
+                                "stop": 58.606,
+                                "byte_start": 304323,
+                                "byte_stop": 325325,
+                                "text": "The Court of Appeals for the Sixth Circuit agreed with Wilson and reversed the District Court."
+                            },
+                            {
+                                "start": 58.606,
+                                "stop": 64.839,
+                                "byte_start": 325325,
+                                "byte_stop": 350298,
+                                "text": "In an opinion filed today with the Clerk\u0027s office, we now reverse the Court of Appeals."
+                            },
+                            {
+                                "start": 64.839,
+                                "stop": 75.064,
+                                "byte_start": 350298,
+                                "byte_stop": 391154,
+                                "text": "A federal prisoner has a right to receive credit for certain pre-sentenced jail time under 18 U.S.C. Section 3585(b)."
+                            },
+                            {
+                                "start": 75.064,
+                                "stop": 81.424,
+                                "byte_start": 391154,
+                                "byte_stop": 416649,
+                                "text": "We conclude, however, that a District Court may not award this credit at sentencing."
+                            },
+                            {
+                                "start": 81.424,
+                                "stop": 95.409,
+                                "byte_start": 416649,
+                                "byte_stop": 472551,
+                                "text": "Section 3585(b) gives a defendant a right to credit for \u0022any time that he has spent in official detention before his sentence begins\u0022."
+                            },
+                            {
+                                "start": 95.409,
+                                "stop": 106.164,
+                                "byte_start": 472551,
+                                "byte_stop": 515601,
+                                "text": "Calculation of this credit cannot occur at sentencing because a defendant\u0027s total detention time remains unknown until he actually goes to prison."
+                            },
+                            {
+                                "start": 106.164,
+                                "stop": 114.655,
+                                "byte_start": 515601,
+                                "byte_stop": 549560,
+                                "text": "In our review, the credit must be determined as an administrative matter once the defendant begins to serve his sentence."
+                            },
+                            {
+                                "start": 114.655,
+                                "stop": 120.163,
+                                "byte_start": 549560,
+                                "byte_stop": 0,
+                                "text": "Justice Stevens has filed a dissenting opinion which Justice White has joined."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 50658,
+            "mime": "audio\/mpeg",
+            "size": 571503,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1991\/90-1745\/19920324o_90-1745.delivery.mp3"
+        },
+        {
+            "id": 72444,
+            "mime": "audio\/ogg",
+            "size": 1174474,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1991\/90-1745\/19920324o_90-1745.ogg"
+        },
+        {
+            "id": 72445,
+            "mime": "application\/x-mpegURL",
+            "size": 1915,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1991\/90-1745\/19920324o_90-1745.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

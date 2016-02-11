@@ -1,0 +1,105 @@
+{
+    "id": 19949,
+    "title": "Opinion Announcement - May 20, 1991",
+    "transcript": {
+        "title": "Ford Motor Credit Co. v. Department of Revenue of Fla.",
+        "duration": 18.233,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 18.233,
+                "byte_start": 73997,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 18.233,
+                        "byte_start": 73997,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 9.799,
+                                "byte_start": 73997,
+                                "byte_stop": 113285,
+                                "text": "I have the opinion of the Court to announce in No. 88-1847 Ford Motor Credit Company versus the Department of Revenue of the State of Florida."
+                            },
+                            {
+                                "start": 9.799,
+                                "stop": 14.826,
+                                "byte_start": 113285,
+                                "byte_stop": 133347,
+                                "text": "The judgment of the Court of Appeals of Florida is affirmed by an equally divided court."
+                            },
+                            {
+                                "start": 14.826,
+                                "stop": 18.233,
+                                "byte_start": 133347,
+                                "byte_stop": 0,
+                                "text": "Justice OConnor took no part in the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 49022,
+            "mime": "audio\/mpeg",
+            "size": 146617,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/88-1847\/19910520o_88-1847.delivery.mp3"
+        },
+        {
+            "id": 70830,
+            "mime": "audio\/ogg",
+            "size": 184332,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/88-1847\/19910520o_88-1847.ogg"
+        },
+        {
+            "id": 70831,
+            "mime": "application\/x-mpegURL",
+            "size": 419,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/88-1847\/19910520o_88-1847.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

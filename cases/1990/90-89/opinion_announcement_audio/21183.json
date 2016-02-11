@@ -1,0 +1,153 @@
+{
+    "id": 21183,
+    "title": "Opinion Announcement - May 20, 1991",
+    "transcript": {
+        "title": "International Primate Protection League v. Administrators, Tulane Educational Fund",
+        "duration": 49.476,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 49.476,
+                "byte_start": 73978,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 4.792,
+                        "byte_start": 73978,
+                        "byte_stop": 93204,
+                        "speaker": {
+                            "ID": 15141,
+                            "name": "William H. Rehnquist",
+                            "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "last_name": "Rehnquist",
+                            "roles": [
+                                {
+                                    "id": 2787,
+                                    "type": "scotus_justice",
+                                    "date_start": 63612000,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2787"
+                                },
+                                {
+                                    "id": 2788,
+                                    "type": "scotus_justice",
+                                    "date_start": 528094800,
+                                    "date_end": 1125723600,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2788"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32786,
+                                "mime": "image\/png",
+                                "size": 46923,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            },
+                            "length_of_service": 12293,
+                            "identifier": "william_h_rehnquist"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 4.792,
+                                "byte_start": 73978,
+                                "byte_stop": 93204,
+                                "text": "The opinions of the Court in two cases will be announced by Justice Marshall."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 4.792,
+                        "stop": 49.476,
+                        "byte_start": 93204,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15104,
+                            "name": "Thurgood Marshall",
+                            "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "last_name": "Marshall",
+                            "roles": [
+                                {
+                                    "id": 2748,
+                                    "type": "scotus_justice",
+                                    "date_start": -71002800,
+                                    "date_end": 686293200,
+                                    "appointing_president": "Lyndon B. Johnson",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2748"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32770,
+                                "mime": "image\/png",
+                                "size": 59272,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            },
+                            "length_of_service": 8765,
+                            "identifier": "thurgood_marshall"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 4.792,
+                                "stop": 21.756,
+                                "byte_start": 93204,
+                                "byte_stop": 161018,
+                                "text": "The first case, No. 90-89, International Primate Protection League versus the Administrators of Tulane Education Fund, is here on writ of certiorari to the United States Court of Appeals for the Fifth Circuit."
+                            },
+                            {
+                                "start": 21.756,
+                                "stop": 35.72,
+                                "byte_start": 161018,
+                                "byte_stop": 216920,
+                                "text": "The question before us today is whether federal agencies can remove the suit to Federal District Court pursuant to Section 1142 of Title 28 of the U. S. Code."
+                            },
+                            {
+                                "start": 35.72,
+                                "stop": 45.235,
+                                "byte_start": 216920,
+                                "byte_stop": 254954,
+                                "text": "In an opinion filed with the Clerk today, we reverse the decision of the Court of Appeals for the Fifth Circuit and remand the case to the State Court."
+                            },
+                            {
+                                "start": 45.235,
+                                "stop": 49.476,
+                                "byte_start": 254954,
+                                "byte_stop": 0,
+                                "text": "Justice Scalia took no part with the decision of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 51490,
+            "mime": "audio\/mpeg",
+            "size": 271882,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1990\/90-89\/19910520o_90-89.delivery.mp3"
+        },
+        {
+            "id": 73266,
+            "mime": "audio\/ogg",
+            "size": 470358,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1990\/90-89\/19910520o_90-89.ogg"
+        },
+        {
+            "id": 73267,
+            "mime": "application\/x-mpegURL",
+            "size": 825,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1990\/90-89\/19910520o_90-89.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

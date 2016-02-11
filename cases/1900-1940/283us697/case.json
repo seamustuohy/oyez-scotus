@@ -1,0 +1,1179 @@
+{
+    "ID": 62447,
+    "name": "Near v. Minnesota ex rel. Olson",
+    "href": "https:\/\/api.oyez.org\/cases\/1900-1940\/283us697",
+    "docket_number": "91",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Appeal",
+    "first_party": "Jay Near",
+    "second_party": "Minnesota ex rel. Olson",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -1259776800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53052"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -1217703600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53053"
+        }
+    ],
+    "lower_court": {
+        "ID": 44,
+        "name": "Minnesota Supreme Court",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/44"
+    },
+    "facts_of_the_case": "\u003Cp\u003EJay Near published a scandal sheet in Minneapolis, in which he attacked local officials, charging that they were implicated with gangsters. Minnesota officials obtained an injunction to prevent Near from publishing his newspaper under a state law that allowed such action against periodicals. The law provided that any person \u0022engaged in the business\u0022 of regularly publishing or circulating an \u0022obscene, lewd, and lascivious\u0022 or a \u0022malicious, scandalous and defamatory\u0022 newspaper or periodical was guilty of a nuisance, and could be enjoined (stopped) from further committing or maintaining the nuisance.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDoes the Minnesota \u0022gag law\u0022 violate the free press provision of the First Amendment?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003EThe Supreme Court held that the statute authorizing the injunction was unconstitutional as applied. History had shown that the protection against previous restraints was at the heart of the First Amendment. The Court held that the statutory scheme constituted a prior restraint and hence was invalid under the First Amendment. Thus the Court established as a constitutional principle the doctrine that, with some narrow exceptions, the government could not censor or otherwise prohibit a publication in advance, even though the communication might be punishable after publication in a criminal or other proceeding.\u003C\/p\u003E\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 45258,
+                "name": "Weymouth Kirkland",
+                "href": "https:\/\/api.oyez.org\/people\/weymouth_kirkland",
+                "last_name": "Kirkland",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "weymouth_kirkland"
+            },
+            "advocate_description": "for Near",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21185"
+        },
+        {
+            "advocate": {
+                "ID": 31807,
+                "name": "James E. Markham",
+                "href": "https:\/\/api.oyez.org\/people\/james_e_markham",
+                "last_name": "Markham",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "james_e_markham"
+            },
+            "advocate_description": "Assistant Attorney General of Minnesota, for Minnesota",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21186"
+        },
+        {
+            "advocate": {
+                "ID": 16586,
+                "name": "Arthur L. Markve",
+                "href": "https:\/\/api.oyez.org\/people\/arthur_l_markve",
+                "last_name": "Markve",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "arthur_l_markve"
+            },
+            "advocate_description": "for Olson",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21187"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "283",
+        "page": "697",
+        "year": "1931",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27249"
+    },
+    "decisions": [
+        {
+            "description": "Under the Free Press Clause of the First Amendment, and with limited exceptions, government may not censor or prohibit a publication in advance.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15038,
+                        "name": "Charles E. Hughes",
+                        "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                        "last_name": "Hughes",
+                        "roles": [
+                            {
+                                "id": 2681,
+                                "type": "scotus_justice",
+                                "date_start": -1869069600,
+                                "date_end": -1690221600,
+                                "appointing_president": "William Howard Taft",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                            },
+                            {
+                                "id": 2682,
+                                "type": "scotus_justice",
+                                "date_start": -1257616800,
+                                "date_end": -899578800,
+                                "appointing_president": "Herbert Hoover",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32790,
+                            "mime": "image\/png",
+                            "size": 56986,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                        },
+                        "length_of_service": 6214,
+                        "identifier": "charles_e_hughes"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205580"
+                },
+                {
+                    "member": {
+                        "ID": 15048,
+                        "name": "Oliver W. Holmes, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                        "last_name": "Holmes",
+                        "roles": [
+                            {
+                                "id": 2692,
+                                "type": "scotus_justice",
+                                "date_start": -2116432800,
+                                "date_end": -1198260000,
+                                "appointing_president": "Theodore Roosevelt",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32747,
+                            "mime": "image\/png",
+                            "size": 53023,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                        },
+                        "length_of_service": 10627,
+                        "identifier": "oliver_w_holmes_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15038,
+                            "name": "Charles E. Hughes",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                            "last_name": "Hughes",
+                            "roles": [
+                                {
+                                    "id": 2681,
+                                    "type": "scotus_justice",
+                                    "date_start": -1869069600,
+                                    "date_end": -1690221600,
+                                    "appointing_president": "William Howard Taft",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                                },
+                                {
+                                    "id": 2682,
+                                    "type": "scotus_justice",
+                                    "date_start": -1257616800,
+                                    "date_end": -899578800,
+                                    "appointing_president": "Herbert Hoover",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32790,
+                                "mime": "image\/png",
+                                "size": 56986,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                            },
+                            "length_of_service": 6214,
+                            "identifier": "charles_e_hughes"
+                        }
+                    ],
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205581"
+                },
+                {
+                    "member": {
+                        "ID": 15075,
+                        "name": "Louis D. Brandeis",
+                        "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                        "last_name": "Brandeis",
+                        "roles": [
+                            {
+                                "id": 2719,
+                                "type": "scotus_justice",
+                                "date_start": -1690653600,
+                                "date_end": -974570400,
+                                "appointing_president": "Woodrow Wilson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32739,
+                            "mime": "image\/png",
+                            "size": 33357,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                        },
+                        "length_of_service": 8288,
+                        "identifier": "louis_d_brandeis"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15038,
+                            "name": "Charles E. Hughes",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                            "last_name": "Hughes",
+                            "roles": [
+                                {
+                                    "id": 2681,
+                                    "type": "scotus_justice",
+                                    "date_start": -1869069600,
+                                    "date_end": -1690221600,
+                                    "appointing_president": "William Howard Taft",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                                },
+                                {
+                                    "id": 2682,
+                                    "type": "scotus_justice",
+                                    "date_start": -1257616800,
+                                    "date_end": -899578800,
+                                    "appointing_president": "Herbert Hoover",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32790,
+                                "mime": "image\/png",
+                                "size": 56986,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                            },
+                            "length_of_service": 6214,
+                            "identifier": "charles_e_hughes"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205582"
+                },
+                {
+                    "member": {
+                        "ID": 15134,
+                        "name": "Harlan Fiske Stone",
+                        "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                        "last_name": "Stone",
+                        "roles": [
+                            {
+                                "id": 2779,
+                                "type": "scotus_justice",
+                                "date_start": -1414864800,
+                                "date_end": -899406000,
+                                "appointing_president": "Calvin Coolidge",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                            },
+                            {
+                                "id": 2780,
+                                "type": "scotus_justice",
+                                "date_start": -899319600,
+                                "date_end": -747770400,
+                                "appointing_president": "Franklin D. Roosevelt",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32788,
+                            "mime": "image\/png",
+                            "size": 33656,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                        },
+                        "length_of_service": 7720,
+                        "identifier": "harlan_fiske_stone"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15038,
+                            "name": "Charles E. Hughes",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                            "last_name": "Hughes",
+                            "roles": [
+                                {
+                                    "id": 2681,
+                                    "type": "scotus_justice",
+                                    "date_start": -1869069600,
+                                    "date_end": -1690221600,
+                                    "appointing_president": "William Howard Taft",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                                },
+                                {
+                                    "id": 2682,
+                                    "type": "scotus_justice",
+                                    "date_start": -1257616800,
+                                    "date_end": -899578800,
+                                    "appointing_president": "Herbert Hoover",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32790,
+                                "mime": "image\/png",
+                                "size": 56986,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                            },
+                            "length_of_service": 6214,
+                            "identifier": "charles_e_hughes"
+                        }
+                    ],
+                    "seniority": 8,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205583"
+                },
+                {
+                    "member": {
+                        "ID": 15041,
+                        "name": "Owen J. Roberts",
+                        "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2685,
+                                "type": "scotus_justice",
+                                "date_start": -1249153200,
+                                "date_end": -770670000,
+                                "appointing_president": "Herbert Hoover",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32748,
+                            "mime": "image\/png",
+                            "size": 53589,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                        },
+                        "length_of_service": 5538,
+                        "identifier": "owen_j_roberts"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15038,
+                            "name": "Charles E. Hughes",
+                            "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                            "last_name": "Hughes",
+                            "roles": [
+                                {
+                                    "id": 2681,
+                                    "type": "scotus_justice",
+                                    "date_start": -1869069600,
+                                    "date_end": -1690221600,
+                                    "appointing_president": "William Howard Taft",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                                },
+                                {
+                                    "id": 2682,
+                                    "type": "scotus_justice",
+                                    "date_start": -1257616800,
+                                    "date_end": -899578800,
+                                    "appointing_president": "Herbert Hoover",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32790,
+                                "mime": "image\/png",
+                                "size": 56986,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                            },
+                            "length_of_service": 6214,
+                            "identifier": "charles_e_hughes"
+                        }
+                    ],
+                    "seniority": 9,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205584"
+                },
+                {
+                    "member": {
+                        "ID": 15138,
+                        "name": "Pierce Butler",
+                        "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                        "last_name": "Butler",
+                        "roles": [
+                            {
+                                "id": 2784,
+                                "type": "scotus_justice",
+                                "date_start": -1483120800,
+                                "date_end": -950724000,
+                                "appointing_president": "Warren G. Harding",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32751,
+                            "mime": "image\/png",
+                            "size": 38328,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                        },
+                        "length_of_service": 6162,
+                        "identifier": "pierce_butler"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 7,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205585"
+                },
+                {
+                    "member": {
+                        "ID": 15133,
+                        "name": "Willis Van Devanter",
+                        "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                        "last_name": "Van Devanter",
+                        "roles": [
+                            {
+                                "id": 2778,
+                                "type": "scotus_justice",
+                                "date_start": -1861725600,
+                                "date_end": -1028228400,
+                                "appointing_president": "William Howard Taft",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32785,
+                            "mime": "image\/png",
+                            "size": 52800,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                        },
+                        "length_of_service": 9647,
+                        "identifier": "willis_van_devanter"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15138,
+                            "name": "Pierce Butler",
+                            "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                            "last_name": "Butler",
+                            "roles": [
+                                {
+                                    "id": 2784,
+                                    "type": "scotus_justice",
+                                    "date_start": -1483120800,
+                                    "date_end": -950724000,
+                                    "appointing_president": "Warren G. Harding",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32751,
+                                "mime": "image\/png",
+                                "size": 38328,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                            },
+                            "length_of_service": 6162,
+                            "identifier": "pierce_butler"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205586"
+                },
+                {
+                    "member": {
+                        "ID": 15066,
+                        "name": "James C. McReynolds",
+                        "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                        "last_name": "McReynolds",
+                        "roles": [
+                            {
+                                "id": 2710,
+                                "type": "scotus_justice",
+                                "date_start": -1742666400,
+                                "date_end": -912535200,
+                                "appointing_president": "Woodrow Wilson",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32720,
+                            "mime": "image\/png",
+                            "size": 55380,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                        },
+                        "length_of_service": 9608,
+                        "identifier": "james_c_mcreynolds"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15138,
+                            "name": "Pierce Butler",
+                            "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                            "last_name": "Butler",
+                            "roles": [
+                                {
+                                    "id": 2784,
+                                    "type": "scotus_justice",
+                                    "date_start": -1483120800,
+                                    "date_end": -950724000,
+                                    "appointing_president": "Warren G. Harding",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32751,
+                                "mime": "image\/png",
+                                "size": 38328,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                            },
+                            "length_of_service": 6162,
+                            "identifier": "pierce_butler"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205587"
+                },
+                {
+                    "member": {
+                        "ID": 15108,
+                        "name": "George Sutherland",
+                        "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+                        "last_name": "Sutherland",
+                        "roles": [
+                            {
+                                "id": 2752,
+                                "type": "scotus_justice",
+                                "date_start": -1491069600,
+                                "date_end": -1008439200,
+                                "appointing_president": "Warren G. Harding",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
+                            }
+                        ],
+                        "thumbnail": null,
+                        "length_of_service": 5586,
+                        "identifier": "george_sutherland"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15138,
+                            "name": "Pierce Butler",
+                            "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                            "last_name": "Butler",
+                            "roles": [
+                                {
+                                    "id": 2784,
+                                    "type": "scotus_justice",
+                                    "date_start": -1483120800,
+                                    "date_end": -950724000,
+                                    "appointing_president": "Warren G. Harding",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32751,
+                                "mime": "image\/png",
+                                "size": 38328,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                            },
+                            "length_of_service": 6162,
+                            "identifier": "pierce_butler"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/205588"
+                }
+            ],
+            "majority_vote": 5,
+            "minority_vote": 4,
+            "winning_party": "Near",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16393"
+        }
+    ],
+    "first_party_label": "Appellant",
+    "second_party_label": "Appellee",
+    "heard_by": [
+        {
+            "ID": 15277,
+            "name": "Taft Court (1925-1930)",
+            "href": "https:\/\/api.oyez.org\/courts\/taft9",
+            "members": [
+                {
+                    "ID": 15146,
+                    "name": "William Howard Taft",
+                    "href": "https:\/\/api.oyez.org\/people\/william_howard_taft",
+                    "last_name": "Taft",
+                    "roles": [
+                        {
+                            "id": 2794,
+                            "type": "scotus_justice",
+                            "date_start": -1529780400,
+                            "date_end": -1259431200,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2794"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32777,
+                        "mime": "image\/png",
+                        "size": 35140,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_howard_taft.png"
+                    },
+                    "length_of_service": 3129,
+                    "identifier": "william_howard_taft"
+                },
+                {
+                    "ID": 15048,
+                    "name": "Oliver W. Holmes, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                    "last_name": "Holmes",
+                    "roles": [
+                        {
+                            "id": 2692,
+                            "type": "scotus_justice",
+                            "date_start": -2116432800,
+                            "date_end": -1198260000,
+                            "appointing_president": "Theodore Roosevelt",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32747,
+                        "mime": "image\/png",
+                        "size": 53023,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                    },
+                    "length_of_service": 10627,
+                    "identifier": "oliver_w_holmes_jr"
+                },
+                {
+                    "ID": 15133,
+                    "name": "Willis Van Devanter",
+                    "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                    "last_name": "Van Devanter",
+                    "roles": [
+                        {
+                            "id": 2778,
+                            "type": "scotus_justice",
+                            "date_start": -1861725600,
+                            "date_end": -1028228400,
+                            "appointing_president": "William Howard Taft",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32785,
+                        "mime": "image\/png",
+                        "size": 52800,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                    },
+                    "length_of_service": 9647,
+                    "identifier": "willis_van_devanter"
+                },
+                {
+                    "ID": 15066,
+                    "name": "James C. McReynolds",
+                    "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                    "last_name": "McReynolds",
+                    "roles": [
+                        {
+                            "id": 2710,
+                            "type": "scotus_justice",
+                            "date_start": -1742666400,
+                            "date_end": -912535200,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32720,
+                        "mime": "image\/png",
+                        "size": 55380,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                    },
+                    "length_of_service": 9608,
+                    "identifier": "james_c_mcreynolds"
+                },
+                {
+                    "ID": 15075,
+                    "name": "Louis D. Brandeis",
+                    "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                    "last_name": "Brandeis",
+                    "roles": [
+                        {
+                            "id": 2719,
+                            "type": "scotus_justice",
+                            "date_start": -1690653600,
+                            "date_end": -974570400,
+                            "appointing_president": "Woodrow Wilson",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32739,
+                        "mime": "image\/png",
+                        "size": 33357,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                    },
+                    "length_of_service": 8288,
+                    "identifier": "louis_d_brandeis"
+                },
+                {
+                    "ID": 15108,
+                    "name": "George Sutherland",
+                    "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+                    "last_name": "Sutherland",
+                    "roles": [
+                        {
+                            "id": 2752,
+                            "type": "scotus_justice",
+                            "date_start": -1491069600,
+                            "date_end": -1008439200,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
+                        }
+                    ],
+                    "thumbnail": null,
+                    "length_of_service": 5586,
+                    "identifier": "george_sutherland"
+                },
+                {
+                    "ID": 15138,
+                    "name": "Pierce Butler",
+                    "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                    "last_name": "Butler",
+                    "roles": [
+                        {
+                            "id": 2784,
+                            "type": "scotus_justice",
+                            "date_start": -1483120800,
+                            "date_end": -950724000,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32751,
+                        "mime": "image\/png",
+                        "size": 38328,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                    },
+                    "length_of_service": 6162,
+                    "identifier": "pierce_butler"
+                },
+                {
+                    "ID": 15088,
+                    "name": "Edward T. Sanford",
+                    "href": "https:\/\/api.oyez.org\/people\/edward_t_sanford",
+                    "last_name": "Sanford",
+                    "roles": [
+                        {
+                            "id": 2732,
+                            "type": "scotus_justice",
+                            "date_start": -1478973600,
+                            "date_end": -1256580000,
+                            "appointing_president": "Warren G. Harding",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2732"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32705,
+                        "mime": "image\/png",
+                        "size": 36085,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_t_stanford.png"
+                    },
+                    "length_of_service": 2574,
+                    "identifier": "edward_t_sanford"
+                },
+                {
+                    "ID": 15134,
+                    "name": "Harlan Fiske Stone",
+                    "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                    "last_name": "Stone",
+                    "roles": [
+                        {
+                            "id": 2779,
+                            "type": "scotus_justice",
+                            "date_start": -1414864800,
+                            "date_end": -899406000,
+                            "appointing_president": "Calvin Coolidge",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                        },
+                        {
+                            "id": 2780,
+                            "type": "scotus_justice",
+                            "date_start": -899319600,
+                            "date_end": -747770400,
+                            "appointing_president": "Franklin D. Roosevelt",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32788,
+                        "mime": "image\/png",
+                        "size": 33656,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                    },
+                    "length_of_service": 7720,
+                    "identifier": "harlan_fiske_stone"
+                }
+            ],
+            "court_start": -1414864800,
+            "images": [
+                {
+                    "id": 78533,
+                    "mime": "image\/jpeg",
+                    "size": 960090,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/taft6_photograph.jpg"
+                }
+            ],
+            "identifier": "taft9"
+        }
+    ],
+    "decided_by": {
+        "ID": 15340,
+        "name": "Hughes Court (1930-1932)",
+        "href": "https:\/\/api.oyez.org\/courts\/hughes3",
+        "members": [
+            {
+                "ID": 15038,
+                "name": "Charles E. Hughes",
+                "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+                "last_name": "Hughes",
+                "roles": [
+                    {
+                        "id": 2681,
+                        "type": "scotus_justice",
+                        "date_start": -1869069600,
+                        "date_end": -1690221600,
+                        "appointing_president": "William Howard Taft",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2681"
+                    },
+                    {
+                        "id": 2682,
+                        "type": "scotus_justice",
+                        "date_start": -1257616800,
+                        "date_end": -899578800,
+                        "appointing_president": "Herbert Hoover",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2682"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32790,
+                    "mime": "image\/png",
+                    "size": 56986,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                },
+                "length_of_service": 6214,
+                "identifier": "charles_e_hughes"
+            },
+            {
+                "ID": 15048,
+                "name": "Oliver W. Holmes, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                "last_name": "Holmes",
+                "roles": [
+                    {
+                        "id": 2692,
+                        "type": "scotus_justice",
+                        "date_start": -2116432800,
+                        "date_end": -1198260000,
+                        "appointing_president": "Theodore Roosevelt",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2692"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32747,
+                    "mime": "image\/png",
+                    "size": 53023,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                },
+                "length_of_service": 10627,
+                "identifier": "oliver_w_holmes_jr"
+            },
+            {
+                "ID": 15133,
+                "name": "Willis Van Devanter",
+                "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                "last_name": "Van Devanter",
+                "roles": [
+                    {
+                        "id": 2778,
+                        "type": "scotus_justice",
+                        "date_start": -1861725600,
+                        "date_end": -1028228400,
+                        "appointing_president": "William Howard Taft",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2778"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32785,
+                    "mime": "image\/png",
+                    "size": 52800,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                },
+                "length_of_service": 9647,
+                "identifier": "willis_van_devanter"
+            },
+            {
+                "ID": 15066,
+                "name": "James C. McReynolds",
+                "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                "last_name": "McReynolds",
+                "roles": [
+                    {
+                        "id": 2710,
+                        "type": "scotus_justice",
+                        "date_start": -1742666400,
+                        "date_end": -912535200,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2710"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32720,
+                    "mime": "image\/png",
+                    "size": 55380,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                },
+                "length_of_service": 9608,
+                "identifier": "james_c_mcreynolds"
+            },
+            {
+                "ID": 15075,
+                "name": "Louis D. Brandeis",
+                "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                "last_name": "Brandeis",
+                "roles": [
+                    {
+                        "id": 2719,
+                        "type": "scotus_justice",
+                        "date_start": -1690653600,
+                        "date_end": -974570400,
+                        "appointing_president": "Woodrow Wilson",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2719"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32739,
+                    "mime": "image\/png",
+                    "size": 33357,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                },
+                "length_of_service": 8288,
+                "identifier": "louis_d_brandeis"
+            },
+            {
+                "ID": 15108,
+                "name": "George Sutherland",
+                "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+                "last_name": "Sutherland",
+                "roles": [
+                    {
+                        "id": 2752,
+                        "type": "scotus_justice",
+                        "date_start": -1491069600,
+                        "date_end": -1008439200,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
+                    }
+                ],
+                "thumbnail": null,
+                "length_of_service": 5586,
+                "identifier": "george_sutherland"
+            },
+            {
+                "ID": 15138,
+                "name": "Pierce Butler",
+                "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+                "last_name": "Butler",
+                "roles": [
+                    {
+                        "id": 2784,
+                        "type": "scotus_justice",
+                        "date_start": -1483120800,
+                        "date_end": -950724000,
+                        "appointing_president": "Warren G. Harding",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2784"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32751,
+                    "mime": "image\/png",
+                    "size": 38328,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                },
+                "length_of_service": 6162,
+                "identifier": "pierce_butler"
+            },
+            {
+                "ID": 15134,
+                "name": "Harlan Fiske Stone",
+                "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+                "last_name": "Stone",
+                "roles": [
+                    {
+                        "id": 2779,
+                        "type": "scotus_justice",
+                        "date_start": -1414864800,
+                        "date_end": -899406000,
+                        "appointing_president": "Calvin Coolidge",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2779"
+                    },
+                    {
+                        "id": 2780,
+                        "type": "scotus_justice",
+                        "date_start": -899319600,
+                        "date_end": -747770400,
+                        "appointing_president": "Franklin D. Roosevelt",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2780"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32788,
+                    "mime": "image\/png",
+                    "size": 33656,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                },
+                "length_of_service": 7720,
+                "identifier": "harlan_fiske_stone"
+            },
+            {
+                "ID": 15041,
+                "name": "Owen J. Roberts",
+                "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+                "last_name": "Roberts",
+                "roles": [
+                    {
+                        "id": 2685,
+                        "type": "scotus_justice",
+                        "date_start": -1249153200,
+                        "date_end": -770670000,
+                        "appointing_president": "Herbert Hoover",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2685"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32748,
+                    "mime": "image\/png",
+                    "size": 53589,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                },
+                "length_of_service": 5538,
+                "identifier": "owen_j_roberts"
+            }
+        ],
+        "court_start": -1249153200,
+        "images": [
+            {
+                "id": 12281,
+                "mime": "image\/jpeg",
+                "size": 37096,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/hughes_court_1930-1932.jpg"
+            }
+        ],
+        "identifier": "hughes3"
+    },
+    "term": "1900-1940",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court found that a Minnesota law allowing public officials to censor printed news periodicals was unconstitutional under the First Amendment.",
+    "written_opinion": null,
+    "related_cases": null
+}

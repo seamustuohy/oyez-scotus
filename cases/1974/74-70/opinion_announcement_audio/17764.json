@@ -1,0 +1,102 @@
+{
+    "id": 17764,
+    "title": "Opinion Announcement - June 16, 1975",
+    "transcript": {
+        "title": "Goldfarb v. Virginia State Bar",
+        "duration": 42.982,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 42.982,
+                "byte_start": 28672,
+                "byte_stop": 200558,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 42.982,
+                        "byte_start": 28672,
+                        "byte_stop": 200558,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.601,
+                                "byte_start": 28672,
+                                "byte_stop": 71095,
+                                "text": "I have the opinion for the Court and the judgment to announce in No. 74-70, Goldfarb against the Virginia State Bar."
+                            },
+                            {
+                                "start": 10.601,
+                                "stop": 18.487,
+                                "byte_start": 71095,
+                                "byte_stop": 102651,
+                                "text": "And for reasons stated in an opinion filed with the clerk today, the judgment of the Court of Appeals for the Fourth Circuit is reversed."
+                            },
+                            {
+                                "start": 18.487,
+                                "stop": 28.665,
+                                "byte_start": 102651,
+                                "byte_stop": 143402,
+                                "text": "And the case is remanded to the Court of Appeals with orders to remand it in terms of the District Court for further proceedings consistent with this opinion."
+                            },
+                            {
+                                "start": 28.665,
+                                "stop": 42.982,
+                                "byte_start": 143402,
+                                "byte_stop": 200558,
+                                "text": "Mr. Justice Powell took no part in the consideration of this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 44650,
+            "mime": "audio\/mpeg",
+            "size": 200871,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1974\/74-70\/19750616o_74-70.delivery.mp3"
+        },
+        {
+            "id": 66506,
+            "mime": "audio\/ogg",
+            "size": 420920,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1974\/74-70\/19750616o_74-70.ogg"
+        },
+        {
+            "id": 66507,
+            "mime": "application\/x-mpegURL",
+            "size": 741,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1974\/74-70\/19750616o_74-70.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

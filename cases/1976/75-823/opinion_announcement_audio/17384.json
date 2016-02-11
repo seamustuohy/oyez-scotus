@@ -1,0 +1,81 @@
+{
+    "id": 17384,
+    "title": "Opinion Announcement - November 30, 1976",
+    "transcript": {
+        "title": "Belcher v. Stengel",
+        "duration": 20.034,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 20.034,
+                "byte_start": 100528,
+                "byte_stop": 180567,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 20.034,
+                        "byte_start": 100528,
+                        "byte_stop": 180567,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 20.034,
+                                "byte_start": 100528,
+                                "byte_stop": 180567,
+                                "text": "I have the disposition to announce in 75-823, Belcher against Stengel, from the Sixth Circuit and for reasons stated in an opinion filed this morning with the clerk, the writ of certiorari is dismissed has having been improvidently granted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43890,
+            "mime": "audio\/mpeg",
+            "size": 180776,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1976\/75-823\/19761130o_75-823.delivery.mp3"
+        },
+        {
+            "id": 65764,
+            "mime": "audio\/ogg",
+            "size": 208292,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1976\/75-823\/19761130o_75-823.ogg"
+        },
+        {
+            "id": 65765,
+            "mime": "application\/x-mpegURL",
+            "size": 412,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1976\/75-823\/19761130o_75-823.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

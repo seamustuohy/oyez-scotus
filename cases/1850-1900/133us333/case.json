@@ -1,0 +1,526 @@
+{
+    "ID": 62387,
+    "name": "Davis v. Beason",
+    "href": "https:\/\/api.oyez.org\/cases\/1850-1900\/133us333",
+    "docket_number": "1261",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "first_party": "Samuel D. Davis",
+    "second_party": "Beason",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                -2526487200,
+                -2526400800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52933"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                -2521648800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/52934"
+        }
+    ],
+    "lower_court": null,
+    "facts_of_the_case": "\u003Cp\u003EAn Idaho Territory statute required voters swear an oath stating that they were neither a polygamist nor were they a member of any organization that promoted polygamy. In April 1889, Samuel D. Davis, a member of the Church of Jesus Christ of Latter-Day Saints, whose members often practiced and advocated polygamy, was indicted for falsely swearing the oath prior to the 1888 election. Davis was convicted and sentenced to pay of fine of $500 and serve 250 days in county jail. On the same day as his conviction, Davis obtained a writ of \u003Cem\u003Ehabeas corpus\u003C\/em\u003E, accusing the county sheriff of imprisoning him illegally. Davis claimed that requiring the oath violated his right to free exercise of religion under the First Amendment. The federal territorial court denied Davis\u0027 claim.\u003C\/p\u003E\n",
+    "question": "\u003Cp\u003EDid requiring Davis swear an oath that he was not a member of an organization that promoted polygamy violate Davis\u0027 rights under the Free Exercise Clause of the First Amendment?\u003C\/p\u003E\n",
+    "conclusion": "\u003Cp\u003ENo. In a unanimous decision authored by Justice Stephen J. Field, the Court rejected the notion that polygamy was a meaningful tenet of a religion, and thus rejected Davis\u0027 claim to First Amendment protections. In his opinion, Justice Field condemned the practices of polygamy and bigamy, saying, \u0022To extend exemption from punishment for such crimes would be to shock the moral judgment of the community. To call their advocacy a tenet of religion is to offend the common sense of mankind.\u0022 The opinion goes on to note that \u0022religion,\u0022 in the context of the First Amendment, refers primarily to \u0022one\u0027s views of his relations to his Creator\u0022 and \u0022modes of worship\u0022 and is not intended to be \u0022invoked as a protection against legislation for the punishment of acts inimical to the peace, good order, and morals of society.\u0022\u003C\/p\u003E\n",
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": "133",
+        "page": "333",
+        "year": "1890",
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27189"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        {
+            "ID": 15179,
+            "name": "Fuller Court (1889-1890)",
+            "href": "https:\/\/api.oyez.org\/courts\/fuller2",
+            "members": [
+                {
+                    "ID": 15052,
+                    "name": "Melville W. Fuller",
+                    "href": "https:\/\/api.oyez.org\/people\/melville_w_fuller",
+                    "last_name": "Fuller",
+                    "roles": [
+                        {
+                            "id": 2696,
+                            "type": "scotus_justice",
+                            "date_start": -2563380000,
+                            "date_end": -1877536800,
+                            "appointing_president": "Grover Cleveland",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2696"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32742,
+                        "mime": "image\/png",
+                        "size": 63952,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/melville_fuller.png"
+                    },
+                    "length_of_service": 7938,
+                    "identifier": "melville_w_fuller"
+                },
+                {
+                    "ID": 15103,
+                    "name": "Samuel F. Miller",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                    "last_name": "Miller",
+                    "roles": [
+                        {
+                            "id": 2747,
+                            "type": "scotus_justice",
+                            "date_start": -3390746400,
+                            "date_end": -2499876000,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32760,
+                        "mime": "image\/png",
+                        "size": 59082,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                    },
+                    "length_of_service": 10311,
+                    "identifier": "samuel_f_miller"
+                },
+                {
+                    "ID": 15122,
+                    "name": "Stephen J. Field",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                    "last_name": "Field",
+                    "roles": [
+                        {
+                            "id": 2767,
+                            "type": "scotus_justice",
+                            "date_start": -3364567200,
+                            "date_end": -2274717600,
+                            "appointing_president": "Abraham Lincoln",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32767,
+                        "mime": "image\/png",
+                        "size": 54586,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                    },
+                    "length_of_service": 12614,
+                    "identifier": "stephen_j_field"
+                },
+                {
+                    "ID": 15081,
+                    "name": "Joseph P. Bradley",
+                    "href": "https:\/\/api.oyez.org\/people\/joseph_p_bradley",
+                    "last_name": "Bradley",
+                    "roles": [
+                        {
+                            "id": 2725,
+                            "type": "scotus_justice",
+                            "date_start": -3148740000,
+                            "date_end": -2459700000,
+                            "appointing_president": "Ulysses S. Grant",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2725"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32734,
+                        "mime": "image\/png",
+                        "size": 58686,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_bradley.png"
+                    },
+                    "length_of_service": 7975,
+                    "identifier": "joseph_p_bradley"
+                },
+                {
+                    "ID": 15137,
+                    "name": "John M. Harlan",
+                    "href": "https:\/\/api.oyez.org\/people\/john_m_harlan",
+                    "last_name": "Harlan",
+                    "roles": [
+                        {
+                            "id": 2783,
+                            "type": "scotus_justice",
+                            "date_start": -2904314400,
+                            "date_end": -1837188000,
+                            "appointing_president": "Rutherford B. Hayes",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2783"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32727,
+                        "mime": "image\/png",
+                        "size": 59106,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_m_harlan_i_0.png"
+                    },
+                    "length_of_service": 12351,
+                    "identifier": "john_m_harlan"
+                },
+                {
+                    "ID": 15080,
+                    "name": "Horace Gray",
+                    "href": "https:\/\/api.oyez.org\/people\/horace_gray",
+                    "last_name": "Gray",
+                    "roles": [
+                        {
+                            "id": 2724,
+                            "type": "scotus_justice",
+                            "date_start": -2776269600,
+                            "date_end": -2123690400,
+                            "appointing_president": "Chester A. Arthur",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2724"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32716,
+                        "mime": "image\/png",
+                        "size": 50853,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/horace_gray.png"
+                    },
+                    "length_of_service": 7553,
+                    "identifier": "horace_gray"
+                },
+                {
+                    "ID": 15135,
+                    "name": "Samuel Blatchford",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_blatchford",
+                    "last_name": "Blatchford",
+                    "roles": [
+                        {
+                            "id": 2781,
+                            "type": "scotus_justice",
+                            "date_start": -2769012000,
+                            "date_end": -2413648800,
+                            "appointing_president": "Chester A. Arthur",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2781"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32758,
+                        "mime": "image\/png",
+                        "size": 49445,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_blatchford.png"
+                    },
+                    "length_of_service": 4113,
+                    "identifier": "samuel_blatchford"
+                },
+                {
+                    "ID": 15069,
+                    "name": "Lucius Q.C. Lamar",
+                    "href": "https:\/\/api.oyez.org\/people\/lucius_qc_lamar",
+                    "last_name": "Lamar",
+                    "roles": [
+                        {
+                            "id": 2713,
+                            "type": "scotus_justice",
+                            "date_start": -2586189600,
+                            "date_end": -2427904800,
+                            "appointing_president": "Grover Cleveland",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2713"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32740,
+                        "mime": "image\/png",
+                        "size": 55036,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lucius_q_c_lamar.png"
+                    },
+                    "length_of_service": 1832,
+                    "identifier": "lucius_qc_lamar"
+                }
+            ],
+            "court_start": -2549037600,
+            "images": [
+                {
+                    "id": 56693,
+                    "mime": "image\/jpeg",
+                    "size": 234616,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/2002-035-13_16.JPG"
+                }
+            ],
+            "identifier": "fuller2"
+        }
+    ],
+    "decided_by": {
+        "ID": 15162,
+        "name": "Fuller Court (1890)",
+        "href": "https:\/\/api.oyez.org\/courts\/fuller3",
+        "members": [
+            {
+                "ID": 15052,
+                "name": "Melville W. Fuller",
+                "href": "https:\/\/api.oyez.org\/people\/melville_w_fuller",
+                "last_name": "Fuller",
+                "roles": [
+                    {
+                        "id": 2696,
+                        "type": "scotus_justice",
+                        "date_start": -2563380000,
+                        "date_end": -1877536800,
+                        "appointing_president": "Grover Cleveland",
+                        "role_title": "Chief Justice of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2696"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32742,
+                    "mime": "image\/png",
+                    "size": 63952,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/melville_fuller.png"
+                },
+                "length_of_service": 7938,
+                "identifier": "melville_w_fuller"
+            },
+            {
+                "ID": 15103,
+                "name": "Samuel F. Miller",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_f_miller",
+                "last_name": "Miller",
+                "roles": [
+                    {
+                        "id": 2747,
+                        "type": "scotus_justice",
+                        "date_start": -3390746400,
+                        "date_end": -2499876000,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2747"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32760,
+                    "mime": "image\/png",
+                    "size": 59082,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_miller.png"
+                },
+                "length_of_service": 10311,
+                "identifier": "samuel_f_miller"
+            },
+            {
+                "ID": 15122,
+                "name": "Stephen J. Field",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_j_field",
+                "last_name": "Field",
+                "roles": [
+                    {
+                        "id": 2767,
+                        "type": "scotus_justice",
+                        "date_start": -3364567200,
+                        "date_end": -2274717600,
+                        "appointing_president": "Abraham Lincoln",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2767"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32767,
+                    "mime": "image\/png",
+                    "size": 54586,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_field.png"
+                },
+                "length_of_service": 12614,
+                "identifier": "stephen_j_field"
+            },
+            {
+                "ID": 15081,
+                "name": "Joseph P. Bradley",
+                "href": "https:\/\/api.oyez.org\/people\/joseph_p_bradley",
+                "last_name": "Bradley",
+                "roles": [
+                    {
+                        "id": 2725,
+                        "type": "scotus_justice",
+                        "date_start": -3148740000,
+                        "date_end": -2459700000,
+                        "appointing_president": "Ulysses S. Grant",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2725"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32734,
+                    "mime": "image\/png",
+                    "size": 58686,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_bradley.png"
+                },
+                "length_of_service": 7975,
+                "identifier": "joseph_p_bradley"
+            },
+            {
+                "ID": 15137,
+                "name": "John M. Harlan",
+                "href": "https:\/\/api.oyez.org\/people\/john_m_harlan",
+                "last_name": "Harlan",
+                "roles": [
+                    {
+                        "id": 2783,
+                        "type": "scotus_justice",
+                        "date_start": -2904314400,
+                        "date_end": -1837188000,
+                        "appointing_president": "Rutherford B. Hayes",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2783"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32727,
+                    "mime": "image\/png",
+                    "size": 59106,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_m_harlan_i_0.png"
+                },
+                "length_of_service": 12351,
+                "identifier": "john_m_harlan"
+            },
+            {
+                "ID": 15080,
+                "name": "Horace Gray",
+                "href": "https:\/\/api.oyez.org\/people\/horace_gray",
+                "last_name": "Gray",
+                "roles": [
+                    {
+                        "id": 2724,
+                        "type": "scotus_justice",
+                        "date_start": -2776269600,
+                        "date_end": -2123690400,
+                        "appointing_president": "Chester A. Arthur",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2724"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32716,
+                    "mime": "image\/png",
+                    "size": 50853,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/horace_gray.png"
+                },
+                "length_of_service": 7553,
+                "identifier": "horace_gray"
+            },
+            {
+                "ID": 15135,
+                "name": "Samuel Blatchford",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_blatchford",
+                "last_name": "Blatchford",
+                "roles": [
+                    {
+                        "id": 2781,
+                        "type": "scotus_justice",
+                        "date_start": -2769012000,
+                        "date_end": -2413648800,
+                        "appointing_president": "Chester A. Arthur",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2781"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32758,
+                    "mime": "image\/png",
+                    "size": 49445,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_blatchford.png"
+                },
+                "length_of_service": 4113,
+                "identifier": "samuel_blatchford"
+            },
+            {
+                "ID": 15069,
+                "name": "Lucius Q.C. Lamar",
+                "href": "https:\/\/api.oyez.org\/people\/lucius_qc_lamar",
+                "last_name": "Lamar",
+                "roles": [
+                    {
+                        "id": 2713,
+                        "type": "scotus_justice",
+                        "date_start": -2586189600,
+                        "date_end": -2427904800,
+                        "appointing_president": "Grover Cleveland",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2713"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32740,
+                    "mime": "image\/png",
+                    "size": 55036,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lucius_q_c_lamar.png"
+                },
+                "length_of_service": 1832,
+                "identifier": "lucius_qc_lamar"
+            },
+            {
+                "ID": 15114,
+                "name": "David J. Brewer",
+                "href": "https:\/\/api.oyez.org\/people\/david_j_brewer",
+                "last_name": "Brewer",
+                "roles": [
+                    {
+                        "id": 2758,
+                        "type": "scotus_justice",
+                        "date_start": -2524068000,
+                        "date_end": -1886004000,
+                        "appointing_president": "Benjamin Harrison",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2758"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 32702,
+                    "mime": "image\/png",
+                    "size": 54815,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_j_brewer.png"
+                },
+                "length_of_service": 7385,
+                "identifier": "david_j_brewer"
+            }
+        ],
+        "court_start": -2524068000,
+        "images": [
+            {
+                "id": 12239,
+                "mime": "image\/jpeg",
+                "size": 48162,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/fuller_court_1890.jpg"
+            }
+        ],
+        "identifier": "fuller3"
+    },
+    "term": "1850-1900",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": null,
+    "related_cases": null
+}

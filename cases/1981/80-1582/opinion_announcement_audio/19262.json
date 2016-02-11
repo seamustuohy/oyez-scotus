@@ -1,0 +1,102 @@
+{
+    "id": 19262,
+    "title": "Opinion Announcement - March 31, 1982",
+    "transcript": {
+        "title": "United States v. MacDonald",
+        "duration": 29.865,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 29.865,
+                "byte_start": 77447,
+                "byte_stop": 196879,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 29.865,
+                        "byte_start": 77447,
+                        "byte_stop": 196879,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 10.383,
+                                "byte_start": 77447,
+                                "byte_stop": 119034,
+                                "text": "I have the judgment and opinion of the Court to announce in United States against McDonald and for reasons stated in the opinion for the Court filed with the clerk today."
+                            },
+                            {
+                                "start": 10.383,
+                                "stop": 21.415,
+                                "byte_start": 119034,
+                                "byte_stop": 163129,
+                                "text": "The judgment of the United States Court of Appeals for the Fourth Circuit is reversed and the case is remanded to that Court for further proceedings consistent with this opinion."
+                            },
+                            {
+                                "start": 21.415,
+                                "stop": 24.35,
+                                "byte_start": 163129,
+                                "byte_stop": 174936,
+                                "text": "Justice Stevens concurred in the judgment."
+                            },
+                            {
+                                "start": 24.35,
+                                "stop": 29.865,
+                                "byte_start": 174936,
+                                "byte_stop": 196879,
+                                "text": "Justice Marshall, with whom Justice Brennan and Justice Blackman joined, filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 47648,
+            "mime": "audio\/mpeg",
+            "size": 197088,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1981\/80-1582\/19820331o_80-1582.delivery.mp3"
+        },
+        {
+            "id": 69472,
+            "mime": "audio\/ogg",
+            "size": 315483,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1981\/80-1582\/19820331o_80-1582.ogg"
+        },
+        {
+            "id": 69473,
+            "mime": "application\/x-mpegURL",
+            "size": 595,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1981\/80-1582\/19820331o_80-1582.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}

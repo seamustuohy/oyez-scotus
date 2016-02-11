@@ -1,0 +1,95 @@
+{
+    "id": 17394,
+    "title": "Opinion Announcement - January 08, 1980",
+    "transcript": {
+        "title": "McLain v. Real Estate Board of New Orleans, Inc.",
+        "duration": 32.671,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 32.671,
+                "byte_start": 28672,
+                "byte_stop": 159284,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 32.671,
+                        "byte_start": 28672,
+                        "byte_stop": 159284,
+                        "speaker": {
+                            "ID": 15073,
+                            "name": "Warren E. Burger",
+                            "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "last_name": "Burger",
+                            "roles": [
+                                {
+                                    "id": 2717,
+                                    "type": "scotus_justice",
+                                    "date_start": -16570800,
+                                    "date_end": 528094800,
+                                    "appointing_president": "Richard Nixon",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2717"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32773,
+                                "mime": "image\/png",
+                                "size": 52511,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            },
+                            "length_of_service": 6304,
+                            "identifier": "warren_e_burger"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 11.082,
+                                "byte_start": 28672,
+                                "byte_stop": 73080,
+                                "text": "I have the judgment and opinion of the Court to announce in 78-1501, McLain and others against the Real Estate Board of New Orleans Incorporated and others."
+                            },
+                            {
+                                "start": 11.082,
+                                "stop": 26.386,
+                                "byte_start": 73080,
+                                "byte_stop": 134311,
+                                "text": "For reasons stated and an opinion filed with the clerk this morning the judgment of the United States Court of Appeals for the Fifth Circuit is vacated and the case is remanded for further proceedings consistent with the Court\u0027s opinion."
+                            },
+                            {
+                                "start": 26.386,
+                                "stop": 32.671,
+                                "byte_start": 134311,
+                                "byte_stop": 159284,
+                                "text": "Mr. Justice Marshall took no part in the consideration or the decision of the case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 43910,
+            "mime": "audio\/mpeg",
+            "size": 159598,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/1979\/78-1501\/19800108o_78-1501.delivery.mp3"
+        },
+        {
+            "id": 65784,
+            "mime": "audio\/ogg",
+            "size": 333171,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/1979\/78-1501\/19800108o_78-1501.ogg"
+        },
+        {
+            "id": 65785,
+            "mime": "application\/x-mpegURL",
+            "size": 595,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/1979\/78-1501\/19800108o_78-1501.m3u8"
+        }
+    ],
+    "damaged": null,
+    "unavailable": null
+}
